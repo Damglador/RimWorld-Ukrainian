@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: heart -->
+  <Heart.label>heart</Heart.label>
+  <!-- EN: kidney -->
+  <Kidney.label>kidney</Kidney.label>
+  <!-- EN: liver -->
+  <Liver.label>liver</Liver.label>
+  <!-- EN: lung -->
+  <Lung.label>lung</Lung.label>
+  <!-- EN: stomach -->
+  <Stomach.label>stomach</Stomach.label>
+</LanguageData>

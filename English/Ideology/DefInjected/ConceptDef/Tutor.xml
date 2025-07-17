@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: editing memes -->
+  <EditingMemes.label>editing memes</EditingMemes.label>
+  <!-- EN: You can edit memes by clicking on them. -->
+  <EditingMemes.helpText>You can edit memes by clicking on them.</EditingMemes.helpText>
+  <!-- EN: editing precepts -->
+  <EditingPrecepts.label>editing precepts</EditingPrecepts.label>
+  <!-- EN: You can edit precepts by clicking on them. -->
+  <EditingPrecepts.helpText>You can edit precepts by clicking on them.</EditingPrecepts.helpText>
+</LanguageData>

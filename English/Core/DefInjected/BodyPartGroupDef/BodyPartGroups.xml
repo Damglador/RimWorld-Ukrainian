@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: arms -->
+  <Arms.label>arms</Arms.label>
+  <!-- EN: beak -->
+  <Beak.label>beak</Beak.label>
+  <!-- EN: eyes -->
+  <Eyes.label>eyes</Eyes.label>
+  <!-- EN: feet -->
+  <Feet.label>feet</Feet.label>
+  <!-- EN: front left claws -->
+  <FrontLeftClaws.label>front left claws</FrontLeftClaws.label>
+  <!-- EN: claws -->
+  <FrontLeftClaws.labelShort>claws</FrontLeftClaws.labelShort>
+  <!-- EN: front left leg -->
+  <FrontLeftLeg.label>front left leg</FrontLeftLeg.label>
+  <!-- EN: leg -->
+  <FrontLeftLeg.labelShort>leg</FrontLeftLeg.labelShort>
+  <!-- EN: front left paw -->
+  <FrontLeftPaw.label>front left paw</FrontLeftPaw.label>
+  <!-- EN: paw -->
+  <FrontLeftPaw.labelShort>paw</FrontLeftPaw.labelShort>
+  <!-- EN: front right claws -->
+  <FrontRightClaws.label>front right claws</FrontRightClaws.label>
+  <!-- EN: claws -->
+  <FrontRightClaws.labelShort>claws</FrontRightClaws.labelShort>
+  <!-- EN: front right leg -->
+  <FrontRightLeg.label>front right leg</FrontRightLeg.label>
+  <!-- EN: leg -->
+  <FrontRightLeg.labelShort>leg</FrontRightLeg.labelShort>
+  <!-- EN: front right paw -->
+  <FrontRightPaw.label>front right paw</FrontRightPaw.label>
+  <!-- EN: paw -->
+  <FrontRightPaw.labelShort>paw</FrontRightPaw.labelShort>
+  <!-- EN: full head -->
+  <FullHead.label>full head</FullHead.label>
+  <!-- EN: hands -->
+  <Hands.label>hands</Hands.label>
+  <!-- EN: head -->
+  <HeadAttackTool.label>head</HeadAttackTool.label>
+  <!-- EN: claw -->
+  <HeadClaw.label>claw</HeadClaw.label>
+  <!-- EN: horn -->
+  <HornAttackTool.label>horn</HornAttackTool.label>
+  <!-- EN: left blade -->
+  <LeftBlade.label>left blade</LeftBlade.label>
+  <!-- EN: blade -->
+  <LeftBlade.labelShort>blade</LeftBlade.labelShort>
+  <!-- EN: left fist -->
+  <LeftHand.label>left fist</LeftHand.label>
+  <!-- EN: fist -->
+  <LeftHand.labelShort>fist</LeftHand.labelShort>
+  <!-- EN: legs -->
+  <Legs.label>legs</Legs.label>
+  <!-- EN: middle finger -->
+  <MiddleFingers.label>middle finger</MiddleFingers.label>
+  <!-- EN: finger -->
+  <MiddleFingers.labelShort>finger</MiddleFingers.labelShort>
+  <!-- EN: mouth -->
+  <Mouth.label>mouth</Mouth.label>
+  <!-- EN: neck -->
+  <Neck.label>neck</Neck.label>
+  <!-- EN: right blade -->
+  <RightBlade.label>right blade</RightBlade.label>
+  <!-- EN: blade -->
+  <RightBlade.labelShort>blade</RightBlade.labelShort>
+  <!-- EN: right fist -->
+  <RightHand.label>right fist</RightHand.label>
+  <!-- EN: fist -->
+  <RightHand.labelShort>fist</RightHand.labelShort>
+  <!-- EN: shoulders -->
+  <Shoulders.label>shoulders</Shoulders.label>
+  <!-- EN: teeth -->
+  <Teeth.label>teeth</Teeth.label>
+  <!-- EN: torso -->
+  <Torso.label>torso</Torso.label>
+  <!-- EN: beak -->
+  <TurtleBeakAttackTool.label>beak</TurtleBeakAttackTool.label>
+  <!-- EN: tusks -->
+  <TuskAttackTool.label>tusks</TuskAttackTool.label>
+  <!-- EN: upper head -->
+  <UpperHead.label>upper head</UpperHead.label>
+  <!-- EN: utility slot -->
+  <Waist.label>utility slot</Waist.label>
+</LanguageData>

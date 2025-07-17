@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gravship crew -->
+  <GravshipCrew.label>gravship crew</GravshipCrew.label>
+  <!-- EN: The crew of a gravship. -->
+  <GravshipCrew.description>The crew of a gravship.</GravshipCrew.description>
+  <!-- EN: leader -->
+  <GravshipCrew.leaderTitle>leader</GravshipCrew.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <GravshipCrew.messageDefendersAttacking>{0} from {1} are attacking your {2}.</GravshipCrew.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <GravshipCrew.pawnSingular>colonist</GravshipCrew.pawnSingular>
+  <!-- EN: colonists -->
+  <GravshipCrew.pawnsPlural>colonists</GravshipCrew.pawnsPlural>
+</LanguageData>

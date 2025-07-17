@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chemical consumption -->
+  <Chemical.label>chemical consumption</Chemical.label>
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>cerebral play</Gaming_Cerebral.label>
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>dexterity play</Gaming_Dexterity.label>
+  <!-- EN: food consumption -->
+  <Gluttonous.label>food consumption</Gluttonous.label>
+  <!-- EN: music -->
+  <HighCulture.label>music</HighCulture.label>
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>solitary relaxation</Meditative.label>
+  <!-- EN: reading -->
+  <Reading.label>reading</Reading.label>
+  <!-- EN: social interaction -->
+  <Social.label>social interaction</Social.label>
+  <!-- EN: telescope study -->
+  <Telescope.label>telescope study</Telescope.label>
+  <!-- EN: television watching -->
+  <Television.label>television watching</Television.label>
+</LanguageData>

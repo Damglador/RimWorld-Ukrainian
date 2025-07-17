@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: floors -->
+  <Floors.label>floors</Floors.label>
+  <!-- EN: furniture -->
+  <Furniture.label>furniture</Furniture.label>
+  <!-- EN: recreation -->
+  <Joy.label>recreation</Joy.label>
+  <!-- EN: misc -->
+  <Misc.label>misc</Misc.label>
+  <!-- EN: orders -->
+  <Orders.label>orders</Orders.label>
+  <!-- EN: power -->
+  <Power.label>power</Power.label>
+  <!-- EN: production -->
+  <Production.label>production</Production.label>
+  <!-- EN: security -->
+  <Security.label>security</Security.label>
+  <!-- EN: ship -->
+  <Ship.label>ship</Ship.label>
+  <!-- EN: structure -->
+  <Structure.label>structure</Structure.label>
+  <!-- EN: temperature -->
+  <Temperature.label>temperature</Temperature.label>
+  <!-- EN: zone -->
+  <Zone.label>zone</Zone.label>
+</LanguageData>

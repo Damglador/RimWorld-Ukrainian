@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>ancient concrete barrier</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>A traffic management solution from long ago.</AncientConcreteBarrier.description>
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>ancient lamppost</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>Road lighting from long ago. No longer functional.</AncientLamppost.description>
+  <!-- EN: urn -->
+  <Urn.label>urn</Urn.label>
+  <!-- EN: An ancient-style decorative container. -->
+  <Urn.description>An ancient-style decorative container.</Urn.description>
+</LanguageData>

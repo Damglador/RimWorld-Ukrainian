@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: front left claw -->
+  <FrontLeftClaw.label>front left claw</FrontLeftClaw.label>
+  <!-- EN: claw -->
+  <FrontLeftClaw.labelShort>claw</FrontLeftClaw.labelShort>
+  <!-- EN: front right claw -->
+  <FrontRightClaw.label>front right claw</FrontRightClaw.label>
+  <!-- EN: claw -->
+  <FrontRightClaw.labelShort>claw</FrontRightClaw.labelShort>
+</LanguageData>

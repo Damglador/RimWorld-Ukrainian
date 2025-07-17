@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: constructed roof -->
+  <RoofConstructed.label>constructed roof</RoofConstructed.label>
+  <!-- EN: overhead mountain -->
+  <RoofRockThick.label>overhead mountain</RoofRockThick.label>
+  <!-- EN: rock roof (thin) -->
+  <RoofRockThin.label>rock roof (thin)</RoofRockThin.label>
+</LanguageData>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ability -->
+  <Ability.label>Ability</Ability.label>
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>animal productivity</AnimalProductivity.label>
+  <!-- EN: Apparel -->
+  <Apparel.label>Apparel</Apparel.label>
+  <!-- EN: Basics -->
+  <Basics.label>Basics</Basics.label>
+  <!-- EN: Basics -->
+  <BasicsImportant.label>Basics</BasicsImportant.label>
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
+  <!-- EN: Basics -->
+  <BasicsNonPawnImportant.label>Basics</BasicsNonPawnImportant.label>
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Basics</BasicsPawn.label>
+  <!-- EN: Basics -->
+  <BasicsPawnImportant.label>Basics</BasicsPawnImportant.label>
+  <!-- EN: Building -->
+  <Building.label>Building</Building.label>
+  <!-- EN: effects -->
+  <CapacityEffects.label>effects</CapacityEffects.label>
+  <!-- EN: Drug -->
+  <Drug.label>Drug</Drug.label>
+  <!-- EN: drug addiction -->
+  <DrugAddiction.label>drug addiction</DrugAddiction.label>
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
+  <!-- EN: Genetics -->
+  <Genetics.label>Genetics</Genetics.label>
+  <!-- EN: Implant -->
+  <Implant.label>Implant</Implant.label>
+  <!-- EN: Mechanoid -->
+  <Mechanoid.label>Mechanoid</Mechanoid.label>
+  <!-- EN: Meditation -->
+  <Meditation.label>Meditation</Meditation.label>
+  <!-- EN: Combat -->
+  <PawnCombat.label>Combat</PawnCombat.label>
+  <!-- EN: Misc -->
+  <PawnMisc.label>Misc</PawnMisc.label>
+  <!-- EN: Social -->
+  <PawnSocial.label>Social</PawnSocial.label>
+  <!-- EN: Work -->
+  <PawnWork.label>Work</PawnWork.label>
+  <!-- EN: content source -->
+  <Source.label>content source</Source.label>
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
+  <!-- EN: Surgical -->
+  <Surgery.label>Surgical</Surgery.label>
+  <!-- EN: terrain -->
+  <Terrain.label>terrain</Terrain.label>
+  <!-- EN: Weapon -->
+  <Weapon.label>Weapon</Weapon.label>
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>Weapon (melee)</Weapon_Melee.label>
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>Weapon (ranged)</Weapon_Ranged.label>
+</LanguageData>

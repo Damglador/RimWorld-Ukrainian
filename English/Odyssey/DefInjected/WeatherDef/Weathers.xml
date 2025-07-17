@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blind fog -->
+  <BlindFog.label>blind fog</BlindFog.label>
+  <!-- EN: A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range. -->
+  <BlindFog.description>A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range.</BlindFog.description>
+  <!-- EN: Blind fog -->
+  <BlindFog.letterLabel>Blind fog</BlindFog.letterLabel>
+  <!-- EN: A thick fog is setting in, dramatically reducing vision. Ranged weapons will be less accurate and their maximum range will be reduced. -->
+  <BlindFog.letterText>A thick fog is setting in, dramatically reducing vision. Ranged weapons will be less accurate and their maximum range will be reduced.</BlindFog.letterText>
+  <!-- EN: blizzard -->
+  <Blizzard.label>blizzard</Blizzard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Blizzard.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</Blizzard.description>
+  <!-- EN: orbit -->
+  <Orbit.label>orbit</Orbit.label>
+  <!-- EN: There is no weather in orbit. -->
+  <Orbit.description>There is no weather in orbit.</Orbit.description>
+  <!-- EN: overcast -->
+  <Overcast.label>overcast</Overcast.label>
+  <!-- EN: Thick clouds obscure the sky, reducing light levels. -->
+  <Overcast.description>Thick clouds obscure the sky, reducing light levels.</Overcast.description>
+  <!-- EN: sandstorm -->
+  <Sandstorm.label>sandstorm</Sandstorm.label>
+  <!-- EN: Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere. -->
+  <Sandstorm.description>Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere.</Sandstorm.description>
+  <!-- EN: torrential rain -->
+  <TorrentialRain.label>torrential rain</TorrentialRain.label>
+  <!-- EN: Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <TorrentialRain.description>Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</TorrentialRain.description>
+  <!-- EN: Torrential rain -->
+  <TorrentialRain.letterLabel>Torrential rain</TorrentialRain.letterLabel>
+  <!-- EN: Heavy rain is beginning to pour from the sky. It will cause temporary flooding around bodies of water. Build barriers to prevent floodwater from spreading. -->
+  <TorrentialRain.letterText>Heavy rain is beginning to pour from the sky. It will cause temporary flooding around bodies of water. Build barriers to prevent floodwater from spreading.</TorrentialRain.letterText>
+  <!-- EN: tox rain -->
+  <ToxRain.label>tox rain</ToxRain.label>
+  <!-- EN: Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <ToxRain.description>Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</ToxRain.description>
+  <!-- EN: Tox rain -->
+  <ToxRain.letterLabel>Tox rain</ToxRain.letterLabel>
+  <!-- EN: Toxic rain has begun to fall from the sky. It will slowly sicken anyone it touches. Keep your colonists under a roof. -->
+  <ToxRain.letterText>Toxic rain has begun to fall from the sky. It will slowly sicken anyone it touches. Keep your colonists under a roof.</ToxRain.letterText>
+  <!-- EN: windy -->
+  <Windy.label>windy</Windy.label>
+  <!-- EN: Strong winds reduce movement speed. -->
+  <Windy.description>Strong winds reduce movement speed.</Windy.description>
+</LanguageData>

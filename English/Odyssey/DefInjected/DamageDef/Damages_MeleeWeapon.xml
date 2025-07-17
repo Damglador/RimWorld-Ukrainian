@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bite -->
+  <PorcupineBite.label>bite</PorcupineBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <PorcupineBite.deathMessage>{0} has been bitten to death.</PorcupineBite.deathMessage>
+  <!-- EN: scratch -->
+  <PorcupineScratch.label>scratch</PorcupineScratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <PorcupineScratch.deathMessage>{0} has been torn to death.</PorcupineScratch.deathMessage>
+</LanguageData>

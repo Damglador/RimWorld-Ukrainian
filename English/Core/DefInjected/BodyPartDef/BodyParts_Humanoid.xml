@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: arm -->
+  <Arm.label>arm</Arm.label>
+  <!-- EN: clavicle -->
+  <Clavicle.label>clavicle</Clavicle.label>
+  <!-- EN: femur -->
+  <Femur.label>femur</Femur.label>
+  <!-- EN: finger -->
+  <Finger.label>finger</Finger.label>
+  <!-- EN: hand -->
+  <Hand.label>hand</Hand.label>
+  <!-- EN: humerus -->
+  <Humerus.label>humerus</Humerus.label>
+  <!-- EN: pelvis -->
+  <Pelvis.label>pelvis</Pelvis.label>
+  <!-- EN: radius -->
+  <Radius.label>radius</Radius.label>
+  <!-- EN: shoulder -->
+  <Shoulder.label>shoulder</Shoulder.label>
+  <!-- EN: sternum -->
+  <Sternum.label>sternum</Sternum.label>
+  <!-- EN: tibia -->
+  <Tibia.label>tibia</Tibia.label>
+  <!-- EN: toe -->
+  <Toe.label>toe</Toe.label>
+  <!-- EN: torso -->
+  <Torso.label>torso</Torso.label>
+  <!-- EN: utility slot -->
+  <Waist.label>utility slot</Waist.label>
+</LanguageData>

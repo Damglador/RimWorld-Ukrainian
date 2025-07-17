@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bluebird -->
+  <Bluebird.label>bluebird</Bluebird.label>
+  <!-- EN: crow -->
+  <Crow.label>crow</Crow.label>
+  <!-- EN: flamingo -->
+  <Flamingo.label>flamingo</Flamingo.label>
+  <!-- EN: heron -->
+  <Heron.label>heron</Heron.label>
+  <!-- EN: macaw -->
+  <Macaw.label>macaw</Macaw.label>
+  <!-- EN: peacock -->
+  <Peacock.label>peacock</Peacock.label>
+  <!-- EN: penguin -->
+  <Penguin.label>penguin</Penguin.label>
+  <!-- EN: quail -->
+  <Quail.label>quail</Quail.label>
+  <!-- EN: sparrow -->
+  <Sparrow.label>sparrow</Sparrow.label>
+  <!-- EN: swan -->
+  <Swan.label>swan</Swan.label>
+  <!-- EN: vulture -->
+  <Vulture.label>vulture</Vulture.label>
+</LanguageData>

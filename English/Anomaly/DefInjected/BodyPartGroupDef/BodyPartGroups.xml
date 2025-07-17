@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: left fin -->
+  <LeftFin.label>left fin</LeftFin.label>
+  <!-- EN: fin -->
+  <LeftFin.labelShort>fin</LeftFin.labelShort>
+  <!-- EN: left flesh club -->
+  <LeftFleshClub.label>left flesh club</LeftFleshClub.label>
+  <!-- EN: flesh club -->
+  <LeftFleshClub.labelShort>flesh club</LeftFleshClub.labelShort>
+  <!-- EN: right fin -->
+  <RightFin.label>right fin</RightFin.label>
+  <!-- EN: fin -->
+  <RightFin.labelShort>fin</RightFin.labelShort>
+  <!-- EN: right flesh club -->
+  <RightFleshClub.label>right flesh club</RightFleshClub.label>
+  <!-- EN: flesh club -->
+  <RightFleshClub.labelShort>flesh club</RightFleshClub.labelShort>
+</LanguageData>

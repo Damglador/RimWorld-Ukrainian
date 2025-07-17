@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: jaw -->
+  <AnimalJaw.label>jaw</AnimalJaw.label>
+  <!-- EN: antenna -->
+  <Antenna.label>antenna</Antenna.label>
+  <!-- EN: beak -->
+  <Beak.label>beak</Beak.label>
+  <!-- EN: body -->
+  <Body.label>body</Body.label>
+  <!-- EN: elytra -->
+  <Elytra.label>elytra</Elytra.label>
+  <!-- EN: front claw -->
+  <FrontClaw.label>front claw</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>claw</FrontClaw.labelShort>
+  <!-- EN: head claw -->
+  <HeadClaw.label>head claw</HeadClaw.label>
+  <!-- EN: hoof -->
+  <Hoof.label>hoof</Hoof.label>
+  <!-- EN: horn -->
+  <Horn.label>horn</Horn.label>
+  <!-- EN: hump -->
+  <Hump.label>hump</Hump.label>
+  <!-- EN: head -->
+  <InsectHead.label>head</InsectHead.label>
+  <!-- EN: heart -->
+  <InsectHeart.label>heart</InsectHeart.label>
+  <!-- EN: leg -->
+  <InsectLeg.label>leg</InsectLeg.label>
+  <!-- EN: mouth -->
+  <InsectMouth.label>mouth</InsectMouth.label>
+  <!-- EN: nostril -->
+  <InsectNostril.label>nostril</InsectNostril.label>
+  <!-- EN: jowl -->
+  <Jowl.label>jowl</Jowl.label>
+  <!-- EN: paw -->
+  <Paw.label>paw</Paw.label>
+  <!-- EN: plastron -->
+  <Plastron.label>plastron</Plastron.label>
+  <!-- EN: pronotum -->
+  <Pronotum.label>pronotum</Pronotum.label>
+  <!-- EN: rear claw -->
+  <RearClaw.label>rear claw</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>claw</RearClaw.labelShort>
+  <!-- EN: shell -->
+  <Shell.label>shell</Shell.label>
+  <!-- EN: body -->
+  <SnakeBody.label>body</SnakeBody.label>
+  <!-- EN: head -->
+  <SnakeHead.label>head</SnakeHead.label>
+  <!-- EN: mouth -->
+  <SnakeMouth.label>mouth</SnakeMouth.label>
+  <!-- EN: tail -->
+  <Tail.label>tail</Tail.label>
+  <!-- EN: trunk -->
+  <Trunk.label>trunk</Trunk.label>
+  <!-- EN: beak -->
+  <TurtleBeak.label>beak</TurtleBeak.label>
+  <!-- EN: shell -->
+  <TurtleShell.label>shell</TurtleShell.label>
+  <!-- EN: tusk -->
+  <Tusk.label>tusk</Tusk.label>
+</LanguageData>

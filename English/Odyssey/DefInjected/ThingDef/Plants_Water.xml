@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bulrush -->
+  <Plant_Bulrush.label>bulrush</Plant_Bulrush.label>
+  <!-- EN: A plant commonly found in swamps, recognizable for its brown cigar-shaped top. -->
+  <Plant_Bulrush.description>A plant commonly found in swamps, recognizable for its brown cigar-shaped top.</Plant_Bulrush.description>
+  <!-- EN: lily pad -->
+  <Plant_LilyPad.label>lily pad</Plant_LilyPad.label>
+  <!-- EN: A water plant with a broad floating leaf. -->
+  <Plant_LilyPad.description>A water plant with a broad floating leaf.</Plant_LilyPad.description>
+  <!-- EN: lotus -->
+  <Plant_Lotus.label>lotus</Plant_Lotus.label>
+  <!-- EN: An aquatic plant known for its fragrant flowers. -->
+  <Plant_Lotus.description>An aquatic plant known for its fragrant flowers.</Plant_Lotus.description>
+  <!-- EN: reeds -->
+  <Plant_Reeds.label>reeds</Plant_Reeds.label>
+  <!-- EN: A tall slender plant that grows in water. -->
+  <Plant_Reeds.description>A tall slender plant that grows in water.</Plant_Reeds.description>
+</LanguageData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: destroy apparel -->
+  <DestroyApparel.label>destroy apparel</DestroyApparel.label>
+  <!-- EN: Use heat to destroy unwanted apparel. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyApparel.description>Use heat to destroy unwanted apparel. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyApparel.description>
+  <!-- EN: Destroying apparel. -->
+  <DestroyApparel.jobString>Destroying apparel.</DestroyApparel.jobString>
+  <!-- EN: destroy weapon -->
+  <DestroyWeapon.label>destroy weapon</DestroyWeapon.label>
+  <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyWeapon.description>Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyWeapon.description>
+  <!-- EN: Destroying weapon. -->
+  <DestroyWeapon.jobString>Destroying weapon.</DestroyWeapon.jobString>
+  <!-- EN: smelt metal from slag -->
+  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
+  <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
+  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to extract useful metal from slag chunks.</ExtractMetalFromSlag.description>
+  <!-- EN: Smelting metal from slag. -->
+  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
+  <!-- EN: make chemfuel from organics -->
+  <Make_ChemfuelFromOrganics.label>make chemfuel from organics</Make_ChemfuelFromOrganics.label>
+  <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
+  <Make_ChemfuelFromOrganics.description>Make a batch of chemfuel by extracting biofuel from organic feedstocks.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: feedstock -->
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>feedstock</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  <!-- EN: Refining chemfuel from organics. -->
+  <Make_ChemfuelFromOrganics.jobString>Refining chemfuel from organics.</Make_ChemfuelFromOrganics.jobString>
+  <!-- EN: make chemfuel from wood -->
+  <Make_ChemfuelFromWood.label>make chemfuel from wood</Make_ChemfuelFromWood.label>
+  <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
+  <Make_ChemfuelFromWood.description>Make a batch of chemfuel by extracting and condensing wood gas from logs.</Make_ChemfuelFromWood.description>
+  <!-- EN: Refining chemfuel from wood. -->
+  <Make_ChemfuelFromWood.jobString>Refining chemfuel from wood.</Make_ChemfuelFromWood.jobString>
+  <!-- EN: make component -->
+  <Make_ComponentIndustrial.label>make component</Make_ComponentIndustrial.label>
+  <!-- EN: Make a component. -->
+  <Make_ComponentIndustrial.description>Make a component.</Make_ComponentIndustrial.description>
+  <!-- EN: Making component. -->
+  <Make_ComponentIndustrial.jobString>Making component.</Make_ComponentIndustrial.jobString>
+  <!-- EN: make advanced component -->
+  <Make_ComponentSpacer.label>make advanced component</Make_ComponentSpacer.label>
+  <!-- EN: Make an advanced component. -->
+  <Make_ComponentSpacer.description>Make an advanced component.</Make_ComponentSpacer.description>
+  <!-- EN: Making advanced component. -->
+  <Make_ComponentSpacer.jobString>Making advanced component.</Make_ComponentSpacer.jobString>
+  <!-- EN: make patchleather -->
+  <Make_Patchleather.label>make patchleather</Make_Patchleather.label>
+  <!-- EN: Combine various types of leather to create weak patchleather. -->
+  <Make_Patchleather.description>Combine various types of leather to create weak patchleather.</Make_Patchleather.description>
+  <!-- EN: Making patchleather. -->
+  <Make_Patchleather.jobString>Making patchleather.</Make_Patchleather.jobString>
+  <!-- EN: make any stone blocks -->
+  <Make_StoneBlocksAny.label>make any stone blocks</Make_StoneBlocksAny.label>
+  <!-- EN: Cut rock chunks into usable stone blocks. -->
+  <Make_StoneBlocksAny.description>Cut rock chunks into usable stone blocks.</Make_StoneBlocksAny.description>
+  <!-- EN: Cutting stone blocks from chunk. -->
+  <Make_StoneBlocksAny.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksAny.jobString>
+  <!-- EN: smelt apparel -->
+  <SmeltApparel.label>smelt apparel</SmeltApparel.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
+  <SmeltApparel.description>Use heat and strong electromagnets to break down metallic apparel like armor into useful resources.</SmeltApparel.description>
+  <!-- EN: Smelting apparel. -->
+  <SmeltApparel.jobString>Smelting apparel.</SmeltApparel.jobString>
+  <!-- EN: smelt or destroy thing -->
+  <SmeltOrDestroyThing.label>smelt or destroy thing</SmeltOrDestroyThing.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable. -->
+  <SmeltOrDestroyThing.description>Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable.</SmeltOrDestroyThing.description>
+  <!-- EN: Smelting/destroying things. -->
+  <SmeltOrDestroyThing.jobString>Smelting/destroying things.</SmeltOrDestroyThing.jobString>
+  <!-- EN: smelt weapon -->
+  <SmeltWeapon.label>smelt weapon</SmeltWeapon.label>
+  <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
+  <SmeltWeapon.description>Use heat and strong electromagnets to break down weapons into useful resources.</SmeltWeapon.description>
+  <!-- EN: Smelting weapon. -->
+  <SmeltWeapon.jobString>Smelting weapon.</SmeltWeapon.jobString>
+</LanguageData>

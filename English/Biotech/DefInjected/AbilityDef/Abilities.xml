@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: acid spray -->
+  <AcidSpray.label>acid spray</AcidSpray.label>
+  <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
+  <AcidSpray.description>Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them.</AcidSpray.description>
+  <!-- EN: animal warcall -->
+  <AnimalWarcall.label>animal warcall</AnimalWarcall.label>
+  <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
+  <AnimalWarcall.description>With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours.</AnimalWarcall.description>
+  <!-- EN: warcall -->
+  <AnimalWarcall.verbProperties.label>warcall</AnimalWarcall.verbProperties.label>
+  <!-- EN: Choose an animal to call -->
+  <AnimalWarcall.verbProperties.mouseTargetingText>Choose an animal to call</AnimalWarcall.verbProperties.mouseTargetingText>
+  <!-- EN: bloodfeed -->
+  <Bloodfeed.label>bloodfeed</Bloodfeed.label>
+  <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size. -->
+  <Bloodfeed.description>Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size.</Bloodfeed.description>
+  <!-- EN: coagulate -->
+  <Coagulate.label>coagulate</Coagulate.label>
+  <!-- EN: Use special glands in the wrists to quickly tend someone's wounds. -->
+  <Coagulate.description>Use special glands in the wrists to quickly tend someone's wounds.</Coagulate.description>
+  <!-- EN: fire burst -->
+  <FireBurst.label>fire burst</FireBurst.label>
+  <!-- EN: Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground. -->
+  <FireBurst.description>Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground.</FireBurst.description>
+  <!-- EN: firefoam pop -->
+  <FirefoampopMech.label>firefoam pop</FirefoampopMech.label>
+  <!-- EN: Release a fire-retardant foam in a circular area. -->
+  <FirefoampopMech.description>Release a fire-retardant foam in a circular area.</FirefoampopMech.description>
+  <!-- EN: fire spew -->
+  <FireSpew.label>fire spew</FireSpew.label>
+  <!-- EN: Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition. -->
+  <FireSpew.description>Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition.</FireSpew.description>
+  <!-- EN: foam spray -->
+  <FoamSpray.label>foam spray</FoamSpray.label>
+  <!-- EN: Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches. -->
+  <FoamSpray.description>Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches.</FoamSpray.description>
+  <!-- EN: longjump -->
+  <Longjump.label>longjump</Longjump.label>
+  <!-- EN: Jump to a distant location using super-strong hemogen-powered legs. -->
+  <Longjump.description>Jump to a distant location using super-strong hemogen-powered legs.</Longjump.description>
+  <!-- EN: jump -->
+  <Longjump.verbProperties.label>jump</Longjump.verbProperties.label>
+  <!-- EN: mech longjump -->
+  <LongjumpMech.label>mech longjump</LongjumpMech.label>
+  <!-- EN: Jump to a distant location using special ultrafast mechanoid muscles. -->
+  <LongjumpMech.description>Jump to a distant location using special ultrafast mechanoid muscles.</LongjumpMech.description>
+  <!-- EN: jump -->
+  <LongjumpMech.verbProperties.label>jump</LongjumpMech.verbProperties.label>
+  <!-- EN: jump launcher -->
+  <LongjumpMechLauncher.label>jump launcher</LongjumpMechLauncher.label>
+  <!-- EN: Jump to a distant location using a built-in jump launcher. -->
+  <LongjumpMechLauncher.description>Jump to a distant location using a built-in jump launcher.</LongjumpMechLauncher.description>
+  <!-- EN: jump -->
+  <LongjumpMechLauncher.verbProperties.label>jump</LongjumpMechLauncher.verbProperties.label>
+  <!-- EN: piercing spine -->
+  <PiercingSpine.label>piercing spine</PiercingSpine.label>
+  <!-- EN: Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim. -->
+  <PiercingSpine.description>Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim.</PiercingSpine.description>
+  <!-- EN: implant genes -->
+  <ReimplantXenogerm.label>implant genes</ReimplantXenogerm.label>
+  <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
+  <ReimplantXenogerm.description>Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected.</ReimplantXenogerm.description>
+  <!-- EN: resurrect -->
+  <Resurrect.label>resurrect</Resurrect.label>
+  <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
+  <Resurrect.description>Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely.</Resurrect.description>
+  <!-- EN: resurrect mech -->
+  <ResurrectionMech.label>resurrect mech</ResurrectionMech.label>
+  <!-- EN: Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed. -->
+  <ResurrectionMech.description>Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed.</ResurrectionMech.description>
+  <!-- EN: mech smokepop -->
+  <SmokepopMech.label>mech smokepop</SmokepopMech.label>
+  <!-- EN: Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+  <SmokepopMech.description>Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.</SmokepopMech.description>
+</LanguageData>

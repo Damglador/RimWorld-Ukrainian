@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bulb turret -->
+  <BulbTurret.label>bulb turret</BulbTurret.label>
+  <!-- EN: left power claw -->
+  <LeftPowerClaw.label>left power claw</LeftPowerClaw.label>
+  <!-- EN: power claw -->
+  <LeftPowerClaw.labelShort>power claw</LeftPowerClaw.labelShort>
+  <!-- EN: right power claw -->
+  <RightPowerClaw.label>right power claw</RightPowerClaw.label>
+  <!-- EN: power claw -->
+  <RightPowerClaw.labelShort>power claw</RightPowerClaw.labelShort>
+</LanguageData>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animal products -->
+  <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
+  <!-- EN: animals -->
+  <Animals.label>animals</Animals.label>
+  <!-- EN: apparel -->
+  <Apparel.label>apparel</Apparel.label>
+  <!-- EN: armor -->
+  <ApparelArmor.label>armor</ApparelArmor.label>
+  <!-- EN: misc -->
+  <ApparelMisc.label>misc</ApparelMisc.label>
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>noble apparel</ApparelNoble.label>
+  <!-- EN: utility -->
+  <ApparelUtility.label>utility</ApparelUtility.label>
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>headgear</ArmorHeadgear.label>
+  <!-- EN: artifacts -->
+  <Artifacts.label>artifacts</Artifacts.label>
+  <!-- EN: body parts -->
+  <BodyParts.label>body parts</BodyParts.label>
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>bionic</BodyPartsBionic.label>
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>mechtech</BodyPartsMechtech.label>
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>prosthetic</BodyPartsProsthetic.label>
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>simple parts</BodyPartsSimple.label>
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>ultratech</BodyPartsUltra.label>
+  <!-- EN: bookEffects -->
+  <BookEffects.label>bookEffects</BookEffects.label>
+  <!-- EN: books -->
+  <Books.label>books</Books.label>
+  <!-- EN: buildings -->
+  <Buildings.label>buildings</Buildings.label>
+  <!-- EN: art -->
+  <BuildingsArt.label>art</BuildingsArt.label>
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>recreation</BuildingsJoy.label>
+  <!-- EN: misc -->
+  <BuildingsMisc.label>misc</BuildingsMisc.label>
+  <!-- EN: power -->
+  <BuildingsPower.label>power</BuildingsPower.label>
+  <!-- EN: production -->
+  <BuildingsProduction.label>production</BuildingsProduction.label>
+  <!-- EN: security -->
+  <BuildingsSecurity.label>security</BuildingsSecurity.label>
+  <!-- EN: special -->
+  <BuildingsSpecial.label>special</BuildingsSpecial.label>
+  <!-- EN: temperature -->
+  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
+  <!-- EN: chunks -->
+  <Chunks.label>chunks</Chunks.label>
+  <!-- EN: corpses -->
+  <Corpses.label>corpses</Corpses.label>
+  <!-- EN: animal corpses -->
+  <CorpsesAnimal.label>animal corpses</CorpsesAnimal.label>
+  <!-- EN: humanlike corpses -->
+  <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
+  <!-- EN: insect corpses -->
+  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
+  <!-- EN: mechanoid corpses -->
+  <CorpsesMechanoid.label>mechanoid corpses</CorpsesMechanoid.label>
+  <!-- EN: drugs -->
+  <Drugs.label>drugs</Drugs.label>
+  <!-- EN: eggs (fert.) -->
+  <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+  <!-- EN: eggs (unfert.) -->
+  <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
+  <!-- EN: meals -->
+  <FoodMeals.label>meals</FoodMeals.label>
+  <!-- EN: raw food -->
+  <FoodRaw.label>raw food</FoodRaw.label>
+  <!-- EN: foods -->
+  <Foods.label>foods</Foods.label>
+  <!-- EN: grenades -->
+  <Grenades.label>grenades</Grenades.label>
+  <!-- EN: headgear -->
+  <Headgear.label>headgear</Headgear.label>
+  <!-- EN: headgear -->
+  <HeadgearNoble.label>headgear</HeadgearNoble.label>
+  <!-- EN: inert relics -->
+  <InertRelics.label>inert relics</InertRelics.label>
+  <!-- EN: items -->
+  <Items.label>items</Items.label>
+  <!-- EN: misc -->
+  <ItemsMisc.label>misc</ItemsMisc.label>
+  <!-- EN: leathers -->
+  <Leathers.label>leathers</Leathers.label>
+  <!-- EN: manufactured -->
+  <Manufactured.label>manufactured</Manufactured.label>
+  <!-- EN: meat -->
+  <MeatRaw.label>meat</MeatRaw.label>
+  <!-- EN: medicine -->
+  <Medicine.label>medicine</Medicine.label>
+  <!-- EN: mortar shells -->
+  <MortarShells.label>mortar shells</MortarShells.label>
+  <!-- EN: neurotrainers -->
+  <Neurotrainers.label>neurotrainers</Neurotrainers.label>
+  <!-- EN: psytrainers -->
+  <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>skilltrainers</NeurotrainersSkill.label>
+  <!-- EN: vegetarian -->
+  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
+  <!-- EN: plant matter -->
+  <PlantMatter.label>plant matter</PlantMatter.label>
+  <!-- EN: plants -->
+  <Plants.label>plants</Plants.label>
+  <!-- EN: research -->
+  <ResearchGain.label>research</ResearchGain.label>
+  <!-- EN: raw resources -->
+  <ResourcesRaw.label>raw resources</ResourcesRaw.label>
+  <!-- EN: root -->
+  <Root.label>root</Root.label>
+  <!-- EN: skill gain -->
+  <SkillGain.label>skill gain</SkillGain.label>
+  <!-- EN: stone blocks -->
+  <StoneBlocks.label>stone blocks</StoneBlocks.label>
+  <!-- EN: stone chunks -->
+  <StoneChunks.label>stone chunks</StoneChunks.label>
+  <!-- EN: stumps -->
+  <Stumps.label>stumps</Stumps.label>
+  <!-- EN: techprints -->
+  <Techprints.label>techprints</Techprints.label>
+  <!-- EN: textiles -->
+  <Textiles.label>textiles</Textiles.label>
+  <!-- EN: unfinished -->
+  <Unfinished.label>unfinished</Unfinished.label>
+  <!-- EN: weapons -->
+  <Weapons.label>weapons</Weapons.label>
+  <!-- EN: melee weapons -->
+  <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
+  <!-- EN: persona weapons -->
+  <WeaponsMeleeBladelink.label>persona weapons</WeaponsMeleeBladelink.label>
+  <!-- EN: ranged weapons -->
+  <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
+  <!-- EN: wools -->
+  <Wools.label>wools</Wools.label>
+</LanguageData>

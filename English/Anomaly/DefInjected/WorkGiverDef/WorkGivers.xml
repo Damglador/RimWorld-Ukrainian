@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: suppress entity activity -->
+  <ActivitySuppression.label>suppress entity activity</ActivitySuppression.label>
+  <!-- EN: suppressing -->
+  <ActivitySuppression.gerund>suppressing</ActivitySuppression.gerund>
+  <!-- EN: suppress -->
+  <ActivitySuppression.verb>suppress</ActivitySuppression.verb>
+  <!-- EN: make things at bioferrite shaper -->
+  <DoBillsBioferriteShaper.label>make things at bioferrite shaper</DoBillsBioferriteShaper.label>
+  <!-- EN: working at -->
+  <DoBillsBioferriteShaper.gerund>working at</DoBillsBioferriteShaper.gerund>
+  <!-- EN: work at -->
+  <DoBillsBioferriteShaper.verb>work at</DoBillsBioferriteShaper.verb>
+  <!-- EN: make things at serum lab -->
+  <DoBillsSerumCentrifuge.label>make things at serum lab</DoBillsSerumCentrifuge.label>
+  <!-- EN: working at -->
+  <DoBillsSerumCentrifuge.gerund>working at</DoBillsSerumCentrifuge.gerund>
+  <!-- EN: work at -->
+  <DoBillsSerumCentrifuge.verb>work at</DoBillsSerumCentrifuge.verb>
+  <!-- EN: tend to entities -->
+  <DoctorTendToEntities.label>tend to entities</DoctorTendToEntities.label>
+  <!-- EN: tending to -->
+  <DoctorTendToEntities.gerund>tending to</DoctorTendToEntities.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToEntities.verb>tend to</DoctorTendToEntities.verb>
+  <!-- EN: execute entities -->
+  <ExecuteEntity.label>execute entities</ExecuteEntity.label>
+  <!-- EN: executing -->
+  <ExecuteEntity.gerund>executing</ExecuteEntity.gerund>
+  <!-- EN: execute -->
+  <ExecuteEntity.verb>execute</ExecuteEntity.verb>
+  <!-- EN: extract bioferrite from entities -->
+  <ExtractBioferrite.label>extract bioferrite from entities</ExtractBioferrite.label>
+  <!-- EN: extracting from -->
+  <ExtractBioferrite.gerund>extracting from</ExtractBioferrite.gerund>
+  <!-- EN: extract from -->
+  <ExtractBioferrite.verb>extract from</ExtractBioferrite.verb>
+  <!-- EN: fill in -->
+  <FillIn.label>fill in</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>filling in</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>fill</FillIn.verb>
+  <!-- EN: interrogate identity -->
+  <InterrogatePrisoner.label>interrogate identity</InterrogatePrisoner.label>
+  <!-- EN: interrogating -->
+  <InterrogatePrisoner.gerund>interrogating</InterrogatePrisoner.gerund>
+  <!-- EN: interrogate -->
+  <InterrogatePrisoner.verb>interrogate</InterrogatePrisoner.verb>
+  <!-- EN: release entities -->
+  <ReleaseEntity.label>release entities</ReleaseEntity.label>
+  <!-- EN: releasing -->
+  <ReleaseEntity.gerund>releasing</ReleaseEntity.gerund>
+  <!-- EN: release -->
+  <ReleaseEntity.verb>release</ReleaseEntity.verb>
+  <!-- EN: study -->
+  <StudyInteract.label>study</StudyInteract.label>
+  <!-- EN: studying -->
+  <StudyInteract.gerund>studying</StudyInteract.gerund>
+  <!-- EN: study -->
+  <StudyInteract.verb>study</StudyInteract.verb>
+  <!-- EN: take bioferrite out of bioferrite harvester -->
+  <TakeBioferriteOutOfHarvester.label>take bioferrite out of bioferrite harvester</TakeBioferriteOutOfHarvester.label>
+  <!-- EN: taking bioferrite from -->
+  <TakeBioferriteOutOfHarvester.gerund>taking bioferrite from</TakeBioferriteOutOfHarvester.gerund>
+  <!-- EN: take bioferrite -->
+  <TakeBioferriteOutOfHarvester.verb>take bioferrite</TakeBioferriteOutOfHarvester.verb>
+  <!-- EN: capture entity -->
+  <TakeEntityToHoldingPlatform.label>capture entity</TakeEntityToHoldingPlatform.label>
+  <!-- EN: capturing -->
+  <TakeEntityToHoldingPlatform.gerund>capturing</TakeEntityToHoldingPlatform.gerund>
+  <!-- EN: capture -->
+  <TakeEntityToHoldingPlatform.verb>capture</TakeEntityToHoldingPlatform.verb>
+  <!-- EN: transfer entities -->
+  <TransferEntity.label>transfer entities</TransferEntity.label>
+  <!-- EN: transferring -->
+  <TransferEntity.gerund>transferring</TransferEntity.gerund>
+  <!-- EN: transfer -->
+  <TransferEntity.verb>transfer</TransferEntity.verb>
+</LanguageData>

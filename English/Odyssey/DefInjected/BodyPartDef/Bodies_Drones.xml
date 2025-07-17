@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chassis -->
+  <DroneChassis.label>chassis</DroneChassis.label>
+  <!-- EN: core -->
+  <DroneCore.label>core</DroneCore.label>
+  <!-- EN: visual sensor -->
+  <DroneEye.label>visual sensor</DroneEye.label>
+  <!-- EN: shell -->
+  <DroneShell.label>shell</DroneShell.label>
+  <!-- EN: shell section -->
+  <DroneShellSection.label>shell section</DroneShellSection.label>
+  <!-- EN: spiked shell section -->
+  <DroneShellSectionWithSpike.label>spiked shell section</DroneShellSectionWithSpike.label>
+  <!-- EN: tread -->
+  <DroneTreads.label>tread</DroneTreads.label>
+</LanguageData>

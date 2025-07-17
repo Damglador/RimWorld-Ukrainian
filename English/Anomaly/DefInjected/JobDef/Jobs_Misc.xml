@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: activating TargetA. -->
+  <ActivateMonolith.reportString>activating TargetA.</ActivateMonolith.reportString>
+  <!-- EN: low activity dormancy -->
+  <ActivityDormant.reportString>low activity dormancy</ActivityDormant.reportString>
+  <!-- EN: building a {0} sculpture. -->
+  <BuildCubeSculpture.reportString>building a {0} sculpture.</BuildCubeSculpture.reportString>
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolder.reportString>carrying TargetB to TargetA.</CarryToEntityHolder.reportString>
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolderAlreadyHolding.reportString>carrying TargetB to TargetA.</CarryToEntityHolderAlreadyHolding.reportString>
+  <!-- EN: attacking. -->
+  <ChimeraSwitchToAttackMode.reportString>attacking.</ChimeraSwitchToAttackMode.reportString>
+  <!-- EN: Doing something. -->
+  <DevourerDigest.reportString>Doing something.</DevourerDigest.reportString>
+  <!-- EN: going dormant -->
+  <EntityGoPassive.reportString>going dormant</EntityGoPassive.reportString>
+  <!-- EN: executing TargetA. -->
+  <ExecuteEntity.reportString>executing TargetA.</ExecuteEntity.reportString>
+  <!-- EN: extracting bioferrite from TargetA. -->
+  <ExtractBioferrite.reportString>extracting bioferrite from TargetA.</ExtractBioferrite.reportString>
+  <!-- EN: fleeing. -->
+  <FleeAndCowerShort.reportString>fleeing.</FleeAndCowerShort.reportString>
+  <!-- EN: playing with golden cube. -->
+  <GoldenCubePlay.reportString>playing with golden cube.</GoldenCubePlay.reportString>
+  <!-- EN: hate chanting. -->
+  <HateChanting.reportString>hate chanting.</HateChanting.reportString>
+  <!-- EN: investigating TargetA. -->
+  <InvestigateMonolith.reportString>investigating TargetA.</InvestigateMonolith.reportString>
+  <!-- EN: departing -->
+  <NociosphereDepart.reportString>departing</NociosphereDepart.reportString>
+  <!-- EN: releasing TargetB -->
+  <ReleaseEntity.reportString>releasing TargetB</ReleaseEntity.reportString>
+  <!-- EN: stalking TargetA. -->
+  <RevenantAttack.reportString>stalking TargetA.</RevenantAttack.reportString>
+  <!-- EN: escaping -->
+  <RevenantEscape.reportString>escaping</RevenantEscape.reportString>
+  <!-- EN: hibernating -->
+  <RevenantSleep.reportString>hibernating</RevenantSleep.reportString>
+  <!-- EN: wandering -->
+  <RevenantWander.reportString>wandering</RevenantWander.reportString>
+  <!-- EN: smashing TargetA. -->
+  <SmashThing.reportString>smashing TargetA.</SmashThing.reportString>
+  <!-- EN: taking bioferrite out of TargetA. -->
+  <TakeBioferriteOutOfHarvester.reportString>taking bioferrite out of TargetA.</TakeBioferriteOutOfHarvester.reportString>
+  <!-- EN: talking to TargetA. -->
+  <TalkCreepJoiner.reportString>talking to TargetA.</TalkCreepJoiner.reportString>
+  <!-- EN: tending to TargetA. -->
+  <TendEntity.reportString>tending to TargetA.</TendEntity.reportString>
+  <!-- EN: transferring TargetC to another holding location. -->
+  <TransferBetweenEntityHolders.reportString>transferring TargetC to another holding location.</TransferBetweenEntityHolders.reportString>
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseAttack.reportString>chasing TargetA.</UnnaturalCorpseAttack.reportString>
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseSkip.reportString>chasing TargetA.</UnnaturalCorpseSkip.reportString>
+</LanguageData>

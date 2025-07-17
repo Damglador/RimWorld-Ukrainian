@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: recruit -->
+  <AttemptRecruit.label>recruit</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it.</AttemptRecruit.description>
+  <!-- EN: execute -->
+  <Execution.label>execute</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists.</Execution.description>
+  <!-- EN: maintain only -->
+  <MaintainOnly.label>maintain only</MaintainOnly.label>
+  <!-- EN: Just feed the prisoner and provide for their basic needs, without attempting any other interaction. -->
+  <MaintainOnly.description>Just feed the prisoner and provide for their basic needs, without attempting any other interaction.</MaintainOnly.description>
+  <!-- EN: reduce resistance only -->
+  <ReduceResistance.label>reduce resistance only</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made.</ReduceResistance.description>
+  <!-- EN: release -->
+  <Release.label>release</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>A warden will release the prisoner.</Release.description>
+</LanguageData>

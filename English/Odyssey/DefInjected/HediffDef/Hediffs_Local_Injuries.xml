@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: porcupine quill -->
+  <PorcupineQuill.label>porcupine quill</PorcupineQuill.label>
+  <!-- EN: A sharp spine from a porcupine. While generally not fatal, these are incredibly painful. It must be surgically removed. -->
+  <PorcupineQuill.description>A sharp spine from a porcupine. While generally not fatal, these are incredibly painful. It must be surgically removed.</PorcupineQuill.description>
+  <!-- EN: vacuum burn -->
+  <VacuumBurn.label>vacuum burn</VacuumBurn.label>
+  <!-- EN: Tissue damage caused by exposure to the vacuum of space. It can be extremely painful. -->
+  <VacuumBurn.description>Tissue damage caused by exposure to the vacuum of space. It can be extremely painful.</VacuumBurn.description>
+  <!-- EN: a vacuum burn -->
+  <VacuumBurn.labelNoun>a vacuum burn</VacuumBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VacuumBurn.labelNounPretty>{0} in the {1}</VacuumBurn.labelNounPretty>
+</LanguageData>

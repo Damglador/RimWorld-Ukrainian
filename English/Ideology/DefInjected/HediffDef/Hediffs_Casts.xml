@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>berserk trance</BerserkTrance.label>
+  <!-- EN: Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger. -->
+  <BerserkTrance.description>Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger.</BerserkTrance.description>
+  <!-- EN: combat command -->
+  <CombatCommand.label>combat command</CombatCommand.label>
+  <!-- EN: By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance. -->
+  <CombatCommand.description>By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance.</CombatCommand.description>
+  <!-- EN: combat command -->
+  <CombatCommandBuff.label>combat command</CombatCommandBuff.label>
+  <!-- EN: Combat abilities are boosted thanks to being near someone who is using the combat command ability. -->
+  <CombatCommandBuff.description>Combat abilities are boosted thanks to being near someone who is using the combat command ability.</CombatCommandBuff.description>
+  <!-- EN: farming command -->
+  <FarmingCommand.label>farming command</FarmingCommand.label>
+  <!-- EN: This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby. -->
+  <FarmingCommand.description>This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby.</FarmingCommand.description>
+  <!-- EN: farming command -->
+  <FarmingCommandBuff.label>farming command</FarmingCommandBuff.label>
+  <!-- EN: This person's farming abilities are boosted thanks to being near someone who is using the farming command ability. -->
+  <FarmingCommandBuff.description>This person's farming abilities are boosted thanks to being near someone who is using the farming command ability.</FarmingCommandBuff.description>
+  <!-- EN: immunity drive -->
+  <ImmunityDrive.label>immunity drive</ImmunityDrive.label>
+  <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
+  <ImmunityDrive.description>This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system.</ImmunityDrive.description>
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>marksman command</MarksmanCommand.label>
+  <!-- EN: This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses. -->
+  <MarksmanCommand.description>This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses.</MarksmanCommand.description>
+  <!-- EN: marksman command -->
+  <MarksmanCommandBuff.label>marksman command</MarksmanCommandBuff.label>
+  <!-- EN: Someone is using the marksman command ability nearby, boosting this person's shooting abilities. -->
+  <MarksmanCommandBuff.description>Someone is using the marksman command ability nearby, boosting this person's shooting abilities.</MarksmanCommandBuff.description>
+  <!-- EN: mining command -->
+  <MiningCommand.label>mining command</MiningCommand.label>
+  <!-- EN: This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby. -->
+  <MiningCommand.description>This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby.</MiningCommand.description>
+  <!-- EN: mining command -->
+  <MiningCommandBuff.label>mining command</MiningCommandBuff.label>
+  <!-- EN: This person's mining speed is boosted thanks to being near someone who is using the mining command ability. -->
+  <MiningCommandBuff.description>This person's mining speed is boosted thanks to being near someone who is using the mining command ability.</MiningCommandBuff.description>
+  <!-- EN: preach health -->
+  <PreachHealth.label>preach health</PreachHealth.label>
+  <!-- EN: This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates. -->
+  <PreachHealth.description>This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates.</PreachHealth.description>
+  <!-- EN: production command -->
+  <ProductionCommand.label>production command</ProductionCommand.label>
+  <!-- EN: This person is offering guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. -->
+  <ProductionCommand.description>This person is offering guidance on construction techniques, boosting construction and crafting abilities for everyone nearby.</ProductionCommand.description>
+  <!-- EN: production command -->
+  <ProductionCommandBuff.label>production command</ProductionCommandBuff.label>
+  <!-- EN: This person's construction and crafting speeds are boosted thanks to being near someone who is using the production command ability. -->
+  <ProductionCommandBuff.description>This person's construction and crafting speeds are boosted thanks to being near someone who is using the production command ability.</ProductionCommandBuff.description>
+  <!-- EN: research command -->
+  <ResearchCommand.label>research command</ResearchCommand.label>
+  <!-- EN: This person is using a special ability to provide suggestions and mental support, boosting the research speed of everyone nearby. -->
+  <ResearchCommand.description>This person is using a special ability to provide suggestions and mental support, boosting the research speed of everyone nearby.</ResearchCommand.description>
+  <!-- EN: research command -->
+  <ResearchCommandBuff.label>research command</ResearchCommandBuff.label>
+  <!-- EN: This person's research speed is boosted because they are near someone who is using the research command ability. -->
+  <ResearchCommandBuff.description>This person's research speed is boosted because they are near someone who is using the research command ability.</ResearchCommandBuff.description>
+  <!-- EN: work drive -->
+  <WorkDrive.label>work drive</WorkDrive.label>
+  <!-- EN: The sense of being called upon by a leader to work harder. -->
+  <WorkDrive.description>The sense of being called upon by a leader to work harder.</WorkDrive.description>
+</LanguageData>

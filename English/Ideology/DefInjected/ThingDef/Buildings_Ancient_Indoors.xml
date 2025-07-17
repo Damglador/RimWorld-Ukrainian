@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ancient barrel -->
+  <AncientBarrel.label>ancient barrel</AncientBarrel.label>
+  <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
+  <AncientBarrel.description>An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge.</AncientBarrel.description>
+  <!-- EN: ancient bed -->
+  <AncientBed.label>ancient bed</AncientBed.label>
+  <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
+  <AncientBed.description>An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore.</AncientBed.description>
+  <!-- EN: ancient crate -->
+  <AncientCrate.label>ancient crate</AncientCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
+  <AncientCrate.description>An ancient, broken crate. Any valuables it once contained have degraded to uselessness.</AncientCrate.description>
+  <!-- EN: ancient display bank -->
+  <AncientDisplayBank.label>ancient display bank</AncientDisplayBank.label>
+  <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientDisplayBank.description>An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness.</AncientDisplayBank.description>
+  <!-- EN: ancient equipment blocks -->
+  <AncientEquipmentBlocks.label>ancient equipment blocks</AncientEquipmentBlocks.label>
+  <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientEquipmentBlocks.description>A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness.</AncientEquipmentBlocks.description>
+  <!-- EN: ancient generator -->
+  <AncientGenerator.label>ancient generator</AncientGenerator.label>
+  <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
+  <AncientGenerator.description>An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness.</AncientGenerator.description>
+  <!-- EN: ancient locker bank -->
+  <AncientLockerBank.label>ancient locker bank</AncientLockerBank.label>
+  <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+  <AncientLockerBank.description>An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind.</AncientLockerBank.description>
+  <!-- EN: ancient machine -->
+  <AncientMachine.label>ancient machine</AncientMachine.label>
+  <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientMachine.description>A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness.</AncientMachine.description>
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>ancient military crate</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted.</AncientMilitaryCrate.description>
+  <!-- EN: ancient operating table -->
+  <AncientOperatingTable.label>ancient operating table</AncientOperatingTable.label>
+  <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
+  <AncientOperatingTable.description>A table once used for surgical operations. It has long since deteriorated into uselessness.</AncientOperatingTable.description>
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>ancient spacer crate</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>An ancient, broken crate. Any valuables it once contained were taken long ago.</AncientSpacerCrate.description>
+  <!-- EN: ancient storage cylinder -->
+  <AncientStorageCylinder.label>ancient storage cylinder</AncientStorageCylinder.label>
+  <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientStorageCylinder.description>An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness.</AncientStorageCylinder.description>
+  <!-- EN: ancient system rack -->
+  <AncientSystemRack.label>ancient system rack</AncientSystemRack.label>
+  <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientSystemRack.description>An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness.</AncientSystemRack.description>
+</LanguageData>

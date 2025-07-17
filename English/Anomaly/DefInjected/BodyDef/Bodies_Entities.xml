@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: devourer -->
+  <Devourer.label>devourer</Devourer.label>
+  <!-- EN: left lung -->
+  <Devourer.corePart.parts.left_lung.customLabel>left lung</Devourer.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Devourer.corePart.parts.right_lung.customLabel>right lung</Devourer.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Devourer.corePart.parts.left_kidney.customLabel>left kidney</Devourer.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Devourer.corePart.parts.right_kidney.customLabel>right kidney</Devourer.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Devourer.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</Devourer.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Devourer.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</Devourer.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Devourer.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>left ear</Devourer.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Devourer.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>right ear</Devourer.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left fin -->
+  <Devourer.corePart.parts.left_fin.customLabel>left fin</Devourer.corePart.parts.left_fin.customLabel>
+  <!-- EN: right fin -->
+  <Devourer.corePart.parts.right_fin.customLabel>right fin</Devourer.corePart.parts.right_fin.customLabel>
+  <!-- EN: fleshmass nucleus -->
+  <FleshmassNucleus.label>fleshmass nucleus</FleshmassNucleus.label>
+  <!-- EN: gorehulk -->
+  <Gorehulk.label>gorehulk</Gorehulk.label>
+  <!-- EN: chest spine cluster -->
+  <Gorehulk.corePart.parts.chest_spine_cluster.customLabel>chest spine cluster</Gorehulk.corePart.parts.chest_spine_cluster.customLabel>
+  <!-- EN: left lung -->
+  <Gorehulk.corePart.parts.left_lung.customLabel>left lung</Gorehulk.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Gorehulk.corePart.parts.right_lung.customLabel>right lung</Gorehulk.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Gorehulk.corePart.parts.left_kidney.customLabel>left kidney</Gorehulk.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Gorehulk.corePart.parts.right_kidney.customLabel>right kidney</Gorehulk.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Gorehulk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</Gorehulk.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Gorehulk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</Gorehulk.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left shoulder -->
+  <Gorehulk.corePart.parts.left_shoulder.customLabel>left shoulder</Gorehulk.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Gorehulk.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>left clavicle</Gorehulk.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left flesh club -->
+  <Gorehulk.corePart.parts.left_shoulder.parts.left_flesh_club.customLabel>left flesh club</Gorehulk.corePart.parts.left_shoulder.parts.left_flesh_club.customLabel>
+  <!-- EN: left spine cluster -->
+  <Gorehulk.corePart.parts.left_shoulder.parts.left_spine_cluster.customLabel>left spine cluster</Gorehulk.corePart.parts.left_shoulder.parts.left_spine_cluster.customLabel>
+  <!-- EN: right shoulder -->
+  <Gorehulk.corePart.parts.right_shoulder.customLabel>right shoulder</Gorehulk.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Gorehulk.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>right clavicle</Gorehulk.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right flesh club -->
+  <Gorehulk.corePart.parts.right_shoulder.parts.right_flesh_club.customLabel>right flesh club</Gorehulk.corePart.parts.right_shoulder.parts.right_flesh_club.customLabel>
+  <!-- EN: right spine cluster -->
+  <Gorehulk.corePart.parts.right_shoulder.parts.right_spine_cluster.customLabel>right spine cluster</Gorehulk.corePart.parts.right_shoulder.parts.right_spine_cluster.customLabel>
+  <!-- EN: left leg -->
+  <Gorehulk.corePart.parts.left_leg.customLabel>left leg</Gorehulk.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_femur.customLabel>left femur</Gorehulk.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_tibia.customLabel>left tibia</Gorehulk.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</Gorehulk.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>left little toe</Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>left fourth toe</Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>left middle toe</Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>left second toe</Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>left big toe</Gorehulk.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Gorehulk.corePart.parts.right_leg.customLabel>right leg</Gorehulk.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_femur.customLabel>right femur</Gorehulk.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_tibia.customLabel>right tibia</Gorehulk.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</Gorehulk.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>right little toe</Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>right fourth toe</Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>right middle toe</Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>right second toe</Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>right big toe</Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <!-- EN: metalhorror -->
+  <Metalhorror.label>metalhorror</Metalhorror.label>
+  <!-- EN: right shoulder -->
+  <Metalhorror.corePart.parts.right_shoulder.customLabel>right shoulder</Metalhorror.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <Metalhorror.corePart.parts.right_shoulder.parts.right_arm.customLabel>right arm</Metalhorror.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right blade -->
+  <Metalhorror.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>right blade</Metalhorror.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <!-- EN: left shoulder -->
+  <Metalhorror.corePart.parts.left_shoulder.customLabel>left shoulder</Metalhorror.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <Metalhorror.corePart.parts.left_shoulder.parts.left_arm.customLabel>left arm</Metalhorror.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left blade -->
+  <Metalhorror.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>left blade</Metalhorror.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <!-- EN: left leg -->
+  <Metalhorror.corePart.parts.left_leg.customLabel>left leg</Metalhorror.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Metalhorror.corePart.parts.left_leg.parts.left_foot.customLabel>left foot</Metalhorror.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Metalhorror.corePart.parts.right_leg.customLabel>right leg</Metalhorror.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Metalhorror.corePart.parts.right_leg.parts.right_foot.customLabel>right foot</Metalhorror.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: nociosphere -->
+  <Nociosphere.label>nociosphere</Nociosphere.label>
+  <!-- EN: noctol -->
+  <Noctol.label>noctol</Noctol.label>
+  <!-- EN: left lung -->
+  <Noctol.corePart.parts.left_lung.customLabel>left lung</Noctol.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Noctol.corePart.parts.right_lung.customLabel>right lung</Noctol.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Noctol.corePart.parts.left_kidney.customLabel>left kidney</Noctol.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Noctol.corePart.parts.right_kidney.customLabel>right kidney</Noctol.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Noctol.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>left eye</Noctol.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Noctol.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>right eye</Noctol.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Noctol.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>left ear</Noctol.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Noctol.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>right ear</Noctol.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <Noctol.corePart.parts.front_left_leg.customLabel>front left leg</Noctol.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left claw -->
+  <Noctol.corePart.parts.front_left_leg.parts.front_left_claw.customLabel>front left claw</Noctol.corePart.parts.front_left_leg.parts.front_left_claw.customLabel>
+  <!-- EN: front right leg -->
+  <Noctol.corePart.parts.front_right_leg.customLabel>front right leg</Noctol.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right claw -->
+  <Noctol.corePart.parts.front_right_leg.parts.front_right_claw.customLabel>front right claw</Noctol.corePart.parts.front_right_leg.parts.front_right_claw.customLabel>
+  <!-- EN: rear left leg -->
+  <Noctol.corePart.parts.rear_left_leg.customLabel>rear left leg</Noctol.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left claw -->
+  <Noctol.corePart.parts.rear_left_leg.parts.rear_left_claw.customLabel>rear left claw</Noctol.corePart.parts.rear_left_leg.parts.rear_left_claw.customLabel>
+  <!-- EN: rear right leg -->
+  <Noctol.corePart.parts.rear_right_leg.customLabel>rear right leg</Noctol.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right claw -->
+  <Noctol.corePart.parts.rear_right_leg.parts.rear_right_claw.customLabel>rear right claw</Noctol.corePart.parts.rear_right_leg.parts.rear_right_claw.customLabel>
+</LanguageData>

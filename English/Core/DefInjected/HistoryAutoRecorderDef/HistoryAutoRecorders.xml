@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: recovery -->
+  <Adaptation.label>recovery</Adaptation.label>
+  <!-- EN: {0} days -->
+  <Adaptation.valueFormat>{0} days</Adaptation.valueFormat>
+  <!-- EN: mood -->
+  <ColonistMood.label>mood</ColonistMood.label>
+  <!-- EN: free colonists -->
+  <FreeColonists.label>free colonists</FreeColonists.label>
+  <!-- EN: pop recovery -->
+  <PopAdaptation.label>pop recovery</PopAdaptation.label>
+  <!-- EN: {0} days -->
+  <PopAdaptation.valueFormat>{0} days</PopAdaptation.valueFormat>
+  <!-- EN: pop intent x10 -->
+  <PopIntent.label>pop intent x10</PopIntent.label>
+  <!-- EN: {0} days -->
+  <PopIntent.valueFormat>{0} days</PopIntent.valueFormat>
+  <!-- EN: prisoners -->
+  <Prisoners.label>prisoners</Prisoners.label>
+  <!-- EN: fun points /10 -->
+  <ThreatPoints.label>fun points /10</ThreatPoints.label>
+  <!-- EN: {0} points -->
+  <ThreatPoints.valueFormat>{0} points</ThreatPoints.valueFormat>
+  <!-- EN: wealth (buildings) -->
+  <Wealth_Buildings.label>wealth (buildings)</Wealth_Buildings.label>
+  <!-- EN: wealth (items) -->
+  <Wealth_Items.label>wealth (items)</Wealth_Items.label>
+  <!-- EN: wealth (creatures) -->
+  <Wealth_Pawns.label>wealth (creatures)</Wealth_Pawns.label>
+  <!-- EN: wealth (total) -->
+  <Wealth_Total.label>wealth (total)</Wealth_Total.label>
+</LanguageData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: animals -->
+  <Animals.label>animals</Animals.label>
+  <!-- EN: Configure how the colony's tame animals should be treated. -->
+  <Animals.description>Configure how the colony's tame animals should be treated.</Animals.description>
+  <!-- EN: architect -->
+  <Architect.label>architect</Architect.label>
+  <!-- EN: Designate where to build, farm, store items, and so on. -->
+  <Architect.description>Designate where to build, farm, store items, and so on.</Architect.description>
+  <!-- EN: assign -->
+  <Assign.label>assign</Assign.label>
+  <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
+  <Assign.description>Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies.</Assign.description>
+  <!-- EN: factions -->
+  <Factions.label>factions</Factions.label>
+  <!-- EN: Review the other factions on this world and their relationships. -->
+  <Factions.description>Review the other factions on this world and their relationships.</Factions.description>
+  <!-- EN: history -->
+  <History.label>history</History.label>
+  <!-- EN: Review historical records. -->
+  <History.description>Review historical records.</History.description>
+  <!-- EN: inspect -->
+  <Inspect.label>inspect</Inspect.label>
+  <!-- EN: menu -->
+  <Menu.label>menu</Menu.label>
+  <!-- EN: Change options, save, load, or quit the game. -->
+  <Menu.description>Change options, save, load, or quit the game.</Menu.description>
+  <!-- EN: quests -->
+  <Quests.label>quests</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>View available, active, and historical quests.</Quests.description>
+  <!-- EN: research -->
+  <Research.label>research</Research.label>
+  <!-- EN: Examine and decide on research projects. -->
+  <Research.description>Examine and decide on research projects.</Research.description>
+  <!-- EN: schedule -->
+  <Schedule.label>schedule</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>Schedule colonists' activities to certain times of day, and set their allowed areas.</Schedule.description>
+  <!-- EN: wildlife -->
+  <Wildlife.label>wildlife</Wildlife.label>
+  <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
+  <Wildlife.description>List wild animals in the area and designate them for hunting or taming.</Wildlife.description>
+  <!-- EN: work -->
+  <Work.label>work</Work.label>
+  <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
+  <Work.description>Choose which colonist does what kinds of work, and in what order.</Work.description>
+  <!-- EN: world -->
+  <World.label>world</World.label>
+  <!-- EN: Examine the world map, form, and manage caravans. -->
+  <World.description>Examine the world map, form, and manage caravans.</World.description>
+</LanguageData>

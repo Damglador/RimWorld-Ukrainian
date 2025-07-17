@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ancient chemfuel refinery -->
+  <AncientChemfuelRefinery.label>ancient chemfuel refinery</AncientChemfuelRefinery.label>
+  <!-- EN: An abandoned industrial installation containing large quantities of chemfuel. It may also contain dangerous security systems. -->
+  <AncientChemfuelRefinery.description>An abandoned industrial installation containing large quantities of chemfuel. It may also contain dangerous security systems.</AncientChemfuelRefinery.description>
+  <!-- EN: ancient garrison -->
+  <AncientGarrison.label>ancient garrison</AncientGarrison.label>
+  <!-- EN: A long-abandoned military structure. It may still contain valuable items, as well as active security systems. Use caution while exploring these ruins. -->
+  <AncientGarrison.description>A long-abandoned military structure. It may still contain valuable items, as well as active security systems. Use caution while exploring these ruins.</AncientGarrison.description>
+  <!-- EN: infested settlement -->
+  <AncientInfestedSettlement.label>infested settlement</AncientInfestedSettlement.label>
+  <!-- EN: A once-prosperous settlement that was destroyed by an insect infestation. It may still contain valuable resources. -->
+  <AncientInfestedSettlement.description>A once-prosperous settlement that was destroyed by an insect infestation. It may still contain valuable resources.</AncientInfestedSettlement.description>
+  <!-- EN: ancient launch site -->
+  <AncientLaunchSite.label>ancient launch site</AncientLaunchSite.label>
+  <!-- EN: An abandoned collection of launch pads used to deliver supplies to orbital platforms. It contains working transport pods. -->
+  <AncientLaunchSite.description>An abandoned collection of launch pads used to deliver supplies to orbital platforms. It contains working transport pods.</AncientLaunchSite.description>
+  <!-- EN: ancient warehouse -->
+  <AncientWarehouse.label>ancient warehouse</AncientWarehouse.label>
+  <!-- EN: An abandoned warehouse. It still contains valuables. It may also contain dangerous security systems. -->
+  <AncientWarehouse.description>An abandoned warehouse. It still contains valuables. It may also contain dangerous security systems.</AncientWarehouse.description>
+</LanguageData>

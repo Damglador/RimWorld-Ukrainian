@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: interrogate -->
+  <Interrogate.label>interrogate</Interrogate.label>
+  <!-- EN: Wardens will interrogate the prisoner and watch their reactions to try to determine if they are who they say they are. The chance of detecting an imposter increases with the warden's social interaction ability. There is always a chance the imposter goes unnoticed. -->
+  <Interrogate.description>Wardens will interrogate the prisoner and watch their reactions to try to determine if they are who they say they are. The chance of detecting an imposter increases with the warden's social interaction ability. There is always a chance the imposter goes unnoticed.</Interrogate.description>
+  <!-- EN: study -->
+  <Study.label>study</Study.label>
+  <!-- EN: Researchers interact with them to gain knowledge. -->
+  <Study.description>Researchers interact with them to gain knowledge.</Study.description>
+</LanguageData>

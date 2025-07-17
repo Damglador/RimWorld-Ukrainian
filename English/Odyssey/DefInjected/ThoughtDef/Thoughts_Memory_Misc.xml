@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blowing sand -->
+  <BlowingSand.stages.blowing_sand.label>blowing sand</BlowingSand.stages.blowing_sand.label>
+  <!-- EN: It gets everywhere! I can feel it between my teeth. -->
+  <BlowingSand.stages.blowing_sand.description>It gets everywhere! I can feel it between my teeth.</BlowingSand.stages.blowing_sand.description>
+  <!-- EN: destroyed mechhive -->
+  <DestroyedMechhive.stages.destroyed_mechhive.label>destroyed mechhive</DestroyedMechhive.stages.destroyed_mechhive.label>
+  <!-- EN: We defeated them! We're free of them now. -->
+  <DestroyedMechhive.stages.destroyed_mechhive.description>We defeated them! We're free of them now.</DestroyedMechhive.stages.destroyed_mechhive.description>
+  <!-- EN: hot spring -->
+  <HotSpring.stages.hot_spring.label>hot spring</HotSpring.stages.hot_spring.label>
+  <!-- EN: It's nice to dip my feet in the warm water. -->
+  <HotSpring.stages.hot_spring.description>It's nice to dip my feet in the warm water.</HotSpring.stages.hot_spring.description>
+  <!-- EN: tox water -->
+  <ToxWater.stages.tox_water.label>tox water</ToxWater.stages.tox_water.label>
+  <!-- EN: I'm soaked in this disgusting stuff. It itches and burns. -->
+  <ToxWater.stages.tox_water.description>I'm soaked in this disgusting stuff. It itches and burns.</ToxWater.stages.tox_water.description>
+</LanguageData>

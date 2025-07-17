@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: agony pulse -->
+  <AgonyPulse.label>agony pulse</AgonyPulse.label>
+  <!-- EN: Generate a pulse of psychic pain emanating from a target location. -->
+  <AgonyPulse.description>Generate a pulse of psychic pain emanating from a target location.</AgonyPulse.description>
+  <!-- EN: consume leap -->
+  <ConsumeLeap_Devourer.label>consume leap</ConsumeLeap_Devourer.label>
+  <!-- EN: Leap onto a target and begin digesting it. -->
+  <ConsumeLeap_Devourer.description>Leap onto a target and begin digesting it.</ConsumeLeap_Devourer.description>
+  <!-- EN: consume leap -->
+  <ConsumeLeap_Devourer.verbProperties.label>consume leap</ConsumeLeap_Devourer.verbProperties.label>
+  <!-- EN: corrosive spray -->
+  <CorrosiveSpray.label>corrosive spray</CorrosiveSpray.label>
+  <!-- EN: Use the corrosive heart to spray acid a short distance. The heart pumps the corrosive fluid through a surgically implanted duct, allowing the ghoul to spew it from their mouth at high velocity. -->
+  <CorrosiveSpray.description>Use the corrosive heart to spray acid a short distance. The heart pumps the corrosive fluid through a surgically implanted duct, allowing the ghoul to spew it from their mouth at high velocity.</CorrosiveSpray.description>
+  <!-- EN: entity skip -->
+  <EntitySkip.label>entity skip</EntitySkip.label>
+  <!-- EN: Teleport to a target destination. -->
+  <EntitySkip.description>Teleport to a target destination.</EntitySkip.description>
+  <!-- EN: fleshmelter bolt -->
+  <FleshmelterBolt.label>fleshmelter bolt</FleshmelterBolt.label>
+  <!-- EN: Launch a large bolt of energy which generates a high-temperature explosion. -->
+  <FleshmelterBolt.description>Launch a large bolt of energy which generates a high-temperature explosion.</FleshmelterBolt.description>
+  <!-- EN: ghoul frenzy -->
+  <GhoulFrenzy.label>ghoul frenzy</GhoulFrenzy.label>
+  <!-- EN: Use the adrenal heart to saturate the bloodstream with stress hormones and liquid energy, permitting the ghoul to move and attack at incredible speeds for a short time. -->
+  <GhoulFrenzy.description>Use the adrenal heart to saturate the bloodstream with stress hormones and liquid energy, permitting the ghoul to move and attack at incredible speeds for a short time.</GhoulFrenzy.description>
+  <!-- EN: heatspikes -->
+  <Heatspikes.label>heatspikes</Heatspikes.label>
+  <!-- EN: Fire a burst of low-accuracy energy bolts. -->
+  <Heatspikes.description>Fire a burst of low-accuracy energy bolts.</Heatspikes.description>
+  <!-- EN: metalblood injection -->
+  <MetalbloodInjection.label>metalblood injection</MetalbloodInjection.label>
+  <!-- EN: Use the metalblood heart to release metalblood serum into the bloodstream, reducing incoming damage for a short period of time. -->
+  <MetalbloodInjection.description>Use the metalblood heart to release metalblood serum into the bloodstream, reducing incoming damage for a short period of time.</MetalbloodInjection.description>
+  <!-- EN: psychic slaughter -->
+  <PsychicSlaughter.label>psychic slaughter</PsychicSlaughter.label>
+  <!-- EN: Use dark psychic power to induce chaotic reconfiguration of flesh. This kills a flesh creature in seconds and converts its body into a pile of twisted flesh. -->
+  <PsychicSlaughter.description>Use dark psychic power to induce chaotic reconfiguration of flesh. This kills a flesh creature in seconds and converts its body into a pile of twisted flesh.</PsychicSlaughter.description>
+  <!-- EN: release deadlife dust -->
+  <ReleaseDeadlifeDust.label>release deadlife dust</ReleaseDeadlifeDust.label>
+  <!-- EN: Release a cloud of dust-like substance that will settle on nearby corpses and raise them as shamblers. The shamblers will only attack your enemies. Deadlife dust is made of nano-scale archites that penetrate and reanimate dead tissue at the cellular level. -->
+  <ReleaseDeadlifeDust.description>Release a cloud of dust-like substance that will settle on nearby corpses and raise them as shamblers. The shamblers will only attack your enemies. Deadlife dust is made of nano-scale archites that penetrate and reanimate dead tissue at the cellular level.</ReleaseDeadlifeDust.description>
+  <!-- EN: release deadlife dust -->
+  <ReleaseDeadlifeDust.verbProperties.label>release deadlife dust</ReleaseDeadlifeDust.verbProperties.label>
+  <!-- EN: revenant invisibility -->
+  <RevenantInvisibility.label>revenant invisibility</RevenantInvisibility.label>
+  <!-- EN: Use the revenant vertebrae to temporarily turn invisible. The prosthetic manipulates the visual centers of those nearby, letting the user pass unnoticed. -->
+  <RevenantInvisibility.description>Use the revenant vertebrae to temporarily turn invisible. The prosthetic manipulates the visual centers of those nearby, letting the user pass unnoticed.</RevenantInvisibility.description>
+  <!-- EN: shape flesh -->
+  <ShapeFlesh.label>shape flesh</ShapeFlesh.label>
+  <!-- EN: Induce a dark archotech to reconfigure a corpse into a horrendous fleshbeast. The fleshbeast will be hostile to all humans, including the one who created it. -->
+  <ShapeFlesh.description>Induce a dark archotech to reconfigure a corpse into a horrendous fleshbeast. The fleshbeast will be hostile to all humans, including the one who created it.</ShapeFlesh.description>
+  <!-- EN: spike launch -->
+  <SpikeLaunch_Fingerspike.label>spike launch</SpikeLaunch_Fingerspike.label>
+  <!-- EN: Launch a bone spike at a target. -->
+  <SpikeLaunch_Fingerspike.description>Launch a bone spike at a target.</SpikeLaunch_Fingerspike.description>
+  <!-- EN: spike launch -->
+  <SpikeLaunch_Toughspike.label>spike launch</SpikeLaunch_Toughspike.label>
+  <!-- EN: Launch a bone spike at a target. -->
+  <SpikeLaunch_Toughspike.description>Launch a bone spike at a target.</SpikeLaunch_Toughspike.description>
+  <!-- EN: spine launch -->
+  <SpineLaunch_Gorehulk.label>spine launch</SpineLaunch_Gorehulk.label>
+  <!-- EN: Launch a keratin spine at a target to do damage. -->
+  <SpineLaunch_Gorehulk.description>Launch a keratin spine at a target to do damage.</SpineLaunch_Gorehulk.description>
+  <!-- EN: transmute steel -->
+  <TransmuteSteel.label>transmute steel</TransmuteSteel.label>
+  <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target a stack of steel or a steel slag chunk. -->
+  <TransmuteSteel.description>Reconfigure steel at the atomic level, turning it into a random valuable material. Can target a stack of steel or a steel slag chunk.</TransmuteSteel.description>
+  <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
+  <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Must target steel, steel slag chunks, steel buildings, or steel items.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
+  <!-- EN: entity skip -->
+  <UnnaturalCorpseSkip.label>entity skip</UnnaturalCorpseSkip.label>
+  <!-- EN: Teleport to a target destination. -->
+  <UnnaturalCorpseSkip.description>Teleport to a target destination.</UnnaturalCorpseSkip.description>
+  <!-- EN: unnatural healing -->
+  <UnnaturalHealing.label>unnatural healing</UnnaturalHealing.label>
+  <!-- EN: Use dark psychic influence to heal someone. The process will stop bleeding, restore blood loss, and can even heal significant injuries. However, it may also have unexpected side effects. -->
+  <UnnaturalHealing.description>Use dark psychic influence to heal someone. The process will stop bleeding, restore blood loss, and can even heal significant injuries. However, it may also have unexpected side effects.</UnnaturalHealing.description>
+  <!-- EN: void terror -->
+  <VoidTerror.label>void terror</VoidTerror.label>
+  <!-- EN: Psychically induce terrifying hallucinations, causing a person to flee in terror. -->
+  <VoidTerror.description>Psychically induce terrifying hallucinations, causing a person to flee in terror.</VoidTerror.description>
+</LanguageData>

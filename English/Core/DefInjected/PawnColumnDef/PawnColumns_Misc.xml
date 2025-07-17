@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: age -->
+  <Age.label>age</Age.label>
+  <!-- EN: allowed area -->
+  <AllowedArea.label>allowed area</AllowedArea.label>
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>allowed area</AllowedAreaWide.label>
+  <!-- EN: carry -->
+  <Carry.label>carry</Carry.label>
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>drug policy</DrugPolicy.label>
+  <!-- EN: food policy -->
+  <FoodRestriction.label>food policy</FoodRestriction.label>
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Hostility response</HostilityResponse.headerTip>
+  <!-- EN: name -->
+  <Label.label>name</Label.label>
+  <!-- EN: Name -->
+  <Label.headerTip>Name</Label.headerTip>
+  <!-- EN: name -->
+  <LabelShortWithIcon.label>name</LabelShortWithIcon.label>
+  <!-- EN: Name -->
+  <LabelShortWithIcon.headerTip>Name</LabelShortWithIcon.headerTip>
+  <!-- EN: name -->
+  <LabelWithIcon.label>name</LabelWithIcon.label>
+  <!-- EN: Name -->
+  <LabelWithIcon.headerTip>Name</LabelWithIcon.headerTip>
+  <!-- EN: master -->
+  <Master.label>master</Master.label>
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Medical care</MedicalCare.headerTip>
+  <!-- EN: apparel policy -->
+  <Outfit.label>apparel policy</Outfit.label>
+  <!-- EN: reading policy -->
+  <Reading.label>reading policy</Reading.label>
+</LanguageData>

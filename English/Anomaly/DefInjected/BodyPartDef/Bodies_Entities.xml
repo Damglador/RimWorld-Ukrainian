@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fin -->
+  <Fin.label>fin</Fin.label>
+  <!-- EN: flesh club -->
+  <FleshClub_Gorehulk.label>flesh club</FleshClub_Gorehulk.label>
+  <!-- EN: core -->
+  <FleshmassNucleusCore.label>core</FleshmassNucleusCore.label>
+  <!-- EN: arm -->
+  <MetalhorrorArm.label>arm</MetalhorrorArm.label>
+  <!-- EN: blade -->
+  <MetalhorrorBlade.label>blade</MetalhorrorBlade.label>
+  <!-- EN: mind core -->
+  <MetalhorrorBrain.label>mind core</MetalhorrorBrain.label>
+  <!-- EN: core -->
+  <MetalhorrorCore.label>core</MetalhorrorCore.label>
+  <!-- EN: foot -->
+  <MetalhorrorFoot.label>foot</MetalhorrorFoot.label>
+  <!-- EN: head -->
+  <MetalhorrorHead.label>head</MetalhorrorHead.label>
+  <!-- EN: leg -->
+  <MetalhorrorLeg.label>leg</MetalhorrorLeg.label>
+  <!-- EN: neck -->
+  <MetalhorrorNeck.label>neck</MetalhorrorNeck.label>
+  <!-- EN: arm -->
+  <MetalhorrorShoulder.label>arm</MetalhorrorShoulder.label>
+  <!-- EN: torso -->
+  <MetalhorrorTorso.label>torso</MetalhorrorTorso.label>
+  <!-- EN: body -->
+  <MovingBody.label>body</MovingBody.label>
+  <!-- EN: core -->
+  <NociosphereCore.label>core</NociosphereCore.label>
+  <!-- EN: shell -->
+  <NociosphereShell.label>shell</NociosphereShell.label>
+  <!-- EN: claw -->
+  <NoctolClaw.label>claw</NoctolClaw.label>
+  <!-- EN: shell section -->
+  <ShellSection.label>shell section</ShellSection.label>
+  <!-- EN: spine cluster -->
+  <SpineLauncher_Gorehulk.label>spine cluster</SpineLauncher_Gorehulk.label>
+</LanguageData>

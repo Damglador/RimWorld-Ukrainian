@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: component box -->
+  <AncientBox_ComponentIndustrial.label>component box</AncientBox_ComponentIndustrial.label>
+  <!-- EN: A box filled with valuable components. Some are intact and useable. -->
+  <AncientBox_ComponentIndustrial.description>A box filled with valuable components. Some are intact and useable.</AncientBox_ComponentIndustrial.description>
+  <!-- EN: advanced component box -->
+  <AncientBox_ComponentSpacer.label>advanced component box</AncientBox_ComponentSpacer.label>
+  <!-- EN: A box of advanced components, well-preserved and potentially valuable. -->
+  <AncientBox_ComponentSpacer.description>A box of advanced components, well-preserved and potentially valuable.</AncientBox_ComponentSpacer.description>
+  <!-- EN: steel scrap box -->
+  <AncientBox_SteelSlag.label>steel scrap box</AncientBox_SteelSlag.label>
+  <!-- EN: A box filled with steel scrap. It's heavy but might contain some recoverable metal. -->
+  <AncientBox_SteelSlag.description>A box filled with steel scrap. It's heavy but might contain some recoverable metal.</AncientBox_SteelSlag.description>
+  <!-- EN: chemfuel canister -->
+  <AncientChemfuelCanister.label>chemfuel canister</AncientChemfuelCanister.label>
+  <!-- EN: A sealed canister of chemfuel. It might still contain usable fuel. -->
+  <AncientChemfuelCanister.description>A sealed canister of chemfuel. It might still contain usable fuel.</AncientChemfuelCanister.description>
+  <!-- EN: steel scrap pallet -->
+  <AncientPallet_SteelSlag.label>steel scrap pallet</AncientPallet_SteelSlag.label>
+  <!-- EN: A pallet stacked with steel scrap. It could still hold some recoverable metal. -->
+  <AncientPallet_SteelSlag.description>A pallet stacked with steel scrap. It could still hold some recoverable metal.</AncientPallet_SteelSlag.description>
+  <!-- EN: rusted safe -->
+  <AncientSafe.label>rusted safe</AncientSafe.label>
+  <!-- EN: A locked safe. It's heavily rusted, making it easy to open. It may hold valuable items inside. -->
+  <AncientSafe.description>A locked safe. It's heavily rusted, making it easy to open. It may hold valuable items inside.</AncientSafe.description>
+  <!-- EN: sealed container -->
+  <AncientSealedContainer.label>sealed container</AncientSealedContainer.label>
+  <!-- EN: A large sealed container. It may contain valuable supplies. -->
+  <AncientSealedContainer.description>A large sealed container. It may contain valuable supplies.</AncientSealedContainer.description>
+  <!-- EN: sealed container -->
+  <AncientSealedContainer_GravshipUpgrade.label>sealed container</AncientSealedContainer_GravshipUpgrade.label>
+  <!-- EN: A large sealed container. It may contain valuable supplies. -->
+  <AncientSealedContainer_GravshipUpgrade.description>A large sealed container. It may contain valuable supplies.</AncientSealedContainer_GravshipUpgrade.description>
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate.label>sealed crate</AncientSealedCrate.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate.description>A small crate that's still sealed. There may be valuables inside.</AncientSealedCrate.description>
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate_Gravlite.label>sealed crate</AncientSealedCrate_Gravlite.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate_Gravlite.description>A small crate that's still sealed. There may be valuables inside.</AncientSealedCrate_Gravlite.description>
+  <!-- EN: sealed crate -->
+  <AncientSealedCrate_Shells.label>sealed crate</AncientSealedCrate_Shells.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <AncientSealedCrate_Shells.description>A small crate that's still sealed. There may be valuables inside.</AncientSealedCrate_Shells.description>
+  <!-- EN: malfunctioning transport pod -->
+  <MalfunctioningTransportPod.label>malfunctioning transport pod</MalfunctioningTransportPod.label>
+  <!-- EN: A cargo pod with a faulty release mechanism. It's still sealed, holding unknown contents. -->
+  <MalfunctioningTransportPod.description>A cargo pod with a faulty release mechanism. It's still sealed, holding unknown contents.</MalfunctioningTransportPod.description>
+  <!-- EN: medicine pallet -->
+  <Pallet_Medicine.label>medicine pallet</Pallet_Medicine.label>
+  <!-- EN: A pallet containing old medical supplies. Some items might still be usable. -->
+  <Pallet_Medicine.description>A pallet containing old medical supplies. Some items might still be usable.</Pallet_Medicine.description>
+  <!-- EN: survival meal pallet -->
+  <Pallet_SurvivalMeals.label>survival meal pallet</Pallet_SurvivalMeals.label>
+  <!-- EN: A pallet containing survival meals. The contents are damaged but some meals might still be salvageable. -->
+  <Pallet_SurvivalMeals.description>A pallet containing survival meals. The contents are damaged but some meals might still be salvageable.</Pallet_SurvivalMeals.description>
+  <!-- EN: sealed crate -->
+  <SealedCrate.label>sealed crate</SealedCrate.label>
+  <!-- EN: A small crate that's still sealed. There may be valuables inside. -->
+  <SealedCrate.description>A small crate that's still sealed. There may be valuables inside.</SealedCrate.description>
+</LanguageData>

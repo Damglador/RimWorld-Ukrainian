@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: brain -->
+  <Brain.label>brain</Brain.label>
+  <!-- EN: ear -->
+  <Ear.label>ear</Ear.label>
+  <!-- EN: eye -->
+  <Eye.label>eye</Eye.label>
+  <!-- EN: foot -->
+  <Foot.label>foot</Foot.label>
+  <!-- EN: head -->
+  <Head.label>head</Head.label>
+  <!-- EN: jaw -->
+  <Jaw.label>jaw</Jaw.label>
+  <!-- EN: leg -->
+  <Leg.label>leg</Leg.label>
+  <!-- EN: neck -->
+  <Neck.label>neck</Neck.label>
+  <!-- EN: nose -->
+  <Nose.label>nose</Nose.label>
+  <!-- EN: ribcage -->
+  <Ribcage.label>ribcage</Ribcage.label>
+  <!-- EN: skull -->
+  <Skull.label>skull</Skull.label>
+  <!-- EN: spine -->
+  <Spine.label>spine</Spine.label>
+  <!-- EN: tongue -->
+  <Tongue.label>tongue</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>remove</Tongue.removeRecipeLabelOverride>
+</LanguageData>

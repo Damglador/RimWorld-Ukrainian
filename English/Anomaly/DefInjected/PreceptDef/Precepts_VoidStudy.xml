@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: efficient -->
+  <VoidStudy_Efficient.label>efficient</VoidStudy_Efficient.label>
+  <!-- EN: The void is a true mystery that deserves to be studied. -->
+  <VoidStudy_Efficient.description>The void is a true mystery that deserves to be studied.</VoidStudy_Efficient.description>
+  <!-- EN: inefficient -->
+  <VoidStudy_Inefficient.label>inefficient</VoidStudy_Inefficient.label>
+  <!-- EN: Trying to understand the unknowable is pointless. We should focus on more meaningful activities. -->
+  <VoidStudy_Inefficient.description>Trying to understand the unknowable is pointless. We should focus on more meaningful activities.</VoidStudy_Inefficient.description>
+  <!-- EN: very efficient -->
+  <VoidStudy_VeryEfficient.label>very efficient</VoidStudy_VeryEfficient.label>
+  <!-- EN: The void is the ultimate truth. -->
+  <VoidStudy_VeryEfficient.description>The void is the ultimate truth.</VoidStudy_VeryEfficient.description>
+  <!-- EN: very inefficient -->
+  <VoidStudy_VeryInefficient.label>very inefficient</VoidStudy_VeryInefficient.label>
+  <!-- EN: All this void nonsense is superstition. Let's focus on reality. -->
+  <VoidStudy_VeryInefficient.description>All this void nonsense is superstition. Let's focus on reality.</VoidStudy_VeryInefficient.description>
+</LanguageData>

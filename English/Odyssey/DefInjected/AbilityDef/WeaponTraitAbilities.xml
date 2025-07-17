@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: fire EMP -->
+  <EMPPulse.label>fire EMP</EMPPulse.label>
+  <!-- EN: Emit a burst of electromagnetic energy centered on the user. The burst will stun nearby mechanical targets like mechanoids or turrets. -->
+  <EMPPulse.description>Emit a burst of electromagnetic energy centered on the user. The burst will stun nearby mechanical targets like mechanoids or turrets.</EMPPulse.description>
+  <!-- EN: launch EMP shell -->
+  <LaunchEMPShell.label>launch EMP shell</LaunchEMPShell.label>
+  <!-- EN: Launch a shell that releases a burst of electromagnetic energy, stunning mechanical targets. Can be reloaded using steel. -->
+  <LaunchEMPShell.description>Launch a shell that releases a burst of electromagnetic energy, stunning mechanical targets. Can be reloaded using steel.</LaunchEMPShell.description>
+  <!-- EN: launch frag grenade -->
+  <LaunchFragGrenade.label>launch frag grenade</LaunchFragGrenade.label>
+  <!-- EN: Launch a grenade. Can be reloaded using steel. -->
+  <LaunchFragGrenade.description>Launch a grenade. Can be reloaded using steel.</LaunchFragGrenade.description>
+  <!-- EN: launch incendiary shell -->
+  <LaunchIncendiaryShell.label>launch incendiary shell</LaunchIncendiaryShell.label>
+  <!-- EN: Launch a shell that creates an explosion on impact, igniting everything nearby. Can be reloaded using chemfuel. -->
+  <LaunchIncendiaryShell.description>Launch a shell that creates an explosion on impact, igniting everything nearby. Can be reloaded using chemfuel.</LaunchIncendiaryShell.description>
+  <!-- EN: launch smoke shell -->
+  <LaunchSmokeShell.label>launch smoke shell</LaunchSmokeShell.label>
+  <!-- EN: Launch a smoke shell that obscures incoming shots and prevents turrets from locking on. Can be reloaded using steel. -->
+  <LaunchSmokeShell.description>Launch a smoke shell that obscures incoming shots and prevents turrets from locking on. Can be reloaded using steel.</LaunchSmokeShell.description>
+</LanguageData>

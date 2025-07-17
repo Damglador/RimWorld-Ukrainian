@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: orbit -->
+  <Orbit.label>orbit</Orbit.label>
+  <!-- EN: Empty space a few hundred kilometers above the surface of the world. -->
+  <Orbit.description>Empty space a few hundred kilometers above the surface of the world.</Orbit.description>
+  <!-- EN: space -->
+  <Space.label>space</Space.label>
+  <!-- EN: Empty void. -->
+  <Space.description>Empty void.</Space.description>
+</LanguageData>

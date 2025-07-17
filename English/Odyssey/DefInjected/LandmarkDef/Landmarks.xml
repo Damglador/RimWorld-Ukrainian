@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: abandoned colony -->
+  <AbandonedColonyOutlander.label>abandoned colony</AbandonedColonyOutlander.label>
+  <!-- EN: abandoned colony -->
+  <AbandonedColonyTribal.label>abandoned colony</AbandonedColonyTribal.label>
+  <!-- EN: ancient chemfuel refinery -->
+  <AncientChemfuelRefinery.label>ancient chemfuel refinery</AncientChemfuelRefinery.label>
+  <!-- EN: ancient garrison -->
+  <AncientGarrison.label>ancient garrison</AncientGarrison.label>
+  <!-- EN: ancient vent -->
+  <AncientHeatVent.label>ancient vent</AncientHeatVent.label>
+  <!-- EN: infested settlement -->
+  <AncientInfestedSettlement.label>infested settlement</AncientInfestedSettlement.label>
+  <!-- EN: ancient launch site -->
+  <AncientLaunchSite.label>ancient launch site</AncientLaunchSite.label>
+  <!-- EN: ancient quarry -->
+  <AncientQuarry.label>ancient quarry</AncientQuarry.label>
+  <!-- EN: ancient vent -->
+  <AncientSmokeVent.label>ancient vent</AncientSmokeVent.label>
+  <!-- EN: ancient vent -->
+  <AncientToxVent.label>ancient vent</AncientToxVent.label>
+  <!-- EN: ancient warehouse -->
+  <AncientWarehouse.label>ancient warehouse</AncientWarehouse.label>
+  <!-- EN: archipelago -->
+  <Archipelago.label>archipelago</Archipelago.label>
+  <!-- EN: basin -->
+  <Basin.label>basin</Basin.label>
+  <!-- EN: bay -->
+  <Bay.label>bay</Bay.label>
+  <!-- EN: cavern -->
+  <Cavern.label>cavern</Cavern.label>
+  <!-- EN: chasm -->
+  <Chasm.label>chasm</Chasm.label>
+  <!-- EN: cliffs -->
+  <Cliffs.label>cliffs</Cliffs.label>
+  <!-- EN: coastal atoll -->
+  <CoastalAtoll.label>coastal atoll</CoastalAtoll.label>
+  <!-- EN: coastal island -->
+  <CoastalIsland.label>coastal island</CoastalIsland.label>
+  <!-- EN: bay -->
+  <Cove.label>bay</Cove.label>
+  <!-- EN: crevasse -->
+  <Crevasse.label>crevasse</Crevasse.label>
+  <!-- EN: dry lake -->
+  <DryLake.label>dry lake</DryLake.label>
+  <!-- EN: dunes -->
+  <Dunes.label>dunes</Dunes.label>
+  <!-- EN: fjord -->
+  <Fjord.label>fjord</Fjord.label>
+  <!-- EN: frozen ruins -->
+  <FrozenRuins.label>frozen ruins</FrozenRuins.label>
+  <!-- EN: harbor -->
+  <Harbor.label>harbor</Harbor.label>
+  <!-- EN: hollow -->
+  <Hollow.label>hollow</Hollow.label>
+  <!-- EN: hot springs -->
+  <HotSprings.label>hot springs</HotSprings.label>
+  <!-- EN: iceberg -->
+  <Iceberg.label>iceberg</Iceberg.label>
+  <!-- EN: ice dunes -->
+  <IceDunes.label>ice dunes</IceDunes.label>
+  <!-- EN: lake -->
+  <Lake.label>lake</Lake.label>
+  <!-- EN: lake -->
+  <LakeWithIsland.label>lake</LakeWithIsland.label>
+  <!-- EN: lake -->
+  <LakeWithIslands.label>lake</LakeWithIslands.label>
+  <!-- EN: lava lake -->
+  <LavaCrater.label>lava lake</LavaCrater.label>
+  <!-- EN: lava flow -->
+  <LavaFlow.label>lava flow</LavaFlow.label>
+  <!-- EN: lava lake -->
+  <LavaLake.label>lava lake</LavaLake.label>
+  <!-- EN: oasis -->
+  <Oasis.label>oasis</Oasis.label>
+  <!-- EN: peninsula -->
+  <Peninsula.label>peninsula</Peninsula.label>
+  <!-- EN: plateau -->
+  <Plateau.label>plateau</Plateau.label>
+  <!-- EN: lake -->
+  <Pond.label>lake</Pond.label>
+  <!-- EN: ruins -->
+  <Ruins.label>ruins</Ruins.label>
+  <!-- EN: terraforming scar -->
+  <TerraformingScar.label>terraforming scar</TerraformingScar.label>
+  <!-- EN: toxic lake -->
+  <ToxicLake.label>toxic lake</ToxicLake.label>
+  <!-- EN: valley -->
+  <Valley.label>valley</Valley.label>
+  <!-- EN: wetland -->
+  <Wetland.label>wetland</Wetland.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: psychic hunger -->
+  <HungerMaker.label>psychic hunger</HungerMaker.label>
+  <!-- EN: Hunger is increased by the psychic influence of a bonded weapon. -->
+  <HungerMaker.description>Hunger is increased by the psychic influence of a bonded weapon.</HungerMaker.description>
+  <!-- EN: assisted neural cooling -->
+  <NeuralHeatRecoveryGain.label>assisted neural cooling</NeuralHeatRecoveryGain.label>
+  <!-- EN: Neural heat dissipation is improved by the psychic influence of a bonded weapon. -->
+  <NeuralHeatRecoveryGain.description>Neural heat dissipation is improved by the psychic influence of a bonded weapon.</NeuralHeatRecoveryGain.description>
+  <!-- EN: psychic painlessness -->
+  <NoPain.label>psychic painlessness</NoPain.label>
+  <!-- EN: Pain is disabled by the psychic influence of a wielded weapon. -->
+  <NoPain.description>Pain is disabled by the psychic influence of a wielded weapon.</NoPain.description>
+  <!-- EN: psychic speed -->
+  <SpeedBoost.label>psychic speed</SpeedBoost.label>
+  <!-- EN: Movement is sped up by the psychic influence of a wielded weapon. -->
+  <SpeedBoost.description>Movement is sped up by the psychic influence of a wielded weapon.</SpeedBoost.description>
+</LanguageData>

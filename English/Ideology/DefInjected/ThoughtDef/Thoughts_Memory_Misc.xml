@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: biosculpter pleasure cycle -->
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>biosculpter pleasure cycle</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>
+  <!-- EN: Every part of me is somehow better at feeling good. -->
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>Every part of me is somehow better at feeling good.</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>
+  <!-- EN: Gauranlen death -->
+  <ConnectedTreeDied.stages.Gauranlen_death.label>Gauranlen death</ConnectedTreeDied.stages.Gauranlen_death.label>
+  <!-- EN: My tree... its calming presence became pure pain, then went silent. Its suffering echoes in my mind... -->
+  <ConnectedTreeDied.stages.Gauranlen_death.description>My tree... its calming presence became pure pain, then went silent. Its suffering echoes in my mind...</ConnectedTreeDied.stages.Gauranlen_death.description>
+  <!-- EN: dryad died -->
+  <DryadDied.stages.dryad_died.label>dryad died</DryadDied.stages.dryad_died.label>
+  <!-- EN: My tree's dryad is gone forever. You shall be missed, little one. -->
+  <DryadDied.stages.dryad_died.description>My tree's dryad is gone forever. You shall be missed, little one.</DryadDied.stages.dryad_died.description>
+  <!-- EN: all relics collected -->
+  <RelicsCollected.stages.all_relics_collected.label>all relics collected</RelicsCollected.stages.all_relics_collected.label>
+  <!-- EN: We found all of our sacred relics! -->
+  <RelicsCollected.stages.all_relics_collected.description>We found all of our sacred relics!</RelicsCollected.stages.all_relics_collected.description>
+  <!-- EN: shared room with slave -->
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.label>shared room with slave</SleptInRoomWithSlave.stages.shared_room_with_slave.label>
+  <!-- EN: I had to sleep in the same room as a slave. -->
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.description>I had to sleep in the same room as a slave.</SleptInRoomWithSlave.stages.shared_room_with_slave.description>
+  <!-- EN: was enslaved -->
+  <WasEnslaved.stages.was_enslaved.label>was enslaved</WasEnslaved.stages.was_enslaved.label>
+  <!-- EN: They kept me as a slave. They forced me to suffer! -->
+  <WasEnslaved.stages.was_enslaved.description>They kept me as a slave. They forced me to suffer!</WasEnslaved.stages.was_enslaved.description>
+</LanguageData>

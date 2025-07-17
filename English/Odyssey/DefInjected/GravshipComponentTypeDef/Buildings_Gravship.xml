@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: controls -->
+  <Controls.label>controls</Controls.label>
+  <!-- EN: fuel tank -->
+  <FuelStorage.label>fuel tank</FuelStorage.label>
+  <!-- EN: power cell -->
+  <PowerCell.label>power cell</PowerCell.label>
+  <!-- EN: signal jammer -->
+  <SignalJammer.label>signal jammer</SignalJammer.label>
+  <!-- EN: thruster -->
+  <Thruster.label>thruster</Thruster.label>
+</LanguageData>

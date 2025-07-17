@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: call drop pods -->
+  <CallDropPods.label>call drop pods</CallDropPods.label>
+  <!-- EN: Summon drop pods that you can use to travel to another location. -->
+  <CallDropPods.description>Summon drop pods that you can use to travel to another location.</CallDropPods.description>
+  <!-- EN: call mechanoids -->
+  <CallMechanoids.label>call mechanoids</CallMechanoids.label>
+  <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
+  <CallMechanoids.description>Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe.</CallMechanoids.description>
+  <!-- EN: deactivate mechanoid -->
+  <DeactivateMechanoid.label>deactivate mechanoid</DeactivateMechanoid.label>
+  <!-- EN: Permanently disable a hostile mechanoid. -->
+  <DeactivateMechanoid.description>Permanently disable a hostile mechanoid.</DeactivateMechanoid.description>
+  <!-- EN: egg spew -->
+  <EggSpew.label>egg spew</EggSpew.label>
+  <!-- EN: Launch an egg sac and a spray of acidic sludge at the target area. The sludge will stick to targets and burn them. -->
+  <EggSpew.description>Launch an egg sac and a spray of acidic sludge at the target area. The sludge will stick to targets and burn them.</EggSpew.description>
+  <!-- EN: sludge spew -->
+  <SludgeSpew.label>sludge spew</SludgeSpew.label>
+  <!-- EN: Spray an acidic sludge all over the target area. The sludge will stick to targets and burn them. -->
+  <SludgeSpew.description>Spray an acidic sludge all over the target area. The sludge will stick to targets and burn them.</SludgeSpew.description>
+  <!-- EN: terror roar -->
+  <TerrorRoar.label>terror roar</TerrorRoar.label>
+  <!-- EN: Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror. -->
+  <TerrorRoar.description>Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror.</TerrorRoar.description>
+  <!-- EN: thrumbo roar -->
+  <ThrumboRoar.label>thrumbo roar</ThrumboRoar.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <ThrumboRoar.description>Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation.</ThrumboRoar.description>
+  <!-- EN: war trumpet -->
+  <WarTrumpet.label>war trumpet</WarTrumpet.label>
+  <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
+  <WarTrumpet.description>Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation.</WarTrumpet.description>
+</LanguageData>

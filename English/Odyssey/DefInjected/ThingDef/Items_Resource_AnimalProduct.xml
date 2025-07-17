@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: alligator egg (fert.) -->
+  <EggAlligatorFertilized.label>alligator egg (fert.)</EggAlligatorFertilized.label>
+  <!-- EN: A fertilized alligator egg. If all goes well, it should hatch into a baby alligator. It can be eaten raw, but it's much better cooked. -->
+  <EggAlligatorFertilized.description>A fertilized alligator egg. If all goes well, it should hatch into a baby alligator. It can be eaten raw, but it's much better cooked.</EggAlligatorFertilized.description>
+  <!-- EN: alligator egg (unfert.) -->
+  <EggAlligatorUnfertilized.label>alligator egg (unfert.)</EggAlligatorUnfertilized.label>
+  <!-- EN: An unfertilized alligator egg. It can be eaten raw, but it's much better cooked. -->
+  <EggAlligatorUnfertilized.description>An unfertilized alligator egg. It can be eaten raw, but it's much better cooked.</EggAlligatorUnfertilized.description>
+  <!-- EN: bluebird egg (fert.) -->
+  <EggBluebirdFertilized.label>bluebird egg (fert.)</EggBluebirdFertilized.label>
+  <!-- EN: A fertilized bluebird egg. If all goes well, it should hatch into a baby bluebird. It can be eaten raw, but it's much better cooked. -->
+  <EggBluebirdFertilized.description>A fertilized bluebird egg. If all goes well, it should hatch into a baby bluebird. It can be eaten raw, but it's much better cooked.</EggBluebirdFertilized.description>
+  <!-- EN: bluebird egg (unfert.) -->
+  <EggBluebirdUnfertilized.label>bluebird egg (unfert.)</EggBluebirdUnfertilized.label>
+  <!-- EN: An unfertilized bluebird egg. It can be eaten raw, but it's much better cooked. -->
+  <EggBluebirdUnfertilized.description>An unfertilized bluebird egg. It can be eaten raw, but it's much better cooked.</EggBluebirdUnfertilized.description>
+  <!-- EN: crow egg (fert.) -->
+  <EggCrowFertilized.label>crow egg (fert.)</EggCrowFertilized.label>
+  <!-- EN: A fertilized crow egg. If all goes well, it should hatch into a baby crow. It can be eaten raw, but it's much better cooked. -->
+  <EggCrowFertilized.description>A fertilized crow egg. If all goes well, it should hatch into a baby crow. It can be eaten raw, but it's much better cooked.</EggCrowFertilized.description>
+  <!-- EN: crow egg (unfert.) -->
+  <EggCrowUnfertilized.label>crow egg (unfert.)</EggCrowUnfertilized.label>
+  <!-- EN: An unfertilized crow egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCrowUnfertilized.description>An unfertilized crow egg. It can be eaten raw, but it's much better cooked.</EggCrowUnfertilized.description>
+  <!-- EN: flamingo egg (fert.) -->
+  <EggFlamingoFertilized.label>flamingo egg (fert.)</EggFlamingoFertilized.label>
+  <!-- EN: A fertilized flamingo egg. If all goes well, it should hatch into a baby flamingo. It can be eaten raw, but it's much better cooked. -->
+  <EggFlamingoFertilized.description>A fertilized flamingo egg. If all goes well, it should hatch into a baby flamingo. It can be eaten raw, but it's much better cooked.</EggFlamingoFertilized.description>
+  <!-- EN: flamingo egg (unfert.) -->
+  <EggFlamingoUnfertilized.label>flamingo egg (unfert.)</EggFlamingoUnfertilized.label>
+  <!-- EN: An unfertilized flamingo egg. It can be eaten raw, but it's much better cooked. -->
+  <EggFlamingoUnfertilized.description>An unfertilized flamingo egg. It can be eaten raw, but it's much better cooked.</EggFlamingoUnfertilized.description>
+  <!-- EN: heron egg (fert.) -->
+  <EggHeronFertilized.label>heron egg (fert.)</EggHeronFertilized.label>
+  <!-- EN: A fertilized heron egg. If all goes well, it should hatch into a baby heron. It can be eaten raw, but it's much better cooked. -->
+  <EggHeronFertilized.description>A fertilized heron egg. If all goes well, it should hatch into a baby heron. It can be eaten raw, but it's much better cooked.</EggHeronFertilized.description>
+  <!-- EN: heron egg (unfert.) -->
+  <EggHeronUnfertilized.label>heron egg (unfert.)</EggHeronUnfertilized.label>
+  <!-- EN: An unfertilized heron egg. It can be eaten raw, but it's much better cooked. -->
+  <EggHeronUnfertilized.description>An unfertilized heron egg. It can be eaten raw, but it's much better cooked.</EggHeronUnfertilized.description>
+  <!-- EN: macaw egg (fert.) -->
+  <EggMacawFertilized.label>macaw egg (fert.)</EggMacawFertilized.label>
+  <!-- EN: A fertilized macaw egg. If all goes well, it should hatch into a baby parrot. It can be eaten raw, but it's much better cooked. -->
+  <EggMacawFertilized.description>A fertilized macaw egg. If all goes well, it should hatch into a baby parrot. It can be eaten raw, but it's much better cooked.</EggMacawFertilized.description>
+  <!-- EN: macaw egg (unfert.) -->
+  <EggMacawUnfertilized.label>macaw egg (unfert.)</EggMacawUnfertilized.label>
+  <!-- EN: An unfertilized macaw egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMacawUnfertilized.description>An unfertilized macaw egg. It can be eaten raw, but it's much better cooked.</EggMacawUnfertilized.description>
+  <!-- EN: monitor lizard egg (fert.) -->
+  <EggMonitorLizardFertilized.label>monitor lizard egg (fert.)</EggMonitorLizardFertilized.label>
+  <!-- EN: A fertilized monitor lizard egg. If all goes well, it should hatch into a baby monitor lizard. It can be eaten raw, but it's much better cooked. -->
+  <EggMonitorLizardFertilized.description>A fertilized monitor lizard egg. If all goes well, it should hatch into a baby monitor lizard. It can be eaten raw, but it's much better cooked.</EggMonitorLizardFertilized.description>
+  <!-- EN: monitor lizard egg (unfert.) -->
+  <EggMonitorLizardUnfertilized.label>monitor lizard egg (unfert.)</EggMonitorLizardUnfertilized.label>
+  <!-- EN: An unfertilized monitor lizard egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMonitorLizardUnfertilized.description>An unfertilized monitor lizard egg. It can be eaten raw, but it's much better cooked.</EggMonitorLizardUnfertilized.description>
+  <!-- EN: peacock egg (fert.) -->
+  <EggPeacockFertilized.label>peacock egg (fert.)</EggPeacockFertilized.label>
+  <!-- EN: A fertilized peacock egg. If all goes well, it should hatch into a baby peacock. It can be eaten raw, but it's much better cooked. -->
+  <EggPeacockFertilized.description>A fertilized peacock egg. If all goes well, it should hatch into a baby peacock. It can be eaten raw, but it's much better cooked.</EggPeacockFertilized.description>
+  <!-- EN: peacock egg (unfert.) -->
+  <EggPeacockUnfertilized.label>peacock egg (unfert.)</EggPeacockUnfertilized.label>
+  <!-- EN: An unfertilized peacock egg. It can be eaten raw, but it's much better cooked. -->
+  <EggPeacockUnfertilized.description>An unfertilized peacock egg. It can be eaten raw, but it's much better cooked.</EggPeacockUnfertilized.description>
+  <!-- EN: penguin egg (fert.) -->
+  <EggPenguinFertilized.label>penguin egg (fert.)</EggPenguinFertilized.label>
+  <!-- EN: A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked. -->
+  <EggPenguinFertilized.description>A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked.</EggPenguinFertilized.description>
+  <!-- EN: penguin egg (unfert.) -->
+  <EggPenguinUnfertilized.label>penguin egg (unfert.)</EggPenguinUnfertilized.label>
+  <!-- EN: An unfertilized penguin egg. It can be eaten raw, but it's much better cooked. -->
+  <EggPenguinUnfertilized.description>An unfertilized penguin egg. It can be eaten raw, but it's much better cooked.</EggPenguinUnfertilized.description>
+  <!-- EN: quail egg (fert.) -->
+  <EggQuailFertilized.label>quail egg (fert.)</EggQuailFertilized.label>
+  <!-- EN: A fertilized quail egg. If all goes well, it should hatch into a baby quail. It can be eaten raw, but it's much better cooked. -->
+  <EggQuailFertilized.description>A fertilized quail egg. If all goes well, it should hatch into a baby quail. It can be eaten raw, but it's much better cooked.</EggQuailFertilized.description>
+  <!-- EN: quail egg (unfert.) -->
+  <EggQuailUnfertilized.label>quail egg (unfert.)</EggQuailUnfertilized.label>
+  <!-- EN: An unfertilized quail egg. It can be eaten raw, but it's much better cooked. -->
+  <EggQuailUnfertilized.description>An unfertilized quail egg. It can be eaten raw, but it's much better cooked.</EggQuailUnfertilized.description>
+  <!-- EN: sea turtle egg (fert.) -->
+  <EggSeaTurtleFertilized.label>sea turtle egg (fert.)</EggSeaTurtleFertilized.label>
+  <!-- EN: A fertilized sea turtle egg. If all goes well, it should hatch into a baby sea turtle. It can be eaten raw, but it's much better cooked. -->
+  <EggSeaTurtleFertilized.description>A fertilized sea turtle egg. If all goes well, it should hatch into a baby sea turtle. It can be eaten raw, but it's much better cooked.</EggSeaTurtleFertilized.description>
+  <!-- EN: sea turtle egg (unfert.) -->
+  <EggSeaTurtleUnfertilized.label>sea turtle egg (unfert.)</EggSeaTurtleUnfertilized.label>
+  <!-- EN: An unfertilized sea turtle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSeaTurtleUnfertilized.description>An unfertilized sea turtle egg. It can be eaten raw, but it's much better cooked.</EggSeaTurtleUnfertilized.description>
+  <!-- EN: sparrow egg (fert.) -->
+  <EggSparrowFertilized.label>sparrow egg (fert.)</EggSparrowFertilized.label>
+  <!-- EN: A fertilized sparrow egg. If all goes well, it should hatch into a baby sparrow. It can be eaten raw, but it's much better cooked. -->
+  <EggSparrowFertilized.description>A fertilized sparrow egg. If all goes well, it should hatch into a baby sparrow. It can be eaten raw, but it's much better cooked.</EggSparrowFertilized.description>
+  <!-- EN: sparrow egg (unfert.) -->
+  <EggSparrowUnfertilized.label>sparrow egg (unfert.)</EggSparrowUnfertilized.label>
+  <!-- EN: An unfertilized sparrow egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSparrowUnfertilized.description>An unfertilized sparrow egg. It can be eaten raw, but it's much better cooked.</EggSparrowUnfertilized.description>
+  <!-- EN: swan egg (fert.) -->
+  <EggSwanFertilized.label>swan egg (fert.)</EggSwanFertilized.label>
+  <!-- EN: A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked. -->
+  <EggSwanFertilized.description>A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked.</EggSwanFertilized.description>
+  <!-- EN: swan egg (unfert.) -->
+  <EggSwanUnfertilized.label>swan egg (unfert.)</EggSwanUnfertilized.label>
+  <!-- EN: An unfertilized swan egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSwanUnfertilized.description>An unfertilized swan egg. It can be eaten raw, but it's much better cooked.</EggSwanUnfertilized.description>
+  <!-- EN: vulture egg (fert.) -->
+  <EggVultureFertilized.label>vulture egg (fert.)</EggVultureFertilized.label>
+  <!-- EN: A fertilized vulture egg. If all goes well, it should hatch into a baby vulture. It can be eaten raw, but it's much better cooked. -->
+  <EggVultureFertilized.description>A fertilized vulture egg. If all goes well, it should hatch into a baby vulture. It can be eaten raw, but it's much better cooked.</EggVultureFertilized.description>
+  <!-- EN: vulture egg (unfert.) -->
+  <EggVultureUnfertilized.label>vulture egg (unfert.)</EggVultureUnfertilized.label>
+  <!-- EN: An unfertilized vulture egg. It can be eaten raw, but it's much better cooked. -->
+  <EggVultureUnfertilized.description>An unfertilized vulture egg. It can be eaten raw, but it's much better cooked.</EggVultureUnfertilized.description>
+  <!-- EN: mastodon wool -->
+  <WoolMastodon.label>mastodon wool</WoolMastodon.label>
+  <!-- EN: Thick shaggy wool from a mastodon. Provides excellent insulation against the cold. -->
+  <WoolMastodon.description>Thick shaggy wool from a mastodon. Provides excellent insulation against the cold.</WoolMastodon.description>
+  <!-- EN: muskox wool -->
+  <WoolMuskox.label>muskox wool</WoolMuskox.label>
+  <!-- EN: Itchy wool from a muskox. Good at keeping the cold out. -->
+  <WoolMuskox.description>Itchy wool from a muskox. Good at keeping the cold out.</WoolMuskox.description>
+</LanguageData>

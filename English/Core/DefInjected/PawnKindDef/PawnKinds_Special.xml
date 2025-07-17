@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: slave -->
+  <Slave.label>slave</Slave.label>
+  <!-- EN: stranger in black -->
+  <StrangerInBlack.label>stranger in black</StrangerInBlack.label>
+  <!-- EN: woman in black -->
+  <StrangerInBlack.labelFemale>woman in black</StrangerInBlack.labelFemale>
+  <!-- EN: man in black -->
+  <StrangerInBlack.labelMale>man in black</StrangerInBlack.labelMale>
+  <!-- EN: strangers in black -->
+  <StrangerInBlack.labelPlural>strangers in black</StrangerInBlack.labelPlural>
+  <!-- EN: wild man -->
+  <WildMan.label>wild man</WildMan.label>
+  <!-- EN: wild woman -->
+  <WildMan.labelFemale>wild woman</WildMan.labelFemale>
+  <!-- EN: wild women -->
+  <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>
+  <!-- EN: wild men -->
+  <WildMan.labelPlural>wild men</WildMan.labelPlural>
+</LanguageData>

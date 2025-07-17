@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chicken -->
+  <Chicken.label>chicken</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>hen</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>rooster</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>chick</Chicken.lifeStages.chick.label>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>cockerel</Chicken.lifeStages.cockerel.labelMale>
+  <!-- EN: duck -->
+  <Duck.label>duck</Duck.label>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>duckling</Duck.lifeStages.duckling.label>
+  <!-- EN: goose -->
+  <Goose.label>goose</Goose.label>
+  <!-- EN: geese -->
+  <Goose.labelPlural>geese</Goose.labelPlural>
+  <!-- EN: turkey -->
+  <Turkey.label>turkey</Turkey.label>
+</LanguageData>

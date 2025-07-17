@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Fishing -->
+  <!-- EN: do X times -->
+  <FishRepeatMode_RepeatCount>do X times</FishRepeatMode_RepeatCount>
+  <!-- EN: do until you have X -->
+  <FishRepeatMode_TargetCount>do until you have X</FishRepeatMode_TargetCount>
+  <!-- EN: do forever -->
+  <FishRepeatMode_Forever>do forever</FishRepeatMode_Forever>
+  <!-- EN: Fish population -->
+  <FishPopulation>Fish population</FishPopulation>
+  <!-- EN: How many fish are in this body of water. Larger bodies of water have more fish and will recover fish populations faster. -->
+  <FishPopulationDesc>How many fish are in this body of water. Larger bodies of water have more fish and will recover fish populations faster.</FishPopulationDesc>
+  <!-- EN: Minimum population -->
+  <MinimumPopulation>Minimum population</MinimumPopulation>
+  <!-- EN: Colonists won't fish if the fish population is under this limit. Fishing yields are lower if there are less than 300 fish. -->
+  <MinimumPopulationDesc>Colonists won't fish if the fish population is under this limit. Fishing yields are lower if there are less than 300 fish.</MinimumPopulationDesc>
+  <!-- EN: uncommon -->
+  <Uncommon>uncommon</Uncommon>
+  <!-- EN: When toggled off, colonists will avoid catching this fish. -->
+  <ToggleFishAvoid>When toggled off, colonists will avoid catching this fish.</ToggleFishAvoid>
+</LanguageData>

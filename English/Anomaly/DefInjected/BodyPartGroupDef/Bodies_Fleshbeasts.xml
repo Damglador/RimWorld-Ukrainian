@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tentacle -->
+  <FifthTentacle.label>tentacle</FifthTentacle.label>
+  <!-- EN: tentacle -->
+  <FirstTentacle.label>tentacle</FirstTentacle.label>
+  <!-- EN: tentacle -->
+  <FourthTentacle.label>tentacle</FourthTentacle.label>
+  <!-- EN: left spike -->
+  <LeftSpike.label>left spike</LeftSpike.label>
+  <!-- EN: spike -->
+  <LeftSpike.labelShort>spike</LeftSpike.labelShort>
+  <!-- EN: middle spike -->
+  <MiddleSpike.label>middle spike</MiddleSpike.label>
+  <!-- EN: spike -->
+  <MiddleSpike.labelShort>spike</MiddleSpike.labelShort>
+  <!-- EN: right spike -->
+  <RightSpike.label>right spike</RightSpike.label>
+  <!-- EN: spike -->
+  <RightSpike.labelShort>spike</RightSpike.labelShort>
+  <!-- EN: tentacle -->
+  <SecondTentacle.label>tentacle</SecondTentacle.label>
+  <!-- EN: tentacle -->
+  <ThirdTentacle.label>tentacle</ThirdTentacle.label>
+</LanguageData>

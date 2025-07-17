@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: abandoned landmark -->
+  <AbandonedLandmark.label>abandoned landmark</AbandonedLandmark.label>
+  <!-- EN: An abandoned campsite at a landmark. -->
+  <AbandonedLandmark.description>An abandoned campsite at a landmark.</AbandonedLandmark.description>
+  <!-- EN: basic asteroid -->
+  <AsteroidBasic.label>basic asteroid</AsteroidBasic.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidBasic.description>A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</AsteroidBasic.description>
+  <!-- EN: asteroid mining site -->
+  <AsteroidMiningSite.label>asteroid mining site</AsteroidMiningSite.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <AsteroidMiningSite.description>A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</AsteroidMiningSite.description>
+  <!-- EN: claimable site -->
+  <ClaimableSite.label>claimable site</ClaimableSite.label>
+  <!-- EN: claimable space site -->
+  <ClaimableSpaceSite.label>claimable space site</ClaimableSpaceSite.label>
+  <!-- EN: destroyed settlement -->
+  <DestroyedSpaceSettlement.label>destroyed settlement</DestroyedSpaceSettlement.label>
+  <!-- EN: A destroyed settlement. -->
+  <DestroyedSpaceSettlement.description>A destroyed settlement.</DestroyedSpaceSettlement.description>
+  <!-- EN: gravship -->
+  <Gravship.label>gravship</Gravship.label>
+  <!-- EN: A gravship in flight. -->
+  <Gravship.description>A gravship in flight.</Gravship.description>
+  <!-- EN: gravship launch -->
+  <GravshipLaunch.label>gravship launch</GravshipLaunch.label>
+  <!-- EN: The launch site of a gravship. -->
+  <GravshipLaunch.description>The launch site of a gravship.</GravshipLaunch.description>
+  <!-- EN: mechhive -->
+  <Mechhive.label>mechhive</Mechhive.label>
+  <!-- EN: orbital item stash -->
+  <OrbitalItemStash.label>orbital item stash</OrbitalItemStash.label>
+  <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
+  <OrbitalItemStash.description>A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</OrbitalItemStash.description>
+  <!-- EN: passenger shuttle -->
+  <PassengerShuttle.label>passenger shuttle</PassengerShuttle.label>
+  <!-- EN: A passenger shuttle in flight. -->
+  <PassengerShuttle.description>A passenger shuttle in flight.</PassengerShuttle.description>
+  <!-- EN: space -->
+  <Space.label>space</Space.label>
+  <!-- EN: orbital settlement -->
+  <SpaceSettlement.label>orbital settlement</SpaceSettlement.label>
+  <!-- EN: An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer. -->
+  <SpaceSettlement.description>An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer.</SpaceSettlement.description>
+  <!-- EN: space site -->
+  <SpaceSite.label>space site</SpaceSite.label>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: double tuft -->
+  <DoubleTuft.label>double tuft</DoubleTuft.label>
+  <!-- EN: large tuft -->
+  <LargeTuft.label>large tuft</LargeTuft.label>
+  <!-- EN: long mess -->
+  <LongMess.label>long mess</LongMess.label>
+  <!-- EN: long oily -->
+  <LongOily.label>long oily</LongOily.label>
+  <!-- EN: parted -->
+  <Parted.label>parted</Parted.label>
+  <!-- EN: patchy shave -->
+  <PatchyShave.label>patchy shave</PatchyShave.label>
+  <!-- EN: rough shave -->
+  <RoughShave.label>rough shave</RoughShave.label>
+  <!-- EN: shaved mohawk -->
+  <ShavedMohawk.label>shaved mohawk</ShavedMohawk.label>
+  <!-- EN: short cut -->
+  <ShortCut.label>short cut</ShortCut.label>
+  <!-- EN: side cut -->
+  <SideCut.label>side cut</SideCut.label>
+  <!-- EN: side spikes -->
+  <SideSpikes.label>side spikes</SideSpikes.label>
+</LanguageData>

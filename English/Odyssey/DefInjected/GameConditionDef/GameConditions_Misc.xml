@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bioluminescent spores -->
+  <BioluminescentSpores.label>bioluminescent spores</BioluminescentSpores.label>
+  <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores are strangely beautiful and pose no danger. -->
+  <BioluminescentSpores.description>Some variety of fungus is blossoming and releasing bioluminescent spores! The spores are strangely beautiful and pose no danger.</BioluminescentSpores.description>
+  <!-- EN: The bioluminescent spores are subsiding. -->
+  <BioluminescentSpores.endMessage>The bioluminescent spores are subsiding.</BioluminescentSpores.endMessage>
+  <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores pose no danger, and the shimmering visuals will brighten the mood of anyone who sees them. -->
+  <BioluminescentSpores.letterText>Some variety of fungus is blossoming and releasing bioluminescent spores! The spores pose no danger, and the shimmering visuals will brighten the mood of anyone who sees them.</BioluminescentSpores.letterText>
+  <!-- EN: darkened skies -->
+  <DarkenedSkies.label>darkened skies</DarkenedSkies.label>
+  <!-- EN: Thick black clouds are blocking out the sky and sun. -->
+  <DarkenedSkies.description>Thick black clouds are blocking out the sky and sun.</DarkenedSkies.description>
+  <!-- EN: deep freeze -->
+  <DeepFreeze.label>deep freeze</DeepFreeze.label>
+  <!-- EN: An ancient, mysterious device is dramatically lowering temperatures in the area. -->
+  <DeepFreeze.description>An ancient, mysterious device is dramatically lowering temperatures in the area.</DeepFreeze.description>
+  <!-- EN: The deep freeze is lifting. -->
+  <DeepFreeze.endMessage>The deep freeze is lifting.</DeepFreeze.endMessage>
+  <!-- EN: drought -->
+  <Drought.label>drought</Drought.label>
+  <!-- EN: A prolonged period of low rainfall. Plants will grow slower during a drought. -->
+  <Drought.description>A prolonged period of low rainfall. Plants will grow slower during a drought.</Drought.description>
+  <!-- EN: The drought is over. -->
+  <Drought.endMessage>The drought is over.</Drought.endMessage>
+  <!-- EN: Due to a recent lack of rain, a drought has begun. Outdoor plants will grow significantly slower. -->
+  <Drought.letterText>Due to a recent lack of rain, a drought has begun. Outdoor plants will grow significantly slower.</Drought.letterText>
+  <!-- EN: initial drought conditions -->
+  <DroughtInitial.label>initial drought conditions</DroughtInitial.label>
+  <!-- EN: The initial signs of a drought. If it continues, a full drought will occur. -->
+  <DroughtInitial.description>The initial signs of a drought. If it continues, a full drought will occur.</DroughtInitial.description>
+  <!-- EN: gill rot -->
+  <GillRot.label>gill rot</GillRot.label>
+  <!-- EN: Fish populations are slowly declining due to a parasitic fungus known as gill rot. The fungus is harmless to people. -->
+  <GillRot.description>Fish populations are slowly declining due to a parasitic fungus known as gill rot. The fungus is harmless to people.</GillRot.description>
+  <!-- EN: Gill rot is ending. -->
+  <GillRot.endMessage>Gill rot is ending.</GillRot.endMessage>
+  <!-- EN: A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive. -->
+  <GillRot.letterText>A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive.</GillRot.letterText>
+  <!-- EN: heat vent emissions -->
+  <HeatVentHeat.label>heat vent emissions</HeatVentHeat.label>
+  <!-- EN: Heat from a nearby underground vent is raising the temperature in the area. -->
+  <HeatVentHeat.description>Heat from a nearby underground vent is raising the temperature in the area.</HeatVentHeat.description>
+  <!-- EN: lava flow -->
+  <LavaFlow.label>lava flow</LavaFlow.label>
+  <!-- EN: Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way! -->
+  <LavaFlow.description>Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way!</LavaFlow.description>
+  <!-- EN: volcanic ash -->
+  <VolcanicAsh.label>volcanic ash</VolcanicAsh.label>
+  <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
+  <VolcanicAsh.description>Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days.</VolcanicAsh.description>
+  <!-- EN: a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe -->
+  <VolcanicAsh.descriptionFuture>a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe</VolcanicAsh.descriptionFuture>
+  <!-- EN: Most of the ash has settled. -->
+  <VolcanicAsh.endMessage>Most of the ash has settled.</VolcanicAsh.endMessage>
+  <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
+  <VolcanicAsh.letterText>Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days.</VolcanicAsh.letterText>
+  <!-- EN: volcanic debris -->
+  <VolcanicDebris.label>volcanic debris</VolcanicDebris.label>
+  <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
+  <VolcanicDebris.description>A nearby volcanic eruption is showering the region with molten lava!</VolcanicDebris.description>
+  <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
+  <VolcanicDebris.letterText>A nearby volcanic eruption is showering the region with molten lava!</VolcanicDebris.letterText>
+  <!-- EN: windy -->
+  <WindyGameCondition.label>windy</WindyGameCondition.label>
+  <!-- EN: Winds are much stronger in this area. -->
+  <WindyGameCondition.description>Winds are much stronger in this area.</WindyGameCondition.description>
+</LanguageData>

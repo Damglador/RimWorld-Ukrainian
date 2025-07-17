@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Research -->
+  <!-- EN: Grav engine must be inspected -->
+  <MissingGravEngineInspection>Grav engine must be inspected</MissingGravEngineInspection>
+  <!-- EN: Requires inspection of -->
+  <RequiresInspectionof>Requires inspection of</RequiresInspectionof>
+  <!-- EN: Grav engine inspected -->
+  <RequireGravEngineInspected>Grav engine inspected</RequireGravEngineInspected>
+  <!-- Ancient vents -->
+  <!-- EN: venting smoke. -->
+  <AncientSmokeVentActive>venting smoke.</AncientSmokeVentActive>
+  <!-- EN: creating toxic fallout. -->
+  <AncientToxVentActive>creating toxic fallout.</AncientToxVentActive>
+  <!-- EN: venting heat. -->
+  <AncientHeatVentActive>venting heat.</AncientHeatVentActive>
+</LanguageData>

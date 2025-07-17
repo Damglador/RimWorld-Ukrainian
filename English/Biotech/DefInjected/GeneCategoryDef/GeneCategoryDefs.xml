@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: special abilities -->
+  <Ability.label>special abilities</Ability.label>
+  <!-- EN: aptitudes -->
+  <Aptitudes.label>aptitudes</Aptitudes.label>
+  <!-- EN: archite -->
+  <Archite.label>archite</Archite.label>
+  <!-- EN: beauty -->
+  <Beauty.label>beauty</Beauty.label>
+  <!-- EN: cosmetic - body type -->
+  <Cosmetic_Body.label>cosmetic - body type</Cosmetic_Body.label>
+  <!-- EN: drugs -->
+  <Drugs.label>drugs</Drugs.label>
+  <!-- EN: health -->
+  <Healing.label>health</Healing.label>
+  <!-- EN: hemogen -->
+  <Hemogen.label>hemogen</Hemogen.label>
+  <!-- EN: mood -->
+  <Mood.label>mood</Mood.label>
+  <!-- EN: movement -->
+  <Movement.label>movement</Movement.label>
+  <!-- EN: pain -->
+  <Pain.label>pain</Pain.label>
+  <!-- EN: psychics -->
+  <Psychic.label>psychics</Psychic.label>
+  <!-- EN: reproduction -->
+  <Reproduction.label>reproduction</Reproduction.label>
+  <!-- EN: resistance and sensitivity -->
+  <ResistanceAndWeakness.label>resistance and sensitivity</ResistanceAndWeakness.label>
+  <!-- EN: sleep -->
+  <Sleep.label>sleep</Sleep.label>
+  <!-- EN: temperature -->
+  <Temperature.label>temperature</Temperature.label>
+  <!-- EN: violence -->
+  <Violence.label>violence</Violence.label>
+</LanguageData>

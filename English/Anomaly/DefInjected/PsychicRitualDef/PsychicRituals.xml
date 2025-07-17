@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blood rain -->
+  <BloodRain.label>blood rain</BloodRain.label>
+  <!-- EN: Cast a ritual which causes blood-like psychofluid to fall from the sky. The fluid will slowly drive exposed humans and animals into a berserk frenzy. Traits and psychic sensitivity modulate the effect. -->
+  <BloodRain.description>Cast a ritual which causes blood-like psychofluid to fall from the sky. The fluid will slowly drive exposed humans and animals into a berserk frenzy. Traits and psychic sensitivity modulate the effect.</BloodRain.description>
+  <!-- EN: At the current ritual quality, the blood rain will last for {0}. -->
+  <BloodRain.outcomeDescription>At the current ritual quality, the blood rain will last for {0}.</BloodRain.outcomeDescription>
+  <!-- EN: brainwipe -->
+  <Brainwipe.label>brainwipe</Brainwipe.label>
+  <!-- EN: Erase a person's memories. Traumatic events will be forgotten. Prisoners will forget their allegiance and become easier to recruit, even if they were unwavering before. Inhumanized individuals will forget their connection to the void. Unfortunately, the disruptive effect of the ritual will induce a coma that could last a long time, especially if the ritual is of poor quality. -->
+  <Brainwipe.description>Erase a person's memories. Traumatic events will be forgotten. Prisoners will forget their allegiance and become easier to recruit, even if they were unwavering before. Inhumanized individuals will forget their connection to the void. Unfortunately, the disruptive effect of the ritual will induce a coma that could last a long time, especially if the ritual is of poor quality.</Brainwipe.description>
+  <!-- EN: The target will be brainwiped.\n\nWith the current ritual quality, the target will also enter a coma for {0}. -->
+  <Brainwipe.outcomeDescription>The target will be brainwiped.\n\nWith the current ritual quality, the target will also enter a coma for {0}.</Brainwipe.outcomeDescription>
+  <!-- EN: chronophagy -->
+  <Chronophagy.label>chronophagy</Chronophagy.label>
+  <!-- EN: Induce a distant archotech to transfer entropy from one person to another. This causes the target to age rapidly while the invoker becomes younger, potentially healing scarring or age-related illnesses. The target will suffer brain damage, causing them to fall into a coma for several days. -->
+  <Chronophagy.description>Induce a distant archotech to transfer entropy from one person to another. This causes the target to age rapidly while the invoker becomes younger, potentially healing scarring or age-related illnesses. The target will suffer brain damage, causing them to fall into a coma for several days.</Chronophagy.description>
+  <!-- EN: At the current ritual quality, the invoker will become {0} years younger and the target will become {1} years older.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Chronophagy.outcomeDescription>At the current ritual quality, the invoker will become {0} years younger and the target will become {1} years older.\n\nThe target will suffer brain damage and fall into a coma.</Chronophagy.outcomeDescription>
+  <!-- EN: imbue death refusal -->
+  <ImbueDeathRefusal.label>imbue death refusal</ImbueDeathRefusal.label>
+  <!-- EN: Link a target with a distant archotechnological engine that can bring them back from the dead in seconds. This process is not without side-effects. -->
+  <ImbueDeathRefusal.description>Link a target with a distant archotechnological engine that can bring them back from the dead in seconds. This process is not without side-effects.</ImbueDeathRefusal.description>
+  <!-- EN: The target will gain death refusal.\n\nWith the current quality, all the target's skills will also be reduced by {0}. -->
+  <ImbueDeathRefusal.outcomeDescription>The target will gain death refusal.\n\nWith the current quality, all the target's skills will also be reduced by {0}.</ImbueDeathRefusal.outcomeDescription>
+  <!-- EN: neurosis pulse -->
+  <NeurosisPulse.label>neurosis pulse</NeurosisPulse.label>
+  <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region work faster but become more irritable. Those affected will feel less need for recreation but will be unhappier and more likely to have a mental break. This will replace the effect of other active pulses. -->
+  <NeurosisPulse.description>Emit an intense psychic pulse that makes any psychically sensitive individual in the region work faster but become more irritable. Those affected will feel less need for recreation but will be unhappier and more likely to have a mental break. This will replace the effect of other active pulses.</NeurosisPulse.description>
+  <!-- EN: At the current ritual quality, the effect will last for {0}. -->
+  <NeurosisPulse.outcomeDescription>At the current ritual quality, the effect will last for {0}.</NeurosisPulse.outcomeDescription>
+  <!-- EN: philophagy -->
+  <Philophagy.label>philophagy</Philophagy.label>
+  <!-- EN: Psychically draw experiences from the victim's mind and transfer them to the invoker, targeting the victim's highest skill. The target will suffer brain damage, causing them to fall into a coma for several days. -->
+  <Philophagy.description>Psychically draw experiences from the victim's mind and transfer them to the invoker, targeting the victim's highest skill. The target will suffer brain damage, causing them to fall into a coma for several days.</Philophagy.description>
+  <!-- EN: With the current ritual quality, the invoker will steal {0} of the target's XP in their best skill.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Philophagy.outcomeDescription>With the current ritual quality, the invoker will steal {0} of the target's XP in their best skill.\n\nThe target will suffer brain damage and fall into a coma.</Philophagy.outcomeDescription>
+  <!-- EN: pleasure pulse -->
+  <PleasurePulse.label>pleasure pulse</PleasurePulse.label>
+  <!-- EN: Emit an intense psychic pulse that makes any psychically sensitive individual in the region happier but reduces their desire to work. This will replace the effect of other active pulses. -->
+  <PleasurePulse.description>Emit an intense psychic pulse that makes any psychically sensitive individual in the region happier but reduces their desire to work. This will replace the effect of other active pulses.</PleasurePulse.description>
+  <!-- EN: At the current ritual quality, the effect will last for {0}. -->
+  <PleasurePulse.outcomeDescription>At the current ritual quality, the effect will last for {0}.</PleasurePulse.outcomeDescription>
+  <!-- EN: psychophagy -->
+  <Psychophagy.label>psychophagy</Psychophagy.label>
+  <!-- EN: Consume the psychic sensitivity of a target. The invoker will increase their psychic sensitivity for a period of time. The effect does not stack. The target will suffer brain damage, causing them to fall into a coma for several days. -->
+  <Psychophagy.description>Consume the psychic sensitivity of a target. The invoker will increase their psychic sensitivity for a period of time. The effect does not stack. The target will suffer brain damage, causing them to fall into a coma for several days.</Psychophagy.description>
+  <!-- EN: At the current ritual quality, the invoker will increase their psychic sensitivity for {0}.\n\nThe target will suffer brain damage and fall into a coma. -->
+  <Psychophagy.outcomeDescription>At the current ritual quality, the invoker will increase their psychic sensitivity for {0}.\n\nThe target will suffer brain damage and fall into a coma.</Psychophagy.outcomeDescription>
+  <!-- EN: skip abduction -->
+  <SkipAbduction.label>skip abduction</SkipAbduction.label>
+  <!-- EN: Teleport a random hostile person to the ritual location and place them in a coma. -->
+  <SkipAbduction.description>Teleport a random hostile person to the ritual location and place them in a coma.</SkipAbduction.description>
+  <!-- EN: They intend to use a psychic ritual to abduct a colonist via teleportation. -->
+  <SkipAbduction.letterAIArrivedText>They intend to use a psychic ritual to abduct a colonist via teleportation.</SkipAbduction.letterAIArrivedText>
+  <!-- EN: Skip abduction -->
+  <SkipAbduction.letterAICompleteLabel>Skip abduction</SkipAbduction.letterAICompleteLabel>
+  <!-- EN: {PAWN_nameDef} has been abducted by the cultists! -->
+  <SkipAbduction.letterAICompleteText>{PAWN_nameDef} has been abducted by the cultists!</SkipAbduction.letterAICompleteText>
+  <!-- EN: The target will be teleported to the invoker's location and fall into a coma. -->
+  <SkipAbduction.outcomeDescription>The target will be teleported to the invoker's location and fall into a coma.</SkipAbduction.outcomeDescription>
+  <!-- EN: skip abduction -->
+  <SkipAbductionPlayer.label>skip abduction</SkipAbductionPlayer.label>
+  <!-- EN: Abduct a random hostile person from anywhere in the world, prioritizing those nearby. The ritual induces a dark archotech to warp space, teleporting a distant person to the center of the ritual circle. The process causes the target to fall into a short coma. -->
+  <SkipAbductionPlayer.description>Abduct a random hostile person from anywhere in the world, prioritizing those nearby. The ritual induces a dark archotech to warp space, teleporting a distant person to the center of the ritual circle. The process causes the target to fall into a short coma.</SkipAbductionPlayer.description>
+  <!-- EN: At the current ritual quality, the target will remain in a coma for {0}. -->
+  <SkipAbductionPlayer.outcomeDescription>At the current ritual quality, the target will remain in a coma for {0}.</SkipAbductionPlayer.outcomeDescription>
+  <!-- EN: draw animals -->
+  <SummonAnimals.label>draw animals</SummonAnimals.label>
+  <!-- EN: Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may attract scaria-infected manhunters. -->
+  <SummonAnimals.description>Create a psychic pulse which will draw a distant herd of animals into the local area. You can then hunt or make use of them as you choose. If not done correctly, this may attract scaria-infected manhunters.</SummonAnimals.description>
+  <!-- EN: With the current ritual quality, there is a {0} chance that the animals will arrive as manhunters. -->
+  <SummonAnimals.outcomeDescription>With the current ritual quality, there is a {0} chance that the animals will arrive as manhunters.</SummonAnimals.outcomeDescription>
+  <!-- EN: draw fleshbeasts -->
+  <SummonFleshbeasts.label>draw fleshbeasts</SummonFleshbeasts.label>
+  <!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonFleshbeasts.description>Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat.</SummonFleshbeasts.description>
+  <!-- EN: They intend to use a psychic ritual to summon hideous fleshbeasts to attack you. -->
+  <SummonFleshbeasts.letterAIArrivedText>They intend to use a psychic ritual to summon hideous fleshbeasts to attack you.</SummonFleshbeasts.letterAIArrivedText>
+  <!-- EN: Fleshbeasts emerging -->
+  <SummonFleshbeasts.letterAICompleteLabel>Fleshbeasts emerging</SummonFleshbeasts.letterAICompleteLabel>
+  <!-- EN: Fleshbeasts are clawing their way out of the ground. Prepare for their attack! -->
+  <SummonFleshbeasts.letterAICompleteText>Fleshbeasts are clawing their way out of the ground. Prepare for their attack!</SummonFleshbeasts.letterAICompleteText>
+  <!-- EN: Create a psychic pulse which will draw a horde of fleshbeasts. -->
+  <SummonFleshbeasts.outcomeDescription>Create a psychic pulse which will draw a horde of fleshbeasts.</SummonFleshbeasts.outcomeDescription>
+  <!-- EN: draw fleshbeasts -->
+  <SummonFleshbeastsPlayer.label>draw fleshbeasts</SummonFleshbeastsPlayer.label>
+  <!-- EN: Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonFleshbeastsPlayer.description>Create a psychic pulse which will draw fleshbeasts to dig upwards and emerge near your enemies. They will attack anyone they find, including your enemies and allies. The fleshbeasts can be captured and studied, or butchered for twisted meat.</SummonFleshbeastsPlayer.description>
+  <!-- EN: A higher quality ritual will attract more fleshbeasts. -->
+  <SummonFleshbeastsPlayer.outcomeDescription>A higher quality ritual will attract more fleshbeasts.</SummonFleshbeastsPlayer.outcomeDescription>
+  <!-- EN: provoke pit gate -->
+  <SummonPitGate.label>provoke pit gate</SummonPitGate.label>
+  <!-- EN: Use a psychic pulse to provoke underground fleshbeasts into opening a massive pit gate in the ground somewhere in the local area. The massive sinkhole will lead down to a fleshbeast-infested cavern which can be explored for resources. -->
+  <SummonPitGate.description>Use a psychic pulse to provoke underground fleshbeasts into opening a massive pit gate in the ground somewhere in the local area. The massive sinkhole will lead down to a fleshbeast-infested cavern which can be explored for resources.</SummonPitGate.description>
+  <!-- EN: A higher-quality ritual will attract more fleshbeasts. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
+  <SummonPitGate.outcomeDescription>A higher-quality ritual will attract more fleshbeasts. The fleshbeasts can be captured and studied, or butchered for twisted meat.</SummonPitGate.outcomeDescription>
+  <!-- EN: draw shamblers -->
+  <SummonShamblers.label>draw shamblers</SummonShamblers.label>
+  <!-- EN: Create a psychic pulse which will draw a distant horde of animated corpses towards your local area. While they attack any humans that they see, they won't attack your colony directly. You can capture them for study. -->
+  <SummonShamblers.description>Create a psychic pulse which will draw a distant horde of animated corpses towards your local area. While they attack any humans that they see, they won't attack your colony directly. You can capture them for study.</SummonShamblers.description>
+  <!-- EN: The higher the ritual quality, the more shamblers that will be summoned. -->
+  <SummonShamblers.outcomeDescription>The higher the ritual quality, the more shamblers that will be summoned.</SummonShamblers.outcomeDescription>
+  <!-- EN: void provocation -->
+  <VoidProvocation.label>void provocation</VoidProvocation.label>
+  <!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There’s a chance that the invoker will fall into a coma for several hours. -->
+  <VoidProvocation.description>Psychically commune with the void, attracting an entity which can be captured and studied. There’s a chance that the invoker will fall into a coma for several hours.</VoidProvocation.description>
+  <!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
+  <VoidProvocation.outcomeDescription>With the current quality, there's a {0} chance the invoker will receive dark psychic shock.</VoidProvocation.outcomeDescription>
+</LanguageData>

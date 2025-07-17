@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Fishing -->
+  <!-- EN: Fishing zone -->
+  <Zone_Fishing>Fishing zone</Zone_Fishing>
+  <!-- EN: fishing -->
+  <FishingGroup>fishing</FishingGroup>
+  <!-- EN: Create an area where your hunters will fish. Must be placed over water containing fish. Larger bodies of water are generally better for fishing. -->
+  <DesignatorFishingZoneDesc>Create an area where your hunters will fish. Must be placed over water containing fish. Larger bodies of water are generally better for fishing.</DesignatorFishingZoneDesc>
+  <!-- Override snow clearing => snow and sand clearing -->
+  <!-- EN: Snow and sand removal area -->
+  <DesignatorAreaSnowOrSandClearExpand>Snow and sand removal area</DesignatorAreaSnowOrSandClearExpand>
+  <!-- EN: Create an area which colonists will try to keep clear of snow and sand. -->
+  <DesignatorAreaSnowOrSandClearExpandDesc>Create an area which colonists will try to keep clear of snow and sand.</DesignatorAreaSnowOrSandClearExpandDesc>
+  <!-- EN: Clear snow and sand removal area -->
+  <DesignatorAreaSnowOrSandClearClear>Clear snow and sand removal area</DesignatorAreaSnowOrSandClearClear>
+  <!-- EN: Removes a snow and sand removal area. Colonists will no longer try to keep this area clear of snow and sand. -->
+  <DesignatorAreaSnowOrSandClearClearDesc>Removes a snow and sand removal area. Colonists will no longer try to keep this area clear of snow and sand.</DesignatorAreaSnowOrSandClearClearDesc>
+  <!-- EN: Remove foundation -->
+  <DesignatorRemoveFoundation>Remove foundation</DesignatorRemoveFoundation>
+  <!-- EN: Remove bridges or gravship substructure to reveal the terrain underneath. -->
+  <DesignatorRemoveFoundationDesc>Remove bridges or gravship substructure to reveal the terrain underneath.</DesignatorRemoveFoundationDesc>
+  <!-- EN: Move landing zone -->
+  <DesignatorMoveGravship>Move landing zone</DesignatorMoveGravship>
+  <!-- EN: Reposition the gravship's landing spot. -->
+  <DesignatorMoveGravshipDesc>Reposition the gravship's landing spot.</DesignatorMoveGravshipDesc>
+</LanguageData>

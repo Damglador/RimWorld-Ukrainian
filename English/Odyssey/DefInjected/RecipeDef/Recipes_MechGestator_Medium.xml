@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gestate cyclops -->
+  <Cyclops.label>gestate cyclops</Cyclops.label>
+  <!-- EN: Gestate a cyclops mechanoid. -->
+  <Cyclops.description>Gestate a cyclops mechanoid.</Cyclops.description>
+  <!-- EN: Gestating mech. -->
+  <Cyclops.jobString>Gestating mech.</Cyclops.jobString>
+</LanguageData>

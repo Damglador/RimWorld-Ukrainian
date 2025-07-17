@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ancient megastructure -->
+  <AncientMegastructure.label>ancient megastructure</AncientMegastructure.label>
+  <!-- EN: cooled lava -->
+  <CooledLava.label>cooled lava</CooledLava.label>
+  <!-- EN: dry lake bed -->
+  <DryLakeBed.label>dry lake bed</DryLakeBed.label>
+  <!-- EN: sand -->
+  <DryLakeBed.tools.sand.label>sand</DryLakeBed.tools.sand.label>
+  <!-- EN: soil -->
+  <GlowforestSoil.label>soil</GlowforestSoil.label>
+  <!-- EN: dirt -->
+  <GlowforestSoil.tools.dirt.label>dirt</GlowforestSoil.tools.dirt.label>
+  <!-- EN: soil -->
+  <GrasslandSoil.label>soil</GrasslandSoil.label>
+  <!-- EN: dirt -->
+  <GrasslandSoil.tools.dirt.label>dirt</GrasslandSoil.tools.dirt.label>
+  <!-- EN: deep lava -->
+  <LavaDeep.label>deep lava</LavaDeep.label>
+  <!-- EN: space -->
+  <Space.label>space</Space.label>
+  <!-- EN: volcanic rock -->
+  <VolcanicRock.label>volcanic rock</VolcanicRock.label>
+  <!-- EN: smooth volcanic rock -->
+  <VolcanicRock_Smooth.label>smooth volcanic rock</VolcanicRock_Smooth.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: head -->
+  <FleshbeastHead.label>head</FleshbeastHead.label>
+  <!-- EN: tentacle -->
+  <FleshbeastLeg.label>tentacle</FleshbeastLeg.label>
+  <!-- EN: spike -->
+  <FleshbeastSpike.label>spike</FleshbeastSpike.label>
+  <!-- EN: body -->
+  <MovingBodyFleshbeast.label>body</MovingBodyFleshbeast.label>
+  <!-- EN: tentacle -->
+  <Tentacle.label>tentacle</Tentacle.label>
+</LanguageData>

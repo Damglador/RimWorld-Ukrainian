@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: applying TargetB. -->
+  <ApplyTechprint.reportString>applying TargetB.</ApplyTechprint.reportString>
+  <!-- EN: melee attacking TargetA. -->
+  <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
+  <!-- EN: attacking TargetA. -->
+  <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
+  <!-- EN: beating fire out. -->
+  <BeatFire.reportString>beating fire out.</BeatFire.reportString>
+  <!-- EN: Doing something. -->
+  <Carried.reportString>Doing something.</Carried.reportString>
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThing.reportString>Doing something.</CastAbilityOnThing.reportString>
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>Doing something.</CastAbilityOnThingMelee.reportString>
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>Doing something.</CastAbilityOnThingUninterruptible.reportString>
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>Doing something.</CastAbilityOnWorldTile.reportString>
+  <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>Doing something.</CastAbilityTouch.reportString>
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>Doing something.</CastJump.reportString>
+  <!-- EN: clearing snow. -->
+  <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
+  <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>delivering TargetA.</DeliverToBed.reportString>
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>delivering TargetA.</DeliverToCell.reportString>
+  <!-- EN: dismissing trader. -->
+  <DismissTrader.reportString>dismissing trader.</DismissTrader.reportString>
+  <!-- EN: dropping TargetA. -->
+  <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>emptying TargetA.</EmptyThingContainer.reportString>
+  <!-- EN: entering cryptosleep casket. -->
+  <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
+  <!-- EN: entering TargetA. -->
+  <EnterPortal.reportString>entering TargetA.</EnterPortal.reportString>
+  <!-- EN: entering TargetA. -->
+  <EnterTransporter.reportString>entering TargetA.</EnterTransporter.reportString>
+  <!-- EN: equipping TargetA. -->
+  <Equip.reportString>equipping TargetA.</Equip.reportString>
+  <!-- EN: extinguishing fires nearby. -->
+  <ExtinguishFiresNearby.reportString>extinguishing fires nearby.</ExtinguishFiresNearby.reportString>
+  <!-- EN: extinguishing self. -->
+  <ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
+  <!-- EN: filling TargetA. -->
+  <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
+  <!-- EN: fleeing. -->
+  <Flee.reportString>fleeing.</Flee.reportString>
+  <!-- EN: fleeing. -->
+  <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
+  <!-- EN: flicking switch. -->
+  <Flick.reportString>flicking switch.</Flick.reportString>
+  <!-- EN: following TargetA. -->
+  <Follow.reportString>following TargetA.</Follow.reportString>
+  <!-- EN: following TargetA. -->
+  <FollowClose.reportString>following TargetA.</FollowClose.reportString>
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>following TargetA.</FollowRoper.reportString>
+  <!-- EN: taking TargetA. -->
+  <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
+  <!-- EN: moving. -->
+  <Goto.reportString>moving.</Goto.reportString>
+  <!-- EN: moving. -->
+  <GotoMindControlled.reportString>moving.</GotoMindControlled.reportString>
+  <!-- EN: seeking safe temperature. -->
+  <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
+  <!-- EN: wandering. -->
+  <GotoWander.reportString>wandering.</GotoWander.reportString>
+  <!-- EN: hauling TargetA. -->
+  <HaulCorpseToPublicPlace.reportString>hauling TargetA.</HaulCorpseToPublicPlace.reportString>
+  <!-- EN: hauling TargetA. -->
+  <HaulToPortal.reportString>hauling TargetA.</HaulToPortal.reportString>
+  <!-- EN: hauling TargetA. -->
+  <HaulToTransporter.reportString>hauling TargetA.</HaulToTransporter.reportString>
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>idling.</IdleWhileDespawned.reportString>
+  <!-- EN: igniting TargetA. -->
+  <Ignite.reportString>igniting TargetA.</Ignite.reportString>
+  <!-- EN: inducing TargetA to escape. -->
+  <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
+  <!-- EN: consuming TargetA. -->
+  <Ingest.reportString>consuming TargetA.</Ingest.reportString>
+  <!-- EN: insulting TargetA. -->
+  <Insult.reportString>insulting TargetA.</Insult.reportString>
+  <!-- EN: activating TargetA. -->
+  <InteractThing.reportString>activating TargetA.</InteractThing.reportString>
+  <!-- EN: lying down. -->
+  <LayDown.reportString>lying down.</LayDown.reportString>
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>lying down.</LayDownAwake.reportString>
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>lying down.</LayDownResting.reportString>
+  <!-- EN: lovin'. -->
+  <Lovin.reportString>lovin'.</Lovin.reportString>
+  <!-- EN: operating turret. -->
+  <ManTurret.reportString>operating turret.</ManTurret.reportString>
+  <!-- EN: helping TargetA. -->
+  <OfferHelp.reportString>helping TargetA.</OfferHelp.reportString>
+  <!-- EN: opening TargetA. -->
+  <Open.reportString>opening TargetA.</Open.reportString>
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>picking up TargetA.</PickupToHold.reportString>
+  <!-- EN: reading TargetA -->
+  <Reading.reportString>reading TargetA</Reading.reportString>
+  <!-- EN: rearming TargetA. -->
+  <RearmTurret.reportString>rearming TargetA.</RearmTurret.reportString>
+  <!-- EN: rearming TargetA. -->
+  <RearmTurretAtomic.reportString>rearming TargetA.</RearmTurretAtomic.reportString>
+  <!-- EN: refueling TargetA. -->
+  <Refuel.reportString>refueling TargetA.</Refuel.reportString>
+  <!-- EN: refueling TargetA. -->
+  <RefuelAtomic.reportString>refueling TargetA.</RefuelAtomic.reportString>
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>reloading TargetA.</Reload.reportString>
+  <!-- EN: removing TargetA. -->
+  <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
+  <!-- EN: resurrecting TargetA. -->
+  <Resurrect.reportString>resurrecting TargetA.</Resurrect.reportString>
+  <!-- EN: fighting with TargetA. -->
+  <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <!-- EN: staring. -->
+  <StandAndStare.reportString>staring.</StandAndStare.reportString>
+  <!-- EN: stripping TargetA. -->
+  <Strip.reportString>stripping TargetA.</Strip.reportString>
+  <!-- EN: taking beer out of TargetA. -->
+  <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>taking TargetA to inventory.</TakeCountToInventory.reportString>
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>grabbing TargetA from TargetB.</TakeFromOtherInventory.reportString>
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeInventory.reportString>taking TargetA to inventory.</TakeInventory.reportString>
+  <!-- EN: trading with TargetA. -->
+  <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>triggering TargetA.</TriggerObject.reportString>
+  <!-- EN: unloading TargetA. -->
+  <UnloadInventory.reportString>unloading TargetA.</UnloadInventory.reportString>
+  <!-- EN: unloading inventory. -->
+  <UnloadYourInventory.reportString>unloading inventory.</UnloadYourInventory.reportString>
+  <!-- EN: activating artifact. -->
+  <UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
+  <!-- EN: using TargetA. -->
+  <UseItem.reportString>using TargetA.</UseItem.reportString>
+  <!-- EN: using neurotrainer. -->
+  <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
+  <!-- EN: Doing something. -->
+  <UseVerbOnThing.reportString>Doing something.</UseVerbOnThing.reportString>
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>Doing something.</UseVerbOnThingStatic.reportString>
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStaticReserve.reportString>Doing something.</UseVerbOnThingStaticReserve.reportString>
+  <!-- EN: vomiting. -->
+  <Vomit.reportString>vomiting.</Vomit.reportString>
+  <!-- EN: standing. -->
+  <Wait.reportString>standing.</Wait.reportString>
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>sleeping.</Wait_Asleep.reportString>
+  <!-- EN: sleeping. -->
+  <Wait_AsleepDormancy.reportString>sleeping.</Wait_AsleepDormancy.reportString>
+  <!-- EN: watching for targets. -->
+  <Wait_Combat.reportString>watching for targets.</Wait_Combat.reportString>
+  <!-- EN: downed. -->
+  <Wait_Downed.reportString>downed.</Wait_Downed.reportString>
+  <!-- EN: standing. -->
+  <Wait_MaintainPosture.reportString>standing.</Wait_MaintainPosture.reportString>
+  <!-- EN: waiting in safe temperature. -->
+  <Wait_SafeTemperature.reportString>waiting in safe temperature.</Wait_SafeTemperature.reportString>
+  <!-- EN: wandering. -->
+  <Wait_Wander.reportString>wandering.</Wait_Wander.reportString>
+  <!-- EN: wearing TargetA. -->
+  <Wear.reportString>wearing TargetA.</Wear.reportString>
+</LanguageData>
