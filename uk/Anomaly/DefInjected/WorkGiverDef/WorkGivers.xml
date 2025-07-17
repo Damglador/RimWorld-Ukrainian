@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: suppress entity activity -->
+  <ActivitySuppression.label>придушувати активність істоти</ActivitySuppression.label>
+  <!-- EN: suppressing -->
+  <ActivitySuppression.gerund>придушувати</ActivitySuppression.gerund>
+  <!-- EN: suppress -->
+  <ActivitySuppression.verb>придушувати</ActivitySuppression.verb>
+  <!-- EN: make things at bioferrite shaper -->
+  <DoBillsBioferriteShaper.label>робити речі в формувачі біоферриту</DoBillsBioferriteShaper.label>
+  <!-- EN: working at -->
+  <DoBillsBioferriteShaper.gerund>працювати, використовуючи</DoBillsBioferriteShaper.gerund>
+  <!-- EN: work at -->
+  <DoBillsBioferriteShaper.verb>працювати, використовуючи</DoBillsBioferriteShaper.verb>
+  <!-- EN: make things at serum lab -->
+  <DoBillsSerumCentrifuge.label>робити сироватки в лабораторії</DoBillsSerumCentrifuge.label>
+  <!-- EN: working at -->
+  <DoBillsSerumCentrifuge.gerund>працювати, використовуючи</DoBillsSerumCentrifuge.gerund>
+  <!-- EN: work at -->
+  <DoBillsSerumCentrifuge.verb>працювати, використовуючи</DoBillsSerumCentrifuge.verb>
+  <!-- EN: tend to entities -->
+  <DoctorTendToEntities.label>доглядати за істотами</DoctorTendToEntities.label>
+  <!-- EN: tending to -->
+  <DoctorTendToEntities.gerund>доглядає за</DoctorTendToEntities.gerund>
+  <!-- EN: tend to -->
+  <DoctorTendToEntities.verb>догляд за</DoctorTendToEntities.verb>
+  <!-- EN: execute entities -->
+  <ExecuteEntity.label>страчувати істот</ExecuteEntity.label>
+  <!-- EN: executing -->
+  <ExecuteEntity.gerund>страчує</ExecuteEntity.gerund>
+  <!-- EN: execute -->
+  <ExecuteEntity.verb>стратити</ExecuteEntity.verb>
+  <!-- EN: extract bioferrite from entities -->
+  <ExtractBioferrite.label>extract bioferrite from entities</ExtractBioferrite.label>
+  <!-- EN: extracting from -->
+  <ExtractBioferrite.gerund>extracting from</ExtractBioferrite.gerund>
+  <!-- EN: extract from -->
+  <ExtractBioferrite.verb>extract from</ExtractBioferrite.verb>
+  <!-- EN: fill in -->
+  <FillIn.label>наповнювати</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>наповнює</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>наповнити</FillIn.verb>
+  <!-- EN: interrogate identity -->
+  <InterrogatePrisoner.label>допитувати</InterrogatePrisoner.label>
+  <!-- EN: interrogating -->
+  <InterrogatePrisoner.gerund>допитує</InterrogatePrisoner.gerund>
+  <!-- EN: interrogate -->
+  <InterrogatePrisoner.verb>допитати</InterrogatePrisoner.verb>
+  <!-- EN: release entities -->
+  <ReleaseEntity.label>випускати істот</ReleaseEntity.label>
+  <!-- EN: releasing -->
+  <ReleaseEntity.gerund>випускає</ReleaseEntity.gerund>
+  <!-- EN: release -->
+  <ReleaseEntity.verb>випустити</ReleaseEntity.verb>
+  <!-- EN: study -->
+  <StudyInteract.label>вивчати</StudyInteract.label>
+  <!-- EN: studying -->
+  <StudyInteract.gerund>вивчає</StudyInteract.gerund>
+  <!-- EN: study -->
+  <StudyInteract.verb>вивчити</StudyInteract.verb>
+  <!-- EN: take bioferrite out of bioferrite harvester -->
+  <TakeBioferriteOutOfHarvester.label>збирати біоферрит з поглинача біоферриту</TakeBioferriteOutOfHarvester.label>
+  <!-- EN: taking bioferrite from -->
+  <TakeBioferriteOutOfHarvester.gerund>збирає біоферрит з</TakeBioferriteOutOfHarvester.gerund>
+  <!-- EN: take bioferrite -->
+  <TakeBioferriteOutOfHarvester.verb>збирає біоферрит</TakeBioferriteOutOfHarvester.verb>
+  <!-- EN: capture entity -->
+  <TakeEntityToHoldingPlatform.label>захоплювати істот</TakeEntityToHoldingPlatform.label>
+  <!-- EN: capturing -->
+  <TakeEntityToHoldingPlatform.gerund>захоплює</TakeEntityToHoldingPlatform.gerund>
+  <!-- EN: capture -->
+  <TakeEntityToHoldingPlatform.verb>захопити</TakeEntityToHoldingPlatform.verb>
+  <!-- EN: transfer entities -->
+  <TransferEntity.label>переносити істот</TransferEntity.label>
+  <!-- EN: transferring -->
+  <TransferEntity.gerund>переносить</TransferEntity.gerund>
+  <!-- EN: transfer -->
+  <TransferEntity.verb>перенести</TransferEntity.verb>
+</LanguageData>

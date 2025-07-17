@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tentacle -->
+  <FifthTentacle.label>мацак</FifthTentacle.label>
+  <!-- EN: tentacle -->
+  <FirstTentacle.label>мацак</FirstTentacle.label>
+  <!-- EN: tentacle -->
+  <FourthTentacle.label>мацак</FourthTentacle.label>
+  <!-- EN: left spike -->
+  <LeftSpike.label>лівий шип</LeftSpike.label>
+  <!-- EN: spike -->
+  <LeftSpike.labelShort>шип</LeftSpike.labelShort>
+  <!-- EN: middle spike -->
+  <MiddleSpike.label>середній шип</MiddleSpike.label>
+  <!-- EN: spike -->
+  <MiddleSpike.labelShort>шип</MiddleSpike.labelShort>
+  <!-- EN: right spike -->
+  <RightSpike.label>правий шип</RightSpike.label>
+  <!-- EN: spike -->
+  <RightSpike.labelShort>шип</RightSpike.labelShort>
+  <!-- EN: tentacle -->
+  <SecondTentacle.label>мацак</SecondTentacle.label>
+  <!-- EN: tentacle -->
+  <ThirdTentacle.label>мацак</ThirdTentacle.label>
+</LanguageData>

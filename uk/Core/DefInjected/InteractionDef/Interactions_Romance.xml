@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: breakup -->
+  <Breakup.label>розставання</Breakup.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
+  -->
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] пропонує [RECIPIENT_nameDef] розійтися.</li>
+    <li>r_logentry->[INITIATOR_nameDef] просить у [RECIPIENT_nameDef] особистого простору.</li>
+    <li>r_logentry->[INITIATOR_nameDef] каже [RECIPIENT_nameDef], що у них все не дуже добре виходить.</li>
+    <li>r_logentry->[INITIATOR_nameDef] каже [RECIPIENT_nameDef], що буде краще, якщо вони зроблять перерву у їхніх відносинах.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
+  <!-- EN: marriage proposal -->
+  <MarriageProposal.label>пропозиція шлюбу</MarriageProposal.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
+  -->
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] пропонує [RECIPIENT_nameDef] одружитися.</li>
+    <li>r_logentry->[INITIATOR_nameDef] робить [RECIPIENT_nameDef] пропозицію руки та серця.</li>
+    <li>r_logentry->[INITIATOR_nameDef] каже [RECIPIENT_nameDef], що [INITIATOR_pronoun] хоче прожити решту [INITIATOR_possessive] життя з {RECIPIENT_gender ? ним : нею}.</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
+  <!-- EN: romance attempt -->
+  <RomanceAttempt.label>флірт</RomanceAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
+    <li>wooed->tried to flirt with</li>
+    <li>wooed->flirted with</li>
+    <li>wooed->tried to attract</li>
+    <li>wooed->tried to romance</li>
+    <li>wooed->tried to woo</li>
+    <li>wooed->wooed</li>
+    <li>wooed->pursued</li>
+    <li>wooed->charmed</li>
+    <li>wooed->courted</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->telling a story about [TalkTopicAny]</li>
+    <li>wootactic->telling a tale about [TalkTopicAny]</li>
+    <li>wootactic->joking about [TalkTopicAny]</li>
+    <li>wootactic->making an observation about [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+    <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+    <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
+    <li>boasting->boasting about</li>
+    <li>boasting->mentioning</li>
+    <li>boasting->implying good things about</li>
+    <li>boasting->exaggerating</li>
+    <li>boasting->talking about</li>
+    <li>boasting->drawing attention to</li>
+    <li>complimenting(p=3)->complimenting</li>
+    <li>complimenting->subtly complimenting</li>
+    <li>complimenting->lauding</li>
+    <li>complimenting->commending</li>
+    <li>complimenting->saying good things about</li>
+    <li>complimenting(p=2)->playfully making fun of</li>
+    <li>complimenting->jokingly poking at</li>
+    <li>complimenting->jokingly half-complimenting</li>
+    <li>complimenting->impishly questioning</li>
+    <li>complimenting->cheerfully making fun of</li>
+    <li>romantic_adj->beautiful</li>
+    <li>romantic_adj->shining</li>
+    <li>romantic_adj->glimmering</li>
+    <li>romantic_adj->heavenly</li>
+    <li>romantic_adj->golden</li>
+    <li>romantic_adj->bright</li>
+    <li>romantic_adj->breathtaking</li>
+    <li>romantic_adj->charming</li>
+    <li>romantic_adj->dazzling</li>
+    <li>romantic_adj->delicate</li>
+    <li>romantic_adj->fine</li>
+    <li>romantic_adj->magnificent</li>
+    <li>romantic_adj->lovely</li>
+    <li>romantic_adj->wonderful</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->flower</li>
+    <li>romantic_noun->spring</li>
+    <li>romantic_noun->river</li>
+    <li>romantic_noun->star</li>
+    <li>romantic_noun->moon</li>
+    <li>romantic_noun->sun</li>
+    <li>romantic_noun->house</li>
+    <li>romantic_noun->aurora</li>
+    <li>romantic_noun->[TreeType] tree</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  -->
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] [wootactic].</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалась} фліртувати з</li>
+    <li>wooed->{INITIATOR_gender ? фліртував : фліртувала} з</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалась} привернути увагу</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалась} залицятися до</li>
+    <li>wooed->{INITIATOR_gender ? намагався : намагалась} звабити</li>
+    <li>wooed->{INITIATOR_gender ? залицявся : залицялась} до</li>
+    <li>wooed->{INITIATOR_gender ? переслідував : переслідувала}</li>
+    <li>wooed->{INITIATOR_gender ? зачарував : зачарувала}</li>
+    <li>wooed->{INITIATOR_gender ? доглядав : доглядала} за</li>
+    <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] {lookup: [PersonalCharacteristic]; Rule; 3}</li>
+    <li>wootactic->розповідаючи історію про [TalkTopicAny]</li>
+    <li>wootactic->розповідаючи розповідь про [TalkTopicAny]</li>
+    <li>wootactic->жартуючи про [TalkTopicAny]</li>
+    <li>wootactic->висловлення зауваження щодо [TalkTopicAny]</li>
+    <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] {lookup: [PersonalCharacteristic]; Rule; 3}</li>
+    <li>wootactic->порівнюючи [RECIENT_objective] з [romantic_adj] [romantic_noun].</li>
+    <li>wootactic->порівнюючи [RECIENT_objective] з [romantic_adj] [romantic_noun].</li>
+    <li>boasting->вихваляючись про</li>
+    <li>boasting->згадуючи</li>
+    <li>boasting->маючи на увазі хороші речі про</li>
+    <li>boasting->перебільшуючи про</li>
+    <li>boasting->говоривши про</li>
+    <li>boasting->привертаючи увагу до</li>
+    <li>complimenting(p=3)->роблячи комплімент про</li>
+    <li>complimenting->витончено роблячи компліменти про</li>
+    <li>complimenting->вихваляючи</li>
+    <li>complimenting->вихваляючи</li>
+    <li>complimenting->розповідаючи хороші речі про</li>
+    <li>complimenting(p=2)->грайливо висміюючи</li>
+    <li>complimenting->жартуючи про</li>
+    <li>complimenting->жартома роблячи напівкомпліменти про</li>
+    <li>complimenting->безсоромно розпитуючи про</li>
+    <li>complimenting->весело жартуючи про</li>
+    <li>romantic_adj->прекрасною</li>
+    <li>romantic_adj->чарівною</li>
+    <li>romantic_adj->мерехтливою</li>
+    <li>romantic_adj->небесною</li>
+    <li>romantic_adj->золотою</li>
+    <li>romantic_adj->яскравою</li>
+    <li>romantic_adj->дивовижною</li>
+    <li>romantic_adj->чарівною</li>
+    <li>romantic_adj->сліпучою</li>
+    <li>romantic_adj->ніжною</li>
+    <li>romantic_adj->прекрасною</li>
+    <li>romantic_adj->розкішною</li>
+    <li>romantic_adj->милою</li>
+    <li>romantic_adj->дивовижною</li>
+    <li>romantic_adj(p=3)->{lookup: [AdjectiveBadass]; Adjective; 11}</li>
+    <li>romantic_noun->квіткою</li>
+    <li>romantic_noun->весною</li>
+    <li>romantic_noun->річкою</li>
+    <li>romantic_noun->зіркою</li>
+    <li>romantic_noun->ніччю</li>
+    <li>romantic_noun->порою</li>
+    <li>romantic_noun->домівкою</li>
+    <li>romantic_noun->зорею</li>
+    <li>romantic_noun->{lookup: [TreeTypeFemale]; Nouns; 4}</li>
+    <li>romantic_noun(p=2)->{lookup: [TerrainFeatureFemale]; Nouns; 4}</li>
+    <li>romantic_noun(p=2)->{lookup: [NaturalObjectFemale]; Nouns; 4}</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
+</LanguageData>

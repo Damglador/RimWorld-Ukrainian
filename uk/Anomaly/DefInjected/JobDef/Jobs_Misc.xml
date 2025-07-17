@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: activating TargetA. -->
+  <ActivateMonolith.reportString>активує {lookup: {TargetA}; Case; 3}.</ActivateMonolith.reportString>
+  <!-- EN: low activity dormancy -->
+  <ActivityDormant.reportString>низька активність в стані спокою</ActivityDormant.reportString>
+  <!-- EN: building a {0} sculpture. -->
+  <BuildCubeSculpture.reportString>будує скульптуру ({0}).</BuildCubeSculpture.reportString>
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolder.reportString>переносить TargetB до {lookup: {TargetA}; Case; 1}</CarryToEntityHolder.reportString>
+  <!-- EN: carrying TargetB to TargetA. -->
+  <CarryToEntityHolderAlreadyHolding.reportString>переносить TargetB до {lookup: {TargetA}; Case; 1}</CarryToEntityHolderAlreadyHolding.reportString>
+  <!-- EN: attacking. -->
+  <ChimeraSwitchToAttackMode.reportString>атакує.</ChimeraSwitchToAttackMode.reportString>
+  <!-- EN: Doing something. -->
+  <DevourerDigest.reportString>Щось робить.</DevourerDigest.reportString>
+  <!-- EN: going dormant -->
+  <EntityGoPassive.reportString>переходить у стан спокою</EntityGoPassive.reportString>
+  <!-- EN: executing TargetA. -->
+  <ExecuteEntity.reportString>страчує TargetA.</ExecuteEntity.reportString>
+  <!-- EN: extracting bioferrite from TargetA. -->
+  <ExtractBioferrite.reportString>extracting bioferrite from TargetA.</ExtractBioferrite.reportString>
+  <!-- EN: fleeing. -->
+  <FleeAndCowerShort.reportString>тікає.</FleeAndCowerShort.reportString>
+  <!-- EN: playing with golden cube. -->
+  <GoldenCubePlay.reportString>грає з золотим кубом.</GoldenCubePlay.reportString>
+  <!-- EN: hate chanting. -->
+  <HateChanting.reportString>наспів ненависті.</HateChanting.reportString>
+  <!-- EN: investigating TargetA. -->
+  <InvestigateMonolith.reportString>вивчає TargetA.</InvestigateMonolith.reportString>
+  <!-- EN: departing -->
+  <NociosphereDepart.reportString>йде</NociosphereDepart.reportString>
+  <!-- EN: releasing TargetB -->
+  <ReleaseEntity.reportString>випускає {lookup: {TargetB}; Case; 3}</ReleaseEntity.reportString>
+  <!-- EN: stalking TargetA. -->
+  <RevenantAttack.reportString>переслідує {lookup: {TargetA}; Case; 3}</RevenantAttack.reportString>
+  <!-- EN: escaping -->
+  <RevenantEscape.reportString>тікає</RevenantEscape.reportString>
+  <!-- EN: hibernating -->
+  <RevenantSleep.reportString>сплячка</RevenantSleep.reportString>
+  <!-- EN: wandering -->
+  <RevenantWander.reportString>блукання</RevenantWander.reportString>
+  <!-- EN: smashing TargetA. -->
+  <SmashThing.reportString>розбиває {lookup: {TargetA}; Case; 3}.</SmashThing.reportString>
+  <!-- EN: taking bioferrite out of TargetA. -->
+  <TakeBioferriteOutOfHarvester.reportString>вилучає біоферрит з {lookup: {TargetA}; Case; 1}.</TakeBioferriteOutOfHarvester.reportString>
+  <!-- EN: talking to TargetA. -->
+  <TalkCreepJoiner.reportString>говорить до {lookup: {TargetA}; Case; 1}.</TalkCreepJoiner.reportString>
+  <!-- EN: tending to TargetA. -->
+  <TendEntity.reportString>доглядає за {lookup: {TargetA}; Case; 2}.</TendEntity.reportString>
+  <!-- EN: transferring TargetC to another holding location. -->
+  <TransferBetweenEntityHolders.reportString>переносить {lookup: {TargetC}; Case; 1} до іншої платформи.</TransferBetweenEntityHolders.reportString>
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseAttack.reportString>переслідує {lookup: {TargetA}; Case; 1}.</UnnaturalCorpseAttack.reportString>
+  <!-- EN: chasing TargetA. -->
+  <UnnaturalCorpseSkip.reportString>переслідує {lookup: {TargetA}; Case; 1}.</UnnaturalCorpseSkip.reportString>
+</LanguageData>

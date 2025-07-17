@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ancient cryptosleep pod -->
+  <AncientCryptosleepPod.label>старовинна капсула криптосну</AncientCryptosleepPod.label>
+  <!-- EN: A single-use pod for preserving one person in a state of suspended animation. Unlike cryptosleep caskets, cryptosleep pods can only be used once. -->
+  <AncientCryptosleepPod.description>Одноразова капсула для збереження людини у стані анабіозу. На відміну від саркофагів криптосну, капсули можуть бути використані лише один раз.</AncientCryptosleepPod.description>
+</LanguageData>

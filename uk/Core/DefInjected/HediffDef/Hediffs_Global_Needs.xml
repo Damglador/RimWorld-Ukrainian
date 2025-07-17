@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: malnutrition -->
+  <Malnutrition.label>недоїдання</Malnutrition.label>
+  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleasant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death. Upon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
+  <Malnutrition.description>Аномально низький показник ваги, як правило, викликаний недоїданням. У виснаженні немає нічого приємного, але спочатку його ефекти незначні. Чим сильніше виснажений організм, тим більше він слабшає і втрачає м'язову масу. За виснаженням слідує смерть.\n\nПісля повернення до регулярного харчування виснаження поступово проходить. При цьому істота, що недоїдала, має значно сильніший апетит, ніж зазвичай.</Malnutrition.description>
+  <!-- EN: trivial -->
+  <Malnutrition.stages.trivial.label>незначне</Malnutrition.stages.trivial.label>
+  <!-- EN: minor -->
+  <Malnutrition.stages.minor.label>легке</Malnutrition.stages.minor.label>
+  <!-- EN: moderate -->
+  <Malnutrition.stages.moderate.label>середнє</Malnutrition.stages.moderate.label>
+  <!-- EN: severe -->
+  <Malnutrition.stages.severe.label>сильне</Malnutrition.stages.severe.label>
+  <!-- EN: extreme -->
+  <Malnutrition.stages.extreme.label>смертельне</Malnutrition.stages.extreme.label>
+</LanguageData>

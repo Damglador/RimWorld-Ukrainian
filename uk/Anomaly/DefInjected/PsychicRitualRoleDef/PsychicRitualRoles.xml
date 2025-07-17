@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: target -->
+  <BrainwipeTarget.label>ціль</BrainwipeTarget.label>
+  <!-- EN: chanter -->
+  <Chanter.label>співець</Chanter.label>
+  <!-- EN: Chanters add psychic power to the ritual. -->
+  <Chanter.description>співець</Chanter.description>
+  <!-- EN: chanter -->
+  <ChanterAdvanced.label>співець</ChanterAdvanced.label>
+  <!-- EN: Chanters add psychic power to the ritual. -->
+  <ChanterAdvanced.description>Співці додають психічної сили ритуалу.</ChanterAdvanced.description>
+  <!-- EN: target -->
+  <ChronophagyTarget.label>ціль</ChronophagyTarget.label>
+  <!-- EN: target -->
+  <DeathRefusalTarget.label>ціль</DeathRefusalTarget.label>
+  <!-- EN: {PAWN_labelShort} cannot have any more death refusals stacked -->
+  <DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>{PAWN_labelShort} має максимальну кількість відмов від смерті</DeathRefusalTarget.psychicRitualLeaveReason_MaxDeathRefusal>
+  <!-- EN: defenders -->
+  <Defender.label>захисник</Defender.label>
+  <!-- EN: Defenders protect the ritual participants from harm. -->
+  <Defender.description>Захисники захищають учасників ритуалу</Defender.description>
+  <!-- EN: invoker -->
+  <Invoker.label>заклинач</Invoker.label>
+  <!-- EN: target -->
+  <PhilophagyTarget.label>ціль</PhilophagyTarget.label>
+  <!-- EN: target -->
+  <PsychophagyTarget.label>ціль</PsychophagyTarget.label>
+</LanguageData>

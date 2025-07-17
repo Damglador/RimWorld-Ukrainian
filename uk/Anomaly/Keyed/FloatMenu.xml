@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: No empty containment destination -->
+  <NoEmptyEntityHolders>Немає вільних місць утримування</NoEmptyEntityHolders>
+  <!-- EN: choose containment destination -->
+  <ChooseEntityHolder>оберіть місце утримування</ChooseEntityHolder>
+  <!-- EN: Containment strength -->
+  <FloatMenuContainmentStrength>Сила утримання</FloatMenuContainmentStrength>
+  <!-- EN: {0_label} requires -->
+  <FloatMenuContainmentRequires>Потрібно {0_label}</FloatMenuContainmentRequires>
+  <!-- EN: Reserved by -->
+  <EntityHolderReservedBy>Зарезервовано</EntityHolderReservedBy>
+  <!-- EN: Talk to {0_nameDef} -->
+  <TalkTo>Розмовляти з {0_nameDef}</TalkTo>
+  <!-- EN: Cannot talk to {0_nameDef} -->
+  <CannotTalkTo>Неможливо розмовляти з {0_nameDef}</CannotTalkTo>
+  <!-- EN: incapable of suppression -->
+  <ZeroSuppressionRate>неможливість придушення</ZeroSuppressionRate>
+  <!-- EN: cannot stand next to -->
+  <CannotStandNear>cannot stand next to</CannotStandNear>
+  <!-- EN: extract from {0} -->
+  <ExtractBioferrite>extract from {0}</ExtractBioferrite>
+  <!-- EN: bioferrite regenerating -->
+  <BioferriteAlreadyExtracted>bioferrite regenerating</BioferriteAlreadyExtracted>
+</LanguageData>

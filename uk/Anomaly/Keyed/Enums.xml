@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Hate chant drone level -->
+  <!-- EN: none -->
+  <HateChantDroneLevel_None>нічого</HateChantDroneLevel_None>
+  <!-- EN: whispers -->
+  <HateChantDroneLevel_VeryLow>шепотіння</HateChantDroneLevel_VeryLow>
+  <!-- EN: quiet -->
+  <HateChantDroneLevel_Low>тиха</HateChantDroneLevel_Low>
+  <!-- EN: moderate -->
+  <HateChantDroneLevel_Medium>чутна</HateChantDroneLevel_Medium>
+  <!-- EN: loud -->
+  <HateChantDroneLevel_High>гучна</HateChantDroneLevel_High>
+  <!-- EN: extreme -->
+  <HateChantDroneLevel_Extreme>екстремальна</HateChantDroneLevel_Extreme>
+  <!-- EN: Disabled -->
+  <MonolithGenerationMethod_Disabled>Вимкнено</MonolithGenerationMethod_Disabled>
+  <!-- EN: Near colonists -->
+  <MonolithGenerationMethod_NearColonists>Біля колоністів</MonolithGenerationMethod_NearColonists>
+</LanguageData>

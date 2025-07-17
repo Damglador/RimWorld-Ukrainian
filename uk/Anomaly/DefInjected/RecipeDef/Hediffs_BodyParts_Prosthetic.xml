@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: install adrenal heart -->
+  <InstallAdrenalHeart.label>встановити адреналінове серце</InstallAdrenalHeart.label>
+  <!-- EN: Install adrenal heart. -->
+  <InstallAdrenalHeart.description>Встановити адреналінове серце.</InstallAdrenalHeart.description>
+  <!-- EN: Installing adrenal heart. -->
+  <InstallAdrenalHeart.jobString>Встановлює адреналінове серце.</InstallAdrenalHeart.jobString>
+  <!-- EN: install corrosive heart -->
+  <InstallCorrosiveHeart.label>встановити корозійне серце</InstallCorrosiveHeart.label>
+  <!-- EN: Install corrosive heart. -->
+  <InstallCorrosiveHeart.description>Встановити корозійне серце.</InstallCorrosiveHeart.description>
+  <!-- EN: Installing corrosive heart. -->
+  <InstallCorrosiveHeart.jobString>Встановлює корозійне серце.</InstallCorrosiveHeart.jobString>
+  <!-- EN: install ghoul barbs -->
+  <InstallGhoulBarbs.label>встановити шипи гуля</InstallGhoulBarbs.label>
+  <!-- EN: Install ghoul barbs. -->
+  <InstallGhoulBarbs.description>Встановити шипи гуля.</InstallGhoulBarbs.description>
+  <!-- EN: Installing ghoul barbs. -->
+  <InstallGhoulBarbs.jobString>Встановити шипи гуля.</InstallGhoulBarbs.jobString>
+  <!-- EN: install ghoul plating -->
+  <InstallGhoulPlating.label>встановити обладунок гуля</InstallGhoulPlating.label>
+  <!-- EN: Install ghoul plating. -->
+  <InstallGhoulPlating.description>Встановити обладунок гуля.</InstallGhoulPlating.description>
+  <!-- EN: Installing ghoul plating. -->
+  <InstallGhoulPlating.jobString>Встановлює обладунок гуля.</InstallGhoulPlating.jobString>
+  <!-- EN: install metalblood heart -->
+  <InstallMetalbloodHeart.label>встановити серце залізної крові</InstallMetalbloodHeart.label>
+  <!-- EN: Install metalblood heart. -->
+  <InstallMetalbloodHeart.description>Встановити серце залізної крові.</InstallMetalbloodHeart.description>
+  <!-- EN: Installing metalblood heart. -->
+  <InstallMetalbloodHeart.jobString>Встановлює серце залізної крові.</InstallMetalbloodHeart.jobString>
+  <!-- EN: install revenant vertebrae -->
+  <InstallRevenantVertebrae.label>встановити хребці ревенанта</InstallRevenantVertebrae.label>
+  <!-- EN: Install revenant vertebrae. -->
+  <InstallRevenantVertebrae.description>Встановити хребці ревенанта.</InstallRevenantVertebrae.description>
+  <!-- EN: Installing revenant vertebrae. -->
+  <InstallRevenantVertebrae.jobString>Встановлює хребці ревенанта.</InstallRevenantVertebrae.jobString>
+</LanguageData>

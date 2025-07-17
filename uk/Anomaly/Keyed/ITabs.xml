@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- ITab_Entity -->
+  <!-- EN: Escape interval -->
+  <HoldingPlatformEscapeMTBDays>Час між спробами втечі</HoldingPlatformEscapeMTBDays>
+  <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity’s movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
+  <HoldingPlatformEscapeMTBDaysDesc>Середній час між втечами. На це впливає міцність стримування, тип сутності, здатність сутності пересуватися та тривалість ув’язнення сутності. Деякі сутності також пригнічуються холодом.</HoldingPlatformEscapeMTBDaysDesc>
+  <!-- EN: Entity -->
+  <TabEntity>Сутність</TabEntity>
+  <!-- EN: Study interval -->
+  <StudyInterval>Час між вивченням</StudyInterval>
+  <!-- EN: How often this entity can be studied. -->
+  <StudyIntervalDesc>Як часто можна вивчати цю сутність.</StudyIntervalDesc>
+  <!-- EN: Maintain only -->
+  <EntityStudyMode_MaintainOnly>Тільки догляд</EntityStudyMode_MaintainOnly>
+  <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
+  <EntityStudyMode_MaintainOnlyDesc>Наглядачі не виконуватимуть спеціальних дій щодо цієї сутності, але інші види взаємодії все ще доступні.</EntityStudyMode_MaintainOnlyDesc>
+  <!-- EN: Study -->
+  <EntityStudyMode_Study>Вивчення</EntityStudyMode_Study>
+  <!-- EN: Researchers will study the entity. -->
+  <EntityStudyMode_StudyDesc>Науковці будуть вивчати сутність.</EntityStudyMode_StudyDesc>
+  <!-- EN: Release -->
+  <EntityStudyMode_Release>Відпустити</EntityStudyMode_Release>
+  <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
+  <EntityStudyMode_ReleaseDesc>Наглядач звільнить сутність із платформи утримання. Сутності можуть бути ворожими після звільнення.</EntityStudyMode_ReleaseDesc>
+  <!-- EN: Execute -->
+  <EntityStudyMode_Execute>Стратити</EntityStudyMode_Execute>
+  <!-- EN: A warden will execute the restrained entity. -->
+  <EntityStudyMode_ExecuteDesc>Наглядач стратить утримувану сутність.</EntityStudyMode_ExecuteDesc>
+  <!-- EN: Extract bioferrite -->
+  <EntityStudyMode_Extract>Extract bioferrite</EntityStudyMode_Extract>
+  <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester. -->
+  <EntityStudyMode_ExtractDesc>Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can’t be done if the entity is attached to a bioferrite harvester.</EntityStudyMode_ExtractDesc>
+  <!-- EN: Requires bioferrite extraction. -->
+  <RequiresBioferriteExtraction>Requires bioferrite extraction.</RequiresBioferriteExtraction>
+  <!-- EN: Blocked by bioferrite harvester. -->
+  <BioferriteHarvesterAttached>Blocked by bioferrite harvester.</BioferriteHarvesterAttached>
+  <!-- EN: Can't be executed. -->
+  <CantBeExecuted>Страта неможлива</CantBeExecuted>
+  <!-- EN: Knowledge gain -->
+  <StudyKnowledgeGain>Кількість отримуваних знань</StudyKnowledgeGain>
+  <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
+  <StudyKnowledgeGainDesc>Обсяг знань, отриманих за інтервал вивчення. Краще утримання допомагає досліднику зосередитися на вивченні, а не на безпеці, отримуючи більше знань.</StudyKnowledgeGainDesc>
+  <!-- EN: What type of medicine can be given to this entity. -->
+  <MedicineQualityDescriptionEntity>Тип ліків, що можна дати цій сутності.</MedicineQualityDescriptionEntity>
+  <!-- EN: Electroharvester -->
+  <FactorForElectroharvester>Поглинач енергії</FactorForElectroharvester>
+  <!-- EN: Long captivity -->
+  <FactorForDaysInCaptivity>Тривале утримання</FactorForDaysInCaptivity>
+  <!-- EN: Cold containment bonus -->
+  <FactorForColdCaptivity>Бонус холодного утримання</FactorForColdCaptivity>
+  <!-- EN: Incapable of escaping -->
+  <IncapableOfEscaping>Нездатність втечі</IncapableOfEscaping>
+  <!-- EN: Entity downed -->
+  <EntityDowned>Сутність знерухомлено</EntityDowned>
+  <!-- EN: Containment strength -->
+  <FactorContainmentStrength>Сила утримання</FactorContainmentStrength>
+  <!-- EN: Electroharvester -->
+  <FactorElectroharvester>Поглинач енергії</FactorElectroharvester>
+  <!-- EN: Activity -->
+  <FactorActivity>Активність</FactorActivity>
+</LanguageData>

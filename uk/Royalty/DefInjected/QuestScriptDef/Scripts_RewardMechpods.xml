@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>dangersDescription(priority=1)->\n\nThe pods contain these dangers:\n\n[allThreats]</li>
+    <li>dangersDescription-></li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], is making a request. [commonMainPart]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request. [commonMainPart]</li>
+    <li>commonMainPart->A mechanoid swarm has been attacking [asker_possessive] settlements. [asker_pronoun] wants you to signal the mechs to distract them while [asker_pronoun] clears the hive. If you do, (*Threat)a mechanoid cluster(/Threat) will land at [map_definite].[dangersDescription]\n\nThe mechanoid cluster will be initially dormant. It may have a countdown activator, or it may stay dormant forever until disturbed.[helpersParagraph]</li>
+  -->
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>dangersDescription(priority=1)->\n\nЦі капсули містять:\n\n[allThreats]</li>
+    <li>dangersDescription-></li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] фракції [asker_faction_name], просить допомоги. [commonMainPart]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], [asker_royalTitleInCurrentFaction] фракції [asker_faction_name], просить допомоги. [commonMainPart]</li>
+    <li>commonMainPart->Механоїди атакують [asker_possessive] поселення. [asker_pronoun] просить вас надіслати їм повідомлення, що відволіче їх, поки [asker_pronoun] вирішує проблеми з іншою частиною роя. Якщо ви погодитесь, до [map_definite] приземлиться (*Threat)кластер механоїдів(/Threat).[dangersDescription]\n\nСпочатку цей кластер буде неактивним. Він може таким і залишатися, якщо його не активувати самостійно або якщо не спрацює таймер.[helpersParagraph]</li>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[menace] cluster</li>
+    <li>questName->[menace] pods</li>
+    <li>questName->[nameBased]</li>
+    <li>nameBased->[asker_nameDef]'s mechs</li>
+    <li>nameBased->[asker_nameDef]'s mechanoids</li>
+    <li>nameBased->[asker_nameDef]'s mech cluster</li>
+    <li>nameBased->[asker_nameDef]'s mech [menace]</li>
+    <li>menace->threat</li>
+    <li>menace->menace</li>
+    <li>menace->scourge</li>
+    <li>menace->danger</li>
+    <li>menace->terror</li>
+    <li>menace->fear</li>
+  -->
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>questName->[menace] cluster</li>
+    <li>questName->[menace] pods</li>
+    <li>questName->[nameBased]</li>
+    <li>nameBased->[asker_nameDef]'s mechs</li>
+    <li>nameBased->[asker_nameDef]'s mechanoids</li>
+    <li>nameBased->[asker_nameDef]'s mech cluster</li>
+    <li>nameBased->[asker_nameDef]'s mech [menace]</li>
+    <li>menace->threat</li>
+    <li>menace->menace</li>
+    <li>menace->scourge</li>
+    <li>menace->danger</li>
+    <li>menace->terror</li>
+    <li>menace->fear</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+</LanguageData>

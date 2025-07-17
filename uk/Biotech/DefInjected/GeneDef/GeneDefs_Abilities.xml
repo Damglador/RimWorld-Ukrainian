@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: acid spray -->
+  <AcidSpray.label>кислотний плювок</AcidSpray.label>
+  <!-- EN: Carriers grow glands in the neck that generate and store a sticky acid substance, along with acid-tolerant tissues in the mouth. They can spew this acid over an area, where it will stick to enemies and burn them. -->
+  <AcidSpray.description>Carriers grow glands in the neck that generate and store a sticky acid substance, along with acid-tolerant tissues in the mouth. They can spew this acid over an area, where it will stick to enemies and burn them.</AcidSpray.description>
+  <!-- EN: acid -->
+  <AcidSpray.symbolPack.prefixSymbols.0.symbol>кислото</AcidSpray.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: acer -->
+  <AcidSpray.symbolPack.prefixSymbols.1.symbol>отруто</AcidSpray.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: acri -->
+  <AcidSpray.symbolPack.prefixSymbols.2.symbol>акрі</AcidSpray.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: oxo -->
+  <AcidSpray.symbolPack.prefixSymbols.3.symbol>оксо</AcidSpray.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: sprayer -->
+  <AcidSpray.symbolPack.suffixSymbols.0.symbol>обприскувач</AcidSpray.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: spitter -->
+  <AcidSpray.symbolPack.suffixSymbols.1.symbol>плювач</AcidSpray.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: animal warcall -->
+  <AnimalWarcall.label>звіриний вий</AnimalWarcall.label>
+  <!-- EN: Carriers of this gene can perform an animal warcall, using a powerful bellow and psychic connection to call an animal to fight for them. -->
+  <AnimalWarcall.description>Носії цього гену можуть призивати тварин на свій захист за допомогою потужного психічного реву.</AnimalWarcall.description>
+  <!-- EN: war -->
+  <AnimalWarcall.symbolPack.prefixSymbols.0.symbol>війно</AnimalWarcall.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: animal -->
+  <AnimalWarcall.symbolPack.prefixSymbols.1.symbol>тварино</AnimalWarcall.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: cry -->
+  <AnimalWarcall.symbolPack.prefixSymbols.2.symbol>кличо</AnimalWarcall.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: caller -->
+  <AnimalWarcall.symbolPack.suffixSymbols.0.symbol>кликач</AnimalWarcall.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: crier -->
+  <AnimalWarcall.symbolPack.suffixSymbols.1.symbol>крикун</AnimalWarcall.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: hailer -->
+  <AnimalWarcall.symbolPack.suffixSymbols.2.symbol>окликач</AnimalWarcall.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: warcaller -->
+  <AnimalWarcall.symbolPack.wholeNameSymbols.0.symbol>воїн</AnimalWarcall.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: bloodfeeder -->
+  <Bloodfeeder.label>кровопивця</Bloodfeeder.label>
+  <!-- EN: Carriers of this gene have small retractable fangs and an organ on the roof of the mouth which can extract hemogen from fresh warm blood. They can bite an unresisting person, suck the blood, and gain hemogen directly. -->
+  <Bloodfeeder.description>У носіїв цього гена є невеликі висувні ікла та орган біля верхньої щелепи, який може витягувати гемоген зі свіжої теплої крові. Вони можуть вкусити беззахисну людину, висмоктати її кров і безпосередньо вилучити з неї гемоген.</Bloodfeeder.description>
+  <!-- EN: hemo -->
+  <Bloodfeeder.symbolPack.prefixSymbols.0.symbol>гемо</Bloodfeeder.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: blood -->
+  <Bloodfeeder.symbolPack.prefixSymbols.1.symbol>крово</Bloodfeeder.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: vamp -->
+  <Bloodfeeder.symbolPack.prefixSymbols.2.symbol>вампо</Bloodfeeder.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: fang -->
+  <Bloodfeeder.symbolPack.prefixSymbols.3.symbol>ікло</Bloodfeeder.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: fang -->
+  <Bloodfeeder.symbolPack.suffixSymbols.0.symbol>ікло</Bloodfeeder.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: eater -->
+  <Bloodfeeder.symbolPack.suffixSymbols.1.symbol>їдок</Bloodfeeder.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: ubus -->
+  <Bloodfeeder.symbolPack.suffixSymbols.2.symbol>убус</Bloodfeeder.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: bloodfeeder -->
+  <Bloodfeeder.symbolPack.wholeNameSymbols.0.symbol>кровопивця</Bloodfeeder.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: coagulate -->
+  <Coagulate.label>коагуляція</Coagulate.label>
+  <!-- EN: Carriers of this gene have special glands on their hands and wrists, as well as a unique salivary compound that they can use to rapidly tend wounds. -->
+  <Coagulate.description>Носії цього гена мають спеціальні залози на руках та зап'ястях, а також унікальний склад слини, яку вони можуть використовувати для швидкого загоєння ран.</Coagulate.description>
+  <!-- EN: coagulator -->
+  <Coagulate.labelShortAdj>коагуляційний</Coagulate.labelShortAdj>
+  <!-- EN: life -->
+  <Coagulate.symbolPack.suffixSymbols.0.symbol>життя</Coagulate.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: clotter -->
+  <Coagulate.symbolPack.suffixSymbols.1.symbol>згусток</Coagulate.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: tender -->
+  <Coagulate.symbolPack.suffixSymbols.2.symbol>доглядник</Coagulate.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: fire spew -->
+  <FireSpew.label>вогняний плювок</FireSpew.label>
+  <!-- EN: Carriers are able to spew flammable bile generated by a special organ in their neck. The bile sticks to anything in a small area and can ignite people, objects, and the ground. -->
+  <FireSpew.description>Носії цього гена здатні вивергати легкозаймисту речовину, яка виробляється за допомогою спеціального органу в горлі. Ця речовина надзвичайно липка і може підпалити людей, предмети та підлогу.</FireSpew.description>
+  <!-- EN: fire -->
+  <FireSpew.symbolPack.prefixSymbols.0.symbol>вогне</FireSpew.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: flame -->
+  <FireSpew.symbolPack.prefixSymbols.1.symbol>спеко</FireSpew.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: pyre -->
+  <FireSpew.symbolPack.prefixSymbols.2.symbol>піро</FireSpew.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: pyro -->
+  <FireSpew.symbolPack.prefixSymbols.3.symbol>полум</FireSpew.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: spark -->
+  <FireSpew.symbolPack.prefixSymbols.4.symbol>іскро</FireSpew.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: ember -->
+  <FireSpew.symbolPack.prefixSymbols.5.symbol>вугле</FireSpew.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: spew -->
+  <FireSpew.symbolPack.prefixSymbols.6.symbol>плюво</FireSpew.symbolPack.prefixSymbols.6.symbol>
+  <!-- EN: burn -->
+  <FireSpew.symbolPack.prefixSymbols.7.symbol>опіко</FireSpew.symbolPack.prefixSymbols.7.symbol>
+  <!-- EN: incendi -->
+  <FireSpew.symbolPack.prefixSymbols.8.symbol>запало</FireSpew.symbolPack.prefixSymbols.8.symbol>
+  <!-- EN: cinder -->
+  <FireSpew.symbolPack.prefixSymbols.9.symbol>золо</FireSpew.symbolPack.prefixSymbols.9.symbol>
+  <!-- EN: ash -->
+  <FireSpew.symbolPack.prefixSymbols.10.symbol>попіл</FireSpew.symbolPack.prefixSymbols.10.symbol>
+  <!-- EN: light -->
+  <FireSpew.symbolPack.suffixSymbols.0.symbol>промінь</FireSpew.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: burner -->
+  <FireSpew.symbolPack.suffixSymbols.1.symbol>пальник</FireSpew.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: pyro -->
+  <FireSpew.symbolPack.suffixSymbols.2.symbol>піроман</FireSpew.symbolPack.suffixSymbols.2.symbol>
+  <!-- EN: ash -->
+  <FireSpew.symbolPack.suffixSymbols.3.symbol>попіл</FireSpew.symbolPack.suffixSymbols.3.symbol>
+  <!-- EN: burner -->
+  <FireSpew.symbolPack.wholeNameSymbols.0.symbol>пальник</FireSpew.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: igniter -->
+  <FireSpew.symbolPack.wholeNameSymbols.1.symbol>запальник</FireSpew.symbolPack.wholeNameSymbols.1.symbol>
+  <!-- EN: foam spray -->
+  <FoamSpray.label>розпилювач піни</FoamSpray.label>
+  <!-- EN: Carriers grow glands in the neck that generate and store a fire-retardant foam. They can spew this foam over an area to extinguish fires. -->
+  <FoamSpray.description>У носіїв цього гена на шиї ростуть залози, які генерують і зберігають протипожежну піну. Вони можуть розпилювати цю піну на місцевості для гасіння пожеж.</FoamSpray.description>
+  <!-- EN: foam -->
+  <FoamSpray.symbolPack.prefixSymbols.0.symbol>піно</FoamSpray.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: spit -->
+  <FoamSpray.symbolPack.prefixSymbols.1.symbol>плюво</FoamSpray.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: spray -->
+  <FoamSpray.symbolPack.prefixSymbols.2.symbol>спреє</FoamSpray.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: suds -->
+  <FoamSpray.symbolPack.prefixSymbols.3.symbol>піно</FoamSpray.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: cream -->
+  <FoamSpray.symbolPack.prefixSymbols.4.symbol>кремо</FoamSpray.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: froth -->
+  <FoamSpray.symbolPack.prefixSymbols.5.symbol>піно</FoamSpray.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: foamer -->
+  <FoamSpray.symbolPack.suffixSymbols.0.symbol>утворювач</FoamSpray.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: sud -->
+  <FoamSpray.symbolPack.suffixSymbols.1.symbol>сюд</FoamSpray.symbolPack.suffixSymbols.1.symbol>
+  <!-- EN: foamer -->
+  <FoamSpray.symbolPack.wholeNameSymbols.0.symbol>піноутворювач</FoamSpray.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: longjump legs -->
+  <LongjumpLegs.label>довгий стрибок</LongjumpLegs.label>
+  <!-- EN: Carriers have special hemogen-powered muscle fibers in their legs which allow them to jump great distances. -->
+  <LongjumpLegs.description>Носії цього гена можуть стрибати на велику відстань завдяки особливим м'язовим фібрам на ногах, що живляться гемогеном.</LongjumpLegs.description>
+  <!-- EN: jump -->
+  <LongjumpLegs.symbolPack.prefixSymbols.0.symbol>стрибко</LongjumpLegs.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: leap -->
+  <LongjumpLegs.symbolPack.prefixSymbols.1.symbol>плиг</LongjumpLegs.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: vault -->
+  <LongjumpLegs.symbolPack.prefixSymbols.2.symbol>стриб</LongjumpLegs.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: long -->
+  <LongjumpLegs.symbolPack.prefixSymbols.3.symbol>довго</LongjumpLegs.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: fly -->
+  <LongjumpLegs.symbolPack.prefixSymbols.4.symbol>польото</LongjumpLegs.symbolPack.prefixSymbols.4.symbol>
+  <!-- EN: hop -->
+  <LongjumpLegs.symbolPack.prefixSymbols.5.symbol>стри</LongjumpLegs.symbolPack.prefixSymbols.5.symbol>
+  <!-- EN: jumper -->
+  <LongjumpLegs.symbolPack.wholeNameSymbols.0.symbol>стрибун</LongjumpLegs.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: leaper -->
+  <LongjumpLegs.symbolPack.wholeNameSymbols.1.symbol>плиг</LongjumpLegs.symbolPack.wholeNameSymbols.1.symbol>
+  <!-- EN: bouncer -->
+  <LongjumpLegs.symbolPack.wholeNameSymbols.2.symbol>відскокувач</LongjumpLegs.symbolPack.wholeNameSymbols.2.symbol>
+  <!-- EN: piercing spine -->
+  <PiercingSpine.label>гострі шипи</PiercingSpine.label>
+  <!-- EN: Carriers grow an opening in their upper chest along with a quiver of keratin spines. Using a hemogen-powered chemical reaction, they can fire these spines at high speed at nearby targets with surprising accuracy. -->
+  <PiercingSpine.description>Носії цього гену мають отвір у верхній частині грудної клітини та порожнину, повну гострих шипів. Завдяки хімічній реакції гемогену, носій може стріляти шипами по найближчім цілям з дивовижною швидкістью та точністю.</PiercingSpine.description>
+  <!-- EN: spine -->
+  <PiercingSpine.symbolPack.prefixSymbols.0.symbol>шипо</PiercingSpine.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: thorn -->
+  <PiercingSpine.symbolPack.prefixSymbols.1.symbol>голко</PiercingSpine.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: bolt -->
+  <PiercingSpine.symbolPack.prefixSymbols.2.symbol>болто</PiercingSpine.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: spiner -->
+  <PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>шипун</PiercingSpine.symbolPack.wholeNameSymbols.0.symbol>
+  <!-- EN: gene implanter -->
+  <XenogermReimplanter.label>імплантатор генів</XenogermReimplanter.label>
+  <!-- EN: Carriers of this gene can implant a copy of their xenogerm into another person through a somewhat gross-looking injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die. Germline genes will be unaffected. -->
+  <XenogermReimplanter.description>Carriers of this gene can implant a copy of their xenogerm into another person through a somewhat gross-looking injector organ. Their own genetic material will then regrow very slowly. If they implant while their genes are regrowing, they will die. Germline genes will be unaffected.</XenogermReimplanter.description>
+  <!-- EN: reimplanter -->
+  <XenogermReimplanter.labelShortAdj>реімплантаційний</XenogermReimplanter.labelShortAdj>
+</LanguageData>

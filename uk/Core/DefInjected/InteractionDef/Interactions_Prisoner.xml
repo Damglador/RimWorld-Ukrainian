@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: try to get to know -->
+  <BuildRapport.label>спроба налагодити контакт</BuildRapport.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->told a story about</li>
+    <li>toldastoryabout->told a funny story about</li>
+    <li>toldastoryabout->told a heartfelt story about</li>
+    <li>toldastoryabout->told an old story about</li>
+    <li>toldastoryabout->told a family story about</li>
+    <li>toldastoryabout->told a childhood story about</li>
+    <li>toldastoryabout->mentioned an anecdote about</li>
+    <li>talkabout->talk about</li>
+    <li>talkabout->discuss</li>
+    <li>talkabout->have a discussion about</li>
+    <li>talkabout->ask about</li>
+    <li>talkabout->think about</li>
+    <li>talkabout->find common ground around</li>
+    <li>subject->the colony</li>
+    <li>subject->the community</li>
+    <li>subject->joining the colony</li>
+    <li>subject->changing teams</li>
+    <li>subject->finding friends</li>
+    <li>subject->meeting new people</li>
+    <li>subject->reconsidering [RECIPIENT_possessive] ideas</li>
+    <li>subject->rethinking [RECIPIENT_possessive] loyalties</li>
+    <li>subject->health</li>
+    <li>subject->the future</li>
+    <li>subject->letting go</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  -->
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [talkabout] [toldastoryabout] про [subject] з [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] розповів [RECIPIENT_nameDef] про [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] описав [subject] для [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] заохочується [RECIPIENT_nameDef] описати [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] запропонував шанс для [RECIPIENT_nameDef] розповісти про [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] висловили зацікавленість про [RECIPIENT_possessive] {lookup: [PersonalCharacteristic]; Nouns; 3}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] питає [RECIPIENT_nameDef] про [RECIPIENT_possessive] {lookup: [PersonalCharacteristic]; Nouns; 3}.</li>
+    <li>toldastoryabout(p=2)->історію</li>
+    <li>toldastoryabout->кумедну історію</li>
+    <li>toldastoryabout->зворушливу історію</li>
+    <li>toldastoryabout->стару історію</li>
+    <li>toldastoryabout->сімейну історію</li>
+    <li>toldastoryabout->історію з дитинства</li>
+    <li>toldastoryabout->анекдот</li>
+    <li>talkabout->розповідає</li>
+    <li>talkabout->говорить</li>
+    <li>talkabout->подискутував</li>
+    <li>talkabout->питає</li>
+    <li>talkabout->згадує</li>
+    <li>talkabout->запитує</li>
+    <li>subject->колонію</li>
+    <li>subject->громаду</li>
+    <li>subject->вступ до колонії</li>
+    <li>subject->зміну команд</li>
+    <li>subject->пошук друзів</li>
+    <li>subject->знайомство з новими людьми</li>
+    <li>subject->переосмислення [RECIPIENT_possessive] ідей</li>
+    <li>subject->переосмислення [RECIPIENT_possessive] лояльності</li>
+    <li>subject->про здоров'я</li>
+    <li>subject->про майбутнє</li>
+    <li>subject->про свободу</li>
+    <li>subject(p=4)->{lookup: [ConceptPositive]; Nouns; 3}</li>
+    <li>subject(p=2)->[RECIPIENT_possessive] {lookup: [PersonalCharacteristic]; Nouns; 3}</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
+  <!-- EN: recruit attempt -->
+  <RecruitAttempt.label>спроба вербування</RecruitAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
+    <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->free, fresh [Vegetable]s</li>
+  -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] пропонує [RECIPIENT_nameDef] приєднатися.</li>
+    <li>r_logentry->[INITIATOR_nameDef] обіцяє [RECIPIENT_nameDef] [goodthing], і пропонує [RECIPIENT_objective] приєднатися.</li>
+    <li>goodthing(p=15)->{lookup: [ConceptPositive]; Nouns; 3}</li>
+    <li>goodthing->безплатні, свіжі {lookup: [Vegetable]; Nouns; 9}</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
+  <!-- EN: spark jailbreak -->
+  <SparkJailbreak.label>спроба втечі</SparkJailbreak.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
+    <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
+    <li>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</li>
+    <li>freedom->freedom</li>
+    <li>freedom->opportunity</li>
+    <li>freedom->home</li>
+    <li>freedom->self-determination</li>
+  -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] говорить про [freedom], і пропонує спосіб порятунку.</li>
+    <li>r_logentry->[INITIATOR_nameDef] розповідає про красу {lookup: [TerrainFeature]; Nouns; 7} і пропонує свободу.</li>
+    <li>r_logentry->[INITIATOR_nameDef] показує [RECIPIENT_nameDef] способи порятунку та обіцяє [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] розповідає [RECIPIENT_nameDef], що охорона слабка, і пропонує втечу.</li>
+    <li>freedom->свободу</li>
+    <li>freedom->можливості</li>
+    <li>freedom->дім</li>
+    <li>freedom->самовизначення</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
+</LanguageData>
