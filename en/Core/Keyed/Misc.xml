@@ -102,6 +102,8 @@
   <Processing>Processing</Processing>
   <!-- EN: Inspect -->
   <Inspect>Inspect</Inspect>
+  <!-- EN: Edit -->
+  <Edit>Edit</Edit>
   <!-- Content generation-->
   <!-- EN: {0} meat -->
   <MeatLabel>{0} meat</MeatLabel>

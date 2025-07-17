@@ -227,8 +227,8 @@
   <NociosphereDefeatedText>The nociosphere has been destroyed, leaving behind a number of valuable resources.</NociosphereDefeatedText>
   <!-- EN: Nociosphere destabilising -->
   <NociosphereBecomingUnstableLabel>Nociosphere destabilising</NociosphereBecomingUnstableLabel>
-  <!-- EN: The nociosphere’s energy pattern has begun to shift and adapt. Within 10 days, it will no longer respond to suppression.\n\nThe nociosphere will activate if not suppressed. -->
-  <NociosphereBecomingUnstableText>The nociosphere’s energy pattern has begun to shift and adapt. Within 10 days, it will no longer respond to suppression.\n\nThe nociosphere will activate if not suppressed.</NociosphereBecomingUnstableText>
+  <!-- EN: The nociosphere's energy pattern has begun to shift and adapt. Within 10 days, it will no longer respond to suppression.\n\nThe nociosphere will activate if not suppressed. -->
+  <NociosphereBecomingUnstableText>The nociosphere's energy pattern has begun to shift and adapt. Within 10 days, it will no longer respond to suppression.\n\nThe nociosphere will activate if not suppressed.</NociosphereBecomingUnstableText>
   <!-- EN: Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart. -->
   <NociosphereBecomingUnstableTextExtraSendable>Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart.</NociosphereBecomingUnstableTextExtraSendable>
   <!-- EN: Study the nociosphere to find a way to dispose of it. -->
@@ -239,8 +239,8 @@
   <NociosphereUnstableText>The nociosphere has become unstable and is no longer responding to suppression. When its activity reaches 100%, it will awaken.</NociosphereUnstableText>
   <!-- EN: Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart. -->
   <NociosphereUnstableTextExtraSendable>Dispose of the nociosphere by sending it to attack a large hostile force. Once its onslaught is complete, it will permanently depart.</NociosphereUnstableTextExtraSendable>
-  <!-- EN: Prepare for the nociosphere’s onslaught. -->
-  <NociosphereUnstableTextExtraNotSendable>Prepare for the nociosphere’s onslaught.</NociosphereUnstableTextExtraNotSendable>
+  <!-- EN: Prepare for the nociosphere's onslaught. -->
+  <NociosphereUnstableTextExtraNotSendable>Prepare for the nociosphere's onslaught.</NociosphereUnstableTextExtraNotSendable>
   <!-- EN: Strange corpse -->
   <UnnaturalCorpseArrivalLabel>Strange corpse</UnnaturalCorpseArrivalLabel>
   <!-- EN: An unnatural human corpse has appeared, as if out of thin air.\n\nOn further inspection, the corpse looks identical to {PAWN_nameDef}. Its skin feels waxy and warm to the touch.\n\nStudy the corpse to learn more about it. -->

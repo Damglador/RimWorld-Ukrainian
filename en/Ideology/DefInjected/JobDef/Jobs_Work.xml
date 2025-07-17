@@ -6,8 +6,6 @@
   <CreateAndEnterCocoon.reportString>creating cocoon.</CreateAndEnterCocoon.reportString>
   <!-- EN: creating healing pod. -->
   <CreateAndEnterHealingPod.reportString>creating healing pod.</CreateAndEnterHealingPod.reportString>
-  <!-- EN: hacking TargetA. -->
-  <Hack.reportString>hacking TargetA.</Hack.reportString>
   <!-- EN: merging into TargetB. -->
   <MergeIntoGaumakerPod.reportString>merging into TargetB.</MergeIntoGaumakerPod.reportString>
   <!-- EN: converting TargetA. -->

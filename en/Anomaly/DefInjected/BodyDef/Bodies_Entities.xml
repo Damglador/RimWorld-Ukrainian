@@ -94,6 +94,10 @@
   <Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>right big toe</Gorehulk.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
   <!-- EN: metalhorror -->
   <Metalhorror.label>metalhorror</Metalhorror.label>
+  <!-- EN: left eye -->
+  <Metalhorror.corePart.parts.MetalhorrorNeck.parts.MetalhorrorHead.parts.left_eye.customLabel>left eye</Metalhorror.corePart.parts.MetalhorrorNeck.parts.MetalhorrorHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Metalhorror.corePart.parts.MetalhorrorNeck.parts.MetalhorrorHead.parts.right_eye.customLabel>right eye</Metalhorror.corePart.parts.MetalhorrorNeck.parts.MetalhorrorHead.parts.right_eye.customLabel>
   <!-- EN: right shoulder -->
   <Metalhorror.corePart.parts.right_shoulder.customLabel>right shoulder</Metalhorror.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right arm -->

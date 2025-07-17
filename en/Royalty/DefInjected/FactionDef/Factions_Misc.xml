@@ -6,6 +6,8 @@
   <OutlanderRefugee.description>A group of outlander refugees claiming to have lost their home.</OutlanderRefugee.description>
   <!-- EN: leader -->
   <OutlanderRefugee.leaderTitle>leader</OutlanderRefugee.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRefugee.messageDefendersAttacking>{0} from {1} are attacking your {2}.</OutlanderRefugee.messageDefendersAttacking>
   <!-- EN: refugee -->
   <OutlanderRefugee.pawnSingular>refugee</OutlanderRefugee.pawnSingular>
   <!-- EN: refugees -->

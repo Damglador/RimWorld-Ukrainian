@@ -6,6 +6,8 @@
   <OnlyMembersCanBuild>Only {0}s can build</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0} is already in progress.</CantStartRitualAlreadyInProgress>
+  <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
+  <CantStartRitualLayer>{RITUAL} cannot be performed {GERUND} {LAYER}.</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
   <CantJoinRitualInExtremeWeather>One or more participants can't join due to extreme temperature.</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
@@ -34,8 +36,6 @@
   <ReturnToSlaveBed>Return to slave bed</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
   <NotAllowedForFaction>not allowed for faction</NotAllowedForFaction>
-  <!-- EN: Remove -->
-  <Remove>Remove</Remove>
   <!-- EN: Remove precept -->
   <RemovePrecept>Remove precept</RemovePrecept>
   <!-- EN: Regenerate -->
@@ -98,16 +98,6 @@
   <IdeoAlreadyHasAltar>can only have one altar/ideogram</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>recolor apparel</RecolorApparel>
-  <!-- EN: Hack {0} -->
-  <Hack>Hack {0}</Hack>
-  <!-- EN: Cannot hack {0} -->
-  <CannotHack>Cannot hack {0}</CannotHack>
-  <!-- EN: Already hacked -->
-  <AlreadyHacked>Already hacked</AlreadyHacked>
-  <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>Incapable of hacking</IncapableOfHacking>
-  <!-- EN: to drop supplies -->
-  <ToDropSupplies>to drop supplies</ToDropSupplies>
   <!-- EN: Install {0} -->
   <InstallRelic>Install {0}</InstallRelic>
   <!-- EN: Extract {0} -->

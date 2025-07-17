@@ -28,6 +28,8 @@
   <CutPlantDesignated.reportString>cutting TargetA.</CutPlantDesignated.reportString>
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>deconstructing TargetA.</Deconstruct.reportString>
+  <!-- EN: deconstructing TargetA. -->
+  <DeconstructForBlueprint.reportString>deconstructing TargetA.</DeconstructForBlueprint.reportString>
   <!-- EN: feeding TargetA to TargetB. -->
   <DeliverFood.reportString>feeding TargetA to TargetB.</DeliverFood.reportString>
   <!-- EN: doing bill at TargetA. -->
@@ -46,6 +48,8 @@
   <FixBrokenDownBuilding.reportString>replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
   <!-- EN: executing TargetA. -->
   <GuiltyColonistExecution.reportString>executing TargetA.</GuiltyColonistExecution.reportString>
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>hacking TargetA.</Hack.reportString>
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>harvesting TargetA.</Harvest.reportString>
   <!-- EN: harvesting TargetA. -->
@@ -84,6 +88,8 @@
   <ReleasePrisoner.reportString>releasing TargetA.</ReleasePrisoner.reportString>
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>removing floor.</RemoveFloor.reportString>
+  <!-- EN: removing foundation. -->
+  <RemoveFoundation.reportString>removing foundation.</RemoveFoundation.reportString>
   <!-- EN: removing paint from TargetA. -->
   <RemovePaintBuilding.reportString>removing paint from TargetA.</RemovePaintBuilding.reportString>
   <!-- EN: removing paint from TargetA. -->

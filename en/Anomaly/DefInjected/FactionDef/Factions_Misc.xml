@@ -6,6 +6,8 @@
   <Entities.fixedName>Dark entities</Entities.fixedName>
   <!-- EN: leader -->
   <Entities.leaderTitle>leader</Entities.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Entities.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Entities.messageDefendersAttacking>
   <!-- EN: entity -->
   <Entities.pawnSingular>entity</Entities.pawnSingular>
   <!-- EN: entities -->
@@ -22,6 +24,8 @@
   <HoraxCult.ideoName>Nightmare Deep</HoraxCult.ideoName>
   <!-- EN: leader -->
   <HoraxCult.leaderTitle>leader</HoraxCult.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <HoraxCult.messageDefendersAttacking>{0} from {1} are attacking your {2}.</HoraxCult.messageDefendersAttacking>
   <!-- EN: member -->
   <HoraxCult.pawnSingular>member</HoraxCult.pawnSingular>
   <!-- EN: cultists -->

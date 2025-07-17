@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: indoor dweller -->
+  <CaveDweller.label>indoor dweller</CaveDweller.label>
+  <!-- EN: Carriers of this gene have no need for the outdoors and will never feel cooped up no matter how long they stay inside. -->
+  <CaveDweller.description>Carriers of this gene have no need for the outdoors and will never feel cooped up no matter how long they stay inside.</CaveDweller.description>
   <!-- EN: dark vision -->
   <DarkVision.label>dark vision</DarkVision.label>
   <!-- EN: Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark. -->
@@ -196,4 +200,8 @@
   <ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>dove</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: dove -->
   <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>dove</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: webbed phalanges -->
+  <WebbedPhalanges.label>webbed phalanges</WebbedPhalanges.label>
+  <!-- EN: Carriers of this gene have webbed fingers and toes, allowing them to move faster in water. Webbed fingers slightly reduce fine motor control. -->
+  <WebbedPhalanges.description>Carriers of this gene have webbed fingers and toes, allowing them to move faster in water. Webbed fingers slightly reduce fine motor control.</WebbedPhalanges.description>
 </LanguageData>

@@ -8,10 +8,6 @@
   <BerserkWarcall.beginLetter>{0} has been roused by a warcall.\n\n[PAWN_pronoun] will attack any enemy of the colony.</BerserkWarcall.beginLetter>
   <!-- EN: {0}'s rage has come to an end. -->
   <BerserkWarcall.recoveryMessage>{0}'s rage has come to an end.</BerserkWarcall.recoveryMessage>
-  <!-- EN: cocoon disturbed -->
-  <CocoonDisturbed.label>cocoon disturbed</CocoonDisturbed.label>
-  <!-- EN: Enraged: Cocoon disturbed -->
-  <CocoonDisturbed.baseInspectLine>Enraged: Cocoon disturbed</CocoonDisturbed.baseInspectLine>
   <!-- EN: panic-fleeing fire -->
   <PanicFleeFire.label>panic-fleeing fire</PanicFleeFire.label>
   <!-- EN: Mental state: Fleeing fire -->

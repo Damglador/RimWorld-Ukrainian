@@ -18,4 +18,8 @@
   <ShallowWater.label>shallow water</ShallowWater.label>
   <!-- EN: smoothable -->
   <SmoothableStone.label>smoothable</SmoothableStone.label>
+  <!-- EN: walkable -->
+  <Walkable.label>walkable</Walkable.label>
+  <!-- EN: waterproof conduit -->
+  <WaterproofConduitable.label>waterproof conduit</WaterproofConduitable.label>
 </LanguageData>

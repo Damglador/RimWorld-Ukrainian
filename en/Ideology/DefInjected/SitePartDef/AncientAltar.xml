@@ -4,8 +4,8 @@
   <AncientAltar.label>relic complex</AncientAltar.label>
   <!-- EN: An ancient complex housing a relic. -->
   <AncientAltar.description>An ancient complex housing a relic.</AncientAltar.description>
-  <!-- EN: Investigate {0} -->
-  <AncientAltar.approachingReportString>Investigate {0}</AncientAltar.approachingReportString>
+  <!-- EN: Investigating {0}. -->
+  <AncientAltar.approachingReportString>Investigating {0}.</AncientAltar.approachingReportString>
   <!-- EN: Investigate {0} -->
   <AncientAltar.approachOrderString>Investigate {0}</AncientAltar.approachOrderString>
   <!-- EN: There is an ancient structure holding a relic in this area. -->

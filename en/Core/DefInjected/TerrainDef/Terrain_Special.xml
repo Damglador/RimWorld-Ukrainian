@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: bridge -->
-  <Bridge.label>bridge</Bridge.label>
-  <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
-  <Bridge.description>A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well.</Bridge.description>
+  <!-- EN: ancient concrete -->
+  <AncientConcrete.label>ancient concrete</AncientConcrete.label>
+  <!-- EN: Ancient concrete flooring. -->
+  <AncientConcrete.description>Ancient concrete flooring.</AncientConcrete.description>
+  <!-- EN: ancient tile -->
+  <AncientTile.label>ancient tile</AncientTile.label>
+  <!-- EN: Ancient metal tiles. -->
+  <AncientTile.description>Ancient metal tiles.</AncientTile.description>
+  <!-- EN: ancient wood floor -->
+  <AncientWoodPlankFloor.label>ancient wood floor</AncientWoodPlankFloor.label>
   <!-- EN: underwall -->
   <Underwall.label>underwall</Underwall.label>
 </LanguageData>

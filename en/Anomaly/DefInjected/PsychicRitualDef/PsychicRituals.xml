@@ -104,8 +104,8 @@
   <SummonShamblers.outcomeDescription>The higher the ritual quality, the more shamblers that will be summoned.</SummonShamblers.outcomeDescription>
   <!-- EN: void provocation -->
   <VoidProvocation.label>void provocation</VoidProvocation.label>
-  <!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There’s a chance that the invoker will fall into a coma for several hours. -->
-  <VoidProvocation.description>Psychically commune with the void, attracting an entity which can be captured and studied. There’s a chance that the invoker will fall into a coma for several hours.</VoidProvocation.description>
+  <!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There's a chance that the invoker will fall into a coma for several hours. -->
+  <VoidProvocation.description>Psychically commune with the void, attracting an entity which can be captured and studied. There's a chance that the invoker will fall into a coma for several hours.</VoidProvocation.description>
   <!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
   <VoidProvocation.outcomeDescription>With the current quality, there's a {0} chance the invoker will receive dark psychic shock.</VoidProvocation.outcomeDescription>
 </LanguageData>

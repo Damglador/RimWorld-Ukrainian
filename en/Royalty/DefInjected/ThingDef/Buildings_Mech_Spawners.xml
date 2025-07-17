@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: mech assembler -->
-  <MechAssembler.label>mech assembler</MechAssembler.label>
-  <!-- EN: An automated mechanoid factory. It periodically assembles and deploys new mechanoids. -->
-  <MechAssembler.description>An automated mechanoid factory. It periodically assembles and deploys new mechanoids.</MechAssembler.description>
+  <!-- EN: mech birther -->
+  <MechAssembler.label>mech birther</MechAssembler.label>
+  <!-- EN: An automated fast-acting mechanoid gestator. It periodically births and deploys fresh mechanoids. -->
+  <MechAssembler.description>An automated fast-acting mechanoid gestator. It periodically births and deploys fresh mechanoids.</MechAssembler.description>
   <!-- EN: mech capsule -->
   <MechCapsule.label>mech capsule</MechCapsule.label>
   <!-- EN: A mechanoid storage and deployment capsule. It can contain a number of mechanoids, ready to emerge and fight upon being awakened. -->

@@ -16,6 +16,8 @@
   <FrontClaw.labelShort>claw</FrontClaw.labelShort>
   <!-- EN: head claw -->
   <HeadClaw.label>head claw</HeadClaw.label>
+  <!-- EN: head -->
+  <HeadWithEarHoles.label>head</HeadWithEarHoles.label>
   <!-- EN: hoof -->
   <Hoof.label>hoof</Hoof.label>
   <!-- EN: horn -->

@@ -12,16 +12,16 @@
   <Art.verb>Do art at</Art.verb>
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
   <BasicWorker.description>Unskilled and easy tasks. Release prisoners and flick switches on machines.</BasicWorker.description>
-  <!-- EN: dealing with -->
-  <BasicWorker.gerundLabel>dealing with</BasicWorker.gerundLabel>
+  <!-- EN: basic tasks -->
+  <BasicWorker.gerundLabel>basic tasks</BasicWorker.gerundLabel>
   <!-- EN: basic -->
   <BasicWorker.labelShort>basic</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>Worker</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
   <BasicWorker.verb>Deal with</BasicWorker.verb>
-  <!-- EN: Clear snow and clean the floor in the home area. -->
-  <Cleaning.description>Clear snow and clean the floor in the home area.</Cleaning.description>
+  <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
+  <Cleaning.description>Clear snow, pollution and clean the floor in the home area.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>cleaning</Cleaning.gerundLabel>
   <!-- EN: clean -->
@@ -110,8 +110,8 @@
   <Hauling.pawnLabel>Hauler</Hauling.pawnLabel>
   <!-- EN: Haul -->
   <Hauling.verb>Haul</Hauling.verb>
-  <!-- EN: Kill animals which are designated to be hunted. -->
-  <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
+  <!-- EN: Kill animals which are designated to be hunted and fish in fishing zones. -->
+  <Hunting.description>Kill animals which are designated to be hunted and fish in fishing zones.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>hunting</Hunting.gerundLabel>
   <!-- EN: hunt -->
@@ -170,8 +170,8 @@
   <Research.pawnLabel>Researcher</Research.pawnLabel>
   <!-- EN: Research at -->
   <Research.verb>Research at</Research.verb>
-  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
-  <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining.</Smithing.description>
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
+  <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>smithing</Smithing.gerundLabel>
   <!-- EN: smith -->

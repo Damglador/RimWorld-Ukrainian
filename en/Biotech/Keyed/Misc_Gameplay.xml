@@ -26,9 +26,13 @@
   <CaravanMechsCount>{0} mechs</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
   <BossWithApparel>{BOSS} with {APPAREL}</BossWithApparel>
+  <!-- EN: Resulting from gene -->
+  <ComesFromGene>Resulting from gene</ComesFromGene>
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>removing {0}.</ReportRemovingMechlink>
+  <!-- EN: from {TEACHER_labelShort} -->
+  <ReportTakingLessonFrom>from {TEACHER_labelShort}</ReportTakingLessonFrom>
   <!-- Areas -->
   <!-- EN: Pollution clear -->
   <PollutionClear>Pollution clear</PollutionClear>
@@ -95,6 +99,8 @@
   <ReadyToSummonThreat>{0} threat ready to summon</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
   <Summon>Summon {0} threat</Summon>
+  <!-- EN: Mechanoids disabled -->
+  <MechsDisabled>Mechanoids disabled</MechsDisabled>
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>No reachable {0}</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
@@ -239,11 +245,6 @@
   <BirthRitualHealthyBabyChance>The chance of a healthy birth at this quality level was {0_percentage}.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
   <GivingBirth>Giving birth.</GivingBirth>
-  <!-- Shield comp -->
-  <!-- EN: Shield energy -->
-  <ShieldEnergy>Shield energy</ShieldEnergy>
-  <!-- EN: Time to recovery -->
-  <ShieldTimeToRecovery>Time to recovery</ShieldTimeToRecovery>
   <!-- Genes -->
   <!-- EN: genes -->
   <Genes>genes</Genes>
@@ -715,9 +716,6 @@
   <IvfPregnancyLetterText>{0} has successfully become pregnant from embryo implantation!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
   <IvfPregnancyLetterParents>The baby will have the genetic makeup of {0} and {1}.</IvfPregnancyLetterParents>
-  <!-- Projectile interceptor -->
-  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP.</ProjectileInterceptorTip>
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
   <RemoteMechShieldTip>A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP</RemoteMechShieldTip>

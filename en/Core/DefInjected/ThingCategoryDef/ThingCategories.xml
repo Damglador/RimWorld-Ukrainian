@@ -144,6 +144,8 @@
   <WeaponsMeleeBladelink.label>persona weapons</WeaponsMeleeBladelink.label>
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
+  <!-- EN: unique weapons -->
+  <WeaponsUnique.label>unique weapons</WeaponsUnique.label>
   <!-- EN: wools -->
   <Wools.label>wools</Wools.label>
 </LanguageData>

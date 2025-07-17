@@ -2,12 +2,6 @@
 <LanguageData>
   <!-- EN: dried blood -->
   <Filth_DriedBlood.label>dried blood</Filth_DriedBlood.label>
-  <!-- EN: ragged uniform -->
-  <Filth_MoldyUniform.label>ragged uniform</Filth_MoldyUniform.label>
-  <!-- EN: oil smear -->
-  <Filth_OilSmear.label>oil smear</Filth_OilSmear.label>
   <!-- EN: pod slime -->
   <Filth_PodSlime.label>pod slime</Filth_PodSlime.label>
-  <!-- EN: scattered documents -->
-  <Filth_ScatteredDocuments.label>scattered documents</Filth_ScatteredDocuments.label>
 </LanguageData>

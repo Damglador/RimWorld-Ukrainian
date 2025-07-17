@@ -4,8 +4,8 @@
   <BanditCamp.label>bandit camp</BanditCamp.label>
   <!-- EN: A bandit camp. -->
   <BanditCamp.description>A bandit camp.</BanditCamp.description>
-  <!-- EN: Attacking {0} -->
-  <BanditCamp.approachingReportString>Attacking {0}</BanditCamp.approachingReportString>
+  <!-- EN: Attacking {0}. -->
+  <BanditCamp.approachingReportString>Attacking {0}.</BanditCamp.approachingReportString>
   <!-- EN: Attack {0} -->
   <BanditCamp.approachOrderString>Attack {0}</BanditCamp.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->

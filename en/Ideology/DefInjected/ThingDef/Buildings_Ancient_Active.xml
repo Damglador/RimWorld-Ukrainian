@@ -4,18 +4,16 @@
   <AncientCommsConsole.label>ancient comms console</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <AncientCommsConsole.description>An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness.</AncientCommsConsole.description>
+  <!-- EN: Hack to access ancient supply satellite. -->
+  <AncientCommsConsole.comps.CompHackable.notHackedInspectString>Hack to access ancient supply satellite.</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
   <!-- EN: ancient enemy terminal -->
   <AncientEnemyTerminal.label>ancient enemy terminal</AncientEnemyTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
   <AncientEnemyTerminal.description>An ancient computer terminal. It can be hacked to call nearby enemies.</AncientEnemyTerminal.description>
-  <!-- EN: ancient unstable fuel node -->
-  <AncientFuelNode.label>ancient unstable fuel node</AncientFuelNode.label>
-  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
-  <AncientFuelNode.description>An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance.</AncientFuelNode.description>
-  <!-- EN: hermetic crate -->
-  <AncientHermeticCrate.label>hermetic crate</AncientHermeticCrate.label>
-  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
-  <AncientHermeticCrate.description>A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time.</AncientHermeticCrate.description>
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>Hacking this {0} will alert enemies and cause them to attack.</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <!-- EN: Hack to call nearby enemies. -->
+  <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>Hack to call nearby enemies.</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
   <!-- EN: security crate -->
   <AncientSecurityCrate.label>security crate</AncientSecurityCrate.label>
   <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->

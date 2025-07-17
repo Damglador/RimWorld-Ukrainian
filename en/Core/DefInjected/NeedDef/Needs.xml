@@ -18,8 +18,8 @@
   <Food.description>Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die.</Food.description>
   <!-- EN: indoors -->
   <Indoors.label>indoors</Indoors.label>
-  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
-  <Indoors.description>Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof.</Indoors.description>
+  <!-- EN: Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside. -->
+  <Indoors.description>Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside.</Indoors.description>
   <!-- EN: recreation -->
   <Joy.label>recreation</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->

@@ -12,14 +12,6 @@
   <EnergyBolt.label>energy bolt</EnergyBolt.label>
   <!-- EN: {0} has been killed by an energy bolt. -->
   <EnergyBolt.deathMessage>{0} has been killed by an energy bolt.</EnergyBolt.deathMessage>
-  <!-- EN: nerve -->
-  <Nerve.label>nerve</Nerve.label>
-  <!-- EN: {0} has been killed by nerve shock. -->
-  <Nerve.deathMessage>{0} has been killed by nerve shock.</Nerve.deathMessage>
-  <!-- EN: nerve stun -->
-  <NerveStun.label>nerve stun</NerveStun.label>
-  <!-- EN: {0} has been killed. -->
-  <NerveStun.deathMessage>{0} has been killed.</NerveStun.deathMessage>
   <!-- EN: vaporize -->
   <NociosphereVaporize.label>vaporize</NociosphereVaporize.label>
   <!-- EN: {0} has been vaporized by extreme heat. -->

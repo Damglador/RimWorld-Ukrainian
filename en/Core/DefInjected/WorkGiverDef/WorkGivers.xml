@@ -54,6 +54,12 @@
   <ConstructRemoveFloors.gerund>removing floor</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
   <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.label>remove foundation</ConstructRemoveFoundations.label>
+  <!-- EN: removing foundation -->
+  <ConstructRemoveFoundations.gerund>removing foundation</ConstructRemoveFoundations.gerund>
+  <!-- EN: remove foundation -->
+  <ConstructRemoveFoundations.verb>remove foundation</ConstructRemoveFoundations.verb>
   <!-- EN: smooth floors -->
   <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
@@ -78,6 +84,12 @@
   <Deconstruct.gerund>deconstructing</Deconstruct.gerund>
   <!-- EN: deconstruct -->
   <Deconstruct.verb>deconstruct</Deconstruct.verb>
+  <!-- EN: deconstruct structures for blueprints -->
+  <DeconstructForBlueprint.label>deconstruct structures for blueprints</DeconstructForBlueprint.label>
+  <!-- EN: deconstructing -->
+  <DeconstructForBlueprint.gerund>deconstructing</DeconstructForBlueprint.gerund>
+  <!-- EN: deconstruct -->
+  <DeconstructForBlueprint.verb>deconstruct</DeconstructForBlueprint.verb>
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>deliver food to prisoners</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
@@ -100,38 +112,38 @@
   <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
   <!-- EN: brewing at -->
   <DoBillsBrew.gerund>brewing at</DoBillsBrew.gerund>
-  <!-- EN: brew -->
-  <DoBillsBrew.verb>brew</DoBillsBrew.verb>
+  <!-- EN: brew at -->
+  <DoBillsBrew.verb>brew at</DoBillsBrew.verb>
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>
-  <!-- EN: butcher -->
-  <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
+  <!-- EN: butcher at -->
+  <DoBillsButcherFlesh.verb>butcher at</DoBillsButcherFlesh.verb>
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
   <!-- EN: cooking at -->
   <DoBillsCook.gerund>cooking at</DoBillsCook.gerund>
-  <!-- EN: cook -->
-  <DoBillsCook.verb>cook</DoBillsCook.verb>
+  <!-- EN: cook at -->
+  <DoBillsCook.verb>cook at</DoBillsCook.verb>
   <!-- EN: cook meals at campfire -->
   <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
   <DoBillsCookCampfire.gerund>cooking at</DoBillsCookCampfire.gerund>
-  <!-- EN: cook -->
-  <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
+  <!-- EN: cook at -->
+  <DoBillsCookCampfire.verb>cook at</DoBillsCookCampfire.verb>
   <!-- EN: do cremation bills -->
   <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
   <!-- EN: cremating at -->
   <DoBillsCremate.gerund>cremating at</DoBillsCremate.gerund>
-  <!-- EN: cremate -->
-  <DoBillsCremate.verb>cremate</DoBillsCremate.verb>
+  <!-- EN: cremate at -->
+  <DoBillsCremate.verb>cremate at</DoBillsCremate.verb>
   <!-- EN: fabricate things -->
   <DoBillsFabricationBench.label>fabricate things</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>fabricating things at</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricate -->
-  <DoBillsFabricationBench.verb>fabricate</DoBillsFabricationBench.verb>
+  <!-- EN: fabricate things at -->
+  <DoBillsFabricationBench.verb>fabricate things at</DoBillsFabricationBench.verb>
   <!-- EN: do bills at campfire -->
   <DoBillsHaulCampfire.label>do bills at campfire</DoBillsHaulCampfire.label>
   <!-- EN: working at -->
@@ -142,20 +154,20 @@
   <DoBillsMachiningTable.label>make things at machining table</DoBillsMachiningTable.label>
   <!-- EN: working at -->
   <DoBillsMachiningTable.gerund>working at</DoBillsMachiningTable.gerund>
-  <!-- EN: work -->
-  <DoBillsMachiningTable.verb>work</DoBillsMachiningTable.verb>
+  <!-- EN: work at -->
+  <DoBillsMachiningTable.verb>work at</DoBillsMachiningTable.verb>
   <!-- EN: make apparel -->
   <DoBillsMakeApparel.label>make apparel</DoBillsMakeApparel.label>
   <!-- EN: tailoring at -->
   <DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
-  <!-- EN: tailor -->
-  <DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
+  <!-- EN: tailor at -->
+  <DoBillsMakeApparel.verb>tailor at</DoBillsMakeApparel.verb>
   <!-- EN: make weapons -->
   <DoBillsMakeWeapons.label>make weapons</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
   <DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>
-  <!-- EN: smith -->
-  <DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>
+  <!-- EN: smith at -->
+  <DoBillsMakeWeapons.verb>smith at</DoBillsMakeWeapons.verb>
   <!-- EN: operate on animals -->
   <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
   <!-- EN: operating on -->
@@ -172,38 +184,38 @@
   <DoBillsProduceDrugs.label>synthesize drugs</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
   <DoBillsProduceDrugs.gerund>producing drugs at</DoBillsProduceDrugs.gerund>
-  <!-- EN: produce drugs -->
-  <DoBillsProduceDrugs.verb>produce drugs</DoBillsProduceDrugs.verb>
+  <!-- EN: produce drugs at -->
+  <DoBillsProduceDrugs.verb>produce drugs at</DoBillsProduceDrugs.verb>
   <!-- EN: work at refinery -->
   <DoBillsRefinery.label>work at refinery</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->
   <DoBillsRefinery.gerund>refining chemicals at</DoBillsRefinery.gerund>
-  <!-- EN: refine chemicals -->
-  <DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
+  <!-- EN: refine chemicals at -->
+  <DoBillsRefinery.verb>refine chemicals at</DoBillsRefinery.verb>
   <!-- EN: make things at art bench -->
   <DoBillsSculpt.label>make things at art bench</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>sculpting at</DoBillsSculpt.gerund>
-  <!-- EN: sculpt -->
-  <DoBillsSculpt.verb>sculpt</DoBillsSculpt.verb>
+  <!-- EN: sculpt at -->
+  <DoBillsSculpt.verb>sculpt at</DoBillsSculpt.verb>
   <!-- EN: smelt items -->
   <DoBillsSmelter.label>smelt items</DoBillsSmelter.label>
   <!-- EN: refining at -->
   <DoBillsSmelter.gerund>refining at</DoBillsSmelter.gerund>
-  <!-- EN: refine -->
-  <DoBillsSmelter.verb>refine</DoBillsSmelter.verb>
+  <!-- EN: refine at -->
+  <DoBillsSmelter.verb>refine at</DoBillsSmelter.verb>
   <!-- EN: make stone blocks -->
   <DoBillsStonecut.label>make stone blocks</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
   <DoBillsStonecut.gerund>cutting stone blocks at</DoBillsStonecut.gerund>
-  <!-- EN: stonecut -->
-  <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
+  <!-- EN: cut stone blocks at -->
+  <DoBillsStonecut.verb>cut stone blocks at</DoBillsStonecut.verb>
   <!-- EN: make things at crafting spot -->
   <DoBillsUseCraftingSpot.label>make things at crafting spot</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
   <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
-  <!-- EN: craft -->
-  <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
+  <!-- EN: craft at -->
+  <DoBillsUseCraftingSpot.verb>craft at</DoBillsUseCraftingSpot.verb>
   <!-- EN: feed animals -->
   <DoctorFeedAnimals.label>feed animals</DoctorFeedAnimals.label>
   <!-- EN: feeding -->
@@ -264,6 +276,12 @@
   <Drill.gerund>drilling</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>drill</Drill.verb>
+  <!-- EN: eject fuel -->
+  <EjectFuel.label>eject fuel</EjectFuel.label>
+  <!-- EN: ejecting fuel from -->
+  <EjectFuel.gerund>ejecting fuel from</EjectFuel.gerund>
+  <!-- EN: eject fuel -->
+  <EjectFuel.verb>eject fuel</EjectFuel.verb>
   <!-- EN: empty egg box -->
   <EmptyEggBox.label>empty egg box</EmptyEggBox.label>
   <!-- EN: emptying -->
@@ -322,8 +340,8 @@
   <GroundPenetratingScan.label>operate ground penetrating scanner</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
   <GroundPenetratingScan.gerund>scanning at</GroundPenetratingScan.gerund>
-  <!-- EN: scan -->
-  <GroundPenetratingScan.verb>scan</GroundPenetratingScan.verb>
+  <!-- EN: scan at -->
+  <GroundPenetratingScan.verb>scan at</GroundPenetratingScan.verb>
   <!-- EN: harvest crops -->
   <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
   <!-- EN: harvesting -->
@@ -336,6 +354,12 @@
   <GrowerSow.gerund>sowing</GrowerSow.gerund>
   <!-- EN: sow -->
   <GrowerSow.verb>sow</GrowerSow.verb>
+  <!-- EN: hack buildings -->
+  <Hack.label>hack buildings</Hack.label>
+  <!-- EN: hacking -->
+  <Hack.gerund>hacking</Hack.gerund>
+  <!-- EN: hack -->
+  <Hack.verb>hack</Hack.verb>
   <!-- EN: feed animals -->
   <HandlingFeedPatientAnimals.label>feed animals</HandlingFeedPatientAnimals.label>
   <!-- EN: feeding -->
@@ -388,8 +412,8 @@
   <LongRangeScan.label>operate long range scanner</LongRangeScan.label>
   <!-- EN: scanning at -->
   <LongRangeScan.gerund>scanning at</LongRangeScan.gerund>
-  <!-- EN: scan -->
-  <LongRangeScan.verb>scan</LongRangeScan.verb>
+  <!-- EN: scan at -->
+  <LongRangeScan.verb>scan at</LongRangeScan.verb>
   <!-- EN: milk animals -->
   <Milk.label>milk animals</Milk.label>
   <!-- EN: milking -->
@@ -462,8 +486,8 @@
   <RebalanceAnimalsInPens.gerund>roping</RebalanceAnimalsInPens.gerund>
   <!-- EN: rope -->
   <RebalanceAnimalsInPens.verb>rope</RebalanceAnimalsInPens.verb>
-  <!-- EN: refuel fuelable buildings -->
-  <Refuel.label>refuel fuelable buildings</Refuel.label>
+  <!-- EN: refuel buildings -->
+  <Refuel.label>refuel buildings</Refuel.label>
   <!-- EN: refueling -->
   <Refuel.gerund>refueling</Refuel.gerund>
   <!-- EN: refuel -->
@@ -514,8 +538,8 @@
   <Research.label>do research</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>researching at</Research.gerund>
-  <!-- EN: research -->
-  <Research.verb>research</Research.verb>
+  <!-- EN: research at -->
+  <Research.verb>research at</Research.verb>
   <!-- EN: shear animals -->
   <Shear.label>shear animals</Shear.label>
   <!-- EN: shearing -->

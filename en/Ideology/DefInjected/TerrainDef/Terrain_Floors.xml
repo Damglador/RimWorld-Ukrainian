@@ -48,6 +48,10 @@
   <Tile_MorbidSlate.label>morbid slate tile</Tile_MorbidSlate.label>
   <!-- EN: Fine stone tiles in a morbid style. -->
   <Tile_MorbidSlate.description>Fine stone tiles in a morbid style.</Tile_MorbidSlate.description>
+  <!-- EN: morbid vacstone tile -->
+  <Tile_MorbidVacstone.label>morbid vacstone tile</Tile_MorbidVacstone.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidVacstone.description>Fine stone tiles in a morbid style.</Tile_MorbidVacstone.description>
   <!-- EN: granite spikecore tile -->
   <Tile_SpikecoreGranite.label>granite spikecore tile</Tile_SpikecoreGranite.label>
   <!-- EN: Fine stone tiles in a spikecore style. -->
@@ -68,6 +72,10 @@
   <Tile_SpikecoreSlate.label>slate spikecore tile</Tile_SpikecoreSlate.label>
   <!-- EN: Fine stone tiles in a spikecore style. -->
   <Tile_SpikecoreSlate.description>Fine stone tiles in a spikecore style.</Tile_SpikecoreSlate.description>
+  <!-- EN: vacstone spikecore tile -->
+  <Tile_SpikecoreVacstone.label>vacstone spikecore tile</Tile_SpikecoreVacstone.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreVacstone.description>Fine stone tiles in a spikecore style.</Tile_SpikecoreVacstone.description>
   <!-- EN: totemic granite tile -->
   <Tile_TotemicGranite.label>totemic granite tile</Tile_TotemicGranite.label>
   <!-- EN: Fine stone tiles in a totemic style. -->
@@ -88,6 +96,10 @@
   <Tile_TotemicSlate.label>totemic slate tile</Tile_TotemicSlate.label>
   <!-- EN: Fine stone tiles in a totemic style. -->
   <Tile_TotemicSlate.description>Fine stone tiles in a totemic style.</Tile_TotemicSlate.description>
+  <!-- EN: totemic vacstone tile -->
+  <Tile_TotemicVacstone.label>totemic vacstone tile</Tile_TotemicVacstone.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicVacstone.description>Fine stone tiles in a totemic style.</Tile_TotemicVacstone.description>
   <!-- EN: hex tile -->
   <Tile_Transhumanist.label>hex tile</Tile_Transhumanist.label>
   <!-- EN: Fine steel plates with a hexagonal pattern for that ultra-technological look. -->

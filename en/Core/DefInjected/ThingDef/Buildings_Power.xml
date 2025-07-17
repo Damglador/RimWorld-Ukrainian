@@ -34,8 +34,8 @@
   <WatermillGenerator.description>Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation.</WatermillGenerator.description>
   <!-- EN: waterproof conduit -->
   <WaterproofConduit.label>waterproof conduit</WaterproofConduit.label>
-  <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
-  <WaterproofConduit.description>Insulated electrical cables for transmitting power under shallow water.</WaterproofConduit.description>
+  <!-- EN: Insulated electrical cables for transmitting power through shallow water or mud. -->
+  <WaterproofConduit.description>Insulated electrical cables for transmitting power through shallow water or mud.</WaterproofConduit.description>
   <!-- EN: wind turbine -->
   <WindTurbine.label>wind turbine</WindTurbine.label>
   <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->

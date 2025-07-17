@@ -90,18 +90,18 @@
   <Styles>Styles</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Chance to have precept</ChanceToHavePrecept>
-  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye.</FavoriteColorTooltip>
+  <!-- EN: {PAWN_labelShort}'s favorite color: {COLOR}\nHaving more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
+  <FavoriteColorTooltip>{PAWN_labelShort}'s favorite color: {COLOR}\nHaving more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye.</FavoriteColorTooltip>
   <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
   <OrIdeoColor>, or the color of {PAWN_possessive} ideoligion,</OrIdeoColor>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Set ideo color</SetIdeoColor>
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>Set to favorite color</SetFavoriteColor>
-  <!-- EN: {PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
-  <FavoriteColorPickerTip>{PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.</FavoriteColorPickerTip>
-  <!-- EN: {PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
-  <IdeoColorPickerTip>{PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier.</IdeoColorPickerTip>
+  <!-- EN: {PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
+  <FavoriteColorPickerTip>{PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.</FavoriteColorPickerTip>
+  <!-- EN: {PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
+  <IdeoColorPickerTip>{PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier.</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>Configure your faction's ideoligion</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
@@ -364,17 +364,6 @@
   <!-- Outfits -->
   <!-- EN: Slave -->
   <OutfitSlave>Slave</OutfitSlave>
-  <!-- Hacking -->
-  <!-- EN: Hack progress -->
-  <HackProgress>Hack progress</HackProgress>
-  <!-- EN: hacking speed -->
-  <HackingSpeed>hacking speed</HackingSpeed>
-  <!-- EN: {0}'s -->
-  <HackingLastUser>{0}'s</HackingLastUser>
-  <!-- EN: hacked -->
-  <Hacked>hacked</Hacked>
-  <!-- EN: Terminals hacked -->
-  <TerminalsHacked>Terminals hacked</TerminalsHacked>
   <!-- EN: Relic info found -->
   <RelicInfoFound>Relic info found</RelicInfoFound>
   <!-- EN: inactive, requires at least {0} {1}s (have {2}) -->
@@ -626,4 +615,6 @@
   <ChangeStyleDesc>Change the style this will be built in. This is purely visual and has no gameplay impact.</ChangeStyleDesc>
   <!-- EN: No available styles. -->
   <ChangeStyleDisabledNoCategories>No available styles.</ChangeStyleDisabledNoCategories>
+  <!-- EN: Spacedrone self-destructs in {0} -->
+  <SpacedroneSelfDestructsIn>Spacedrone self-destructs in {0}</SpacedroneSelfDestructsIn>
 </LanguageData>

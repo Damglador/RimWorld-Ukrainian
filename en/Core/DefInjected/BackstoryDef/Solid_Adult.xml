@@ -1584,8 +1584,8 @@
   <TechnologyDoctor35.title>soldier-farmer</TechnologyDoctor35.title>
   <!-- EN: soldier -->
   <TechnologyDoctor35.titleShort>soldier</TechnologyDoctor35.titleShort>
-  <!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping. -->
-  <TestSubject39.description>[PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping.</TestSubject39.description>
+  <!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected. [PAWN_pronoun] went insane and killed a number of people before escaping. -->
+  <TestSubject39.description>[PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected. [PAWN_pronoun] went insane and killed a number of people before escaping.</TestSubject39.description>
   <!-- EN: test subject -->
   <TestSubject39.title>test subject</TestSubject39.title>
   <!-- EN: subject -->

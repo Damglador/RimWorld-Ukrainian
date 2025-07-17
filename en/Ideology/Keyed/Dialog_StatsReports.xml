@@ -54,6 +54,4 @@
   <Stat_PawnDarkness_FollowingOffset>The following offsets can be applied</Stat_PawnDarkness_FollowingOffset>
   <!-- EN: Biosculpting speed -->
   <StatsReport_BiosculptingSpeedFactor>Biosculpting speed</StatsReport_BiosculptingSpeedFactor>
-  <!-- EN: The amount of progress that has been made towards hacking this object. -->
-  <Stat_Thing_HackingProgress>The amount of progress that has been made towards hacking this object.</Stat_Thing_HackingProgress>
 </LanguageData>

@@ -6,8 +6,8 @@
   <AmbientHorror.description>The monolith does not appear. Any Anomaly threat can occur, but Anomaly threats will be rare by default. Good if you want to interact with Anomaly expansion content without it being the focus. Note: The monolith endgame cannot occur in this mode.</AmbientHorror.description>
   <!-- EN: anomaly incidents disabled -->
   <Disabled.label>anomaly incidents disabled</Disabled.label>
-  <!-- EN: Anomaly threats do not occur. Good if you don’t want to interact with most Anomaly expansion content. -->
-  <Disabled.description>Anomaly threats do not occur. Good if you don’t want to interact with most Anomaly expansion content.</Disabled.description>
+  <!-- EN: Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content. -->
+  <Disabled.description>Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content.</Disabled.description>
   <!-- EN: standard with monolith -->
   <Standard.label>standard with monolith</Standard.label>
   <!-- EN: The standard Anomaly experience. Anomaly threats are linked to the activation of the void monolith. -->

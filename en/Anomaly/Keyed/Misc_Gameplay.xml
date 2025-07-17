@@ -85,32 +85,11 @@
   <PitGateCollapsing>Pit gate collapsing</PitGateCollapsing>
   <!-- EN: Pit gate settling -->
   <PitGateSettling>Pit gate settling</PitGateSettling>
-  <!-- EN: View undercave -->
-  <ViewUndercave>View undercave</ViewUndercave>
-  <!-- EN: View the connected undercave map. -->
-  <ViewUndercaveDesc>View the connected undercave map.</ViewUndercaveDesc>
-  <!-- EN: View surface -->
-  <ViewSurface>View surface</ViewSurface>
-  <!-- EN: View the connected surface map. -->
-  <ViewSurfaceDesc>View the connected surface map.</ViewSurfaceDesc>
   <!-- EN: Pit rumbles -->
   <EmergenceWarningLabel>Pit rumbles</EmergenceWarningLabel>
   <!-- EN: The ground shakes under your feet and the inhuman screams echoing from the pit seem to get closer. Something will emerge soon. -->
   <EmergenceWarningText>The ground shakes under your feet and the inhuman screams echoing from the pit seem to get closer. Something will emerge soon.</EmergenceWarningText>
-  <!-- Pit Burrow -->
-  <!-- EN: Fill in -->
-  <DesignatorFillIn>Fill in</DesignatorFillIn>
-  <!-- EN: Fill in this pit burrow. -->
-  <DesignatorFillInDesc>Fill in this pit burrow.</DesignatorFillInDesc>
   <!-- Undercave -->
-  <!-- EN: Enter pit gate -->
-  <EnterPitGate>Enter pit gate</EnterPitGate>
-  <!-- EN: Climb to surface -->
-  <ExitPitGate>Climb to surface</ExitPitGate>
-  <!-- EN: Fleshbeast lair -->
-  <LetterLabelGateEntered>Fleshbeast lair</LetterLabelGateEntered>
-  <!-- EN: In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate. -->
-  <LetterGateEntered>In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate.</LetterGateEntered>
   <!-- EN: Squirming sounds -->
   <LetterLabelDreadmeldWarning>Squirming sounds</LetterLabelDreadmeldWarning>
   <!-- EN: As {PAWN_nameDef} draws near the fleshmass here, {PAWN_pronoun} senses a heavy writhing and throbbing from under its warm surface. Some huge living entity is hidden behind the wall of flesh. -->
@@ -242,9 +221,6 @@
   <Resisted>resist</Resisted>
   <!-- EN: Damaged -->
   <HealthFactor>Damaged</HealthFactor>
-  <!-- EN: Deactivated. -->
-  <Deactivated>Deactivated.</Deactivated>
-  <!-- -->
   <!-- EN: {PAWN_labelShort} was sent. -->
   <CommandSent>{PAWN_labelShort} was sent.</CommandSent>
   <!-- EN: Cannot activate entity -->
@@ -643,8 +619,8 @@
   <VoidMonolithViewResearch>View Anomaly research</VoidMonolithViewResearch>
   <!-- EN: Current monolith level -->
   <CurrentMonolithLevel>Current monolith level</CurrentMonolithLevel>
-  <!-- EN: Investigate to learn more. -->
-  <VoidMonolithUndiscovered>Investigate to learn more.</VoidMonolithUndiscovered>
+  <!-- EN: Send a colonist to investigate this. -->
+  <VoidMonolithUndiscovered>Send a colonist to investigate this.</VoidMonolithUndiscovered>
   <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
   <VoidMonolithRequiredEntityCategory>In order to advance the monolith to the next step, you need to discover {0} {1} tier entities.</VoidMonolithRequiredEntityCategory>
   <!-- EN: Discovered: {0} -->
@@ -689,8 +665,8 @@
   <MonolithAutoActivatingText>A wave of dread passes over your colonists. The fallen monolith has begun to stir. Slowly, it begins to twist and rearrange itself, morphing into something new.\n\nWithin a matter of days, the process will be complete. Be prepared for whatever comes next.</MonolithAutoActivatingText>
   <!-- EN: Void monolith -->
   <MonolithAutoActivatedLabel>Void monolith</MonolithAutoActivatedLabel>
-  <!-- EN: The monolith’s transformation is almost complete... -->
-  <MonolithAutoActivatedText>The monolith’s transformation is almost complete...</MonolithAutoActivatedText>
+  <!-- EN: The monolith's transformation is almost complete... -->
+  <MonolithAutoActivatedText>The monolith's transformation is almost complete...</MonolithAutoActivatedText>
   <!-- EN: Gray pall -->
   <LetterLabelGrayPallDescending>Gray pall</LetterLabelGrayPallDescending>
   <!-- EN: A blanket of gritty fog has descended on this area. The fog smells ancient, somehow, and it stings the skin. The unnatural grayness of it invokes a sense of dread. -->

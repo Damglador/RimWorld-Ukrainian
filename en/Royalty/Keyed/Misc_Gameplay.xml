@@ -98,6 +98,8 @@
   <RitualDisabledNoAltar>no accessible altar.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
   <RitualBestowingCeremony>Bestowing Ceremony</RitualBestowingCeremony>
+  <!-- EN: No suitable location near bestower -->
+  <BestowingSpotUnavailable>No suitable location near bestower</BestowingSpotUnavailable>
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Total meditation today: {0} (progress multiplier {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->

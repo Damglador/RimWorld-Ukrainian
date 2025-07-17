@@ -66,8 +66,8 @@
   <SpineLaunch_Gorehulk.description>Launch a keratin spine at a target to do damage.</SpineLaunch_Gorehulk.description>
   <!-- EN: transmute steel -->
   <TransmuteSteel.label>transmute steel</TransmuteSteel.label>
-  <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target a stack of steel or a steel slag chunk. -->
-  <TransmuteSteel.description>Reconfigure steel at the atomic level, turning it into a random valuable material. Can target a stack of steel or a steel slag chunk.</TransmuteSteel.description>
+  <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items. -->
+  <TransmuteSteel.description>Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</TransmuteSteel.description>
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Must target steel, steel slag chunks, steel buildings, or steel items.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   <!-- EN: entity skip -->

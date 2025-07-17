@@ -3,16 +3,14 @@
   <!-- Shuttle landing zones -->
   <!-- EN: Shuttle could not land on pad: {0} -->
   <ShuttleBlocked>Shuttle could not land on pad: {0}</ShuttleBlocked>
-  <!-- EN: The shuttle has arrived. -->
-  <MessageShuttleArrived>The shuttle has arrived.</MessageShuttleArrived>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
   <MessageShuttleArrivedContentsLost>The shuttle arrived, but since there were no colonists inside, the contents were lost.</MessageShuttleArrivedContentsLost>
-  <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>Cannot call shuttle</CannotCallShuttle>
   <!-- EN: Cannot land in undiscovered area. -->
   <ShuttleCannotLand_Fogged>Cannot land in undiscovered area.</ShuttleCannotLand_Fogged>
   <!-- EN: Area must be walkable. -->
   <ShuttleCannotLand_Unwalkable>Area must be walkable.</ShuttleCannotLand_Unwalkable>
+  <!-- EN: Terrain does not support {0}. -->
+  <ShuttleCannotLand_Unaffordable>Terrain does not support {0}.</ShuttleCannotLand_Unaffordable>
   <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->

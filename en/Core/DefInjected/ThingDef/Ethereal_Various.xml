@@ -6,6 +6,8 @@
   <Explosion.label>explosion</Explosion.label>
   <!-- EN: flying -->
   <PawnFlyer.label>flying</PawnFlyer.label>
+  <!-- EN: flying -->
+  <PawnFlyer_Stun.label>flying</PawnFlyer_Stun.label>
   <!-- EN: disrupted soil -->
   <PawnGroundSpawner.label>disrupted soil</PawnGroundSpawner.label>
   <!-- EN: proximity trigger -->

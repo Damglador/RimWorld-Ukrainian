@@ -24,6 +24,8 @@
   <PowerPlantMaxPowerOuput.label>max power output</PowerPlantMaxPowerOuput.label>
   <!-- EN: The maximum power that this generator can output in ideal conditions. -->
   <PowerPlantMaxPowerOuput.description>The maximum power that this generator can output in ideal conditions.</PowerPlantMaxPowerOuput.description>
+  <!-- EN: {0} W -->
+  <PowerPlantMaxPowerOuput.formatString>{0} W</PowerPlantMaxPowerOuput.formatString>
   <!-- EN: research speed factor -->
   <ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->

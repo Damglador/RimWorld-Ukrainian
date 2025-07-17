@@ -2,8 +2,14 @@
 <LanguageData>
   <!-- EN: starting people -->
   <ConfigPage_ConfigureStartingPawns.label>starting people</ConfigPage_ConfigureStartingPawns.label>
+  <!-- EN: forced map -->
+  <ForcedMap.label>forced map</ForcedMap.label>
+  <!-- EN: planet layer type -->
+  <PlanetLayerFixed.label>planet layer type</PlanetLayerFixed.label>
   <!-- EN: Player faction -->
   <PlayerFaction.label>Player faction</PlayerFaction.label>
   <!-- EN: arrival method -->
   <PlayerPawnsArriveMethod.label>arrival method</PlayerPawnsArriveMethod.label>
+  <!-- EN: surface layer type -->
+  <SurfaceLayerFixed.label>surface layer type</SurfaceLayerFixed.label>
 </LanguageData>

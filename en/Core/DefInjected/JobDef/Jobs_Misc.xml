@@ -32,6 +32,8 @@
   <DismissTrader.reportString>dismissing trader.</DismissTrader.reportString>
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>dropping TargetA.</DropEquipment.reportString>
+  <!-- EN: Ejecting fuel from TargetA. -->
+  <EjectFuel.reportString>Ejecting fuel from TargetA.</EjectFuel.reportString>
   <!-- EN: emptying TargetA. -->
   <EmptyThingContainer.reportString>emptying TargetA.</EmptyThingContainer.reportString>
   <!-- EN: entering cryptosleep casket. -->
@@ -60,6 +62,8 @@
   <FollowClose.reportString>following TargetA.</FollowClose.reportString>
   <!-- EN: following TargetA. -->
   <FollowRoper.reportString>following TargetA.</FollowRoper.reportString>
+  <!-- EN: making TargetA wear TargetB. -->
+  <ForceTargetWear.reportString>making TargetA wear TargetB.</ForceTargetWear.reportString>
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
   <!-- EN: moving. -->
@@ -84,6 +88,8 @@
   <InducePrisonerToEscape.reportString>inducing TargetA to escape.</InducePrisonerToEscape.reportString>
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>consuming TargetA.</Ingest.reportString>
+  <!-- EN: installing TargetB in TargetA. -->
+  <InstallImplant.reportString>installing TargetB in TargetA.</InstallImplant.reportString>
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>insulting TargetA.</Insult.reportString>
   <!-- EN: activating TargetA. -->

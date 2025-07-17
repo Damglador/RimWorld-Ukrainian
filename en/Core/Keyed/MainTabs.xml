@@ -308,6 +308,8 @@
   <QuestPawnNotOnColonyMap>{PAWN_definite} to be in your home colony</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
   <QuestRequiresNoDangerOnMap>the map clear of enemies of the bestower's faction</QuestRequiresNoDangerOnMap>
+  <!-- EN: that {PROJECT_label} has been researched. -->
+  <QuestRequiresResearch>that {PROJECT_label} has been researched.</QuestRequiresResearch>
   <!-- EN: to finish the ongoing bestowing ceremony quest -->
   <QuestCanNotStartUntilBestowingCeremonyFinished>to finish the ongoing bestowing ceremony quest</QuestCanNotStartUntilBestowingCeremonyFinished>
   <!-- EN: Reward preferences -->
@@ -344,6 +346,10 @@
   <QuestNeutralTo>neutral to {0}</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>studied {0_labelShort}</QuestRequiredThingStudied>
+  <!-- EN: cannot accept {GERUND} {LAYER} -->
+  <QuestRequiredLayer>cannot accept {GERUND} {LAYER}</QuestRequiredLayer>
+  <!-- EN: cannot accept in space -->
+  <QuestNotSpace>cannot accept in space</QuestNotSpace>
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>Creates need</CreatesNeed>

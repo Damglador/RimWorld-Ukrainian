@@ -6,16 +6,16 @@
   <ButcherCorpseFlesh.description>Butcher a creature to obtain its meat, leather, and other body products.</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
-  <!-- EN: shred mechanoid -->
-  <ButcherCorpseMechanoid.label>shred mechanoid</ButcherCorpseMechanoid.label>
-  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>Shred a dead mechanoid to try to salvage usable material.</ButcherCorpseMechanoid.description>
+  <!-- EN: shred mechanoid or drone -->
+  <ButcherCorpseMechanoid.label>shred mechanoid or drone</ButcherCorpseMechanoid.label>
+  <!-- EN: Shred a dead mechanoid or drone to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>Shred a dead mechanoid or drone to salvage usable material.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Shredding mechanoid.</ButcherCorpseMechanoid.jobString>
-  <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>smash mechanoid</SmashCorpseMechanoid.label>
-  <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>Smash a dead mechanoid with simple hand tools to salvage usable material.</SmashCorpseMechanoid.description>
+  <!-- EN: smash mechanoid or drone -->
+  <SmashCorpseMechanoid.label>smash mechanoid or drone</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid or drone with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>Smash a dead mechanoid or drone with simple hand tools to salvage usable material.</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
   <SmashCorpseMechanoid.jobString>Smashing mechanoid.</SmashCorpseMechanoid.jobString>
 </LanguageData>

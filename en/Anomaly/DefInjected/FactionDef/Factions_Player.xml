@@ -6,6 +6,8 @@
   <ResearchExpedition.description>A team of scientists.</ResearchExpedition.description>
   <!-- EN: leader -->
   <ResearchExpedition.leaderTitle>leader</ResearchExpedition.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ResearchExpedition.messageDefendersAttacking>{0} from {1} are attacking your {2}.</ResearchExpedition.messageDefendersAttacking>
   <!-- EN: colonist -->
   <ResearchExpedition.pawnSingular>colonist</ResearchExpedition.pawnSingular>
   <!-- EN: colonists -->

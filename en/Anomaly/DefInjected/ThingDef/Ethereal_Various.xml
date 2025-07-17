@@ -6,8 +6,6 @@
   <NoctolithIncoming.label>noctolith (incoming)</NoctolithIncoming.label>
   <!-- EN: flying -->
   <PawnFlyer_ConsumeLeap.label>flying</PawnFlyer_ConsumeLeap.label>
-  <!-- EN: flying -->
-  <PawnFlyer_Stun.label>flying</PawnFlyer_Stun.label>
   <!-- EN: obelisk (incoming) -->
   <WarpedObeliskIncoming.label>obelisk (incoming)</WarpedObeliskIncoming.label>
 </LanguageData>

@@ -52,8 +52,8 @@
   <SanguphageMeetingTorch.description>A specially-treated wooden torch that produces a red light over a large area. Sanguophages gather around torches like these during their ceremonial meetings. The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. It can be automatically refueled with wood, and produces a small amount of heat.</SanguphageMeetingTorch.description>
   <!-- EN: crashed shuttle -->
   <ShuttleCrashed_Exitable.label>crashed shuttle</ShuttleCrashed_Exitable.label>
-  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <ShuttleCrashed_Exitable.description>A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system.</ShuttleCrashed_Exitable.description>
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
+  <ShuttleCrashed_Exitable.description>A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources.</ShuttleCrashed_Exitable.description>
   <!-- EN: crashed mechanitor ship -->
   <ShuttleCrashed_Exitable_Mechanitor.label>crashed mechanitor ship</ShuttleCrashed_Exitable_Mechanitor.label>
   <!-- EN: A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel. -->

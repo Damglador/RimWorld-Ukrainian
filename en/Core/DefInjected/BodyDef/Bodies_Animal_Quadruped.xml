@@ -421,9 +421,9 @@
   <!-- EN: right kidney -->
   <TurtleLike.corePart.parts.right_kidney.customLabel>right kidney</TurtleLike.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>left eye</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <TurtleLike.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>left eye</TurtleLike.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>right eye</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <TurtleLike.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>right eye</TurtleLike.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>
   <!-- EN: front left leg -->
   <TurtleLike.corePart.parts.front_left_leg.customLabel>front left leg</TurtleLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->

@@ -4,4 +4,6 @@
   <Spacedrone.label>spacedrone</Spacedrone.label>
   <!-- EN: An ancient ultratech spacedrone. -->
   <Spacedrone.description>An ancient ultratech spacedrone.</Spacedrone.description>
+  <!-- EN: Hack to access computer. -->
+  <Spacedrone.comps.CompHackable.notHackedInspectString>Hack to access computer.</Spacedrone.comps.CompHackable.notHackedInspectString>
 </LanguageData>

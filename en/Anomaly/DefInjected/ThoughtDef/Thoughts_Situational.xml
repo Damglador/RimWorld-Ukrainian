@@ -60,8 +60,8 @@
   <DeathPall.stages.death_pall_exposure.description>It smells like death. My eyes sting and the air grits between my teeth.</DeathPall.stages.death_pall_exposure.description>
   <!-- EN: death refusal -->
   <DeathRefusalSickness.stages.death_refusal.label>death refusal</DeathRefusalSickness.stages.death_refusal.label>
-  <!-- EN: I was dead… I died. It was cold and terrifying. -->
-  <DeathRefusalSickness.stages.death_refusal.description>I was dead… I died. It was cold and terrifying.</DeathRefusalSickness.stages.death_refusal.description>
+  <!-- EN: I was dead... I died. It was cold and terrifying. -->
+  <DeathRefusalSickness.stages.death_refusal.description>I was dead... I died. It was cold and terrifying.</DeathRefusalSickness.stages.death_refusal.description>
   <!-- EN: my cube sculpture destroyed -->
   <DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.label>my cube sculpture destroyed</DestroyedCubeSculpture.stages.my_cube_sculpture_destroyed.label>
   <!-- EN: My sculpture... my beautiful sculpture... -->

@@ -6,6 +6,8 @@
   <Ancients.fixedName>Ancients</Ancients.fixedName>
   <!-- EN: leader -->
   <Ancients.leaderTitle>leader</Ancients.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <Ancients.messageDefendersAttacking>Ancient soldiers are attacking.</Ancients.messageDefendersAttacking>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>ancient</Ancients.pawnSingular>
   <!-- EN: ancients -->
@@ -16,6 +18,8 @@
   <AncientsHostile.fixedName>Ancients</AncientsHostile.fixedName>
   <!-- EN: leader -->
   <AncientsHostile.leaderTitle>leader</AncientsHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <AncientsHostile.messageDefendersAttacking>Ancient soldiers are attacking.</AncientsHostile.messageDefendersAttacking>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>ancient</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
@@ -28,6 +32,8 @@
   <Insect.fixedName>Sorne Geneline</Insect.fixedName>
   <!-- EN: leader -->
   <Insect.leaderTitle>leader</Insect.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Insect.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Insect.messageDefendersAttacking>
   <!-- EN: insect -->
   <Insect.pawnSingular>insect</Insect.pawnSingular>
   <!-- EN: insects -->
@@ -38,6 +44,8 @@
   <Mechanoid.description>Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god.</Mechanoid.description>
   <!-- EN: leader -->
   <Mechanoid.leaderTitle>leader</Mechanoid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Mechanoid.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Mechanoid.messageDefendersAttacking>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>mechanoid</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->

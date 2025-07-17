@@ -12,6 +12,8 @@
   <PeaceTalksTriumph.label>peace talks triumph</PeaceTalksTriumph.label>
   <!-- EN: requested military aid -->
   <RequestedMilitaryAid.label>requested military aid</RequestedMilitaryAid.label>
+  <!-- EN: requested orbital trader -->
+  <RequestedOrbitalTrader.label>requested orbital trader</RequestedOrbitalTrader.label>
   <!-- EN: requested trader -->
   <RequestedTrader.label>requested trader</RequestedTrader.label>
   <!-- EN: traded -->

@@ -4,6 +4,10 @@
   <BerserkMechanoid.label>aggression judgement scramble</BerserkMechanoid.label>
   <!-- EN: Aggression judgment scrambled -->
   <BerserkMechanoid.baseInspectLine>Aggression judgment scrambled</BerserkMechanoid.baseInspectLine>
+  <!-- EN: cocoon disturbed -->
+  <CocoonDisturbed.label>cocoon disturbed</CocoonDisturbed.label>
+  <!-- EN: Enraged: Cocoon disturbed -->
+  <CocoonDisturbed.baseInspectLine>Enraged: Cocoon disturbed</CocoonDisturbed.baseInspectLine>
   <!-- EN: manhunter -->
   <Manhunter.label>manhunter</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->

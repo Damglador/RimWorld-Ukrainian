@@ -36,6 +36,13 @@
   <TraderSent>{0} agrees to send you a trade caravan. It will arrive within a few days.</TraderSent>
   <!-- EN: wait {0} -->
   <WaitTime>wait {0}</WaitTime>
+  <!-- Orbital trade request -->
+  <!-- EN: Request orbital trader (cost: {0} goodwill) -->
+  <RequestOrbitalTrader>Request orbital trader (cost: {0} goodwill)</RequestOrbitalTrader>
+  <!-- EN: {0} asks what kind of orbital trader you want. -->
+  <ChooseOrbitalTraderKind>{0} asks what kind of orbital trader you want.</ChooseOrbitalTraderKind>
+  <!-- EN: {0} will ask an orbital trader to visit you. It will arrive within a few hours. -->
+  <OrbitalTraderSent>{0} will ask an orbital trader to visit you. It will arrive within a few hours.</OrbitalTraderSent>
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
   <RequestAICoreInformation>Request the location of a {0} (cost: {1} silver)</RequestAICoreInformation>

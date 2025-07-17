@@ -16,6 +16,10 @@
   <Mud.label>mud</Mud.label>
   <!-- EN: mud -->
   <Mud.tools.mud.label>mud</Mud.tools.mud.label>
+  <!-- EN: riverbank -->
+  <Riverbank.label>riverbank</Riverbank.label>
+  <!-- EN: dirt -->
+  <Riverbank.tools.dirt.label>dirt</Riverbank.tools.dirt.label>
   <!-- EN: sand -->
   <Sand.label>sand</Sand.label>
   <!-- EN: sand -->

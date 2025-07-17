@@ -20,4 +20,8 @@
   <FineTileSlate.label>fine slate tile</FineTileSlate.label>
   <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
   <FineTileSlate.description>Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct.</FineTileSlate.description>
+  <!-- EN: fine vacstone tile -->
+  <FineTileVacstone.label>fine vacstone tile</FineTileVacstone.label>
+  <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <FineTileVacstone.description>Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct.</FineTileVacstone.description>
 </LanguageData>

@@ -94,8 +94,6 @@
   <PassionModAdd>Adds one level of passion in {0_label}.</PassionModAdd>
   <!-- EN: Removes all passion in {0_label}. -->
   <PassionModDrop>Removes all passion in {0_label}.</PassionModDrop>
-  <!-- EN: Causes need -->
-  <CausesNeed>Causes need</CausesNeed>
   <!-- EN: Gives ability -->
   <GivesAbility>Gives ability</GivesAbility>
   <!-- EN: Gives abilities -->
@@ -104,10 +102,6 @@
   <ResourceLossPerDay>{RESOURCE}: {OFFSET} per day.</ResourceLossPerDay>
   <!-- EN: Removes -->
   <Removes>Removes</Removes>
-  <!-- EN: Disables need -->
-  <DisablesNeed>Disables need</DisablesNeed>
-  <!-- EN: Disables needs -->
-  <DisablesNeeds>Disables needs</DisablesNeeds>
   <!-- EN: Baby -->
   <DevelopmentStage_Baby>Baby</DevelopmentStage_Baby>
   <!-- EN: Child -->

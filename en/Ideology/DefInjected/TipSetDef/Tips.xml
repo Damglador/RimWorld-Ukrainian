@@ -4,6 +4,6 @@
   <IdeoligionTips.SlaveWorkEfficiency>Slaves work slower than normal colonists due to lack of motivation.</IdeoligionTips.SlaveWorkEfficiency>
   <!-- EN: Terror-inducing buildings affect anyone within a 5-cell radius. -->
   <IdeoligionTips.TerrorRadius>Terror-inducing buildings affect anyone within a 5-cell radius.</IdeoligionTips.TerrorRadius>
-  <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. Consider assigning them more frequent, short naps to prevent starvation during sleep. -->
-  <IdeoligionTips.SleepAcceleratorNaps>Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. Consider assigning them more frequent, short naps to prevent starvation during sleep.</IdeoligionTips.SleepAcceleratorNaps>
+  <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. -->
+  <IdeoligionTips.SleepAcceleratorNaps>Sleep accelerators increase colonists' sleep quality, but also increase hunger rate.</IdeoligionTips.SleepAcceleratorNaps>
 </LanguageData>
