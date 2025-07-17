@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: allow adult-only apparel -->
+  <AllowAdultOnlyApparel.label>allow adult-only apparel</AllowAdultOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by adults. -->
+  <AllowAdultOnlyApparel.description>Allow clothing that can only be worn by adults.</AllowAdultOnlyApparel.description>
   <!-- EN: allow biocoded apparel -->
   <AllowBiocodedApparel.label>біо-кодований</AllowBiocodedApparel.label>
   <!-- EN: allow biocoded weapons -->
@@ -56,6 +60,10 @@
   <AllowBurnableApparel.label>горючий</AllowBurnableApparel.label>
   <!-- EN: allow burnable -->
   <AllowBurnableWeapons.label>горюча</AllowBurnableWeapons.label>
+  <!-- EN: allow child-only apparel -->
+  <AllowChildOnlyApparel.label>allow child-only apparel</AllowChildOnlyApparel.label>
+  <!-- EN: Allow clothing that can only be worn by children. -->
+  <AllowChildOnlyApparel.description>Allow clothing that can only be worn by children.</AllowChildOnlyApparel.description>
   <!-- EN: allow colonist corpses -->
   <AllowCorpsesColonist.label>колоністів</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
@@ -116,4 +124,8 @@
   <AllowSmeltable.label>плавка</AllowSmeltable.label>
   <!-- EN: allow smeltable -->
   <AllowSmeltableApparel.label>плавка</AllowSmeltableApparel.label>
+  <!-- EN: allow unfinished -->
+  <AllowUnfinished.label>allow unfinished</AllowUnfinished.label>
+  <!-- EN: Allow unfinished items. -->
+  <AllowUnfinished.description>Allow unfinished items.</AllowUnfinished.description>
 </LanguageData>

@@ -6,6 +6,8 @@
   <OutlanderRoughPig.description>Вільний союз поселень міцно-шкіряних свиней. Вони готові дружити навіть з найслабшими, але також готові кинути бомбу і вкоротити вік будь-кому, коли їм це буде вигідно. Ставтеся до них з повагою, і вони запропонують лапу союзникові в біді. Станьте проти них, і останнім, що ви почуєте, буде переможний бойовий вереск.</OutlanderRoughPig.description>
   <!-- EN: prime councilor -->
   <OutlanderRoughPig.leaderTitle>верховний радник</OutlanderRoughPig.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRoughPig.messageDefendersAttacking>{0} from {1} are attacking your {2}.</OutlanderRoughPig.messageDefendersAttacking>
   <!-- EN: pigskin -->
   <OutlanderRoughPig.pawnSingular>pigskin</OutlanderRoughPig.pawnSingular>
   <!-- EN: pigskins -->
@@ -16,6 +18,8 @@
   <PirateWaster.description>Неорганізована група жорстоких піратських банд, що складаються переважно із пустотників - ксенолюдей, створених для процвітання в умовах токсинів і забруднення. Вони мало зацікавлені в будівництві або сільському господарстві, вважаючи за краще забирати їжу в слабких, використовуючи насильство.\n\nЇх технологічний рівень залежить в основному від того, кого вони зуміли обікрасти недавно. Здебільшого вони носять порохову зброю, хоча деякі вважають за краще колоти жертв з близької відстані.</PirateWaster.description>
   <!-- EN: boss -->
   <PirateWaster.leaderTitle>boss</PirateWaster.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PirateWaster.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PirateWaster.messageDefendersAttacking>
   <!-- EN: waster -->
   <PirateWaster.pawnSingular>сміттяр</PirateWaster.pawnSingular>
   <!-- EN: wasters -->
@@ -26,6 +30,8 @@
   <PirateYttakin.description>Згуртована група громіздких, покритих хутром піратів ксенотипу іттакін. Вони відмовляються мати справу з чужинцями та швидко закликають своїх тварин-воїнів проти тих, хто не поважає їх - або тих, чиї багатства вони збираються захопити.\n\nПочатково створені для заселення крижаної планети Ітак, тепер іттакіни ведуть свій традиційний спосіб життя серед багатьох світів.</PirateYttakin.description>
   <!-- EN: boss -->
   <PirateYttakin.leaderTitle>boss</PirateYttakin.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PirateYttakin.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PirateYttakin.messageDefendersAttacking>
   <!-- EN: yttakin -->
   <PirateYttakin.pawnSingular>іттакін</PirateYttakin.pawnSingular>
   <!-- EN: yttakin -->
@@ -36,6 +42,8 @@
   <Sanguophages.description>Група стародавніх сангвофагів.</Sanguophages.description>
   <!-- EN: leader -->
   <Sanguophages.leaderTitle>leader</Sanguophages.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Sanguophages.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Sanguophages.messageDefendersAttacking>
   <!-- EN: sanguophage -->
   <Sanguophages.pawnSingular>сангвофаг</Sanguophages.pawnSingular>
   <!-- EN: sanguophages -->
@@ -46,6 +54,8 @@
   <TribeRoughNeanderthal.description>Недружнє плем'я неандертальців. Вони відкриті для мирної торгівлі, але в іншому недружні та територіальні. Воїни з їхнього племені без вагань проламують черепи всім, кого вважають небезпечними. Їх чисельність і величезна кількість шкоди, яку вони здатні витримати, перш ніж впасти, роблять їх серйозними противниками, попри відсутність технологій та аналітичних здібностей.\n\nПроживши на цій планеті незліченну кількість поколінь, вони не пам'ятають, як потрапили сюди. Вони можуть бути нащадками неандертальців, які обслуговують касти мертвої цивілізації, або навіть залишками стародавнього наукового експерименту.</TribeRoughNeanderthal.description>
   <!-- EN: chief -->
   <TribeRoughNeanderthal.leaderTitle>chief</TribeRoughNeanderthal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRoughNeanderthal.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeRoughNeanderthal.messageDefendersAttacking>
   <!-- EN: neanderthal -->
   <TribeRoughNeanderthal.pawnSingular>неандерталець</TribeRoughNeanderthal.pawnSingular>
   <!-- EN: neanderthals -->
@@ -56,6 +66,8 @@
   <TribeSavageImpid.description>Злісне плем'я жовтошкірих, що вивергають вогонь імпідів. Це плем'я не має наміру мирно співіснувати з будь-ким ще. Їхні воїни - експерти у використанні своєї природної швидкості та вогненних атак, щоб спалювати міста та дітей інших народів.\n\nЦе плем'я було тут протягом тисяч років, але його походження втрачається в міфах. Можливо, вони походять від групи поселенців, які втратили свої технології, або від громади імпідів у давно зруйнованій цивілізації.</TribeSavageImpid.description>
   <!-- EN: chief -->
   <TribeSavageImpid.leaderTitle>chief</TribeSavageImpid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavageImpid.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeSavageImpid.messageDefendersAttacking>
   <!-- EN: imp -->
   <TribeSavageImpid.pawnSingular>імпід</TribeSavageImpid.pawnSingular>
   <!-- EN: imps -->

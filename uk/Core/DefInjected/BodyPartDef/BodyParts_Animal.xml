@@ -16,6 +16,8 @@
   <FrontClaw.labelShort>кіготь</FrontClaw.labelShort>
   <!-- EN: head claw -->
   <HeadClaw.label>щелепи</HeadClaw.label>
+  <!-- EN: head -->
+  <HeadWithEarHoles.label>head</HeadWithEarHoles.label>
   <!-- EN: hoof -->
   <Hoof.label>копито</Hoof.label>
   <!-- EN: horn -->

@@ -2,6 +2,8 @@
 <LanguageData>
   <!-- EN: minified thing -->
   <MinifiedThing.label>предмет</MinifiedThing.label>
+  <!-- EN: minified thing -->
+  <MinifiedThingRealtimeDraw.label>minified thing</MinifiedThingRealtimeDraw.label>
   <!-- EN: minified tree -->
   <MinifiedTree.label>викопане дерево</MinifiedTree.label>
   <!-- EN: unfinished apparel -->

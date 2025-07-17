@@ -102,6 +102,8 @@
   <Processing>Виконується</Processing>
   <!-- EN: Inspect -->
   <Inspect>Оглянути</Inspect>
+  <!-- EN: Edit -->
+  <Edit>Edit</Edit>
   <!-- Content generation-->
   <!-- EN: {0} meat -->
   <MeatLabel>м'ясо {lookup: {0}; Case; 1}</MeatLabel>

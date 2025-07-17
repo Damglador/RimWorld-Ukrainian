@@ -40,6 +40,12 @@
   <FilthRate.label>рівень забруднення</FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
   <FilthRate.description>Скільки бруду приносить це створіння.\n\nТварин з високим рівнем забруднення, краще тримати на відкритому просторі або в приміщеннях, вкритих соломою. Тоді їхній бруд не буде проблемою.</FilthRate.description>
+  <!-- EN: flight cooldown -->
+  <FlightCooldown.label>flight cooldown</FlightCooldown.label>
+  <!-- EN: The rest time needed before this creature can fly again. -->
+  <FlightCooldown.description>The rest time needed before this creature can fly again.</FlightCooldown.description>
+  <!-- EN: {0}s -->
+  <FlightCooldown.formatString>{0}s</FlightCooldown.formatString>
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>кількість збираної їжі</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
@@ -68,6 +74,12 @@
   <LifespanFactor.label>множник тривалості життя</LifespanFactor.label>
   <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
   <LifespanFactor.description>Множник, що впливає на тривалість життя істоти, прискорюючи або сповільнюючи час до розвитку вікових захворювань. При значенні більше 100% сповільнюється розвиток захворювань та збільшується загальна тривалість життя. При значенні менше 100% - навпаки.</LifespanFactor.description>
+  <!-- EN: max flight time -->
+  <MaxFlightTime.label>max flight time</MaxFlightTime.label>
+  <!-- EN: The maximum amount of time this creature can stay in flight before landing. -->
+  <MaxFlightTime.description>The maximum amount of time this creature can stay in flight before landing.</MaxFlightTime.description>
+  <!-- EN: {0}s -->
+  <MaxFlightTime.formatString>{0}s</MaxFlightTime.formatString>
   <!-- EN: max nutrition -->
   <MaxNutrition.label>максимальна ситість</MaxNutrition.label>
   <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
@@ -132,4 +144,8 @@
   <ToxicResistance.label>стійкість до токсинів</ToxicResistance.label>
   <!-- EN: How well this creature resists toxic buildup. -->
   <ToxicResistance.description>Наскільки ефективно ця істота протистоїть отруєнню токсинами.</ToxicResistance.description>
+  <!-- EN: wildness -->
+  <Wildness.label>wildness</Wildness.label>
+  <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
+  <Wildness.description>Wilder creatures are naturally more difficult to tame, train, and handle.</Wildness.description>
 </LanguageData>

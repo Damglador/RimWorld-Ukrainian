@@ -12,6 +12,8 @@
   <PeaceTalksTriumph.label>тріумф у мирних перемовах</PeaceTalksTriumph.label>
   <!-- EN: requested military aid -->
   <RequestedMilitaryAid.label>запрошено військову допомогу</RequestedMilitaryAid.label>
+  <!-- EN: requested orbital trader -->
+  <RequestedOrbitalTrader.label>requested orbital trader</RequestedOrbitalTrader.label>
   <!-- EN: requested trader -->
   <RequestedTrader.label>запрошено торгівця</RequestedTrader.label>
   <!-- EN: traded -->

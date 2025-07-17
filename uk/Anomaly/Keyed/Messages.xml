@@ -71,6 +71,6 @@
   <MessageFingerspikeDisturbed>{WAKER_nameDef} стривожує пальцешипа.</MessageFingerspikeDisturbed>
   <!-- EN: {WAKER_nameDef} has disturbed several fingerspikes. -->
   <MessageFingerspikeDisturbedPlural>{WAKER_nameDef} стривожує кількох пальцешипів.</MessageFingerspikeDisturbedPlural>
-  <!-- EN: The death pall has resurrected {0_indefinite}. -->
-  <DeathPallResurrectedMessage>Туман несмертя воскрешає {0_indefinite}.</DeathPallResurrectedMessage>
+  <!-- EN: The death pall has begun to resurrect corpses. -->
+  <DeathPallResurrectedMessage>The death pall has begun to resurrect corpses.</DeathPallResurrectedMessage>
 </LanguageData>

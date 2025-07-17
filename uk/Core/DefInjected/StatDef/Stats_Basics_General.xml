@@ -8,6 +8,10 @@
   <BeautyOutdoors.label>зовнішня краса</BeautyOutdoors.label>
   <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
   <BeautyOutdoors.description>Наскільки приємно дивитися на об'єкт, якщо він назовні.\n\nКрасиве навколишнє середовище задовольняє потребу персонажів у красі.</BeautyOutdoors.description>
+  <!-- EN: caravan speed factor -->
+  <CaravanBonusSpeedFactor.label>caravan speed factor</CaravanBonusSpeedFactor.label>
+  <!-- EN: A multiplier applied to a caravan's speed when this person is part of a caravan. -->
+  <CaravanBonusSpeedFactor.description>A multiplier applied to a caravan's speed when this person is part of a caravan.</CaravanBonusSpeedFactor.description>
   <!-- EN: cleanliness -->
   <Cleanliness.label>чистота</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
@@ -40,8 +44,8 @@
   <MarketValueIgnoreHp.label>ринкова вартість без урахування стану</MarketValueIgnoreHp.label>
   <!-- EN: mass -->
   <Mass.label>маса</Mass.label>
-  <!-- EN: The physical mass of an object. -->
-  <Mass.description>Маса об'єкта.</Mass.description>
+  <!-- EN: The physical mass of an object or creature. -->
+  <Mass.description>The physical mass of an object or creature.</Mass.description>
   <!-- EN: {0} kg -->
   <Mass.formatString>{0} кг</Mass.formatString>
   <!-- EN: max hit points -->

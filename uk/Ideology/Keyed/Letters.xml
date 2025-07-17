@@ -52,8 +52,8 @@
   <LetterRoleLostReasonLowBelieversDesc>Роль стала недоступною через малу кількість {lookup: {0}; Case; 3}.</LetterRoleLostReasonLowBelieversDesc>
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
   <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} {PAWN_gender ? втратив : втратила} свою роль {ROLE_labelDef}, тому що {PAWN_gender ? відмовився : відмовилася} від {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
-  <!-- EN: {0} skipped. -->
-  <LetterObligationRoleInactive>{0} пропущено.</LetterObligationRoleInactive>
+  <!-- EN: {0} skipped -->
+  <LetterObligationRoleInactive>{0} skipped</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
   <LetterObligationRoleInactiveDateDesc>{0} - день, коли відбувається {1}, але так як роль {ROLE_labelDef} недоступна, то {2} пропустять {1}.</LetterObligationRoleInactiveDateDesc>
   <!-- Ideo misc -->

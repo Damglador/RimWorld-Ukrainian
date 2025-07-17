@@ -28,6 +28,8 @@
   <CutPlantDesignated.reportString>рубає {lookup: {TargetA}; Case; 3}</CutPlantDesignated.reportString>
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>розбирає {lookup: {TargetA}; Case; 3}</Deconstruct.reportString>
+  <!-- EN: deconstructing TargetA. -->
+  <DeconstructForBlueprint.reportString>deconstructing TargetA.</DeconstructForBlueprint.reportString>
   <!-- EN: feeding TargetA to TargetB. -->
   <DeliverFood.reportString>несе {lookup: {TargetA}; Case; 3} для {lookup: {TargetB}; Case; 1}</DeliverFood.reportString>
   <!-- EN: doing bill at TargetA. -->
@@ -46,6 +48,8 @@
   <FixBrokenDownBuilding.reportString>замінює зламаний компонент {lookup: {TargetA}; Case; 1}</FixBrokenDownBuilding.reportString>
   <!-- EN: executing TargetA. -->
   <GuiltyColonistExecution.reportString>страчує {TargetA}</GuiltyColonistExecution.reportString>
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>hacking TargetA.</Hack.reportString>
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>збирає {lookup: {TargetA}; Case; 3}</Harvest.reportString>
   <!-- EN: harvesting TargetA. -->
@@ -84,6 +88,8 @@
   <ReleasePrisoner.reportString>відпускає {lookup: {TargetA}; Case; 3}</ReleasePrisoner.reportString>
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>знімає підлогу</RemoveFloor.reportString>
+  <!-- EN: removing foundation. -->
+  <RemoveFoundation.reportString>removing foundation.</RemoveFoundation.reportString>
   <!-- EN: removing paint from TargetA. -->
   <RemovePaintBuilding.reportString>знімає фарбу з {lookup: {TargetA}; Case; 3}</RemovePaintBuilding.reportString>
   <!-- EN: removing paint from TargetA. -->

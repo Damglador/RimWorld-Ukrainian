@@ -6,6 +6,8 @@
   <Entities.fixedName>Темні сутності</Entities.fixedName>
   <!-- EN: leader -->
   <Entities.leaderTitle>лідер</Entities.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Entities.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Entities.messageDefendersAttacking>
   <!-- EN: entity -->
   <Entities.pawnSingular>сутність</Entities.pawnSingular>
   <!-- EN: entities -->
@@ -22,6 +24,8 @@
   <HoraxCult.ideoName>Глибокий Кошмар</HoraxCult.ideoName>
   <!-- EN: leader -->
   <HoraxCult.leaderTitle>лідер</HoraxCult.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <HoraxCult.messageDefendersAttacking>{0} from {1} are attacking your {2}.</HoraxCult.messageDefendersAttacking>
   <!-- EN: member -->
   <HoraxCult.pawnSingular>культист</HoraxCult.pawnSingular>
   <!-- EN: cultists -->

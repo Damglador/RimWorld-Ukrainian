@@ -8,10 +8,6 @@
   <BerserkWarcall.beginLetter>{0} пробудив військовий поклик.\n\n[PAWN_pronoun] атакуватиме будь-яких ворогів колонії.</BerserkWarcall.beginLetter>
   <!-- EN: {0}'s rage has come to an end. -->
   <BerserkWarcall.recoveryMessage>Стан берсерку {0} закінчився.</BerserkWarcall.recoveryMessage>
-  <!-- EN: cocoon disturbed -->
-  <CocoonDisturbed.label>кокон потривожено</CocoonDisturbed.label>
-  <!-- EN: Enraged: Cocoon disturbed -->
-  <CocoonDisturbed.baseInspectLine>Лють: Кокон потривожено</CocoonDisturbed.baseInspectLine>
   <!-- EN: panic-fleeing fire -->
   <PanicFleeFire.label>панічна втеча від вогню</PanicFleeFire.label>
   <!-- EN: Mental state: Fleeing fire -->

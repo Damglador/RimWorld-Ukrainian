@@ -2,6 +2,8 @@
 <LanguageData>
   <!-- EN: bison -->
   <Bison.label>бізон</Bison.label>
+  <!-- EN: bison -->
+  <Bison.labelPlural>bison</Bison.labelPlural>
   <!-- EN: bison calf -->
   <Bison.lifeStages.bison_calf.label>теля бізона</Bison.lifeStages.bison_calf.label>
   <!-- EN: bison calves -->
@@ -68,6 +70,8 @@
   <Horse.lifeStages.foal.label>лоша</Horse.lifeStages.foal.label>
   <!-- EN: muffalo -->
   <Muffalo.label>муффало</Muffalo.label>
+  <!-- EN: muffalo -->
+  <Muffalo.labelPlural>muffalo</Muffalo.labelPlural>
   <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>теля муффало</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->

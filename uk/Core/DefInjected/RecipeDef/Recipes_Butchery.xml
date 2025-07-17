@@ -6,16 +6,16 @@
   <ButcherCorpseFlesh.description>Білувати істоту для отримання м'яса, шкіри та інших матеріалів.</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Білує.</ButcherCorpseFlesh.jobString>
-  <!-- EN: shred mechanoid -->
-  <ButcherCorpseMechanoid.label>розібрати механоїда</ButcherCorpseMechanoid.label>
-  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>Розібрати механоїда, щоб спробувати вилучити корисні матеріали.</ButcherCorpseMechanoid.description>
+  <!-- EN: shred mechanoid or drone -->
+  <ButcherCorpseMechanoid.label>shred mechanoid or drone</ButcherCorpseMechanoid.label>
+  <!-- EN: Shred a dead mechanoid or drone to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>Shred a dead mechanoid or drone to salvage usable material.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Розбирає механоїда.</ButcherCorpseMechanoid.jobString>
-  <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>розбити механоїда</SmashCorpseMechanoid.label>
-  <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>Розбити мертвого механоїда простими підручними інструментами, щоб отримати корисний матеріал.</SmashCorpseMechanoid.description>
+  <!-- EN: smash mechanoid or drone -->
+  <SmashCorpseMechanoid.label>smash mechanoid or drone</SmashCorpseMechanoid.label>
+  <!-- EN: Smash a dead mechanoid or drone with simple hand tools to salvage usable material. -->
+  <SmashCorpseMechanoid.description>Smash a dead mechanoid or drone with simple hand tools to salvage usable material.</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
   <SmashCorpseMechanoid.jobString>Розбиває механоїда.</SmashCorpseMechanoid.jobString>
 </LanguageData>

@@ -16,10 +16,6 @@
   <Undercave.label>печера</Undercave.label>
   <!-- EN: There is no weather underground. -->
   <Undercave.description>Під землею немає погоди.</Undercave.description>
-  <!-- EN: underground -->
-  <Underground.label>підземелля</Underground.label>
-  <!-- EN: There is no weather underground. -->
-  <Underground.description>Під землею немає погоди.</Underground.description>
   <!-- EN: unnatural darkness -->
   <UnnaturalDarkness_Stage1.label>неприродна темрява</UnnaturalDarkness_Stage1.label>
   <!-- EN: A psychic phenomenon affecting your colonists. The sky is cracking and dissolving, immersing the world in an unnatural darkness. This darkness will deepen and become dangerous over time. -->

@@ -6,6 +6,8 @@
   <Beggars.description>Група жебраків, що шукають милосердя.</Beggars.description>
   <!-- EN: leader -->
   <Beggars.leaderTitle>лідер</Beggars.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Beggars.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Beggars.messageDefendersAttacking>
   <!-- EN: beggar -->
   <Beggars.pawnSingular>жебрак</Beggars.pawnSingular>
   <!-- EN: beggars -->
@@ -16,6 +18,8 @@
   <CannibalPirate.description>Союз вільних піратських банд, які домовились атакувати інших, а не один одного.Пірати не займаються землеробством та будівництвом, і рідко торгують. Керуючись культурою "крові і честі", яка цінує особисту силу і безжалісність, вони збагачуються, за рахунок набігів на своїх більш продуктивних сусідів.\n\nЇх технологічний рівень залежить, загалом, від тих, кого їм нещодавно вдалося пограбувати. Вони мають переважно вогнепальну зброю, хоча деякі вважають за краще використовувати холодну зброю.\n\nКонкретно ця банда піратів — канібали.</CannibalPirate.description>
   <!-- EN: boss -->
   <CannibalPirate.leaderTitle>ватажок</CannibalPirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <CannibalPirate.messageDefendersAttacking>{0} from {1} are attacking your {2}.</CannibalPirate.messageDefendersAttacking>
   <!-- EN: pirate -->
   <CannibalPirate.pawnSingular>пірат</CannibalPirate.pawnSingular>
   <!-- EN: pirates -->
@@ -26,6 +30,8 @@
   <NudistTribe.description>Ці люди живуть тут дуже довго. Можливо, їх пращури потрапили на цю планету багато тисяч років тому. А може, вони нащадки вцілілих у катаклізмі, який зруйнував більш розвинену цивілізацію. У будь-якому випадку, більшість аборигенів ведуть кочовий спосіб життя та використовують примітивні інструменти та зброю.\n\nНезважаючи на технологічну відсталість, вони можуть бути небезпечними ворогами та цінними друзями, завдяки своїй майстерності ведення низькотехнологічної війни, своїй чисельності та пристосованості.\n\nЦе плем'я вважає, що ховати своє тіло неправильно.</NudistTribe.description>
   <!-- EN: chief -->
   <NudistTribe.leaderTitle>вождь</NudistTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <NudistTribe.messageDefendersAttacking>{0} from {1} are attacking your {2}.</NudistTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <NudistTribe.pawnSingular>абориген</NudistTribe.pawnSingular>
   <!-- EN: tribespeople -->
@@ -36,6 +42,8 @@
   <Pilgrims.description>Група паломників, які прагнуть шанувати давні реліквії.</Pilgrims.description>
   <!-- EN: leader -->
   <Pilgrims.leaderTitle>лідер</Pilgrims.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pilgrims.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Pilgrims.messageDefendersAttacking>
   <!-- EN: pilgrim -->
   <Pilgrims.pawnSingular>паломник</Pilgrims.pawnSingular>
   <!-- EN: pilgrims -->
@@ -46,6 +54,8 @@
   <TribeCannibal.description>Ці люди живуть тут дуже довго. Можливо, їх пращури потрапили на цю планету багато тисяч років тому. А може, вони нащадки вцілілих у катаклізмі, який зруйнував більш розвинену цивілізацію. У будь-якому випадку, більшість аборигенів ведуть кочовий спосіб життя та використовують примітивні інструменти та зброю.\n\nНезважаючи на технологічну відсталість, вони можуть бути небезпечними ворогами та цінними друзями, завдяки своїй майстерності ведення низькотехнологічної війни, своїй чисельності та пристосованості.\n\nЦе плем'я вважає, що їсти м'ясо своїх ворогів є великою честю.</TribeCannibal.description>
   <!-- EN: chief -->
   <TribeCannibal.leaderTitle>вождь</TribeCannibal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCannibal.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeCannibal.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeCannibal.pawnSingular>абориген</TribeCannibal.pawnSingular>
   <!-- EN: tribespeople -->

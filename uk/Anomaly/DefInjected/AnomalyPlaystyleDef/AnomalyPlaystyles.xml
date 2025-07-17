@@ -6,8 +6,8 @@
   <AmbientHorror.description>Моноліт не з'являється. Може виникнути будь-яка загроза аномалії, але стандартно загрози аномалії будуть рідкісними. Вибір тих, хто хоче взаємодіяти з контентом доповнення Anomaly, але не хоче робити його основним. Примітка: Фінал з монолітом недоступний в цьому режимі.</AmbientHorror.description>
   <!-- EN: anomaly incidents disabled -->
   <Disabled.label>аномальні інциденти вимкнено</Disabled.label>
-  <!-- EN: Anomaly threats do not occur. Good if you don’t want to interact with most Anomaly expansion content. -->
-  <Disabled.description>Аномальні загрози не будуть з'являтися. Вибір для тих, хто не хоче взаємодіяти з більшістю контенту доповнення Anomaly.</Disabled.description>
+  <!-- EN: Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content. -->
+  <Disabled.description>Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content.</Disabled.description>
   <!-- EN: standard with monolith -->
   <Standard.label>стандартно з монолітом</Standard.label>
   <!-- EN: The standard Anomaly experience. Anomaly threats are linked to the activation of the void monolith. -->

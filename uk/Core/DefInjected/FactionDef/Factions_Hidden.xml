@@ -6,6 +6,8 @@
   <Ancients.fixedName>Древні</Ancients.fixedName>
   <!-- EN: leader -->
   <Ancients.leaderTitle>лідер</Ancients.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <Ancients.messageDefendersAttacking>Ancient soldiers are attacking.</Ancients.messageDefendersAttacking>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>древній</Ancients.pawnSingular>
   <!-- EN: ancients -->
@@ -16,6 +18,8 @@
   <AncientsHostile.fixedName>Древні</AncientsHostile.fixedName>
   <!-- EN: leader -->
   <AncientsHostile.leaderTitle>лідер</AncientsHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <AncientsHostile.messageDefendersAttacking>Ancient soldiers are attacking.</AncientsHostile.messageDefendersAttacking>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>древній</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
@@ -28,6 +32,8 @@
   <Insect.fixedName>Нащадки Сорна</Insect.fixedName>
   <!-- EN: leader -->
   <Insect.leaderTitle>лідер</Insect.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Insect.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Insect.messageDefendersAttacking>
   <!-- EN: insect -->
   <Insect.pawnSingular>комаха</Insect.pawnSingular>
   <!-- EN: insects -->
@@ -38,6 +44,8 @@
   <Mechanoid.description>Машини-вбивці невідомого походження. Приховані в стародавніх спорудах, під насипами пилу або на дні океану, механоїди здатні автономно функціонувати багато тисяч років. Ця група механоїдів, здається, має одну мету, але не дуже добре організована. Місцеві вчені вважають, що механоїди - це автономна зброя, що залишилася від давньої війни. А в легендах диких племен машини постають демонічними слугами сплячого бога.</Mechanoid.description>
   <!-- EN: leader -->
   <Mechanoid.leaderTitle>лідер</Mechanoid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Mechanoid.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Mechanoid.messageDefendersAttacking>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>механоїд</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->

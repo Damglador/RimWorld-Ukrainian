@@ -6,6 +6,8 @@
   <OutlanderCivil.description>Ці люди живуть тут не один десяток років, можливо навіть не одне століття. Більшість технологій, які привели їх сюди, давно втрачені. Вони зазвичай використовують звичайну механіку та обороняються за допомогою сучасної вогнепальної зброї.\n\nСфера їх інтересів — торгівля, довіра та виживання.\n\nЦя фракція високо цінує цивілізоване спілкування.</OutlanderCivil.description>
   <!-- EN: prime councilor -->
   <OutlanderCivil.leaderTitle>верховний радник</OutlanderCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderCivil.messageDefendersAttacking>{0} from {1} are attacking your {2}.</OutlanderCivil.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderCivil.pawnSingular>чужинець</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
@@ -16,6 +18,8 @@
   <OutlanderRough.description>Ці люди живуть тут не один десяток років, можливо навіть не одне століття. Більшість технологій, які привели їх сюди, давно втрачені. Вони зазвичай використовують звичайну механіку та обороняються за допомогою сучасної вогнепальної зброї.\n\nСфера їх інтересів — торгівля, довіра та виживання.\n\nЦя фракція войовнича і схильна до варварства.</OutlanderRough.description>
   <!-- EN: prime councilor -->
   <OutlanderRough.leaderTitle>верховний радник</OutlanderRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRough.messageDefendersAttacking>{0} from {1} are attacking your {2}.</OutlanderRough.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderRough.pawnSingular>чужинець</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
@@ -26,6 +30,8 @@
   <Pirate.description>Непостійна конфедерація піратських банд, які домовились атакувати інших, а не один одного.\n\nПірати не займаються землеробством та будівництвом, і рідко торгують. Керуючись культурою "крові і честі", яка цінує особисту силу і безжалісність, вони збагачуються, за рахунок набігів на своїх більш продуктивних сусідів.\n\nЇх технологічний рівень залежить, загалом, від тих, кого їм нещодавно вдалося пограбувати. Вони мають переважно вогнепальну зброю, хоча деякі вважають за краще використовувати холодну зброю.</Pirate.description>
   <!-- EN: boss -->
   <Pirate.leaderTitle>ватажок</Pirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pirate.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Pirate.messageDefendersAttacking>
   <!-- EN: pirate -->
   <Pirate.pawnSingular>пірат</Pirate.pawnSingular>
   <!-- EN: pirates -->
@@ -36,6 +42,8 @@
   <TribeCivil.description>Ці люди живуть тут дуже довго. Можливо, їх пращури потрапили на цю планету багато тисяч років тому. А може, вони нащадки вцілілих у катаклізмі, який зруйнував більш розвинену цивілізацію. У будь-якому випадку, більшість аборигенів ведуть кочовий спосіб життя та використовують примітивні інструменти та зброю.\n\nНезважаючи на технологічну відсталість, вони можуть бути небезпечними ворогами та цінними друзями, завдяки своїй майстерності ведення низькотехнологічної війни, своїй чисельності та пристосованості.\n\nЦе плем'я веде переважно мирний спосіб життя. Вони завжди відкриті для торгівлі та взаємодії, навіть з незнайомими народами.</TribeCivil.description>
   <!-- EN: chief -->
   <TribeCivil.leaderTitle>вождь</TribeCivil.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCivil.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeCivil.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeCivil.pawnSingular>абориген</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
@@ -46,6 +54,8 @@
   <TribeRough.description>Ці люди живуть тут дуже довго. Можливо, їх пращури потрапили на цю планету багато тисяч років тому. А може, вони нащадки вцілілих у катаклізмі, який зруйнував більш розвинену цивілізацію. У будь-якому випадку, більшість аборигенів ведуть кочовий спосіб життя та використовують примітивні інструменти та зброю.\n\nНезважаючи на технологічну відсталість, вони можуть бути небезпечними ворогами та цінними друзями, завдяки своїй майстерності ведення низькотехнологічної війни, своїй чисельності та пристосованості.\n\nЦе плем'я поважає грубу силу та військове домінування. Знайти з ними спільну мову буде непросто.</TribeRough.description>
   <!-- EN: chief -->
   <TribeRough.leaderTitle>вождь</TribeRough.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRough.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeRough.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeRough.pawnSingular>абориген</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
@@ -56,6 +66,8 @@
   <TribeSavage.description>Ці люди живуть тут дуже довго. Можливо, їх пращури потрапили на цю планету багато тисяч років тому. А може, вони нащадки вцілілих у катаклізмі, який зруйнував більш розвинену цивілізацію. У будь-якому випадку, більшість аборигенів ведуть кочовий спосіб життя та використовують примітивні інструменти та зброю.\n\nНезважаючи на технологічну відсталість, вони можуть бути небезпечними ворогами та цінними друзями, завдяки своїй майстерності ведення низькотехнологічної війни, своїй чисельності та пристосованості.\n\nУ їхній культурі честі можна досягти лише кров'ю ворога. Стати із ними союзниками неможливо.</TribeSavage.description>
   <!-- EN: chief -->
   <TribeSavage.leaderTitle>вождь</TribeSavage.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavage.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeSavage.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeSavage.pawnSingular>абориген</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->

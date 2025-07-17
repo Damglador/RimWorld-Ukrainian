@@ -6,6 +6,8 @@
   <PlayerColony.description>Ваша колонія.</PlayerColony.description>
   <!-- EN: leader -->
   <PlayerColony.leaderTitle>лідер</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PlayerColony.messageDefendersAttacking>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>колоніст</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
@@ -16,6 +18,8 @@
   <PlayerTribe.description>Ваше плем'я.</PlayerTribe.description>
   <!-- EN: leader -->
   <PlayerTribe.leaderTitle>вождь</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>{0} from {1} are attacking your {2}.</PlayerTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>член племені</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->

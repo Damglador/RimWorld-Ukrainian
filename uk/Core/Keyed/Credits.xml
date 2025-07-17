@@ -16,6 +16,8 @@
   <Credit_Testers>Тестувальники</Credit_Testers>
   <!-- EN: Additional development -->
   <Credits_AdditionalDevelopment>Додаткова розробка</Credits_AdditionalDevelopment>
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Особливі подяки</Credit_SpecialThanks>
   <!-- EN: Volunteer testers -->
   <Credits_TitleTester>Тестери спільноти</Credits_TitleTester>
   <!-- EN: Mods -->
@@ -24,6 +26,9 @@
   <Credits_TitleLanguage>{0} мова</Credits_TitleLanguage>
   <!-- EN: Anomaly localization -->
   <Credits_Localization_Anomaly>Переклад доповнення Аномалія</Credits_Localization_Anomaly>
+  <!-- EN: Odyssey localization -->
+  <Credits_Localization_Odyssey>Odyssey localization</Credits_Localization_Odyssey>
+  <!-- text_todo -->
   <!-- EN: Lead Localization Project Manager -->
   <Credits_LeadLocalizationProjectManager>Провідний менеджер проекту локалізації</Credits_LeadLocalizationProjectManager>
   <!-- EN: Localization Project Manager -->
@@ -44,13 +49,20 @@
   <Credits_Polish>Польська</Credits_Polish>
   <!-- EN: Russian -->
   <Credits_Russian>російська</Credits_Russian>
+  <!-- EN: Dutch -->
+  <Credits_Dutch>Dutch</Credits_Dutch>
+  <!-- text_todo -->
+  <!-- EN: Turkish -->
+  <Credits_Turkish>Turkish</Credits_Turkish>
+  <!-- text_todo -->
+  <!-- EN: Ukrainian -->
+  <Credits_Ukrainian>Ukrainian</Credits_Ukrainian>
+  <!-- text_todo -->
   <!-- EN: Simplified Chinese -->
   <Credits_ChineseSimplified>Спрощена китайська</Credits_ChineseSimplified>
   <!-- EN: Traditional Chinese -->
   <Credits_ChineseTraditional>Традиційна Китайська</Credits_ChineseTraditional>
   <!-- Credits - Currently unused -->
-  <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>Особливі подяки</Credit_SpecialThanks>
   <!-- EN: Test lead -->
   <Credit_TestLead>Ведучій тестер</Credit_TestLead>
   <!-- EN: Community donations -->

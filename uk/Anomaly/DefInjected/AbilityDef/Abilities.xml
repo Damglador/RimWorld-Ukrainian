@@ -66,8 +66,8 @@
   <SpineLaunch_Gorehulk.description>Запустити кератиновий шип у ціль, щоб завдати шкоди.</SpineLaunch_Gorehulk.description>
   <!-- EN: transmute steel -->
   <TransmuteSteel.label>трансмутація сталі</TransmuteSteel.label>
-  <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target a stack of steel or a steel slag chunk. -->
-  <TransmuteSteel.description>Видозмінити сталь на атомному рівні, перетворивши її на випадковий цінний матеріал. Може бути спрямовано на сталь або металобрухт.</TransmuteSteel.description>
+  <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items. -->
+  <TransmuteSteel.description>Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</TransmuteSteel.description>
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Має бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   <!-- EN: entity skip -->

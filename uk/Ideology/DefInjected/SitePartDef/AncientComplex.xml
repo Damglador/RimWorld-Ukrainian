@@ -4,8 +4,8 @@
   <AncientComplex.label>старовинний комплекс</AncientComplex.label>
   <!-- EN: An ancient complex containing treasure. -->
   <AncientComplex.description>Старовинний комплекс, який містить скарби.</AncientComplex.description>
-  <!-- EN: Investigate {0} -->
-  <AncientComplex.approachingReportString>Дослідити {0}</AncientComplex.approachingReportString>
+  <!-- EN: Investigating {0}. -->
+  <AncientComplex.approachingReportString>Investigating {0}.</AncientComplex.approachingReportString>
   <!-- EN: Investigate {0} -->
   <AncientComplex.approachOrderString>Дослідити {0}</AncientComplex.approachOrderString>
 </LanguageData>

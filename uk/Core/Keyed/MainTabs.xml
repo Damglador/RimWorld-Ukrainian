@@ -308,6 +308,8 @@
   <QuestPawnNotOnColonyMap>{PAWN_definite} у вашій колонії</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
   <QuestRequiresNoDangerOnMap>очистити мапу від ворогів фракції емісара</QuestRequiresNoDangerOnMap>
+  <!-- EN: that {PROJECT_label} has been researched. -->
+  <QuestRequiresResearch>that {PROJECT_label} has been researched.</QuestRequiresResearch>
   <!-- EN: to finish the ongoing bestowing ceremony quest -->
   <QuestCanNotStartUntilBestowingCeremonyFinished>дочекатись закінчення церемонії вручення титулу</QuestCanNotStartUntilBestowingCeremonyFinished>
   <!-- EN: Reward preferences -->
@@ -344,6 +346,10 @@
   <QuestNeutralTo>нейтралітет з {0}</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>досліджено {lookup: {0_labelShort}; Case; 3}</QuestRequiredThingStudied>
+  <!-- EN: cannot accept {GERUND} {LAYER} -->
+  <QuestRequiredLayer>cannot accept {GERUND} {LAYER}</QuestRequiredLayer>
+  <!-- EN: cannot accept in space -->
+  <QuestNotSpace>cannot accept in space</QuestNotSpace>
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>Створює потребу</CreatesNeed>

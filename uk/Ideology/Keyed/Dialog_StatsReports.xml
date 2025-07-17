@@ -54,6 +54,4 @@
   <Stat_PawnDarkness_FollowingOffset>Можуть бути застосовані наступні модифікатори</Stat_PawnDarkness_FollowingOffset>
   <!-- EN: Biosculpting speed -->
   <StatsReport_BiosculptingSpeedFactor>Швидкість біоскульптингу</StatsReport_BiosculptingSpeedFactor>
-  <!-- EN: The amount of progress that has been made towards hacking this object. -->
-  <Stat_Thing_HackingProgress>Прогрес зламу цього об'єкта.</Stat_Thing_HackingProgress>
 </LanguageData>

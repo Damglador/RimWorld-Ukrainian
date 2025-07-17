@@ -98,6 +98,8 @@
   <RitualDisabledNoAltar>немає доступного вівтаря.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
   <RitualBestowingCeremony>Церемонія вручення титулу</RitualBestowingCeremony>
+  <!-- EN: No suitable location near bestower -->
+  <BestowingSpotUnavailable>No suitable location near bestower</BestowingSpotUnavailable>
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Загальна кількість медитацій сьогодні: {0} (множник прогресу {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->

@@ -100,6 +100,10 @@
   <SleptInBedroom.stages.awful_bedroom.label>огидна спальня</SleptInBedroom.stages.awful_bedroom.label>
   <!-- EN: I had to sleep in an awful room. -->
   <SleptInBedroom.stages.awful_bedroom.description>Мені довелось спати в огидній кімнаті.</SleptInBedroom.stages.awful_bedroom.description>
+  <!-- EN: mediocre bedroom -->
+  <SleptInBedroom.stages.mediocre_bedroom.label>mediocre bedroom</SleptInBedroom.stages.mediocre_bedroom.label>
+  <!-- EN: I slept in a mediocre bedroom. Better than the alternative. -->
+  <SleptInBedroom.stages.mediocre_bedroom.description>I slept in a mediocre bedroom. Better than the alternative.</SleptInBedroom.stages.mediocre_bedroom.description>
   <!-- EN: decent bedroom -->
   <SleptInBedroom.stages.decent_bedroom.label>порядна спальня</SleptInBedroom.stages.decent_bedroom.label>
   <!-- EN: I got to sleep in a pretty decent bedroom. -->

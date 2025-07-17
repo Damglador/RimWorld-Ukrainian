@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: fleeing. -->
+  <ExitMapFlying.reportString>fleeing.</ExitMapFlying.reportString>
   <!-- EN: laying egg. -->
   <LayEgg.reportString>відкладає яйця</LayEgg.reportString>
   <!-- EN: maintaining TargetA. -->

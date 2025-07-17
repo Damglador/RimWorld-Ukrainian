@@ -94,8 +94,6 @@
   <PassionModAdd>Додає один рівень пристрасті до {lookup: {0_label}; Case; 1}.</PassionModAdd>
   <!-- EN: Removes all passion in {0_label}. -->
   <PassionModDrop>Прибирає пристрасть до {lookup: {0_label}; Case; 1}.</PassionModDrop>
-  <!-- EN: Causes need -->
-  <CausesNeed>Викликає потребу</CausesNeed>
   <!-- EN: Gives ability -->
   <GivesAbility>Дає рису</GivesAbility>
   <!-- EN: Gives abilities -->
@@ -104,10 +102,6 @@
   <ResourceLossPerDay>{RESOURCE}: {OFFSET} на день.</ResourceLossPerDay>
   <!-- EN: Removes -->
   <Removes>Прибирає</Removes>
-  <!-- EN: Disables need -->
-  <DisablesNeed>Прибирає потребу</DisablesNeed>
-  <!-- EN: Disables needs -->
-  <DisablesNeeds>Прибирає потреби</DisablesNeeds>
   <!-- EN: Baby -->
   <DevelopmentStage_Baby>Немовля</DevelopmentStage_Baby>
   <!-- EN: Child -->

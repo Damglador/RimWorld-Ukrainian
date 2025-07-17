@@ -18,8 +18,8 @@
   <Food.description>Параметр ситості показує, скільки поживних речовин було засвоєно останнім часом. Якщо він впаде до нуля, істота страждатиме від недоїдання і врешті-решт помре.</Food.description>
   <!-- EN: indoors -->
   <Indoors.label>замкнутий простір</Indoors.label>
-  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
-  <Indoors.description>Цей параметр відображає потребу персонажа у чотирьох стінах та даху над головою. Він падає, якщо довгий час перебувати просто неба або у приміщенні без даху. Щоб цей показник перевищив 50%, над персонажем має бути гора, а не просто дах.</Indoors.description>
+  <!-- EN: Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside. -->
+  <Indoors.description>Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside.</Indoors.description>
   <!-- EN: recreation -->
   <Joy.label>відпочинок</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->

@@ -12,6 +12,10 @@
   <DesignatorDeconstruct>Розібрати</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>Розібрати та повернути частину ресурсів.</DesignatorDeconstructDesc>
+  <!-- EN: Deconstruct conduit -->
+  <DesignatorDeconstructConduit>Deconstruct conduit</DesignatorDeconstructConduit>
+  <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
+  <DesignatorDeconstructConduitDesc>Deconstruct power conduits and reclaim part of their resources.</DesignatorDeconstructConduitDesc>
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Демонтувати</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
@@ -36,8 +40,8 @@
   <MustHaulHaulables>Можна позначити лише те, що колоністи не переносять самостійно (наприклад, уламки гірських порід чи металобрухт).</MustHaulHaulables>
   <!-- EN: Hunt -->
   <DesignatorHunt>Полювати</DesignatorHunt>
-  <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>Позначити тварин, на яких будуть полювати ваші мисливці.</DesignatorHuntDesc>
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
+  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt.</DesignatorHuntDesc>
   <!-- EN: Mine -->
   <DesignatorMine>Видобути</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
@@ -60,8 +64,8 @@
   <DesignatorSmoothFloorsDesc>Позначити кам'яне покриття для полірування.</DesignatorSmoothFloorsDesc>
   <!-- EN: Plan -->
   <DesignatorPlan>Планування</DesignatorPlan>
-  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>Встановити позначки планування. Вони нічого не роблять, а лише допомагають планувати майбутні споруди.</DesignatorPlanDesc>
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones. -->
+  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones.</DesignatorPlanDesc>
   <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Видалити планування</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
@@ -138,8 +142,8 @@
   <DesignatorRemoveFloorDesc>Зняти підлогу лишаючи природній ландшафт.</DesignatorRemoveFloorDesc>
   <!-- EN: Remove bridge -->
   <DesignatorRemoveBridge>Розібрати міст</DesignatorRemoveBridge>
-  <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>Розібрати мости лишаючи природній ландшафт.</DesignatorRemoveBridgeDesc>
+  <!-- EN: Deconstruct bridges to reclaim partial resources. -->
+  <DesignatorRemoveBridgeDesc>Deconstruct bridges to reclaim partial resources.</DesignatorRemoveBridgeDesc>
   <!-- EN: Strip -->
   <DesignatorStrip>Роздягнути</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
@@ -148,6 +152,10 @@
   <DesignatorOpen>Відкрити</DesignatorOpen>
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Відкрити контейнер, чи могилу.</DesignatorOpenDesc>
+  <!-- EN: Eject fuel -->
+  <DesignatorEjectFuel>Eject fuel</DesignatorEjectFuel>
+  <!-- EN: Eject all contained fuel onto the ground. -->
+  <DesignatorEjectFuelDesc>Eject all contained fuel onto the ground.</DesignatorEjectFuelDesc>
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Забити</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
@@ -156,6 +164,8 @@
   <DesignatorTame>Приручити</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Приручити дику тварину.</DesignatorTameDesc>
+  <!-- EN: Scaria infected animals can't be tamed. -->
+  <CantTameScaria>Scaria infected animals can't be tamed.</CantTameScaria>
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Відпустити на волю</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
@@ -200,6 +210,14 @@
   <Grab>Вибрати</Grab>
   <!-- EN: Grabbed color -->
   <GrabbedColor>Вибраний колір</GrabbedColor>
+  <!-- EN: Expand plan -->
+  <DesignatorExpandPlan>Expand plan</DesignatorExpandPlan>
+  <!-- EN: New plan -->
+  <NewPlan>New plan</NewPlan>
+  <!-- EN: Shrink plan -->
+  <DesignatorPlanShrinkSingular>Shrink plan</DesignatorPlanShrinkSingular>
+  <!-- EN: Remove plans. -->
+  <DesignatorPlanShrinkDesc>Remove plans.</DesignatorPlanShrinkDesc>
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Не вибраний матеріал</UnchosenStuff>
@@ -219,6 +237,10 @@
   <WouldBlockInteractionSpot>{0} блокує місце взаємодії {lookup: {1}; Case; 1}.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Тут уже є {0}.</TerrainIsAlready>
+  <!-- EN: There is already foundation here. -->
+  <FoundationAlreadyExists>There is already foundation here.</FoundationAlreadyExists>
+  <!-- EN: The existing terrain here cannot be removed. -->
+  <TerrainUnremovable>The existing terrain here cannot be removed.</TerrainUnremovable>
   <!-- EN: The surface is already marked for smoothing. -->
   <SurfaceBeingSmoothed>Територія вже відмічена для вирівнювання.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
@@ -258,6 +280,10 @@
   <ExpandOrCreateZone>Розширити {0} або\nСтворити {1}</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
   <CreateNewZone>Створити {0}</CreateNewZone>
+  <!-- EN: Expand {0} or\nCreate new plan -->
+  <ExpandOrCreatePlan>Expand {0} or\nCreate new plan</ExpandOrCreatePlan>
+  <!-- EN: Create new plan -->
+  <CreateNewPlan>Create new plan</CreateNewPlan>
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
   <TransmitsPower>Передає потужність</TransmitsPower>

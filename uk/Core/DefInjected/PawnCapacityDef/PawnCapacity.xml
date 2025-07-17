@@ -2,10 +2,14 @@
 <LanguageData>
   <!-- EN: blood filtration -->
   <BloodFiltration.label>фільтрація крові</BloodFiltration.label>
+  <!-- EN: pneumatics -->
+  <BloodFiltration.labelDrones>pneumatics</BloodFiltration.labelDrones>
   <!-- EN: fluid reprocessing -->
   <BloodFiltration.labelMechanoids>рециркуляція</BloodFiltration.labelMechanoids>
   <!-- EN: blood pumping -->
   <BloodPumping.label>кровообіг</BloodPumping.label>
+  <!-- EN: battery integrity -->
+  <BloodPumping.labelDrones>battery integrity</BloodPumping.labelDrones>
   <!-- EN: power generation -->
   <BloodPumping.labelMechanoids>вироблення енергії</BloodPumping.labelMechanoids>
   <!-- EN: breathing -->
@@ -14,6 +18,8 @@
   <Consciousness.label>свідомість</Consciousness.label>
   <!-- EN: Sentience -->
   <Consciousness.labelAnomalyEntity>чуття</Consciousness.labelAnomalyEntity>
+  <!-- EN: Performance -->
+  <Consciousness.labelDrones>Performance</Consciousness.labelDrones>
   <!-- EN: Data processing -->
   <Consciousness.labelMechanoids>обробка даних</Consciousness.labelMechanoids>
   <!-- EN: eating -->

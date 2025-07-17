@@ -30,8 +30,8 @@
   <RapidRegeneration.description>Ця істота накопичила в собі неймовірну кількість цілющої енергії. Хоча вона не необмежена, ця енергія допоможе швидко відновлюватиметься, доки не вичерпається.</RapidRegeneration.description>
   <!-- EN: resurrection coma -->
   <ResurrectionComa.label>кома воскресіння</ResurrectionComa.label>
-  <!-- EN: A mixture of deadlife dust and advanced biochemicals course through this creature’s veins. -->
-  <ResurrectionComa.description>Суміш пилу несмертя та передових біохімічних речовин тече венами цієї істоти.</ResurrectionComa.description>
+  <!-- EN: A mixture of deadlife dust and advanced biochemicals course through this creature's veins. -->
+  <ResurrectionComa.description>A mixture of deadlife dust and advanced biochemicals course through this creature's veins.</ResurrectionComa.description>
   <!-- EN: rising -->
   <Rising.label>воскресіння</Rising.label>
   <!-- EN: Mysterious archotechnological influences are reanimating this creature's corpse. -->

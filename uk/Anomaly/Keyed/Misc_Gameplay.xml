@@ -85,32 +85,11 @@
   <PitGateCollapsing>Котлован завалено</PitGateCollapsing>
   <!-- EN: Pit gate settling -->
   <PitGateSettling>Осідання котловану</PitGateSettling>
-  <!-- EN: View undercave -->
-  <ViewUndercave>Печери</ViewUndercave>
-  <!-- EN: View the connected undercave map. -->
-  <ViewUndercaveDesc>Переглянути підземні печери.</ViewUndercaveDesc>
-  <!-- EN: View surface -->
-  <ViewSurface>Поверхня</ViewSurface>
-  <!-- EN: View the connected surface map. -->
-  <ViewSurfaceDesc>Переглянути поверхню над печерами.</ViewSurfaceDesc>
   <!-- EN: Pit rumbles -->
   <EmergenceWarningLabel>Крики з ями</EmergenceWarningLabel>
   <!-- EN: The ground shakes under your feet and the inhuman screams echoing from the pit seem to get closer. Something will emerge soon. -->
   <EmergenceWarningText>Земля здригається під ногами а нелюдські крики, що лунають з ями, наче наближаються. Скоро щось з'явиться.</EmergenceWarningText>
-  <!-- Pit Burrow -->
-  <!-- EN: Fill in -->
-  <DesignatorFillIn>Засипати</DesignatorFillIn>
-  <!-- EN: Fill in this pit burrow. -->
-  <DesignatorFillInDesc>Засипати цю яму.</DesignatorFillInDesc>
   <!-- Undercave -->
-  <!-- EN: Enter pit gate -->
-  <EnterPitGate>Увійти в котлован</EnterPitGate>
-  <!-- EN: Climb to surface -->
-  <ExitPitGate>Вибратися на поверхню</ExitPitGate>
-  <!-- EN: Fleshbeast lair -->
-  <LetterLabelGateEntered>Печера м'ясної маси</LetterLabelGateEntered>
-  <!-- EN: In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate. -->
-  <LetterGateEntered>У глибині котловану ви виявили величезну систему печер, заражену звірами плоті.\n\nСистема печер забита масою живої плоті, яка блокує ваш прогрес. Атакуйте м'ясну масу, щоб знищити її.\n\nВся система печер здається нестабільною. Якщо ви знайдете те, що лежить за м'ясною масою, ви можете зруйнувати тунелі та закрити котлован.</LetterGateEntered>
   <!-- EN: Squirming sounds -->
   <LetterLabelDreadmeldWarning>Звуки звивання</LetterLabelDreadmeldWarning>
   <!-- EN: As {PAWN_nameDef} draws near the fleshmass here, {PAWN_pronoun} senses a heavy writhing and throbbing from under its warm surface. Some huge living entity is hidden behind the wall of flesh. -->
@@ -242,9 +221,6 @@
   <Resisted>супротив</Resisted>
   <!-- EN: Damaged -->
   <HealthFactor>Пошкодження</HealthFactor>
-  <!-- EN: Deactivated. -->
-  <Deactivated>Деактивовано.</Deactivated>
-  <!-- -->
   <!-- EN: {PAWN_labelShort} was sent. -->
   <CommandSent>{PAWN_labelShort} відправляється.</CommandSent>
   <!-- EN: Cannot activate entity -->
@@ -643,8 +619,8 @@
   <VoidMonolithViewResearch>Переглянути дослідження Аномалій</VoidMonolithViewResearch>
   <!-- EN: Current monolith level -->
   <CurrentMonolithLevel>Поточний рівень моноліту</CurrentMonolithLevel>
-  <!-- EN: Investigate to learn more. -->
-  <VoidMonolithUndiscovered>Дослідіть, щоб дізнатися більше.</VoidMonolithUndiscovered>
+  <!-- EN: Send a colonist to investigate this. -->
+  <VoidMonolithUndiscovered>Send a colonist to investigate this.</VoidMonolithUndiscovered>
   <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
   <VoidMonolithRequiredEntityCategory>Щоб просунути моноліт до наступного кроку, вам потрібно виявити {0} сутностей рівня {1}.</VoidMonolithRequiredEntityCategory>
   <!-- EN: Discovered: {0} -->
@@ -689,8 +665,8 @@
   <MonolithAutoActivatingText>Хвиля жаху проходить над вашими колоністами. Занепалий моноліт почав прокидатися. Повільно він починає викручуватися та перебудовуватися, перетворюючись на щось нове.\n\nПротягом кількох днів процес завершиться. Будьте готові до будь-чого, що буде далі.</MonolithAutoActivatingText>
   <!-- EN: Void monolith -->
   <MonolithAutoActivatedLabel>Моноліт порожнечі</MonolithAutoActivatedLabel>
-  <!-- EN: The monolith’s transformation is almost complete... -->
-  <MonolithAutoActivatedText>Трансформація моноліту майже завершена...</MonolithAutoActivatedText>
+  <!-- EN: The monolith's transformation is almost complete... -->
+  <MonolithAutoActivatedText>The monolith's transformation is almost complete...</MonolithAutoActivatedText>
   <!-- EN: Gray pall -->
   <LetterLabelGrayPallDescending>Сірий туман</LetterLabelGrayPallDescending>
   <!-- EN: A blanket of gritty fog has descended on this area. The fog smells ancient, somehow, and it stings the skin. The unnatural grayness of it invokes a sense of dread. -->

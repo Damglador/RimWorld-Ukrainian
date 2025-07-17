@@ -6,8 +6,6 @@
   <CreateAndEnterCocoon.reportString>створює кокон.</CreateAndEnterCocoon.reportString>
   <!-- EN: creating healing pod. -->
   <CreateAndEnterHealingPod.reportString>створює зцілюючий кокон.</CreateAndEnterHealingPod.reportString>
-  <!-- EN: hacking TargetA. -->
-  <Hack.reportString>зламує TargetA.</Hack.reportString>
   <!-- EN: merging into TargetB. -->
   <MergeIntoGaumakerPod.reportString>зливається з TargetB.</MergeIntoGaumakerPod.reportString>
   <!-- EN: converting TargetA. -->

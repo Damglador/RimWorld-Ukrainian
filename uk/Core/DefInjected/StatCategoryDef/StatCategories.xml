@@ -4,6 +4,8 @@
   <Ability.label>Здібність</Ability.label>
   <!-- EN: animal productivity -->
   <AnimalProductivity.label>продуктивність тварини</AnimalProductivity.label>
+  <!-- EN: animal -->
+  <Animals.label>animal</Animals.label>
   <!-- EN: Apparel -->
   <Apparel.label>Одяг</Apparel.label>
   <!-- EN: Basics -->
@@ -38,8 +40,16 @@
   <Meditation.label>Медитація</Meditation.label>
   <!-- EN: Combat -->
   <PawnCombat.label>Бойові</PawnCombat.label>
+  <!-- EN: Food -->
+  <PawnFood.label>Food</PawnFood.label>
+  <!-- EN: Health -->
+  <PawnHealth.label>Health</PawnHealth.label>
   <!-- EN: Misc -->
   <PawnMisc.label>Різні</PawnMisc.label>
+  <!-- EN: Psyfocus -->
+  <PawnPsyfocus.label>Psyfocus</PawnPsyfocus.label>
+  <!-- EN: Resistances and sensitivities -->
+  <PawnResistances.label>Resistances and sensitivities</PawnResistances.label>
   <!-- EN: Social -->
   <PawnSocial.label>Соціальні</PawnSocial.label>
   <!-- EN: Work -->

@@ -20,4 +20,8 @@
   <FineTileSlate.label>вишукана сланцева плитка</FineTileSlate.label>
   <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
   <FineTileSlate.description>Вишукана кам'яна плитка, виготовлена без компромісів для вираження високого статусу. Дуже повільна в будівництві.</FineTileSlate.description>
+  <!-- EN: fine vacstone tile -->
+  <FineTileVacstone.label>fine vacstone tile</FineTileVacstone.label>
+  <!-- EN: Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+  <FineTileVacstone.description>Exquisite stone tiles, made with no compromises, for expressing economic status. Slow to construct.</FineTileVacstone.description>
 </LanguageData>

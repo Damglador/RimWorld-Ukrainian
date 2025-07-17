@@ -12,14 +12,6 @@
   <EnergyBolt.label>енергетичний заряд</EnergyBolt.label>
   <!-- EN: {0} has been killed by an energy bolt. -->
   <EnergyBolt.deathMessage>{0} помирає через енергетичний заряд</EnergyBolt.deathMessage>
-  <!-- EN: nerve -->
-  <Nerve.label>нервовий шок</Nerve.label>
-  <!-- EN: {0} has been killed by nerve shock. -->
-  <Nerve.deathMessage>{0} помирає через нервовий шок</Nerve.deathMessage>
-  <!-- EN: nerve stun -->
-  <NerveStun.label>нервове приголомшення</NerveStun.label>
-  <!-- EN: {0} has been killed. -->
-  <NerveStun.deathMessage>{0} помирає через нервове приголомшення</NerveStun.deathMessage>
   <!-- EN: vaporize -->
   <NociosphereVaporize.label>випаровування</NociosphereVaporize.label>
   <!-- EN: {0} has been vaporized by extreme heat. -->

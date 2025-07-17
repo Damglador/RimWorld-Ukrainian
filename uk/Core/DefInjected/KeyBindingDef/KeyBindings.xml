@@ -14,10 +14,16 @@
   <Designator_Cancel.label>скасувати</Designator_Cancel.label>
   <!-- EN: deconstruct -->
   <Designator_Deconstruct.label>розібрати</Designator_Deconstruct.label>
+  <!-- EN: next draw style -->
+  <Designator_NextDrawStyle.label>next draw style</Designator_NextDrawStyle.label>
+  <!-- EN: previous draw style -->
+  <Designator_PreviousDrawStyle.label>previous draw style</Designator_PreviousDrawStyle.label>
   <!-- EN: rotate left -->
   <Designator_RotateLeft.label>повернути ліворуч</Designator_RotateLeft.label>
   <!-- EN: rotate right -->
   <Designator_RotateRight.label>повернути праворуч</Designator_RotateRight.label>
+  <!-- EN: force square dimensions -->
+  <Designator_ShapeSnap.label>force square dimensions</Designator_ShapeSnap.label>
   <!-- EN: change selected debug action -->
   <Dev_ChangeSelectedDebugAction.label>вибрати іншу дію налагодження</Dev_ChangeSelectedDebugAction.label>
   <!-- EN: tick once -->

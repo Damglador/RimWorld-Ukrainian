@@ -26,9 +26,13 @@
   <CaravanMechsCount>{0} механоїдів</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
   <BossWithApparel>{BOSS} with {APPAREL}</BossWithApparel>
+  <!-- EN: Resulting from gene -->
+  <ComesFromGene>Resulting from gene</ComesFromGene>
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>видалення {lookup: {0}; Case; 3}.</ReportRemovingMechlink>
+  <!-- EN: from {TEACHER_labelShort} -->
+  <ReportTakingLessonFrom>from {TEACHER_labelShort}</ReportTakingLessonFrom>
   <!-- Areas -->
   <!-- EN: Pollution clear -->
   <PollutionClear>Забруднення відсутні</PollutionClear>
@@ -95,6 +99,8 @@
   <ReadyToSummonThreat>Можна викликати {lookup: {0}; Case; 3}</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
   <Summon>Викликати {lookup: {0}; Case; 3}</Summon>
+  <!-- EN: Mechanoids disabled -->
+  <MechsDisabled>Mechanoids disabled</MechsDisabled>
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>Немає доступного {lookup: {0}; Case; 3}</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
@@ -239,11 +245,6 @@
   <BirthRitualHealthyBabyChance>Імовірність здорових пологів для цього рівня якості становила {0_percentage}.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
   <GivingBirth>Народження.</GivingBirth>
-  <!-- Shield comp -->
-  <!-- EN: Shield energy -->
-  <ShieldEnergy>Заряд щита</ShieldEnergy>
-  <!-- EN: Time to recovery -->
-  <ShieldTimeToRecovery>Час відновлення</ShieldTimeToRecovery>
   <!-- Genes -->
   <!-- EN: genes -->
   <Genes>гени</Genes>
@@ -715,9 +716,6 @@
   <IvfPregnancyLetterText>{0} успішно завагітніла від імплантації ембріона!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
   <IvfPregnancyLetterParents>Дитина матиме генетичний склад {0} і {1}.</IvfPregnancyLetterParents>
-  <!-- Projectile interceptor -->
-  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>Енерго-щит під малим кутом, який намагатиметься зупинити вхідні снаряди чи осколки. Миттєво вимикається, якщо потрапляє під дію ЕМІ.</ProjectileInterceptorTip>
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
   <RemoteMechShieldTip>Дистанційний енерго-щит, спроєктований механізатором. Він намагатиметься зупинити вхідні снаряди чи осколки, але не допоможе проти атак ближнього бою чи високих температур. Запобігає пострілу власника та миттєво вимикається, якщо потрапляє під дію ЕМІ</RemoteMechShieldTip>

@@ -6,6 +6,8 @@
   <Empire.description>Технічно розвинене суспільство з планети Софіамунда. Їхня культура базується на честі, жорсткому класовому розділенні та повній відсутності соціальної мобільності.\n\nЦі біженці - ті, хто пережив велику катастрофу, що розділила софійське суспільство. Вони були вимушені втікати на край світу на залишках свого космічного флоту. Не дивлячись на значні втрати, технології та флот імперців досі роблять їх могутніми.\n\nВони відмовляються торгувати з тими, у кого немає відповідного титулу.</Empire.description>
   <!-- EN: high stellarch -->
   <Empire.leaderTitle>Вищий Стелларх</Empire.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Empire.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Empire.messageDefendersAttacking>
   <!-- EN: imperial -->
   <Empire.pawnSingular>імперець</Empire.pawnSingular>
   <!-- EN: imperials -->

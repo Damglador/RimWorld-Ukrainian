@@ -90,6 +90,8 @@
   <BabyCareBreastfeed>Годувати груддю {BABY_labelShort}</BabyCareBreastfeed>
   <!-- EN: Cannot breastfeed {BABY_labelShort} -->
   <BabyCareBreastfeedUnable>Неможливо погодувати груддю {BABY_labelShort}</BabyCareBreastfeedUnable>
+  <!-- EN: Already breastfeeding {BABY_labelShort} -->
+  <AlreadyBreastfeeding>Already breastfeeding {BABY_labelShort}</AlreadyBreastfeeding>
   <!-- EN: No baby-edible food -->
   <NoBabyFood>Немає їжі для малюків</NoBabyFood>
   <!-- EN: play need full -->
@@ -149,4 +151,8 @@
   <CarryToSafePlace>Перенести до безпечного місця</CarryToSafePlace>
   <!-- EN: Cannot take to safe location -->
   <CannotCarryToSafePlace>Неможливо перенести до безпечного місця</CannotCarryToSafePlace>
+  <!-- EN: No safer location than current location -->
+  <NoBetterSafePlace>No safer location than current location</NoBetterSafePlace>
+  <!-- EN: Already taking to safe location -->
+  <AlreadyCarryingToSafePlace>Already taking to safe location</AlreadyCarryingToSafePlace>
 </LanguageData>

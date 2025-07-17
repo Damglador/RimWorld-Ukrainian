@@ -2,8 +2,12 @@
 <LanguageData>
   <!-- EN: create incident -->
   <CreateIncident.label>створити інцидент</CreateIncident.label>
+  <!-- EN: create quest -->
+  <CreateQuest.label>create quest</CreateQuest.label>
   <!-- EN: disable incident -->
   <DisableIncident.label>відключити інциденти</DisableIncident.label>
+  <!-- EN: disable quest -->
+  <DisableQuest.label>disable quest</DisableQuest.label>
   <!-- EN: forced health condition -->
   <ForcedHediff.label>стан здоров'я</ForcedHediff.label>
   <!-- EN: forced trait -->
@@ -22,6 +26,8 @@
   <PawnFilter_Age.label>віковий діапазон</PawnFilter_Age.label>
   <!-- EN: permanent game condition -->
   <PermanentGameCondition.label>постійні умови</PermanentGameCondition.label>
+  <!-- EN: planet layer type -->
+  <PlanetLayer.label>planet layer type</PlanetLayer.label>
   <!-- EN: disallow building -->
   <Rule_DisallowBuilding.label>заборонити будівництво</Rule_DisallowBuilding.label>
   <!-- EN: cannot hunt -->

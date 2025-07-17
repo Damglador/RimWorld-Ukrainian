@@ -4,6 +4,10 @@
   <BerserkMechanoid.label>помилка оцінки агресивності</BerserkMechanoid.label>
   <!-- EN: Aggression judgment scrambled -->
   <BerserkMechanoid.baseInspectLine>Помилка оцінки агресивності.</BerserkMechanoid.baseInspectLine>
+  <!-- EN: cocoon disturbed -->
+  <CocoonDisturbed.label>cocoon disturbed</CocoonDisturbed.label>
+  <!-- EN: Enraged: Cocoon disturbed -->
+  <CocoonDisturbed.baseInspectLine>Enraged: Cocoon disturbed</CocoonDisturbed.baseInspectLine>
   <!-- EN: manhunter -->
   <Manhunter.label>агресія</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->

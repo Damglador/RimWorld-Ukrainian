@@ -16,6 +16,14 @@
   <Berserk.beginLetter>{0} охоплює неконтрольована лють.\n\n{PAWN_pronoun} кидається на всіх, кого побачить.</Berserk.beginLetter>
   <!-- EN: {0}'s berserk rage has come to an end. -->
   <Berserk.recoveryMessage>{0} заспокоюється.</Berserk.recoveryMessage>
+  <!-- EN: berserk -->
+  <BerserkPermanent.label>berserk</BerserkPermanent.label>
+  <!-- EN: Mental state: Berserk -->
+  <BerserkPermanent.baseInspectLine>Mental state: Berserk</BerserkPermanent.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <BerserkPermanent.beginLetter>{0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees.</BerserkPermanent.beginLetter>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <BerserkPermanent.recoveryMessage>{0}'s berserk rage has come to an end.</BerserkPermanent.recoveryMessage>
   <!-- EN: binging on drug -->
   <Binging_DrugExtreme.label>тяга до наркотиків</Binging_DrugExtreme.label>
   <!-- EN: Mental state: Binging on {0} -->
