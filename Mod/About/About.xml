@@ -1,0 +1,34 @@
+<ModMetaData>
+	<name>Crowdin Ukrainian</name>
+	<author>Damglador</author>
+	<packageId>Damglador.Ukrainian.Translation</packageId>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<incompatibleWith>
+	</incompatibleWith>
+	<description>
+	Мод для тестування перекладу з Crowdin у грі.
+	Щоб оновити переклад, у теці моду закиньте файли з Crowdin у CrowdinFiles, щоб було:
+	CrowdinFiles
+	├── Anomaly
+	├── Biotech
+	├── Core
+	├── Ideology
+	├── Odyssey
+	└── Royalty
+	Після чого запустіть build.sh. Якщо ви на Windows, це потрібно робити з WSL
+
+	*LanguageInfo.xml сталий та не оновлюється для індикації, що це стороння мова
+
+	Дякую Obstty за RWUA, який був базою цього моду
+	</description>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+		<li>Ludeon.RimWorld.Odyssey</li>
+  </loadAfter>
+</ModMetaData>

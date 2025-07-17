@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.6>
+	<li IfModActive="ludeon.rimworld.royalty">Royalty</li>
+	<li IfModActive="ludeon.rimworld.ideology">Ideology</li>
+	<li IfModActive="ludeon.rimworld.biotech">Biotech</li>
+	<li IfModActive="ludeon.rimworld.anomaly">Anomaly</li>
+	<li IfModActive="ludeon.rimworld.odyssey">Odyssey</li>
+	<li>Core</li>
+	<li>Mod</li>
+	</v1.6>
+</loadFolders>
