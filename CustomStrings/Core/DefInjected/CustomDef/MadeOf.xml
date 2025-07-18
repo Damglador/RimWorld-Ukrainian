@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: hyperweave -->
+    <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>
+    <!-- EN: jade -->
+    <Jade.stuffProps.stuffAdjective>jade</Jade.stuffProps.stuffAdjective>
+    <!-- EN: plasteel -->
+    <Plasteel.stuffProps.stuffAdjective>plasteel</Plasteel.stuffProps.stuffAdjective>
+    <!-- EN: silver -->
+    <Silver.stuffProps.stuffAdjective>silver</Silver.stuffProps.stuffAdjective>
+    <!-- EN: steel -->
+    <Steel.stuffProps.stuffAdjective>steel</Steel.stuffProps.stuffAdjective>
+    <!-- EN: synthread -->
+    <Synthread.stuffProps.stuffAdjective>синтетика</Synthread.stuffProps.stuffAdjective>
+    <!-- EN: uranium -->
+    <Uranium.stuffProps.stuffAdjective>uranium</Uranium.stuffProps.stuffAdjective>
+    <!-- EN: alpaca wool -->
+    <WoolAlpaca.stuffProps.stuffAdjective>alpaca wool</WoolAlpaca.stuffProps.stuffAdjective>
+    <!-- EN: bison wool -->
+    <WoolBison.stuffProps.stuffAdjective>bison wool</WoolBison.stuffProps.stuffAdjective>
+    <!-- EN: megasloth wool -->
+    <WoolMegasloth.stuffProps.stuffAdjective>megasloth wool</WoolMegasloth.stuffProps.stuffAdjective>
+    <!-- EN: muffalo wool -->
+    <WoolMuffalo.stuffProps.stuffAdjective>muffalo wool</WoolMuffalo.stuffProps.stuffAdjective>
+    <!-- EN: sheep wool -->
+    <WoolSheep.stuffProps.stuffAdjective>sheep wool</WoolSheep.stuffProps.stuffAdjective>
+    <!-- EN: bearskin -->
+    <Leather_Bear.stuffProps.stuffAdjective>bearskin</Leather_Bear.stuffProps.stuffAdjective>
+    <!-- EN: birdskin -->
+    <Leather_Bird.stuffProps.stuffAdjective>birdskin</Leather_Bird.stuffProps.stuffAdjective>
+    <!-- EN: bluefur -->
+    <Leather_Bluefur.stuffProps.stuffAdjective>bluefur</Leather_Bluefur.stuffProps.stuffAdjective>
+    <!-- EN: camelhide -->
+    <Leather_Camel.stuffProps.stuffAdjective>camelhide</Leather_Camel.stuffProps.stuffAdjective>
+    <!-- EN: chinchilla fur -->
+    <Leather_Chinchilla.stuffProps.stuffAdjective>chinchilla fur</Leather_Chinchilla.stuffProps.stuffAdjective>
+    <!-- EN: dog leather -->
+    <Leather_Dog.stuffProps.stuffAdjective>dog leather</Leather_Dog.stuffProps.stuffAdjective>
+    <!-- EN: elephant leather -->
+    <Leather_Elephant.stuffProps.stuffAdjective>elephant leather</Leather_Elephant.stuffProps.stuffAdjective>
+    <!-- EN: foxfur -->
+    <Leather_Fox.stuffProps.stuffAdjective>foxfur</Leather_Fox.stuffProps.stuffAdjective>
+    <!-- EN: guinea pig fur -->
+    <Leather_GuineaPig.stuffProps.stuffAdjective>guinea pig fur</Leather_GuineaPig.stuffProps.stuffAdjective>
+    <!-- EN: heavy fur -->
+    <Leather_Heavy.stuffProps.stuffAdjective>heavy fur</Leather_Heavy.stuffProps.stuffAdjective>
+    <!-- EN: human leather -->
+    <Leather_Human.stuffProps.stuffAdjective>human leather</Leather_Human.stuffProps.stuffAdjective>
+    <!-- EN: lightleather -->
+    <Leather_Light.stuffProps.stuffAdjective>lightleather</Leather_Light.stuffProps.stuffAdjective>
+    <!-- EN: lizardskin -->
+    <Leather_Lizard.stuffProps.stuffAdjective>lizardskin</Leather_Lizard.stuffProps.stuffAdjective>
+    <!-- EN: panthera fur -->
+    <Leather_Panthera.stuffProps.stuffAdjective>panthera fur</Leather_Panthera.stuffProps.stuffAdjective>
+    <!-- EN: patchleather -->
+    <Leather_Patch.stuffProps.stuffAdjective>patchleather</Leather_Patch.stuffProps.stuffAdjective>
+    <!-- EN: pigskin -->
+    <Leather_Pig.stuffProps.stuffAdjective>pigskin</Leather_Pig.stuffProps.stuffAdjective>
+    <!-- EN: plainleather -->
+    <Leather_Plain.stuffProps.stuffAdjective>plainleather</Leather_Plain.stuffProps.stuffAdjective>
+    <!-- EN: rhinoceros leather -->
+    <Leather_Rhinoceros.stuffProps.stuffAdjective>rhinoceros leather</Leather_Rhinoceros.stuffProps.stuffAdjective>
+    <!-- EN: thrumbofur -->
+    <Leather_Thrumbo.stuffProps.stuffAdjective>thrumbofur</Leather_Thrumbo.stuffProps.stuffAdjective>
+    <!-- EN: wolfskin -->
+    <Leather_Wolf.stuffProps.stuffAdjective>wolfskin</Leather_Wolf.stuffProps.stuffAdjective>
+</LanguageData>
