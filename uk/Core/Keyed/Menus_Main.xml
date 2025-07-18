@@ -389,7 +389,7 @@
   <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
   <Difficulty_CropYieldFactor_Info>Кількість ресурсів, одержуваних при збиранні врожаю. Сюди також включена деревина, що отримується під час вирубування дерев.</Difficulty_CropYieldFactor_Info>
   <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label>Продуктивність видобутку</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Label>Продуктивність гірництва</Difficulty_MineYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when mining. -->
   <Difficulty_MineYieldFactor_Info>Кількість матеріалів, отриманих при видобутку корисних копалин.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->

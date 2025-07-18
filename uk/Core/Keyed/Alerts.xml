@@ -35,7 +35,7 @@
   <!-- EN: Need miner -->
   <NeedMiner>Потрібен шахтар</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>Ви відмітили гірські породи для видобутку, проте нікого не назначили шахтарем.\n\nПризначте колоніста на роботу "Шахтар" у вкладці "Праця".</NeedMinerDesc>
+  <NeedMinerDesc>Ви відмітили гірські породи для видобутку, проте нікого не назначили шахтарем.\n\nПризначте колоніста на роботу «Шахтар» у вкладці «Праця».</NeedMinerDesc>
   <!-- EN: Need warden -->
   <NeedWarden>Потрібен наглядач</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->

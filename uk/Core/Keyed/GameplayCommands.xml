@@ -610,7 +610,7 @@
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
   <CommandLeaveLastParticipant>Це останній учасник "{RITUAL_labelDef}".</CommandLeaveLastParticipant>
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>Скасувати "{RITUAL_label}"</CommandCancelRitual>
+  <CommandCancelRitual>Скасувати «{RITUAL_label}»</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. You can restart the event later. -->
   <CommandCancelRitualDesc>End the {RITUAL_labelDef} immediately. You can restart the event later.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->

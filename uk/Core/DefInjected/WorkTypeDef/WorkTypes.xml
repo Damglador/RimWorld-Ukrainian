@@ -13,7 +13,7 @@
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
   <BasicWorker.description>Прості завдання, що не потребують спеціальних навичок:</BasicWorker.description>
   <!-- EN: basic tasks -->
-  <BasicWorker.gerundLabel>basic tasks</BasicWorker.gerundLabel>
+  <BasicWorker.gerundLabel>базові завдання</BasicWorker.gerundLabel>
   <!-- EN: basic -->
   <BasicWorker.labelShort>чорнороб</BasicWorker.labelShort>
   <!-- EN: Worker -->
@@ -25,7 +25,7 @@
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>прибиральник</Cleaning.gerundLabel>
   <!-- EN: clean -->
-  <Cleaning.labelShort>прибиральник</Cleaning.labelShort>
+  <Cleaning.labelShort>прибирання</Cleaning.labelShort>
   <!-- EN: Cleaner -->
   <Cleaning.pawnLabel>Прибиральник</Cleaning.pawnLabel>
   <!-- EN: Clean -->
@@ -153,9 +153,9 @@
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>Вирубування позначених рослин та вирізання бур'янів.</PlantCutting.description>
   <!-- EN: plant cutting -->
-  <PlantCutting.gerundLabel>лісоруб</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>зрізання</PlantCutting.gerundLabel>
   <!-- EN: plant cut -->
-  <PlantCutting.labelShort>лісоруб</PlantCutting.labelShort>
+  <PlantCutting.labelShort>зрізання</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
   <PlantCutting.pawnLabel>Лісоруб</PlantCutting.pawnLabel>
   <!-- EN: Cut -->

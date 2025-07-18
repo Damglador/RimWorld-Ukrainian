@@ -27,7 +27,7 @@
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? конвертував : конвертувала} {RECIPIENT_labelShort} до {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   <!-- EN: counsel -->
-  <Counsel.label>counsel</Counsel.label>
+  <Counsel.label>психологічна підтримка</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
   <Counsel.description>Запропонувати людині обговорити її проблеми та спробувати позбавитися від одного з негативних ефектів настрою. Успішність залежить від соціальних навичок оратора та їх відносин із слухачем.</Counsel.description>
   <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->

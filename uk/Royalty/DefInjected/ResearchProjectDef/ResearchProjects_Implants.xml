@@ -13,7 +13,7 @@
     <li>subject_gerund->crafting artificial guts</li>
   -->
   <ArtificialMetabolism.generalRules.rulesStrings>
-    <li>subject->artificial metabolism</li>
+    <li>subject->штучний метаболізм</li>
     <li>subject_story->developed a hunger so all-consuming that the installation of an artificial stomach was the only solution</li>
     <li>subject_story->did not tell the Queen about the installation of the sterilizing stomach, but continued as her food tester all the same</li>
     <li>subject_story->developed a loathing for food. A nuclear stomach heavily reduced food consumption, though the radioactivity was a nuisance</li>

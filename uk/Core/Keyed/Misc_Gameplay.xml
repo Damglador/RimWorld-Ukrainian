@@ -492,7 +492,7 @@
   <!-- EN: {0} gestation completes in {1}. -->
   <MechAssemblyCompleteIn>{0} gestation completes in {1}.</MechAssemblyCompleteIn>
   <!-- EN: Will gestate -->
-  <MechAssemblyNextType>Will gestate</MechAssemblyNextType>
+  <MechAssemblyNextType>Зростить</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>вироблено</ThingsProduced>
   <!-- EN: harvested -->
@@ -1081,7 +1081,7 @@
   <!-- EN: low -->
   <PowerConsumptionLow>низьке</PowerConsumptionLow>
   <!-- EN: off -->
-  <PowerConsumptionOff>off</PowerConsumptionOff>
+  <PowerConsumptionOff>вимкнено</PowerConsumptionOff>
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
   <Indoors>В приміщенні</Indoors>

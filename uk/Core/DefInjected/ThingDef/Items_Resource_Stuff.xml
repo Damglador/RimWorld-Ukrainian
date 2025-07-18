@@ -47,7 +47,7 @@
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
   <WoodLog.description>Деревина, одержана з дерев або інших деревних рослин. Корисна для будівництва та виготовленні простої зброї. Слугує паливом для багать і генераторів, а також її можна переробити у хімпаливо. У крайньому разі, шматок дерева можна використовувати як зброю або протез ноги.</WoodLog.description>
   <!-- EN: wooden -->
-  <WoodLog.stuffProps.stuffAdjective>wooden</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.stuffProps.stuffAdjective>з дерева</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
   <WoodLog.tools.log.label>колода</WoodLog.tools.log.label>
   <!-- EN: alpaca wool -->

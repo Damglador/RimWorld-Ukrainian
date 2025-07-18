@@ -75,9 +75,9 @@
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
   <GrowingFood.helpText>Для вирощування рослин створіть зону посіву, використовуючи меню "Проєктування" -> "Зона".\n\nЗона посіву може бути розміщена лише на родючому ґрунті.</GrowingFood.helpText>
   <!-- EN: History tab -->
-  <HistoryTab.label>Хронологія</HistoryTab.label>
+  <HistoryTab.label>Літопис</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>На вкладці "Хронологія", що знаходиться знизу екрана та позначена книгою, ви можете переглянути події, яких зазнала ваша колонія.</HistoryTab.helpText>
+  <HistoryTab.helpText>На вкладці «Літопис», що знаходиться знизу екрана та позначена книгою, ви можете переглянути події, яких зазнала ваша колонія.</HistoryTab.helpText>
   <!-- EN: Home area -->
   <HomeArea.label>Домашня область</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
@@ -99,7 +99,7 @@
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
   <MedicalOperations.helpText>Щоб призначити медичну процедуру, як ампутація частини тіла чи протезування, відкрийте у колоніста вкладку "Здоров'я" та перейдіть у розділ "Процедури".</MedicalOperations.helpText>
   <!-- EN: Mining -->
-  <Mining.label>Видобуток</Mining.label>
+  <Mining.label>Гірництво</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
   <Mining.helpText>Ви можете вказати, де вести розкопки, у вкладці "Проєктування" -> "Накази".\n\nПід час розкопок деяких порід видобувається сталь, золото, пласталь та інші корисні матеріали.</Mining.helpText>
   <!-- EN: Outfits -->

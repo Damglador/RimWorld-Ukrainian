@@ -303,7 +303,7 @@
   <!-- EN: melee -->
   <Melee.skillLabel>Ближній бій</Melee.skillLabel>
   <!-- EN: mining -->
-  <Mining.label>Видобуток</Mining.label>
+  <Mining.label>гірництво</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
   <Mining.description>Видобуток корисних копалин та прокладання тунелів.</Mining.description>
   <!-- EN:
@@ -337,7 +337,7 @@
     <li>subject->earthmoving</li>
   </Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
-  <Mining.skillLabel>Видобуток</Mining.skillLabel>
+  <Mining.skillLabel>гірництво</Mining.skillLabel>
   <!-- EN: plants -->
   <Plants.label>Рослинництво</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->

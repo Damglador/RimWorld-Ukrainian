@@ -91,7 +91,7 @@
   <!-- EN: deconstruct -->
   <DeconstructForBlueprint.verb>deconstruct</DeconstructForBlueprint.verb>
   <!-- EN: deliver food to prisoners -->
-  <DeliverFoodToPrisoner.label>відносити їжу полоненим</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.label>віднести їжу полоненим</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
   <DeliverFoodToPrisoner.gerund>віднести їжу</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
@@ -571,11 +571,11 @@
   <!-- EN: take beer -->
   <TakeBeerOutOfFermentingBarrel.verb>злити пиво з</TakeBeerOutOfFermentingBarrel.verb>
   <!-- EN: take prisoners to bed -->
-  <TakePrisonerToBed.label>відносити полонених до ліжка</TakePrisonerToBed.label>
+  <TakePrisonerToBed.label>віднести полонених до ліжка</TakePrisonerToBed.label>
   <!-- EN: taking to bed -->
   <TakePrisonerToBed.gerund>віднести до ліжка</TakePrisonerToBed.gerund>
   <!-- EN: take to bed -->
-  <TakePrisonerToBed.verb>відносити до ліжка</TakePrisonerToBed.verb>
+  <TakePrisonerToBed.verb>віднести до ліжка</TakePrisonerToBed.verb>
   <!-- EN: rope roaming animals -->
   <TakeRoamingAnimalsToPen.label>повертати тварин у загони</TakeRoamingAnimalsToPen.label>
   <!-- EN: roping -->
@@ -583,11 +583,11 @@
   <!-- EN: rope -->
   <TakeRoamingAnimalsToPen.verb>вести</TakeRoamingAnimalsToPen.verb>
   <!-- EN: take patients to bed for operations -->
-  <TakeToBedToOperate.label>відносити пацієнтів до ліжка, для проведення операції</TakeToBedToOperate.label>
+  <TakeToBedToOperate.label>віднести пацієнтів до ліжка, для проведення операції</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>віднести на операцію</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
-  <TakeToBedToOperate.verb>відносити на операцію</TakeToBedToOperate.verb>
+  <TakeToBedToOperate.verb>віднести на операцію</TakeToBedToOperate.verb>
   <!-- EN: rope animals -->
   <TakeToPen.label>вести тварин у загони</TakeToPen.label>
   <!-- EN: roping -->

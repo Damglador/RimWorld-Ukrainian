@@ -147,7 +147,7 @@
     <li>collapse(SUBJECT_flesh==Mechanoid)->lock up</li>
     <li>collapse(SUBJECT_flesh==Mechanoid)->lose main power</li>
     <li>collapsed->collapsed</li>
-    <li>collapsed->dropped</li>
+    <li>collapsed->впало</li>
     <li>collapsed(SUBJECT_flesh!=Mechanoid)->crumpled</li>
     <li>collapsed(SUBJECT_flesh==Mechanoid)->crashed</li>
     <li>collapsed(SUBJECT_flesh==Mechanoid)->locked up</li>

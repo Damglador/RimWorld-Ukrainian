@@ -79,7 +79,7 @@
   <!-- EN: missing {0} -->
   <MissingMaterials>потрібен {0}</MissingMaterials>
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
-  <NoMedicineMatchingCategory>Немає ліків для догляду "{CATEGORY}"</NoMedicineMatchingCategory>
+  <NoMedicineMatchingCategory>Немає ліків для догляду «{CATEGORY}».</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>навички нижче необхідних {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -281,7 +281,7 @@
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>Примусово одягнути {lookup: {1_labelShort}; Case; 3}</ForceWear>
   <!-- EN: Force target to wear {1_labelShort}... -->
-  <ForceTargetToWear>Примусово надягнути на когось {1_labelShort}...</ForceTargetToWear>
+  <ForceTargetToWear>Примусово надягнути {1_labelShort} на ціль...</ForceTargetToWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Неможливо одягнути {lookup: {1_labelShort}; Case; 3}</CannotWear>
   <!-- EN: Cannot force target to wear {1_label} -->
@@ -289,7 +289,7 @@
   <!-- EN: Force equip {1_labelShort} -->
   <ForceEquipApparel>Примусово спорядити {lookup: {1_labelShort}; Case; 3}</ForceEquipApparel>
   <!-- EN: Force target to equip {1_labelShort}... -->
-  <ForceTargetToEquipApparel>Примусово спорядити комусь {1_labelShort}...</ForceTargetToEquipApparel>
+  <ForceTargetToEquipApparel>Примусово спорядити {1_labelShort} цілі...</ForceTargetToEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
   <CannotEquipApparel>Неможливо спорядити {lookup: {1_labelShort}; Case; 3}</CannotEquipApparel>
   <!-- EN: Cannot force target to equip {1_label} -->

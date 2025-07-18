@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: hellcat rifle bullet -->
-  <Bullet_HellcatRifle.label>набій </Bullet_HellcatRifle.label>
+  <Bullet_HellcatRifle.label>куля запальної гвинтівки</Bullet_HellcatRifle.label>
   <!-- EN: hellcat rifle -->
   <Gun_HellcatRifle.label>запальна гвинтівка</Gun_HellcatRifle.label>
   <!-- EN: A versatile assault rifle with good range, decent power, and good accuracy.\n\nIt also comes equipped with a bioferrite-powered mini-burner unit which generates a blast of flame from pressurized bioferrite charges. The mini-burner unit can be used twice before refueling. -->
@@ -9,7 +9,7 @@
   <!-- EN: burner charge -->
   <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>burner charge</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>відновлення</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>перезаряджається</Gun_HellcatRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: stock -->
   <Gun_HellcatRifle.tools.stock.label>приклад</Gun_HellcatRifle.tools.stock.label>
   <!-- EN: barrel -->

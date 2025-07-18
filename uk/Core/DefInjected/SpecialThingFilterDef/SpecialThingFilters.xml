@@ -41,7 +41,7 @@
   <!-- EN: Allow books which teach melee skills. -->
   <AllowBookMelee.description>Дозволити книги, які навчають ближньому бою.</AllowBookMelee.description>
   <!-- EN: mining -->
-  <AllowBookMining.label>видобування</AllowBookMining.label>
+  <AllowBookMining.label>гірництво</AllowBookMining.label>
   <!-- EN: Allow books which teach mining skills. -->
   <AllowBookMining.description>Дозволити книги, які навчають видобуванню.</AllowBookMining.description>
   <!-- EN: plants -->

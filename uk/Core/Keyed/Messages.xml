@@ -355,7 +355,7 @@
   <!-- EN: Mechanoids have been gestated and will defend their cluster. -->
   <MessageMechanoidsAssembled>Mechanoids have been gestated and will defend their cluster.</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to gestate -->
-  <MessageMechanoidsLeftToAssemble>Remaining mechanoids to gestate</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>Зростить ще</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
   <MessageMechanoidsReinforcementsDrop>Маяк механоїдів викликав підкріплення. Воно прибуло у капсулах.</MessageMechanoidsReinforcementsDrop>
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->

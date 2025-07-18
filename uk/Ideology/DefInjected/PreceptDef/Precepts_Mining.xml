@@ -21,11 +21,11 @@
   <!-- EN: Raping the natural earth with mining tools is a horrifically evil act. -->
   <Mining_Prohibited.description>Ґвалтування землі шахтарськими інструментами є жахливо злим актом.</Mining_Prohibited.description>
   <!-- EN: Mining -->
-  <Mining_Prohibited.comps.0.description>Видобуток</Mining_Prohibited.comps.0.description>
+  <Mining_Prohibited.comps.0.description>Гірництво</Mining_Prohibited.comps.0.description>
   <!-- EN: Someone mined a block -->
   <Mining_Prohibited.comps.3.description>Хтось видобув блок</Mining_Prohibited.comps.3.description>
   <!-- EN: high -->
   <MiningYield_High.label>поважається</MiningYield_High.label>
   <!-- EN: Mining is so important that we do it with great focus and respect, and we get more resources because of that. -->
-  <MiningYield_High.description>Видобуток є настільки важливим, що ми робимо це з великою спрямованістю та повагою. Ми отримуємо більше ресурсів завдяки цьому.</MiningYield_High.description>
+  <MiningYield_High.description>Гірництво є настільки важливим, що ми робимо це з великою спрямованістю та повагою. Ми отримуємо більше ресурсів завдяки цьому.</MiningYield_High.description>
 </LanguageData>

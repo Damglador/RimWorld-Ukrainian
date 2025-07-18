@@ -62,7 +62,7 @@
   <!-- EN: normal -->
   <QualityCategory_Normal>нормально</QualityCategory_Normal>
   <!-- EN: good -->
-  <QualityCategory_Good>гарно</QualityCategory_Good>
+  <QualityCategory_Good>хороше</QualityCategory_Good>
   <!-- EN: excellent -->
   <QualityCategory_Excellent>чудово</QualityCategory_Excellent>
   <!-- EN: masterwork -->
@@ -76,7 +76,7 @@
   <!-- EN: norm -->
   <QualityCategoryShort_Normal>норм</QualityCategoryShort_Normal>
   <!-- EN: good -->
-  <QualityCategoryShort_Good>хороше</QualityCategoryShort_Good>
+  <QualityCategoryShort_Good>хор</QualityCategoryShort_Good>
   <!-- EN: exc -->
   <QualityCategoryShort_Excellent>чуд</QualityCategoryShort_Excellent>
   <!-- EN: mast -->

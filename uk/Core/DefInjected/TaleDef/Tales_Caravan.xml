@@ -177,7 +177,7 @@
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s wander peacefully.</li>
   </CaravanFormed.rulePack.rulesStrings>
   <!-- EN: caravan remote mining -->
-  <CaravanRemoteMining.label>видобуток караваном</CaravanRemoteMining.label>
+  <CaravanRemoteMining.label>гірництво караваном</CaravanRemoteMining.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</li>
     <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>

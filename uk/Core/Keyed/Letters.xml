@@ -385,7 +385,7 @@
   <!-- EN: A new quest is available. -->
   <LetterNewQuestFromUnknown>Доступне нове доручення.</LetterNewQuestFromUnknown>
   <!-- EN: The quest is called '{0}'. -->
-  <LetterQuestIsNamed>The quest is called '{0}'.</LetterQuestIsNamed>
+  <LetterQuestIsNamed>Назва доручення: «{0}».</LetterQuestIsNamed>
   <!-- EN: It will expire in {0}. -->
   <LetterQuestActiveNowTime>Термін спливає через {0}.</LetterQuestActiveNowTime>
   <!-- EN: If you don't accept the quest within {0}, it will expire. -->
@@ -467,7 +467,7 @@
   <!-- EN: Quest concluded -->
   <LetterQuestConcludedLabel>Завдання завершено</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
-  <LetterQuestCompletedSuccess>Ви успішно виконали завдання "{0}"!</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedSuccess>Ви успішно виконали доручення «{0}»!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
   <LetterQuestCompletedFail>Ви провалили завдання "{0}".</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->

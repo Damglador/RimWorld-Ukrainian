@@ -7,9 +7,9 @@
   <!-- EN: Butchering. -->
   <ButcherCorpseFlesh.jobString>Білує.</ButcherCorpseFlesh.jobString>
   <!-- EN: shred mechanoid or drone -->
-  <ButcherCorpseMechanoid.label>shred mechanoid or drone</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>розібрати механоїда або дрона</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid or drone to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>Shred a dead mechanoid or drone to salvage usable material.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>Розібрати мертвого механоїда або дрона, щоб отримати корисні матеріали.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Розбирає механоїда.</ButcherCorpseMechanoid.jobString>
   <!-- EN: smash mechanoid or drone -->

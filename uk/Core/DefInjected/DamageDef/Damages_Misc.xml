@@ -29,7 +29,7 @@
   <!-- EN: {0} has been killed. -->
   <Extinguish.deathMessage>{0} {0_gender ? був убитий : була убита : було убито}.</Extinguish.deathMessage>
   <!-- EN: mining -->
-  <Mining.label>видобуток</Mining.label>
+  <Mining.label>гірництво</Mining.label>
   <!-- EN: {0} has been killed. -->
   <Mining.deathMessage>{0} {0_gender ? убитий : убита : убито}.</Mining.deathMessage>
   <!-- EN: nerve -->

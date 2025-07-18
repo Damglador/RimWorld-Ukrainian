@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: no artificial enhancement -->
-  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>no artificial enhancement</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>немає штучних частин тіла</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>
   <!-- EN: I don't have any artificial body enhancements. It's against my beliefs to be so unenhanced. -->
-  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>I don't have any artificial body enhancements. It's against my beliefs to be so unenhanced.</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>У мене немає штучних частин тіла. Це суперечить моїм переконанням.</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>
   <!-- EN: no artificial enhancement -->
-  <HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>no artificial enhancement</HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>
+  <HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>немає штучних частин тіла</HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>
   <!-- EN: artificial enhancement -->
   <HasProsthetic_Abhorrent.stages.artificial_enhancement.label>artificial enhancement</HasProsthetic_Abhorrent.stages.artificial_enhancement.label>
   <!-- EN: I have an artificial body enhancement. It's an abhorrent offense against everything I believe! -->

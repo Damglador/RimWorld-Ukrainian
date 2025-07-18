@@ -61,5 +61,5 @@
   <!-- EN: Quest completed -->
   <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>Завдання завершено</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'! -->
-  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>Ви успішно виконали завдання «[resolvedQuestName]»!</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>
+  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>Ви успішно виконали доручення «[resolvedQuestName]»!</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>
 </LanguageData>

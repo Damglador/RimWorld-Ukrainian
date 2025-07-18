@@ -1032,7 +1032,7 @@
   <!-- EN: Default medicine settings -->
   <DefaultMedicineSettings>Налаштування медичного догляду</DefaultMedicineSettings>
   <!-- EN: These medical settings are assigned to creatures when they first join a given group. You can manually assign a setting to an individual in their health tab.\n\nNote: If the creature joins a new group, they will always take the settings of that group, even if you previously assigned them a setting. -->
-  <DefaultMedicineSettingsDesc>Ці медичні налаштування призначаються особам, коли вони вперше приєднуються до певної групи. Ви можете вручну призначити окремій людині конкретні налаштування на її вкладці здоров’я.\n\nПримітка: якщо особа приєднається до нової групи, вона завжди матиме налаштування цієї групи, навіть якщо ви раніше призначили їй інші налаштування.</DefaultMedicineSettingsDesc>
+  <DefaultMedicineSettingsDesc>Це стандартні медичні налаштування для груп у списку. Ви можете вручну призначити окремій особі конкретні налаштування на її вкладці здоров’я.\n\nПримітка: якщо особа приєднається до нової групи, вона завжди матиме налаштування цієї групи, навіть якщо ви раніше призначили їй інші налаштування.</DefaultMedicineSettingsDesc>
   <!-- EN: Defaults -->
   <MedGroupDefaults>Стандарт</MedGroupDefaults>
   <!-- EN: Colonists -->
