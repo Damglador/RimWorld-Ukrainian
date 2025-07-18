@@ -21,7 +21,7 @@
   <!-- EN: Not allowed -->
   <NotAllowed>Заборонено</NotAllowed>
   <!-- EN: Attack {1_labelShort} -->
-  <Attack>Attack {1_labelShort}</Attack>
+  <Attack>Атакувати {1_labelShort}</Attack>
   <!-- EN: Fire at {1_labelShort} -->
   <FireAt>Вогонь по {lookup: {1_label}; Case; 2}</FireAt>
   <!-- EN: Remove -->
@@ -281,19 +281,19 @@
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>Примусово одягнути {lookup: {1_labelShort}; Case; 3}</ForceWear>
   <!-- EN: Force target to wear {1_labelShort}... -->
-  <ForceTargetToWear>Force target to wear {1_labelShort}...</ForceTargetToWear>
+  <ForceTargetToWear>Примусово надягнути на когось {1_labelShort}...</ForceTargetToWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Неможливо одягнути {lookup: {1_labelShort}; Case; 3}</CannotWear>
   <!-- EN: Cannot force target to wear {1_label} -->
-  <CannotForceTargetToWear>Cannot force target to wear {1_label}</CannotForceTargetToWear>
+  <CannotForceTargetToWear>Неможливо примусово надягнути {1_label}</CannotForceTargetToWear>
   <!-- EN: Force equip {1_labelShort} -->
   <ForceEquipApparel>Примусово спорядити {lookup: {1_labelShort}; Case; 3}</ForceEquipApparel>
   <!-- EN: Force target to equip {1_labelShort}... -->
-  <ForceTargetToEquipApparel>Force target to equip {1_labelShort}...</ForceTargetToEquipApparel>
+  <ForceTargetToEquipApparel>Примусово спорядити комусь {1_labelShort}...</ForceTargetToEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
   <CannotEquipApparel>Неможливо спорядити {lookup: {1_labelShort}; Case; 3}</CannotEquipApparel>
   <!-- EN: Cannot force target to equip {1_label} -->
-  <CannotForceTargetToEquipApparel>Cannot force target to equip {1_label}</CannotForceTargetToEquipApparel>
+  <CannotForceTargetToEquipApparel>Неможливо примусово спорядити {1_label}</CannotForceTargetToEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>відсутні частини тіла</CannotWearBecauseOfMissingBodyParts>
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
@@ -433,7 +433,7 @@
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Неможливо {0}</CannotGenericWorkCustom>
   <!-- EN: Incapable of {0} -->
-  <CannotMissingHealthActivities>Incapable of {0}</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Нездатний {0}</CannotMissingHealthActivities>
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
   <CannotGenericAlreadyAm>Колоніст вже почав {0} {lookup: {2_labelShort}; Case; 3}</CannotGenericAlreadyAm>
@@ -444,7 +444,7 @@
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>немає необхідного титулу</MissingTitleAbility>
   <!-- EN: Will never {0} -->
-  <CannotPrioritizeWorkGiverDisabled>Will never {0}</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Ніколи не буде {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>ніколи не буде {lookup: {0}; Case; 4}</WillNever>
   <!-- EN: Not assigned to {0} -->
@@ -467,7 +467,7 @@
   <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>{0} {lookup: {1}; Case; 3}</PrioritizeGeneric>
   <!-- EN: Prioritize {0} -->
-  <PrioritizeGenericSimple>Prioritize {0}</PrioritizeGenericSimple>
+  <PrioritizeGenericSimple>Пріоритизувати {0}</PrioritizeGenericSimple>
   <!-- EN: Launch to {LOCATION_label} -->
   <LaunchTo>Launch to {LOCATION_label}</LaunchTo>
   <!-- EN: Are you sure you want to launch? -->
@@ -579,11 +579,11 @@
   <NoResearchBench>немає доступного, незарезервованого дослідницького столу</NoResearchBench>
   <!-- Hacking -->
   <!-- EN: Hack {0} -->
-  <Hack>Hack {0}</Hack>
+  <Hack>Зламати {0}</Hack>
   <!-- EN: Choose a colonist to hack this. -->
-  <HackDesc>Choose a colonist to hack this.</HackDesc>
+  <HackDesc>Оберіть колоніста для зламу.</HackDesc>
   <!-- EN: Cannot hack {0} -->
-  <CannotHack>Cannot hack {0}</CannotHack>
+  <CannotHack>Неможливо зламати {0}</CannotHack>
   <!-- EN: Locked out -->
   <LockedOut>Locked out</LockedOut>
   <!-- EN: Already hacked -->

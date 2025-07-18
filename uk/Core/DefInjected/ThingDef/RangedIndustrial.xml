@@ -13,7 +13,7 @@
   <!-- EN: incendiary bolt -->
   <Bullet_IncendiaryLauncher.label>incendiary bolt</Bullet_IncendiaryLauncher.label>
   <!-- EN: LMG bullet -->
-  <Bullet_LMG.label>LMG bullet</Bullet_LMG.label>
+  <Bullet_LMG.label>куля ручного кулемета</Bullet_LMG.label>
   <!-- EN: machine pistol bullet -->
   <Bullet_MachinePistol.label>machine pistol bullet</Bullet_MachinePistol.label>
   <!-- EN: minigun bullet -->
@@ -77,7 +77,7 @@
   <!-- EN: EMP launcher -->
   <Gun_EmpLauncher.verbs.Verb_Shoot.label>EMP launcher</Gun_EmpLauncher.verbs.Verb_Shoot.label>
   <!-- EN: heavy SMG -->
-  <Gun_HeavySMG.label>heavy SMG</Gun_HeavySMG.label>
+  <Gun_HeavySMG.label>важкий пістолет-кулемет</Gun_HeavySMG.label>
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
   <Gun_HeavySMG.description>A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well.</Gun_HeavySMG.description>
   <!-- EN: grip -->
@@ -85,7 +85,7 @@
   <!-- EN: barrel -->
   <Gun_HeavySMG.tools.barrel.label>barrel</Gun_HeavySMG.tools.barrel.label>
   <!-- EN: heavy SMG -->
-  <Gun_HeavySMG.verbs.Verb_Shoot.label>heavy SMG</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>важкий пістолет-кулемет</Gun_HeavySMG.verbs.Verb_Shoot.label>
   <!-- EN: incendiary launcher -->
   <Gun_IncendiaryLauncher.label>incendiary launcher</Gun_IncendiaryLauncher.label>
   <!-- EN: A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires. -->
@@ -97,15 +97,15 @@
   <!-- EN: incendiary launcher -->
   <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>incendiary launcher</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
   <!-- EN: LMG -->
-  <Gun_LMG.label>LMG</Gun_LMG.label>
+  <Gun_LMG.label>ручний кулемет</Gun_LMG.label>
   <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
   <Gun_LMG.description>A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies.</Gun_LMG.description>
   <!-- EN: stock -->
-  <Gun_LMG.tools.stock.label>stock</Gun_LMG.tools.stock.label>
+  <Gun_LMG.tools.stock.label>приклад</Gun_LMG.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_LMG.tools.barrel.label>barrel</Gun_LMG.tools.barrel.label>
+  <Gun_LMG.tools.barrel.label>ствол</Gun_LMG.tools.barrel.label>
   <!-- EN: LMG -->
-  <Gun_LMG.verbs.Verb_Shoot.label>LMG</Gun_LMG.verbs.Verb_Shoot.label>
+  <Gun_LMG.verbs.Verb_Shoot.label>ручний кулемет</Gun_LMG.verbs.Verb_Shoot.label>
   <!-- EN: machine pistol -->
   <Gun_MachinePistol.label>machine pistol</Gun_MachinePistol.label>
   <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->

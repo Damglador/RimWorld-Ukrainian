@@ -377,13 +377,13 @@
   <LetterTraitDisease>У {PAWN_label} {1}.\n\nПереконайтесь, що у вас є медичне ліжко й лікар. {PAWN_definite} потребує належного лікування та постільного режиму.</LetterTraitDisease>
   <!-- Quests -->
   <!-- EN: Quest available: {0} -->
-  <LetterLabelQuestAvailableTitle>Quest available: {0}</LetterLabelQuestAvailableTitle>
+  <LetterLabelQuestAvailableTitle>Доручення доступне: {0}</LetterLabelQuestAvailableTitle>
   <!-- EN: Quest active: {0} -->
-  <LetterLabelQuestAutomaticallyAcceptedTitle>Quest active: {0}</LetterLabelQuestAutomaticallyAcceptedTitle>
+  <LetterLabelQuestAutomaticallyAcceptedTitle>Доручення активне: {0}</LetterLabelQuestAutomaticallyAcceptedTitle>
   <!-- EN: {DISCOVEREDFROM} a new quest. -->
   <LetterNewQuest>{DISCOVEREDFROM} a new quest.</LetterNewQuest>
   <!-- EN: A new quest is available. -->
-  <LetterNewQuestFromUnknown>A new quest is available.</LetterNewQuestFromUnknown>
+  <LetterNewQuestFromUnknown>Доступне нове доручення.</LetterNewQuestFromUnknown>
   <!-- EN: The quest is called '{0}'. -->
   <LetterQuestIsNamed>The quest is called '{0}'.</LetterQuestIsNamed>
   <!-- EN: It will expire in {0}. -->

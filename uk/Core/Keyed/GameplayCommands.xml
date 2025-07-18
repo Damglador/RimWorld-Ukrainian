@@ -96,43 +96,43 @@
   <!-- EN: Start the countdown to detonation. -->
   <CommandDetonateDesc>Почати відлік до вибуху.</CommandDetonateDesc>
   <!-- EN: Hide -->
-  <CommandHideLabel>Hide</CommandHideLabel>
+  <CommandHideLabel>Приховати</CommandHideLabel>
   <!-- EN: Unhide -->
-  <CommandUnhideLabel>Unhide</CommandUnhideLabel>
+  <CommandUnhideLabel>Показати</CommandUnhideLabel>
   <!-- EN: Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones. -->
   <CommandHidePlanDesc>Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones.</CommandHidePlanDesc>
   <!-- EN: Hide/unhide this zone.\n\nRight-click to hide or unhide all zones. -->
   <CommandHideZoneDesc>Hide/unhide this zone.\n\nRight-click to hide or unhide all zones.</CommandHideZoneDesc>
   <!-- EN: Show all zones -->
-  <ShowAllZones>Show all zones</ShowAllZones>
+  <ShowAllZones>Показати всі зони</ShowAllZones>
   <!-- EN: Hide all zones -->
-  <HideAllZones>Hide all zones</HideAllZones>
+  <HideAllZones>Приховати всі зони</HideAllZones>
   <!-- EN: Show all {0} zones -->
   <ShowAllZoneTypes>Show all {0} zones</ShowAllZoneTypes>
   <!-- EN: Hide all {0} zones -->
   <HideAllZoneTypes>Hide all {0} zones</HideAllZoneTypes>
   <!-- EN: planning -->
-  <Planning>planning</Planning>
+  <Planning>планування</Planning>
   <!-- EN: Change color -->
-  <CommandChangeColorPlanLabel>Change color</CommandChangeColorPlanLabel>
+  <CommandChangeColorPlanLabel>Змінити колір</CommandChangeColorPlanLabel>
   <!-- EN: Change the color of this plan. -->
-  <CommandChangeColorPlanDesc>Change the color of this plan.</CommandChangeColorPlanDesc>
+  <CommandChangeColorPlanDesc>Змінити колір цього плану.</CommandChangeColorPlanDesc>
   <!-- EN: Delete -->
-  <CommandDeletePlanLabel>Delete</CommandDeletePlanLabel>
+  <CommandDeletePlanLabel>Видалити</CommandDeletePlanLabel>
   <!-- EN: Delete this plan. -->
-  <CommandDeletePlanDesc>Delete this plan.</CommandDeletePlanDesc>
+  <CommandDeletePlanDesc>Видалити цей план.</CommandDeletePlanDesc>
   <!-- EN: Copy -->
-  <CommandCopyPlanLabel>Copy</CommandCopyPlanLabel>
+  <CommandCopyPlanLabel>Копіювати</CommandCopyPlanLabel>
   <!-- EN: Copy this plan. -->
-  <CommandCopyPlanDesc>Copy this plan.</CommandCopyPlanDesc>
+  <CommandCopyPlanDesc>Копіювати цей план.</CommandCopyPlanDesc>
   <!-- EN: Copy selection... -->
-  <CommandCopyPlanSelectionLabel>Copy selection...</CommandCopyPlanSelectionLabel>
+  <CommandCopyPlanSelectionLabel>Копіювати виділення...</CommandCopyPlanSelectionLabel>
   <!-- EN: Copy all plans within a selected area. -->
-  <CommandCopyPlanSelectionDesc>Copy all plans within a selected area.</CommandCopyPlanSelectionDesc>
+  <CommandCopyPlanSelectionDesc>Копіювати все у виділеній області.</CommandCopyPlanSelectionDesc>
   <!-- EN: Select area to copy -->
-  <CommandCopyPlanSelectionMouse>Select area to copy</CommandCopyPlanSelectionMouse>
+  <CommandCopyPlanSelectionMouse>Виберіть область для копіювання</CommandCopyPlanSelectionMouse>
   <!-- EN: Paste selected area -->
-  <CommandCopyPlanSelectionPasteMouse>Paste selected area</CommandCopyPlanSelectionPasteMouse>
+  <CommandCopyPlanSelectionPasteMouse>Вставити вибрану область</CommandCopyPlanSelectionPasteMouse>
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Видалити</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
@@ -349,7 +349,7 @@
   <CommandSettleFailGeneric>Cannot settle here.</CommandSettleFailGeneric>
   <!-- Camp -->
   <!-- EN: Camp -->
-  <CommandCamp>Camp</CommandCamp>
+  <CommandCamp>Табір</CommandCamp>
   <!-- EN: Set up a temporary camp that can quickly be abandoned. -->
   <CommandCampDesc>Set up a temporary camp that can quickly be abandoned.</CommandCampDesc>
   <!-- EN: Cannot camp here. -->

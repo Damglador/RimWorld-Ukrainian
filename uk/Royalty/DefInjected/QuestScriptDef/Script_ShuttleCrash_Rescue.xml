@@ -36,13 +36,13 @@
     <li>goodwillSomeCiviliansLost->Not all the [asker_faction_pawnSingular] [pawnLabel] could be rescued. [goodwillNegativelyAffected]</li>
     <li>goodwillAllCiviliansLost->None of the [asker_faction_pawnSingular] [pawnLabelPlural] could be rescued. [goodwillNegativelyAffected]</li>
     <li>goodwillNegativelyAffected->Your goodwill with [asker_faction_name] has been negatively affected for every [pawnLabel] left.</li>
-    <li>commanderLandingDesc->[asker_nameDef], the commander who asked to land [asker_possessive] shuttle at [map_definite]</li>
-    <li>raidArrivedLetterLabel->Raid: [enemyFaction_name]</li>
-    <li>raidArrivedLetterText->[enemyFaction_pawnsPlural] from the [enemyFaction_name] have arrived. They will attack the [asker_faction_pawnsPlural] who crashed at [map_definite].\n\nDefend the [asker_faction_pawnsPlural] until their rescue shuttle arrives in [rescueShuttleAfterRaidDelay_duration].</li>
+    <li>commanderLandingDesc->[asker_nameDef], {asker_gender ? (командир, що попросив) : (командирка, що попросила) } приземлити [asker_possessive] шатл на [map_definite]</li>
+    <li>raidArrivedLetterLabel->Рейд: [enemyFaction_name]</li>
+    <li>raidArrivedLetterText->[enemyFaction_pawnsPlural] з [enemyFaction_name] прибули. Вони атакуватимуть [asker_faction_pawnsPlural], котрі розбилися на [map_definite].\n\nЗахистіть [asker_faction_pawnsPlural], поки їх шатл не прибуде через [rescueShuttleAfterRaidDelay_duration].</li>
     <li>rescueShuttleArrivedLetterLabel->Rescue shuttle arrived</li>
     <li>rescueShuttleArrivedLetterText->The rescue shuttle has arrived to collect the [pawnLabelSingleOrPlural] who crashed landed. Make sure to have these people on the shuttle before it leaves in [leaveDelay_duration]:\n\n[civilians]</li>
     <li>questCompletedSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>
-    <li>questCompletedSuccessLetterText->[commanderLandingDesc], has escaped. [asker_pronoun] is grateful for the help [asker_pronoun] received at [map_definite].\n\n[successLetterEndingCommon]</li>
+    <li>questCompletedSuccessLetterText->[commanderLandingDesc], успішно {asker_gender ? (врятувався) : (врятувалася) }. [asker_pronoun] {asker_gender ? (вдячний) : (вдячна) } за отриману у [map_definite] допомогу.\n\n[successLetterEndingCommon]</li>
     <li>questCompletedCiviliansLostSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>
     <li>questCompletedCiviliansLostSuccessLetterText->[commanderLandingDesc], has escaped.\n\n[goodwillSomeCiviliansLost]\n\n[successLetterEndingCommon]</li>
     <li>askerLostLetterLabel->Quest failed: [resolvedQuestName]</li>
@@ -116,16 +116,16 @@
     <li>landing->approach</li>
   -->
   <ShuttleCrash_Rescue.questNameRules.rulesStrings>
-    <li>questName->[shuttle] [crash]</li>
+    <li>questName->[crash] [shuttle]</li>
     <li>questName->[asker_faction_pawnSingular] [shuttle] [crash]</li>
     <li>questName->[damaged] [shuttle]</li>
     <li>questName->[asker_nameDef]'s [damaged] [shuttle]</li>
     <li>questName->[emergency] [landing]</li>
     <li>questName->[asker_nameDef]'s [emergency] [landing]</li>
-    <li>shuttle->shuttle</li>
-    <li>shuttle->transporter</li>
-    <li>shuttle->ship</li>
-    <li>crash->crash</li>
+    <li>shuttle->шатл</li>
+    <li>shuttle->шатл</li>
+    <li>shuttle->корабель</li>
+    <li>crash->розбитий</li>
     <li>crash->down</li>
     <li>damaged->damaged</li>
     <li>damaged->busted</li>

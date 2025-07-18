@@ -198,7 +198,7 @@
     <li>place_job->militia commander</li>
     <li>place_job->shuttle pilot</li>
     <li>place_personalWeapon->autopistol</li>
-    <li>place_personalWeapon->LMG</li>
+    <li>place_personalWeapon->ручний кулемет</li>
     <li>place_massWeapon->a shoulder-mounted nuclear missile</li>
     <li>place_massWeapon->an orbital bombardment</li>
     <li>place_massWeapon->chemical bombs</li>
