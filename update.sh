@@ -16,3 +16,6 @@ mkdir -p Mod/CrowdinFiles && cp -r uk/* "$MOD_DIR"/CrowdinFiles
 # Наказати моду оновитися
 [ ! -x "$MOD_DIR"/build.sh ] && chmod u+x "$MOD_DIR"/build.sh
 "$MOD_DIR"/build.sh
+
+git add uk/
+git commit -m "Update translation"
