@@ -83,5 +83,5 @@
   <!-- EN: Revenant flesh -->
   <AlertRevenantFlesh>Плоть ревенанта</AlertRevenantFlesh>
   <!-- EN: The wounded revenant left behind a piece of itself. Analyze it to learn how to track the revenant. -->
-  <AlertRevenantFleshDesc>Поранений ревенант залишив частину своєї плоті. Проаналізуйте її, щоб навчитися відстежувати ревенанта.</AlertRevenantFleshDesc>
+  <AlertRevenantFleshDesc>Поранений Ревенант залишив частину своєї плоті. Проаналізуйте її, щоб навчитися відстежувати його.</AlertRevenantFleshDesc>
 </LanguageData>

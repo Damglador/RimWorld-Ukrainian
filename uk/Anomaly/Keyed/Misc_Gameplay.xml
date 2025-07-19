@@ -21,7 +21,7 @@
   <MessageRitualCannotBeMutant>Не люди не можуть приймати участь у ритуалах.</MessageRitualCannotBeMutant>
   <!-- Revenant -->
   <!-- EN: Revenant attack -->
-  <LetterLabelRevenantRevealed>Напад ревенанта</LetterLabelRevenantRevealed>
+  <LetterLabelRevenantRevealed>Ревенант атакує</LetterLabelRevenantRevealed>
   <!-- EN: A revenant has revealed itself! -->
   <LetterRevenantRevealed>Ревенант викриває себе!</LetterRevenantRevealed>
   <!-- EN: A revenant has revealed itself and is hunting one of your colonists! -->
@@ -33,11 +33,11 @@
   <!-- EN: Revenant killed -->
   <LetterLabelRevenantKilled>Ревенанта вбито</LetterLabelRevenantKilled>
   <!-- EN: The revenant is dead! Those who were hypnotized will recover.\n\nIts body has dissipated, leaving behind its spine. You can gather and study the spine, or destroy it. -->
-  <LetterRevenantKilled>Ревенант мертвий! Ті кого він загіпнотизував відновлюються.\n\nЙого тіло зникло, залишився тільки хребет. Ви можете забрати його для вивчення, або знищити його.</LetterRevenantKilled>
+  <LetterRevenantKilled>Ревенант мертвий! Ті кого він загіпнотизував відновлюються.\n\nЙого тіло розсіялось, залишивши тільки хребет. Ви можете забрати його для вивчення, або знищити.</LetterRevenantKilled>
   <!-- EN: {PAWN_nameDef} hypnotized -->
   <LetterLabelPawnHypnotized>{PAWN_nameDef} загіпнотизовано</LetterLabelPawnHypnotized>
   <!-- EN: {PAWN_nameDef} has been hypnotized by a revenant and is now rambling incoherently about nightmarish images and ideas.\n\nKilling the revenant will end the hypnosis.\n\nThe revenant uses psychic powers to twist the perceptions of those around it, making itself invisible. However, it can still be hunted by following the black smears that it leaves. The revenant will be revealed if hit by explosive weapons, firefoam, EMPs, fire, or disruptor flares.\n\nIf not killed, the revenant will continue to hypnotize new victims. -->
-  <LetterPawnHypnotized>{PAWN_nameDef} загіпнотизовано ревенантом і тепер {PAWN_pronoun} безладно базікає про кошмарні образи та ідеї.\n\nВбивство ревенанта припинить гіпноз.\n\nРевенант використовує психічні здібності, щоб спотворити сприйняття тих, хто його оточує, фактично стаючи невидимим. Однак на нього все ще можна полювати, слідкуючи за чорними плямами, які він залишає. Ревенант втратить невидимість, якщо його вразить вибухом, протипожежною піною, ЕМІ, вогнем або руйнівними фальшфеєрами.\n\nЯкщо ревенанта не вбити, він буде продовжувати гіпнотизувати нових жертв.</LetterPawnHypnotized>
+  <LetterPawnHypnotized>{PAWN_nameDef} загіпнотизовано Ревенантом і тепер {PAWN_pronoun} безладно бормоче про кошмарні образи та ідеї.\n\nВбивство ревенанта припинить гіпноз.\n\nРевенант використовує психічні здібності, щоб спотворити сприйняття тих, хто його оточує, фактично стаючи невидимим. Однак на нього все ще можна полювати, слідкуючи за чорними плямами, які він залишає. Ревенант втратить невидимість, якщо його вразить вибухом, протипожежною піною, ЕМІ, вогнем або руйнівними фальшфеєрами.\n\nЯкщо ревенанта не вбити, він буде продовжувати гіпнотизувати нових жертв.</LetterPawnHypnotized>
   <!-- EN: Revenant flesh chunk -->
   <LetterRevenantFleshChunkLabel>Шматок плоті ревенанта</LetterRevenantFleshChunkLabel>
   <!-- EN: The wounded revenant left behind a piece of itself. You can analyze this flesh chunk to learn how to track the revenant. -->

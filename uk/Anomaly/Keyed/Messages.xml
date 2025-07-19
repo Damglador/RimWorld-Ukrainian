@@ -61,7 +61,7 @@
   <MessagePawnAttackedInDarkness>Щось у темряві атакувало {0_nameDef}.</MessagePawnAttackedInDarkness>
   <!-- Revenant -->
   <!-- EN: A hidden revenant has been revealed! -->
-  <MessageRevenantForcedVisibility>Викрито мхованого ревенанта!</MessageRevenantForcedVisibility>
+  <MessageRevenantForcedVisibility>Ревенант був викритий!</MessageRevenantForcedVisibility>
   <!-- EN: {PAWN_nameDef} can hear the revenant {1} nearby! -->
   <MessageRevenantHeard>{PAWN_nameDef} чує ревенанта {1} неподалік!</MessageRevenantHeard>
   <!-- Abilities -->
