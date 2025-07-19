@@ -60,7 +60,7 @@
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==false)-></li>
-    <li>questDescription(askerIsNull==true,lodgersCount&gt;=2)->An animal rescue organization wants you to take care of [lodgersCount] [lodgersLabelPlural] at [map_definite] for [shuttleDelayTicks_duration]. [healthInfo][threatsInfo2][commonDescEnding]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->An animal rescue organization wants you to take care of [lodgersCount] [lodgersLabelPlural] at [map_definite] for [shuttleDelayTicks_duration]. [healthInfo][threatsInfo2][commonDescEnding]</li>
     <li>victim->child</li>
     <li>victim->woman</li>
     <li>victim->man</li>
@@ -75,7 +75,7 @@
     <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==false)-></li>
-    <li>questDescription(asker_factionLeader==True,lodgersCount&gt;=2,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], is making a request. [asker_pronoun] wants you to take care of [lodgersCount] [lodgersLabelPlural] at [map_definite] for [shuttleDelayTicks_duration]. [healthInfo][threatsInfo4][commonDescEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2,priority=1)->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], is making a request. [asker_pronoun] wants you to take care of [lodgersCount] [lodgersLabelPlural] at [map_definite] for [shuttleDelayTicks_duration]. [healthInfo][threatsInfo4][commonDescEnding]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nThe [lodgersLabelPlural] are necessary for [asker_nameDef] to fulfill an important trade promise. To provoke conflict, [enemyFaction_name] is sending [enemyFaction_pawnsPlural] after them. If you accept the [lodgersLabelPlural], [enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
@@ -85,7 +85,7 @@
     <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==false)-></li>
-    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount&gt;=2,priority=1)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request. [asker_pronoun] wants you to take care of [lodgersCount] [lodgersLabelPlural] at [map_definite] for [shuttleDelayTicks_duration]. The [lodgersLabelPlural] are [asker_nameDef]'s favorite pets, and [asker_pronoun] wants them to see the world outside [asker_possessive] royal court. [healthInfo][threatsInfo6][commonDescEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2,priority=1)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request. [asker_pronoun] wants you to take care of [lodgersCount] [lodgersLabelPlural] at [map_definite] for [shuttleDelayTicks_duration]. The [lodgersLabelPlural] are [asker_nameDef]'s favorite pets, and [asker_pronoun] wants them to see the world outside [asker_possessive] royal court. [healthInfo][threatsInfo6][commonDescEnding]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nUnfortunately, [enemyFaction_name] is hunting the [lodgersLabelPlural] to try to hurt [asker_nameDef] personally. If you accept the [lodgersLabelPlural], [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsMultiAnimal] [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiAnimal] [enemyGroupsParagraph]</li>
@@ -121,10 +121,10 @@
     <li>questName(lodgersCount==1)->[lodgersLabel]-sitting</li>
     <li>questName(lodgersCount==1)->keeping [lodgers0_nameDef]</li>
     <li>questName(lodgersCount==1)->poor little [lodgers0_nameDef]</li>
-    <li>questName(lodgersCount&gt;=2)->the [animalAdj] [lodgersLabelPlural]</li>
-    <li>questName(lodgersCount&gt;=2)->[animalAdj] [lodgersLabelPlural]</li>
-    <li>questName(lodgersCount&gt;=2)->[animalAdj] [lodgersLabelPlural]</li>
-    <li>questName(lodgersCount&gt;=2)->[lodgersLabel]-sitting</li>
+    <li>questName(lodgersCount>=2)->the [animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[animalAdj] [lodgersLabelPlural]</li>
+    <li>questName(lodgersCount>=2)->[lodgersLabel]-sitting</li>
     <li>questName(lodgersCount==2)->keeping [lodgersLabelPlural]</li>
     <li>animalAdj->adorable</li>
     <li>animalAdj->doe-eyed</li>

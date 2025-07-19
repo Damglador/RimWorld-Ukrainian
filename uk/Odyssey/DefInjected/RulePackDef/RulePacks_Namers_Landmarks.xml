@@ -240,11 +240,11 @@
   -->
   <NamerLandmark_FrozenRuins.rulePack.rulesStrings>
     <li>r_name(p=0.4)->[ruin_adjective_mas] [narrative_name_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ruin_adjective_fem]" val="[ruin_adjective_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[narrative_name_fem]" val="[narrative_name_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ruin_adjective_neu]" val="[ruin_adjective_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[narrative_name_neu]" val="[narrative_name_neu]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ruin_adjective_plural]" val="[ruin_adjective_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[narrative_name_plural]" val="[narrative_name_plural]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ruin_adjective_fem]" val="[ruin_adjective_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[narrative_name_fem]" val="[narrative_name_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ruin_adjective_neu]" val="[ruin_adjective_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[narrative_name_neu]" val="[narrative_name_neu]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ruin_adjective_plural]" val="[ruin_adjective_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[narrative_name_plural]" val="[narrative_name_plural]" /&amp;gt;</ph></li>
     <li>ruin_adjective_mas->зруйнований</li>
-    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="ruin_adjective_fem-&amp;amp;gt;" val="ruin_adjective_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>зруйнована</li>
+    <li><ph id="1">&amp;lt;mq:rxt displaytext="ruin_adjective_fem-&amp;amp;gt;" val="ruin_adjective_fem-&amp;amp;gt;" /&amp;gt;</ph>зруйнована</li>
   </NamerLandmark_FrozenRuins.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.4)->Fort [narrative_name]</li>
@@ -473,13 +473,13 @@
     <li>r_name(p=0.3)->[terrain_word], де живе [NamePerson]</li>
     <li>r_name(p=0.2)->[mistake], що зробив [NamePerson]</li>
     <li>r_name(p=0.2)->[large_mas] [terrain_word_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[large_fem]" val="[large_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_fem]" val="[terrain_word_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[large_neu]" val="[large_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_neu]" val="[terrain_word_neu]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[large_plural]" val="[large_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_plural]" val="[terrain_word_plural]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[large_fem]" val="[large_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_fem]" val="[terrain_word_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[large_neu]" val="[large_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_neu]" val="[terrain_word_neu]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[large_plural]" val="[large_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_plural]" val="[terrain_word_plural]" /&amp;gt;</ph></li>
     <li>r_name(p=0.1)->[dread_mas] [terrain_word_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[dread_fem]" val="[dread_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_fem]" val="[terrain_word_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[dread_neu]" val="[dread_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_neu]" val="[terrain_word_neu]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[dread_plural]" val="[dread_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_plural]" val="[terrain_word_plural]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[dread_fem]" val="[dread_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_fem]" val="[terrain_word_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[dread_neu]" val="[dread_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_neu]" val="[terrain_word_neu]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[dread_plural]" val="[dread_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[terrain_word_plural]" val="[terrain_word_plural]" /&amp;gt;</ph></li>
     <li>r_name(p=0.05)->[terrain_word]</li>
     <li>terrain_word_mas(p=3)->шрам</li>
     <li>terrain_word_mas->розлом</li>

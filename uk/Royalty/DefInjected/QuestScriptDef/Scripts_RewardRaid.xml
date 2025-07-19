@@ -14,7 +14,7 @@
     <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
     <li>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</li>
     <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nЯкщо ви погодитесь, [enemyFaction_pawnsPlural] нападуть через [firstRaidDelayTicks_duration].</li>
-    <li>endingCommon(helpersCount&gt;=1)->\n\n[pawnKindsParagraph][helpersParagraph] Якщо ви погодитесь, [enemyFaction_pawnsPlural] нападуть через [firstRaidDelayTicks_duration].</li>
+    <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph] Якщо ви погодитесь, [enemyFaction_pawnsPlural] нападуть через [firstRaidDelayTicks_duration].</li>
   </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>

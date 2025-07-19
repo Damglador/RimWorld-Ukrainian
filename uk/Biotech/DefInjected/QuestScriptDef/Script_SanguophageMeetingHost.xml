@@ -25,7 +25,7 @@
   <SanguophageMeetingHost.questDescriptionRules.rulesStrings>
     <li>questDescription->Сангвофаг на ім'я [asker_nameDef] шукає безпечне місце для зустрічі з [sanguophageCountMinusOne] [sanguophageSingOrPlural], де їх не зможуть вислідити. [asker_nameDef] просить дозволити провести цю зустріч у вас в [map_definite].\n\nЯкщо ви погодитесь, до вас прийдуть [sanguophageCount] сангвофагів з різних місць. Вони проведуть у вас декілька годин за обговоренням їхніх проблем. Перед тим як піти, вони обіцяють залишити винагороду.\n\nВи можете зрадити та атакувати їх. Знерухомлених сангвофагів можна змусити перетворити одного з ваших власних колоністів на сангвофага.\n\n[sanguophageInfo]</li>
     <li>sanguophageSingOrPlural(sanguophageCountMinusOne==1)->іншим сангвофагом</li>
-    <li>sanguophageSingOrPlural(sanguophageCountMinusOne&gt;=2)->іншими сангвофагами</li>
+    <li>sanguophageSingOrPlural(sanguophageCountMinusOne>=2)->іншими сангвофагами</li>
     <li>sanguophageInfo->(*Gray)Про сангвофагів: Сангвофаги - вічні, безсмертні супер-люди, кров яких містить створених архотеками архітів. Вони красиві та дуже розумні. Вони можуть зцілитися від будь-яких поранень, хвороб або отруєнь. В бою вони можуть випускати смертельні шипи та зціляти поранених союзників. Ціною за це є необхідність вживати гемоген з людської крові, щоб вижити. Також, їм періодично необхідно впадати в летаргічний сон на декілька днів. Вони смертельно вразливі до вогню а ультрафіолетові промені сповільнюють їх.(/Gray)</li>
   </SanguophageMeetingHost.questDescriptionRules.rulesStrings>
   <!-- EN:

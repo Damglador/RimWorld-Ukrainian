@@ -23,12 +23,12 @@
     <li>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural] [hasHave] finished venerating [relic_name] and [areIs] now leaving.</li>
     <li>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural] [hasHave] left the map.</li>
     <li>areIs(pilgrimCount==1)->is</li>
-    <li>areIs(pilgrimCount&gt;=2)->are</li>
+    <li>areIs(pilgrimCount>=2)->are</li>
     <li>andFollowers(pilgrimCount==1)-></li>
     <li>andFollowers(pilgrimCount==2)->and the other [faction_pawnSingular]</li>
-    <li>andFollowers(pilgrimCount&gt;=3)->and the other [faction_pawnsPlural]</li>
+    <li>andFollowers(pilgrimCount>=3)->and the other [faction_pawnsPlural]</li>
     <li>pilgrimSingularOrPlural(pilgrimCount==1)->pilgrim</li>
-    <li>pilgrimSingularOrPlural(pilgrimCount&gt;=2)->pilgrims</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount>=2)->pilgrims</li>
     <li>factionAdj(pilgrimFaction==true)-></li>
     <li>factionAdj(pilgrimFaction==false)->[faction_pawnSingular]</li>
   </ReliquaryPilgrims.questContentRules.rulesStrings>
@@ -44,9 +44,9 @@
     <li>pilgrimsLabel->[pawns0_nameDef]</li>
     <li>pilgrimsLabelPlural->[faction_pawnsPlural]</li>
     <li>pilgrimsLabelSingularOrPlural(pilgrimCount==1)->[pilgrimsLabel]</li>
-    <li>pilgrimsLabelSingularOrPlural(pilgrimCount&gt;=2)->[pilgrimsLabelPlural]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount>=2)->[pilgrimsLabelPlural]</li>
     <li>hasHave(pilgrimCount==1)->has</li>
-    <li>hasHave(pilgrimCount&gt;=2)->have</li>
+    <li>hasHave(pilgrimCount>=2)->have</li>
   </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
@@ -64,15 +64,15 @@
   <ReliquaryPilgrims.questDescriptionRules.rulesStrings>
     <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
     <li>questDescription(pilgrimCount==1,childCount==1,priority=1)->[pilgrimsLabelSingularOrPlural], a child, [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
-    <li>questDescription(pilgrimCount&gt;=2,childCount==1,priority=1)->A group of [pilgrimsLabelSingularOrPlural] including a child has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
-    <li>questDescription(pilgrimCount&gt;=2,childCount&gt;=2,allChildren==false,priority=1)->A group of [pilgrimsLabelSingularOrPlural] including some children has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
-    <li>questDescription(pilgrimCount&gt;=2,allChildren==true,priority=1)->A group of child [pilgrimsLabelSingularOrPlural] has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
+    <li>questDescription(pilgrimCount>=2,childCount==1,priority=1)->A group of [pilgrimsLabelSingularOrPlural] including a child has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
+    <li>questDescription(pilgrimCount>=2,childCount>=2,allChildren==false,priority=1)->A group of [pilgrimsLabelSingularOrPlural] including some children has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
+    <li>questDescription(pilgrimCount>=2,allChildren==true,priority=1)->A group of child [pilgrimsLabelSingularOrPlural] has arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
     <li>isAre(pilgrimCount==1)->is</li>
-    <li>isAre(pilgrimCount&gt;=2)->are</li>
+    <li>isAre(pilgrimCount>=2)->are</li>
     <li>pronounSingularOrPlural(pilgrimCount==1)->[pawns0_pronoun]</li>
-    <li>pronounSingularOrPlural(pilgrimCount&gt;=2)->they</li>
+    <li>pronounSingularOrPlural(pilgrimCount>=2)->they</li>
     <li>visitSingularOrPlural(pilgrimCount==1)->visits</li>
-    <li>visitSingularOrPlural(pilgrimCount&gt;=2)->visit</li>
+    <li>visitSingularOrPlural(pilgrimCount>=2)->visit</li>
   </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
@@ -96,7 +96,7 @@
   -->
   <ReliquaryPilgrims.questNameRules.rulesStrings>
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
-    <li>questName(pilgrimCount&gt;=2)->[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</li>
+    <li>questName(pilgrimCount>=2)->[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</li>
     <li>visitAdj(p=6)-></li>
     <li>visitAdj->holy</li>
     <li>visitAdj->sacred</li>

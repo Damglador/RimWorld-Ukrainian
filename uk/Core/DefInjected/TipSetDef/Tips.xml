@@ -7,7 +7,7 @@
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
   <GameplayTips.ReorderColonistbar>Ви можете змінити порядок колоністів на панелі перетягнувши їх правою кнопкою миші.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select the previous or next colonist with the , and . keys. -->
-  <GameplayTips.SelectPrevNextColonist>Для вибору попереднього або наступного колоніста використовуйте клавіші , (або &lt;) та . (або >).</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>Для вибору попереднього або наступного колоніста використовуйте клавіші , (або <) та . (або >).</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
   <GameplayTips.SettingPainting>Більшість меню дозволяють переміщенням миші із затиснутою ЛКМ змінити відразу декілька рядків. Це працює навіть для таких речей, як одяг чи обмеження в їжі.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->

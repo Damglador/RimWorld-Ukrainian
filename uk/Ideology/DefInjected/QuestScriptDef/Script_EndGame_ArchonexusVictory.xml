@@ -30,7 +30,7 @@
     <li>itsTheir(playerSettlementsCount==1)-></li>
     <li>itsTheir(playerSettlementsCount==2)->їх</li>
     <li>settlementsSingularOrPlural(playerSettlementsCount==1)->її</li>
-    <li>settlementsSingularOrPlural(playerSettlementsCount&gt;=2)->їх</li>
+    <li>settlementsSingularOrPlural(playerSettlementsCount>=2)->їх</li>
     <li>onlyHaveHas(factionless==false)->[civilOutlander_name] мають</li>
     <li>onlyHaveHas(factionless==true)->Ця група має</li>
     <li>factionPawnsPlural(factionless==false)->[civilOutlander_pawnsPlural]</li>

@@ -163,7 +163,7 @@
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribeFrom>Ви впевнені, що хочете відписатися від {0}?</ConfirmUnsubscribeFrom>
   <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
-  <ConfirmUnsubscribeFromMultiple>&gt;Ви впевнені, що хочете відписатися від цих модифікацій?\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <ConfirmUnsubscribeFromMultiple>>Ви впевнені, що хочете відписатися від цих модифікацій?\n\n{0}</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
   <Author>Автор</Author>
   <!-- EN: Enabled -->
@@ -263,11 +263,11 @@
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Цей мод призначений для новішої версії RimWorld і, ймовірно, не буде правильно працювати.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs properly formatted supported version information in About.xml. Like this: &lt;supportedVersions&gt;
-    <li>{0}</li>&lt;/supportedVersions&gt; - &lt;targetVersion&gt; is deprecated. Check log for further information.
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions>
+    <li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information.
   </MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Мод потребує унікального, правильно відформатованого packageId у файлі About.xml. Він має відповідати таким вимогам:\n\n - Лише алфавітно-цифрові символи та крапка.\n - Без пробілів.\n - Принаймні одна крапка.\n - Без повторюваних крапок підряд, або таких, що починаються чи закінчуються крапкою.\n - 60 символів або менше.\n - Не може містити слова «Ludeon».\n\nНаприклад:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Мод потребує унікального, правильно відформатованого packageId у файлі About.xml. Він має відповідати таким вимогам:\n\n - Лише алфавітно-цифрові символи та крапка.\n - Без пробілів.\n - Принаймні одна крапка.\n - Без повторюваних крапок підряд, або таких, що починаються чи закінчуються крапкою.\n - 60 символів або менше.\n - Не може містити слова «Ludeon».\n\nНаприклад:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId></MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
   <ModHadLoadFolderIssues>Цей мод має помилки у файлі LoadFolders.xml, їх потрібно усунути перед завантаженням:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
@@ -283,7 +283,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>Неправильний порядок версій: версія "default" повинна бути першою.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Слово "default" у LoadFolders.xml застаріло. Будь ласка, вкажіть теку для кожної підтримуваної версії, використовуючи теги &lt;v...&gt;.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Слово "default" у LoadFolders.xml застаріло. Будь ласка, вкажіть теку для кожної підтримуваної версії, використовуючи теги <v...>.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>Версія {0} визначена в LoadFolders.xml, але не перерахована у полі "supportedVersions" файлу About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->

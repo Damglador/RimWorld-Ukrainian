@@ -100,33 +100,33 @@
     <li>r_name(p=2)->[narrative_name]</li>
     <li>r_name(p=1)->[narrative_name] [ship_word]</li>
     <li>r_name(p=0.5)->[ship_prefix_mas] [Color_mas] [ship_word_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[Color_fem]" val="[Color_fem]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_fem]" val="[ship_word_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[Color_neu]" val="[Color_neu]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_neu]" val="[ship_word_neu]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[Color_fem]" val="[Color_fem]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_fem]" val="[ship_word_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[Color_neu]" val="[Color_neu]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_neu]" val="[ship_word_neu]" /&amp;gt;</ph></li>
     <li>r_name(p=0.5)->[ship_prefix_mas] [AdjectiveBadass_mas] [ship_word_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveBadass_fem]" val="[AdjectiveBadass_fem]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_fem]" val="[ship_word_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveBadass_neu]" val="[AdjectiveBadass_neu]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_neu]" val="[ship_word_neu]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveBadass_fem]" val="[AdjectiveBadass_fem]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_fem]" val="[ship_word_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveBadass_neu]" val="[AdjectiveBadass_neu]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_neu]" val="[ship_word_neu]" /&amp;gt;</ph></li>
     <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass_mas] [bird]</li>
     <li>r_name(p=0.5)->[ship_prefix_mas] [AdjectiveFriendly_mas] [ship_word_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveFriendly_fem]" val="[AdjectiveFriendly_fem]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_fem]" val="[ship_word_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveFriendly_neu]" val="[AdjectiveFriendly_neu]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_neu]" val="[ship_word_neu]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveFriendly_fem]" val="[AdjectiveFriendly_fem]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_fem]" val="[ship_word_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[AdjectiveFriendly_neu]" val="[AdjectiveFriendly_neu]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[ship_word_neu]" val="[ship_word_neu]" /&amp;gt;</ph></li>
     <li>r_name(p=0.5)->[ship_prefix_mas] [flying_adjective_mas] [AnimalBadass_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[flying_adjective_fem]" val="[flying_adjective_fem]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[AnimalBadass_fem]" val="[AnimalBadass_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[flying_adjective_neu]" val="[flying_adjective_neu]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[AnimalBadass_plural]" val="[AnimalBadass_plural]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_plural]" val="[ship_prefix_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[flying_adjective_plural]" val="[flying_adjective_plural]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[AnimalBadass_plural]" val="[AnimalBadass_plural]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_fem]" val="[ship_prefix_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[flying_adjective_fem]" val="[flying_adjective_fem]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[AnimalBadass_fem]" val="[AnimalBadass_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_neu]" val="[ship_prefix_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[flying_adjective_neu]" val="[flying_adjective_neu]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[AnimalBadass_plural]" val="[AnimalBadass_plural]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[ship_prefix_plural]" val="[ship_prefix_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[flying_adjective_plural]" val="[flying_adjective_plural]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[AnimalBadass_plural]" val="[AnimalBadass_plural]" /&amp;gt;</ph></li>
     <li>r_name(p=0.5)->[storyname]</li>
     <li>r_name(p=0.2)->[Color_mas] [greekmyth_noun_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[Color_fem]" val="[Color_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[greekmyth_noun_fem]" val="[greekmyth_noun_fem]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[Color_fem]" val="[Color_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[greekmyth_noun_fem]" val="[greekmyth_noun_fem]" /&amp;gt;</ph></li>
     <li>r_name(p=0.2)->[ship_prefix] [greekmyth_noun]</li>
     <li>ship_prefix(p=2)-></li>
     <li>ship_prefix(p=2)-></li>
     <li>narrative_name->[AdjectiveNatural_mas] [thing_badass_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveNatural_fem]" val="[AdjectiveNatural_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_fem]" val="[thing_badass_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveNatural_neu]" val="[AdjectiveNatural_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_neu]" val="[thing_badass_neu]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveNatural_plural]" val="[AdjectiveNatural_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_plural]" val="[thing_badass_plural]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveNatural_fem]" val="[AdjectiveNatural_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_fem]" val="[thing_badass_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveNatural_neu]" val="[AdjectiveNatural_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_neu]" val="[thing_badass_neu]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveNatural_plural]" val="[AdjectiveNatural_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_plural]" val="[thing_badass_plural]" /&amp;gt;</ph></li>
     <li>narrative_name->[AdjectiveLarge_mas] [thing_badass_mas]</li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveLarge_fem]" val="[AdjectiveLarge_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_fem]" val="[thing_badass_fem]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveLarge_neu]" val="[AdjectiveLarge_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_neu]" val="[thing_badass_neu]" /&amp;gt;&lt;/ph></li>
-    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveLarge_plural]" val="[AdjectiveLarge_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_plural]" val="[thing_badass_plural]" /&amp;gt;&lt;/ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveLarge_fem]" val="[AdjectiveLarge_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_fem]" val="[thing_badass_fem]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveLarge_neu]" val="[AdjectiveLarge_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_neu]" val="[thing_badass_neu]" /&amp;gt;</ph></li>
+    <li><ph id="2">&amp;lt;mq:rxt displaytext="[AdjectiveLarge_plural]" val="[AdjectiveLarge_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[thing_badass_plural]" val="[thing_badass_plural]" /&amp;gt;</ph></li>
     <li>narrative_name->[Direction] [thing_badass_plural]</li>
     <li>narrative_name->[thing_badass]</li>
     <li>thing_badass->[AnimalBadass]</li>
@@ -188,8 +188,8 @@
     <li>bird->боривітер</li>
     <li>bird->стерв'ятник</li>
     <li>flying_adjective_mas(p=2)->летючий</li>
-    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="flying_adjective_fem(p=2)-&amp;amp;gt;" val="flying_adjective_fem(p=2)-&amp;amp;gt;" /&amp;gt;&lt;/ph>летюча</li>
-    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="flying_adjective_neu(p=2)-&amp;amp;gt;" val="flying_adjective_neu(p=2)-&amp;amp;gt;" /&amp;gt;&lt;/ph>летюче</li>
-    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="flying_adjective_plural(p=2)-&amp;amp;gt;" val="flying_adjective_plural(p=2)-&amp;amp;gt;" /&amp;gt;&lt;/ph>летючі</li>
+    <li><ph id="1">&amp;lt;mq:rxt displaytext="flying_adjective_fem(p=2)-&amp;amp;gt;" val="flying_adjective_fem(p=2)-&amp;amp;gt;" /&amp;gt;</ph>летюча</li>
+    <li><ph id="1">&amp;lt;mq:rxt displaytext="flying_adjective_neu(p=2)-&amp;amp;gt;" val="flying_adjective_neu(p=2)-&amp;amp;gt;" /&amp;gt;</ph>летюче</li>
+    <li><ph id="1">&amp;lt;mq:rxt displaytext="flying_adjective_plural(p=2)-&amp;amp;gt;" val="flying_adjective_plural(p=2)-&amp;amp;gt;" /&amp;gt;</ph>летючі</li>
   </NamerGravship.rulePack.rulesStrings>
 </LanguageData>

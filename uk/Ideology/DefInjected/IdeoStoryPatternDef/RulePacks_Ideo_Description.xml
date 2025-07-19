@@ -153,7 +153,7 @@
     <li>lesson(priority=-1)->всяке трапляється</li>
     <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
     <li>lessonAttribution->[founder_nameFull]</li>
-    <li>lessonAttribution(p=2)->&lt;i&gt;[attributionSource_titleCase]&lt;/i&gt; by [founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i> by [founder_nameFull]</li>
     <li>lessonAttribution->лист [founder_nameFull] [believer_nameFull]</li>
     <li>lessonAttribution->[founder_nameFull], від доповіді до [memeConference_titleCase]</li>
     <li>lessonAttribution->[founder_nameFull], в [founder_possessive] останні хвилини</li>

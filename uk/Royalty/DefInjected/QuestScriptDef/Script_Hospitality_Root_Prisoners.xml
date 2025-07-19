@@ -46,7 +46,7 @@
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==false)-></li>
-    <li>questDescription(askerIsNull==true,lodgersCount&gt;=2)->Капітан корабля, що зараз знаходиться на орбіті, хоче, щоб ви перетримали у себе [lodgersCount] в'язнів у [map_definite] протягом [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo2][commonDescEnding]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount>=2)->Капітан корабля, що зараз знаходиться на орбіті, хоче, щоб ви перетримали у себе [lodgersCount] в'язнів у [map_definite] протягом [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo2][commonDescEnding]</li>
     <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nЦі в'язні вчинили низку вбивств {lookup: [enemyFaction_pawnsPlural]; Case; 3} фракції [enemyFaction_name]. Сім'ї померлих шукають помсти. [enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nЦі в'язні нещодавно [mechViolationPlu], and have been targeted by a mechanoid hive. [enemyGroupsParagraph]</li>
     <li>threatsInfo2(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
@@ -56,7 +56,7 @@
     <li>threatsInfo3(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo3(generateThreats==false)-></li>
-    <li>questDescription(asker_factionLeader==True,lodgersCount&gt;=2)->[asker_faction_leaderTitle] фракції [asker_faction_name] на ім'я [asker_nameFull] {asker_gender ? захопив : захопила} в полон [lodgersCount] [lodgersLabelPluAcc] з ворожої фракції та [asker_objective] ніде їх тримати. [asker_nameDef] хоче, щоб ви перетримали їх у себе протягом [shuttleDelayTicks_duration], доки побудується в'язниця.[allLodgerInfo][threatsInfo4][commonDescEnding]</li>
+    <li>questDescription(asker_factionLeader==True,lodgersCount>=2)->[asker_faction_leaderTitle] фракції [asker_faction_name] на ім'я [asker_nameFull] {asker_gender ? захопив : захопила} в полон [lodgersCount] [lodgersLabelPluAcc] з ворожої фракції та [asker_objective] ніде їх тримати. [asker_nameDef] хоче, щоб ви перетримали їх у себе протягом [shuttleDelayTicks_duration], доки побудується в'язниця.[allLodgerInfo][threatsInfo4][commonDescEnding]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nФракція [enemyFaction_name] дізнається про це та надішле {lookup: [enemyFaction_pawnsPlural]; Case; 3}, щоб визволити своїх людей. [enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nВороги [asker_nameDef] якось спровокували механоїдів, щоб вислідити ув'язнених. [enemyGroupsParagraph]</li>
     <li>threatsInfo4(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
@@ -66,7 +66,7 @@
     <li>threatsInfo5(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nНа жаль, вороги [asker_nameDef] якимось чином спровокували механоїдів, щоб визволити [lodgersLabelPluAcc] та оприлюднити цю історію. [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo5(generateThreats==false)-></li>
-    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount&gt;=2)->[asker_nameFull], [asker_royalTitleInCurrentFaction] фракції [asker_faction_name] просить про послугу. [asker_possessive] археолог нещодавно визволив [lodgersCount] [lodgersLabelPluAcc] зі старовинного сховища криптосну, та хоче провести їхній допит. Щоб вороги не дізнались про цих [lodgersLabelPluAcc], [asker_nameDef] хоче, щоб ви перетримали їх у себе протягом [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo6][commonDescEnding]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True,lodgersCount>=2)->[asker_nameFull], [asker_royalTitleInCurrentFaction] фракції [asker_faction_name] просить про послугу. [asker_possessive] археолог нещодавно визволив [lodgersCount] [lodgersLabelPluAcc] зі старовинного сховища криптосну, та хоче провести їхній допит. Щоб вороги не дізнались про цих [lodgersLabelPluAcc], [asker_nameDef] хоче, щоб ви перетримали їх у себе протягом [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo6][commonDescEnding]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\nНа жаль, [enemyFaction_pawnsPlural] з фракції [enemyFaction_name] шанують сховище, з якого були викрадені ув'язнені. Вони надсилатимуть рейди на будь-кого, хто зараз тримає цих в'язнів. [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\nНа жаль, [enemyFaction_pawnsPlural] з фракції [enemyFaction_name] охороняли сховище, з якого були викрадені ув'язнені. Вони надсилатимуть механоїдів, щоб вполювати втрачених в'язнів. [enemyGroupsParagraph]</li>
     <li>threatsInfo6(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersMultiPrisoners] [enemyGroupsParagraph]</li>
@@ -94,12 +94,12 @@
     <li>questName(lodgersCount==1)->prisoner [lodgers0_nameDef]</li>
     <li>questName(lodgersCount==1)->the [adjAny] prisoner</li>
     <li>questName(lodgersCount==1)->one [adjAny] prisoner</li>
-    <li>questName(lodgersCount&gt;=2)->warden for hire</li>
-    <li>questName(lodgersCount&gt;=2)->prison warden</li>
-    <li>questName(lodgersCount&gt;=2)->contract prison</li>
-    <li>questName(lodgersCount&gt;=2)->the wanted prisoners</li>
-    <li>questName(lodgersCount&gt;=2)->the [adjAny] prisoners</li>
-    <li>questName(lodgersCount&gt;=2)->[asker_nameDef]'s prisoners</li>
+    <li>questName(lodgersCount>=2)->warden for hire</li>
+    <li>questName(lodgersCount>=2)->prison warden</li>
+    <li>questName(lodgersCount>=2)->contract prison</li>
+    <li>questName(lodgersCount>=2)->the wanted prisoners</li>
+    <li>questName(lodgersCount>=2)->the [adjAny] prisoners</li>
+    <li>questName(lodgersCount>=2)->[asker_nameDef]'s prisoners</li>
     <li>adjAny->[AdjectiveBadass]</li>
     <li>adjAny->[AdjectiveAngsty]</li>
     <li>adjAny->[AdjectiveFriendly]</li>
