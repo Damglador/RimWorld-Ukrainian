@@ -247,6 +247,7 @@
     <li>skillAdv(INITIATOR_skill&lt;=6)->amateurishly</li>
     <li>skillAdv(INITIATOR_skill&lt;=6)->timidly</li>
     <li>skillAdv(INITIATOR_skill&lt;=8)->enthusiastically</li>
+<<<<<<< HEAD
     <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)->proficiently</li>
     <li>skillAdv(INITIATOR_skill&gt;=6,INITIATOR_skill&lt;=10)->competently</li>
     <li>skillAdv(INITIATOR_skill&gt;=8)->professionally</li>
@@ -262,6 +263,23 @@
     <li>skillAdv(INITIATOR_skill&gt;=14)->masterfully</li>
     <li>skillAdv(INITIATOR_skill&gt;=16)->artistically</li>
     <li>skillAdv(INITIATOR_skill&gt;=16)->gracefully</li>
+=======
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->proficiently</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->competently</li>
+    <li>skillAdv(INITIATOR_skill>=8)->professionally</li>
+    <li>skillAdv(INITIATOR_skill>=8)->deftly</li>
+    <li>skillAdv(INITIATOR_skill>=8)->aptly</li>
+    <li>skillAdv(INITIATOR_skill>=8)->cleverly</li>
+    <li>skillAdv(INITIATOR_skill>=8)->dexterously</li>
+    <li>skillAdv(INITIATOR_skill>=8)->skillfully</li>
+    <li>skillAdv(INITIATOR_skill>=10)->adeptly</li>
+    <li>skillAdv(INITIATOR_skill>=10)->slickly</li>
+    <li>skillAdv(INITIATOR_skill>=12)->expertly</li>
+    <li>skillAdv(INITIATOR_skill>=12)->precisely</li>
+    <li>skillAdv(INITIATOR_skill>=14)->masterfully</li>
+    <li>skillAdv(INITIATOR_skill>=16)->artistically</li>
+    <li>skillAdv(INITIATOR_skill>=16)->gracefully</li>
+>>>>>>> c49db508 (Fix the fix of the fix of < >)
     <li>skillAdv(initiator_flesh==Mechanoid)->mechanically</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>

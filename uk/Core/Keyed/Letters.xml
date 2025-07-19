@@ -360,9 +360,9 @@
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>Врятований приєднується</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group. -->
-  <LetterRescueQuestFinished>You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>Ви врятували {PAWN_nameDef}, тому {PAWN_pronoun} приєднується до вашої групи.</LetterRescueQuestFinished>
   <!-- EN: \n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command. -->
-  <LetterRescueQuestFinishedCaravanExtra>\n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command.</LetterRescueQuestFinishedCaravanExtra>
+  <LetterRescueQuestFinishedCaravanExtra>\n\nТепер ви можете взяти {PAWN_possessive} з собою. Щоб це зробити, відкрийте «Світ», на мапі світу виберіть це місце та виберіть команду «Відправити караван».</LetterRescueQuestFinishedCaravanExtra>
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
   <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} полює на {lookup: {PREY_definite}; Case; 3}</LetterLabelPredatorHuntingColonist>

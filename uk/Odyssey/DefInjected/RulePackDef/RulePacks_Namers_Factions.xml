@@ -52,25 +52,25 @@
     <li>r_name->[spaceNoun] ([ConceptBadass])</li>
     <li>r_name(p=2)->[spaceNoun] [NamePerson]а</li>
     <li>r_name(p=2)->[spaceCollectiveNoun] [NamePerson]</li>
-    <li>r_name(p=2)->[NamePerson] <ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_mas]" val="[spaceAdj_mas]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_mas]" val="[spaceCollectiveNoun_mas]" /&amp;gt;</ph></li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_fem]" val="[spaceAdj_fem]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_mas]" val="[spaceCollectiveNoun_mas]" /&amp;gt;</ph></li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_neu]" val="[spaceAdj_neu]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_neu]" val="[spaceCollectiveNoun_neu]" /&amp;gt;</ph></li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_plural]" val="[spaceAdj_plural]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_plural]" val="[spaceCollectiveNoun_plural]" /&amp;gt;</ph></li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>Орбітальний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>Орбітальна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>Орбітальне</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_plural-&amp;amp;gt;" val="spaceAdj_plural-&amp;amp;gt;" /&amp;gt;</ph>Орбітальні</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>Космічний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>Космічна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>Космічне</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_plural-&amp;amp;gt;" val="spaceAdj_plural-&amp;amp;gt;" /&amp;gt;</ph>Космічні</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>Астральний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>Астральна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>Астральне</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_plural-&amp;amp;gt;" val="spaceAdj_plural-&amp;amp;gt;" /&amp;gt;</ph>Астральні</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>Сонячний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>Сонячна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>Сонячне</li>
+    <li>r_name(p=2)->[NamePerson] &lt;ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_mas]" val="[spaceAdj_mas]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_mas]" val="[spaceCollectiveNoun_mas]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_fem]" val="[spaceAdj_fem]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_mas]" val="[spaceCollectiveNoun_mas]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_neu]" val="[spaceAdj_neu]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_neu]" val="[spaceCollectiveNoun_neu]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[spaceAdj_plural]" val="[spaceAdj_plural]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[spaceCollectiveNoun_plural]" val="[spaceCollectiveNoun_plural]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>Орбітальний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>Орбітальна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>Орбітальне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_plural-&amp;amp;gt;" val="spaceAdj_plural-&amp;amp;gt;" /&amp;gt;&lt;/ph>Орбітальні</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>Космічний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>Космічна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>Космічне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_plural-&amp;amp;gt;" val="spaceAdj_plural-&amp;amp;gt;" /&amp;gt;&lt;/ph>Космічні</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>Астральний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>Астральна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>Астральне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_plural-&amp;amp;gt;" val="spaceAdj_plural-&amp;amp;gt;" /&amp;gt;&lt;/ph>Астральні</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_mas-&amp;amp;gt;" val="spaceAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>Сонячний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_fem-&amp;amp;gt;" val="spaceAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>Сонячна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="spaceAdj_neu-&amp;amp;gt;" val="spaceAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>Сонячне</li>
   </NamerFactionSalvagers.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->[tradeAdj] [tradeNoun]</li>
@@ -100,31 +100,31 @@
     <li>tradeNoun->nexus</li>
   -->
   <NamerFactionTradersGuild.rulePack.rulesStrings>
-    <li>r_name-><ph id="2">&amp;lt;mq:rxt displaytext="[tradeAdj_mas]" val="[tradeAdj_mas]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[tradeNoun_mas]" val="[tradeNoun_mas]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[tradeAdj_fem]" val="[tradeAdj_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[tradeNoun_fem]" val="[tradeNoun_fem]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[tradeAdj_neu]" val="[tradeAdj_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[tradeNoun_neu]" val="[tradeNoun_neu]" /&amp;gt;</ph></li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>торгівельний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>торгівельна</li>
+    <li>r_name->&lt;ph id="2">&amp;lt;mq:rxt displaytext="[tradeAdj_mas]" val="[tradeAdj_mas]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[tradeNoun_mas]" val="[tradeNoun_mas]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[tradeAdj_fem]" val="[tradeAdj_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[tradeNoun_fem]" val="[tradeNoun_fem]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[tradeAdj_neu]" val="[tradeAdj_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[tradeNoun_neu]" val="[tradeNoun_neu]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>торгівельний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>торгівельна</li>
     <li>tradeAdj_neu->торгівельне</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>орбітальний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>орбітальна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>орбітальний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>орбітальна</li>
     <li>tradeAdj_neu->орбітальне</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>торговий</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>торгова</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>торговий</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>торгова</li>
     <li>tradeAdj_neu->торгове</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>астронавтський</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>астронавтська</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>астронавтський</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>астронавтська</li>
     <li>tradeAdj_neu->астронавтське</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>просторовий</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>просторова</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>просторовий</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>просторова</li>
     <li>tradeAdj_neu->просторове</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>космічний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>космічна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>космічний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>космічна</li>
     <li>tradeAdj_neu->космічне</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>небесний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>небесна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>небесний</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_fem-&amp;amp;gt;" val="tradeAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>небесна</li>
     <li>tradeAdj_neu->небесне</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;</ph>космонароджений</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="tradeAdj_mas-&amp;amp;gt;" val="tradeAdj_mas-&amp;amp;gt;" /&amp;gt;&lt;/ph>космонароджений</li>
   </NamerFactionTradersGuild.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->[platAdj] [platform]</li>
@@ -165,39 +165,39 @@
   -->
   <NamerSettlementTradersGuild.rulePack.rulesStrings>
     <li>r_name->[platAdj_mas] [platform_mas]</li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[platAdj_fem]" val="[platAdj_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[platform_fem]" val="[platform_fem]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[platAdj_neu]" val="[platAdj_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[platform_neu]" val="[platform_neu]" /&amp;gt;</ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[platAdj_fem]" val="[platAdj_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[platform_fem]" val="[platform_fem]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[platAdj_neu]" val="[platAdj_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[platform_neu]" val="[platform_neu]" /&amp;gt;&lt;/ph></li>
     <li>platAdj_mas->зоряносвітлий</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>зоряносвітла</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>зоряносвітле</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>зоряносвітла</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>зоряносвітле</li>
     <li>platAdj_mas->сонечносяйвий</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>сонечносяйва</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>сонечносяйве</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>сонечносяйва</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>сонечносяйве</li>
     <li>platAdj_mas->туманний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>туманна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>туманне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>туманна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>туманне</li>
     <li>platAdj_mas->зорянопиловий</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>зорянопилова</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>зорянопилове</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>зорянопилова</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>зорянопилове</li>
     <li>platAdj_mas->оріонов</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>оріонова</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>оріонове</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>оріонова</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>оріонове</li>
     <li>platAdj_mas->горизонтовий</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>горизонтова</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>горизонтове</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>горизонтова</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>горизонтове</li>
     <li>platAdj_mas->галактичний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>галактична</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>галактичне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>галактична</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>галактичне</li>
     <li>platAdj_mas->космічний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>космічна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>космічне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>космічна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>космічне</li>
     <li>platAdj_mas->пустотний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>пустотна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>пустотне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>пустотна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>пустотне</li>
     <li>platAdj_mas->астероїдний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>астероїдна</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;</ph>астероїдне</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>астероїдна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_neu-&amp;amp;gt;" val="platAdj_neu-&amp;amp;gt;" /&amp;gt;&lt;/ph>астероїдне</li>
     <li>platAdj_mas->кометний</li>
-    <li><ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;</ph>кометна</li>
+    <li>&lt;ph id="1">&amp;lt;mq:rxt displaytext="platAdj_fem-&amp;amp;gt;" val="platAdj_fem-&amp;amp;gt;" /&amp;gt;&lt;/ph>кометна</li>
   </NamerSettlementTradersGuild.rulePack.rulesStrings>
 </LanguageData>

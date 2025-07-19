@@ -61,24 +61,24 @@
     <li>worker->Helper</li>
   </PawnLend.questNameRules.rulesStrings>
   <!-- EN: <rulesStrings><li>dutyDescription->gather the harvest</li><li>dutyDescription->fortify a settlement</li><li>dutyDescription->set up a settlement</li><li>dutyDescription->watch for raiders</li><li>dutyDescription->set up a hospital</li><li>dutyDescription->contain an outbreak of [disease]</li></rulesStrings> -->
-  <PawnLend.DutyRulesAny.slateRef><rulesStrings>
+  <PawnLend.DutyRulesAny.slateRef>&lt;rulesStrings>
     <li>dutyDescription->gather the harvest</li>
     <li>dutyDescription->fortify a settlement</li>
     <li>dutyDescription->set up a settlement</li>
     <li>dutyDescription->watch for raiders</li>
     <li>dutyDescription->set up a hospital</li>
-    <li>dutyDescription->contain an outbreak of [disease]</li></rulesStrings>
+    <li>dutyDescription->contain an outbreak of [disease]</li>&lt;/rulesStrings>
   </PawnLend.DutyRulesAny.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
   <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription].</PawnLend.LetterTextReturnAfterHelping.slateRef>
   <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
-  <PawnLend.DutyRulesRoyal.slateRef><rulesStrings>
+  <PawnLend.DutyRulesRoyal.slateRef>&lt;rulesStrings>
     <li>dutyRoyalDescription->prepare a ceremony</li>
     <li>dutyRoyalDescription->negotiate with a tribe</li>
     <li>dutyRoyalDescription->explore a swamp</li>
     <li>dutyRoyalDescription->translate a book</li>
     <li>dutyRoyalDescription->set up a training ground</li>
-    <li>dutyRoyalDescription->harvest crops</li></rulesStrings>
+    <li>dutyRoyalDescription->harvest crops</li>&lt;/rulesStrings>
   </PawnLend.DutyRulesRoyal.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
   <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription].</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>

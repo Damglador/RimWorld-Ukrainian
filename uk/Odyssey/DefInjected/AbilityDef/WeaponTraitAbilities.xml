@@ -3,7 +3,7 @@
   <!-- EN: fire EMP -->
   <EMPPulse.label>випустити ЕМІ</EMPPulse.label>
   <!-- EN: Emit a burst of electromagnetic energy centered on the user. The burst will stun nearby mechanical targets like mechanoids or turrets. -->
-  <EMPPulse.description>Випускає імпульс електромагнітної енергії, центром якого є користувач. Імпульс оглушує механічні цілі поблизу (такі як механоїди та турелі).</EMPPulse.description>
+  <EMPPulse.description>Випромінює сплеск електромагнітної енергії навколо користувача. Сплеск оглушить механічні цілі поблизу, такі як механоїди або турелі.</EMPPulse.description>
   <!-- EN: launch EMP shell -->
   <LaunchEMPShell.label>випустити ЕМІ-снаряд</LaunchEMPShell.label>
   <!-- EN: Launch a shell that releases a burst of electromagnetic energy, stunning mechanical targets. Can be reloaded using steel. -->

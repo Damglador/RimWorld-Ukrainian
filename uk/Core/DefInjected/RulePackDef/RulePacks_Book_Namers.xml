@@ -504,9 +504,9 @@
     <li>randTheme->ethics</li>
   -->
   <Namer_Schematic.rulePack.rulesStrings>
-    <li>title->The Design of [subject_primary]</li>
-    <li>title->Notes on [subject_primary]</li>
-    <li>title->A Breakthrough in [subject_primary]</li>
+    <li>title->Дизайн {lookup: [subject_primary]; Case; 2}</li>
+    <li>title->Записи про [subject_primary]</li>
+    <li>title->Прорив у {lookup: [subject_primary]; Case; 6}</li>
     <li>title->A Study in [subject_primary]</li>
     <li>title->Novel Applications for [subject_primary]</li>
     <li>title->Understanding [subject_primary]</li>

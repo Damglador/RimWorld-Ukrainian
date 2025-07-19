@@ -726,7 +726,7 @@
   <!-- EN: Cannot call shuttle -->
   <CannotCallShuttle>Cannot call shuttle</CannotCallShuttle>
   <!-- EN: The shuttle has arrived. -->
-  <MessageShuttleArrived>The shuttle has arrived.</MessageShuttleArrived>
+  <MessageShuttleArrived>Шатл прибув до місця призначення.</MessageShuttleArrived>
   <!-- EN: Warning: {THING_labelCap} will not function in this biome -->
   <MessageGroundPenetratingScannerNoBedrock>Warning: {THING_labelCap} will not function in this biome</MessageGroundPenetratingScannerNoBedrock>
 </LanguageData>

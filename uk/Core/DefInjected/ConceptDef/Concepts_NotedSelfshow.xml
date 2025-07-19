@@ -61,7 +61,7 @@
   <!-- EN: Forming caravans -->
   <FormCaravan.label>Формування караванів</FormCaravan.label>
   <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
-  <FormCaravan.helpText>Ви можете сформувати караван, щоб відправити групу людей подорожувати цією планетою.\n\nДля цього на вкладці "Світ" оберіть ваше поселення та натисніть кнопку "Сформувати караван".</FormCaravan.helpText>
+  <FormCaravan.helpText>Ви можете сформувати караван, щоб відправити групу людей подорожувати цією планетою.\n\nДля цього на вкладці «Світ» оберіть ваше поселення та натисніть кнопку «Сформувати караван».</FormCaravan.helpText>
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>Дружній вогонь</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->

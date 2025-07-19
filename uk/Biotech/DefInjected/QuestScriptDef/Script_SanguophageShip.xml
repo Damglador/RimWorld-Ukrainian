@@ -56,7 +56,7 @@
     <li>shipAdjective->hemic</li>
     <li>shipAdjective->sanguine</li>
     <li>shipNoun->ship</li>
-    <li>shipNoun->shuttle</li>
+    <li>shipNoun->шатл</li>
     <li>shipNoun->craft</li>
     <li>shipNoun->hulk</li>
     <li>shipNoun->crash</li>

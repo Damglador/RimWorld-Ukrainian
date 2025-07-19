@@ -12,11 +12,11 @@
   -->
   <Beggars.questContentRules.rulesStrings>
     <li>hasHave(beggarCount==1)->{beggars0_gender ? який шукав : яка шукала}</li>
-    <li>hasHave(beggarCount>=2)->які шукали</li>
+    <li>hasHave(beggarCount&gt;=2)->які шукали</li>
     <li>wasWere(beggarCount==1)->{beggars0_gender ? був зраджений : була зраджена}</li>
-    <li>wasWere(beggarCount>=2)->були зраджені</li>
+    <li>hasHave(beggarCount>=2)->have</li>
     <li>groupLabelSingleOrPlural(beggarCount==1)->{beggars0_gender ? мандрівник : мандрівниця}</li>
-    <li>groupLabelSingleOrPlural(beggarCount>=2)->мандрівники</li>
+    <li>wasWere(beggarCount>=2)->were</li>
     <li>groupLabelSingleOrPlural(beggarCount==1)->traveler</li>
     <li>groupLabelSingleOrPlural(beggarCount>=2)->travelers</li>
   </Beggars.questContentRules.rulesStrings>

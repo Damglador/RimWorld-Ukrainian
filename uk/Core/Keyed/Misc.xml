@@ -146,7 +146,7 @@
   <!-- EN:  (blueprint) -->
   <BlueprintLabelExtra>(проєкт)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra>(споруджується)</FrameLabelExtra>
+  <FrameLabelExtra> (споруджується)</FrameLabelExtra>
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>Незалежна</FactionUnaffiliated>
   <!-- EN: Continue anyway? -->

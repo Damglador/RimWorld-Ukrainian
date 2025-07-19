@@ -61,26 +61,26 @@
   -->
   <NamerUniqueWeapon.rulePack.rulesStrings>
     <li>r_weapon_name(p=2)->[weapon_adjective_mas] [weapon_noun_mas]</li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_fem]" val="[weapon_adjective_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[weapon_noun_fem]" val="[weapon_noun_fem]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_neu]" val="[weapon_adjective_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[weapon_noun_neu]" val="[weapon_noun_neu]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_plural]" val="[weapon_adjective_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[weapon_noun_plural]" val="[weapon_noun_plural]" /&amp;gt;</ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_fem]" val="[weapon_adjective_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_noun_fem]" val="[weapon_noun_fem]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_neu]" val="[weapon_adjective_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_noun_neu]" val="[weapon_noun_neu]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_plural]" val="[weapon_adjective_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_noun_plural]" val="[weapon_noun_plural]" /&amp;gt;&lt;/ph></li>
     <li>r_weapon_name(p=0.5)-> [weapon_type_mas] [badass_concept_mas]</li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_type_fem]" val="[weapon_type_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[badass_concept_fem]" val="[badass_concept_fem]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_type_neu]" val="[weapon_type_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[badass_concept_neu]" val="[badass_concept_neu]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_type_plural]" val="[weapon_type_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[badass_concept_plural]" val="[badass_concept_plural]" /&amp;gt;</ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_type_fem]" val="[weapon_type_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[badass_concept_fem]" val="[badass_concept_fem]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_type_neu]" val="[weapon_type_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[badass_concept_neu]" val="[badass_concept_neu]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_type_plural]" val="[weapon_type_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[badass_concept_plural]" val="[badass_concept_plural]" /&amp;gt;&lt;/ph></li>
     <li>r_weapon_name(p=0.5)-> [weapon_adjective_mas] [weapon_type_mas]</li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_fem]" val="[weapon_adjective_fem]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_fem]" val="[weapon_type_fem]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_neu]" val="[weapon_adjective_neu]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_neu]" val="[weapon_type_neu]" /&amp;gt;</ph></li>
-    <li><ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_plural]" val="[weapon_adjective_plural]" /&amp;gt;</ph> <ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_plural]" val="[weapon_type_plural]" /&amp;gt;</ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_fem]" val="[weapon_adjective_fem]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_fem]" val="[weapon_type_fem]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_neu]" val="[weapon_adjective_neu]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_neu]" val="[weapon_type_neu]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="2">&amp;lt;mq:rxt displaytext="[weapon_adjective_plural]" val="[weapon_adjective_plural]" /&amp;gt;&lt;/ph> &lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_plural]" val="[weapon_type_plural]" /&amp;gt;&lt;/ph></li>
     <li>r_weapon_name(p=0.5)->[weapon_type_mas] [badass_concept_mas]</li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_fem]" val="[weapon_type_fem]" /&amp;gt;</ph> <ph id="2">&amp;lt;mq:rxt displaytext="[badass_concept_fem]" val="[badass_concept_fem]" /&amp;gt;</ph></li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_neu]" val="[weapon_type_neu]" /&amp;gt;</ph> <ph id="2">&amp;lt;mq:rxt displaytext="[badass_concept_neu]" val="[badass_concept_neu]" /&amp;gt;</ph></li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_plural]" val="[weapon_type_plural]" /&amp;gt;</ph> <ph id="2">&amp;lt;mq:rxt displaytext="[badass_concept_plural]" val="[badass_concept_plural]" /&amp;gt;</ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_fem]" val="[weapon_type_fem]" /&amp;gt;&lt;/ph> &lt;ph id="2">&amp;lt;mq:rxt displaytext="[badass_concept_fem]" val="[badass_concept_fem]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_neu]" val="[weapon_type_neu]" /&amp;gt;&lt;/ph> &lt;ph id="2">&amp;lt;mq:rxt displaytext="[badass_concept_neu]" val="[badass_concept_neu]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_type_plural]" val="[weapon_type_plural]" /&amp;gt;&lt;/ph> &lt;ph id="2">&amp;lt;mq:rxt displaytext="[badass_concept_plural]" val="[badass_concept_plural]" /&amp;gt;&lt;/ph></li>
     <li>r_weapon_name(p=0.3)->[weapon_noun] [ANYPAWN_nameIndef]</li>
     <li>r_weapon_name(p=0.3)->[weapon_adjective_mas] [weapon_noun_mas] [ANYPAWN_nameIndef]</li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[weapon_adjective_fem]" val="[weapon_adjective_fem]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[weapon_noun_fem]" val="[weapon_noun_fem]" /&amp;gt;</ph> <ph id="2">&amp;lt;mq:rxt displaytext="[ANYPAWN_nameIndef]" val="[ANYPAWN_nameIndef]" /&amp;gt;</ph></li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[weapon_adjective_neu]" val="[weapon_adjective_neu]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[weapon_noun_neu]" val="[weapon_noun_neu]" /&amp;gt;</ph> <ph id="2">&amp;lt;mq:rxt displaytext="[ANYPAWN_nameIndef]" val="[ANYPAWN_nameIndef]" /&amp;gt;</ph></li>
-    <li><ph id="3">&amp;lt;mq:rxt displaytext="[weapon_adjective_plural]" val="[weapon_adjective_plural]" /&amp;gt;</ph> <ph id="4">&amp;lt;mq:rxt displaytext="[weapon_noun_plural]" val="[weapon_noun_plural]" /&amp;gt;</ph> <ph id="2">&amp;lt;mq:rxt displaytext="[ANYPAWN_nameIndef]" val="[ANYPAWN_nameIndef]" /&amp;gt;</ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_adjective_fem]" val="[weapon_adjective_fem]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[weapon_noun_fem]" val="[weapon_noun_fem]" /&amp;gt;&lt;/ph> &lt;ph id="2">&amp;lt;mq:rxt displaytext="[ANYPAWN_nameIndef]" val="[ANYPAWN_nameIndef]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_adjective_neu]" val="[weapon_adjective_neu]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[weapon_noun_neu]" val="[weapon_noun_neu]" /&amp;gt;&lt;/ph> &lt;ph id="2">&amp;lt;mq:rxt displaytext="[ANYPAWN_nameIndef]" val="[ANYPAWN_nameIndef]" /&amp;gt;&lt;/ph></li>
+    <li>&lt;ph id="3">&amp;lt;mq:rxt displaytext="[weapon_adjective_plural]" val="[weapon_adjective_plural]" /&amp;gt;&lt;/ph> &lt;ph id="4">&amp;lt;mq:rxt displaytext="[weapon_noun_plural]" val="[weapon_noun_plural]" /&amp;gt;&lt;/ph> &lt;ph id="2">&amp;lt;mq:rxt displaytext="[ANYPAWN_nameIndef]" val="[ANYPAWN_nameIndef]" /&amp;gt;&lt;/ph></li>
     <li>r_weapon_name(p=0.3)-> [badass_concept] [ANYPAWN_nameIndef]</li>
     <li>weapon_noun(p=2)->[weapon_type]</li>
     <li>weapon_noun->[badass_noun]</li>

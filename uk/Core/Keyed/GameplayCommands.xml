@@ -351,7 +351,7 @@
   <!-- EN: Camp -->
   <CommandCamp>Табір</CommandCamp>
   <!-- EN: Set up a temporary camp that can quickly be abandoned. -->
-  <CommandCampDesc>Set up a temporary camp that can quickly be abandoned.</CommandCampDesc>
+  <CommandCampDesc>Створити табір, котрий можна буде швидко покинути.</CommandCampDesc>
   <!-- EN: Cannot camp here. -->
   <CommandCampFailExistingWorldObject>Cannot camp here.</CommandCampFailExistingWorldObject>
   <!-- Abandon home -->
