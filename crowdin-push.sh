@@ -2,6 +2,8 @@
 
 cd $(dirname $0)
 
-cp -r CustomStrings/* en/
+export CROWDIN_PROJECT_ID=295257
+
+cp -r CustomSources/* en/
 
 crowdin push

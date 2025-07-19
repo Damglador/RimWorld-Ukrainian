@@ -10,9 +10,5 @@ cd $(dirname $0)
 # Завантажити переклад з Crowdin (потрібен CROWDIN_PERSONAL_TOKEN менеджера проєкту)
 crowdin download
 
-# Дати файли моду
-mkdir -p Mod/CrowdinFiles && cp -r uk/* "$MOD_DIR"/CrowdinFiles
-
-# Наказати моду оновитися
-[ ! -x "$MOD_DIR"/build.sh ] && chmod u+x "$MOD_DIR"/build.sh
-"$MOD_DIR"/build.sh
+# Оновити мод
+cp -r uk/* "$MOD_DIR"/
