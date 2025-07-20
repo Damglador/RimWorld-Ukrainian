@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-export CROWDIN_PROJECT_ID=295257
 [ -z CROWDIN_PERSONAL_TOKEN ] && export CROWDIN_PERSONAL_TOKEN=""
 
 MOD_DIR=Mod
