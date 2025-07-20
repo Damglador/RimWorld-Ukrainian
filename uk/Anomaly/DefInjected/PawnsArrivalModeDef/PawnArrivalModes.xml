@@ -7,9 +7,9 @@
   <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
   <EdgeWalkInDarkness.textWillArrive>{0_pawnsPluralDef} прийдуть пішки.</EdgeWalkInDarkness.textWillArrive>
   <!-- EN: A horde of {0} shambling, rotting corpses is approaching. -->
-  <EdgeWalkInDistributedGroups.textEnemy>Прибуває орда з {0} немертвих, гнилих трупів.</EdgeWalkInDistributedGroups.textEnemy>
+  <EdgeWalkInDistributedGroups.textEnemy>Прибуває орда з {0} гнилих трупів-волокунів.</EdgeWalkInDistributedGroups.textEnemy>
   <!-- EN: A horde of {0} shambling, rotting corpses are about to arrive. -->
-  <EdgeWalkInDistributedGroups.textWillArrive>Скоро прийде орда з {0} немертвих, гнилих трупів.</EdgeWalkInDistributedGroups.textWillArrive>
+  <EdgeWalkInDistributedGroups.textWillArrive>Скоро прийде орда з {0} гнилих трупів-волокунів.</EdgeWalkInDistributedGroups.textWillArrive>
   <!-- EN: A group of {0} from {1} have arrived from nearby. -->
   <EdgeWalkInHateChanters.textEnemy>Прибуває група {lookup: {0}; Case; 1} з фракції {1}.</EdgeWalkInHateChanters.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->

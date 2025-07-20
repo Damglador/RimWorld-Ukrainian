@@ -13,9 +13,9 @@
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>Розібрати та повернути частину ресурсів.</DesignatorDeconstructDesc>
   <!-- EN: Deconstruct conduit -->
-  <DesignatorDeconstructConduit>Deconstruct conduit</DesignatorDeconstructConduit>
+  <DesignatorDeconstructConduit>Розібрати кабель</DesignatorDeconstructConduit>
   <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
-  <DesignatorDeconstructConduitDesc>Deconstruct power conduits and reclaim part of their resources.</DesignatorDeconstructConduitDesc>
+  <DesignatorDeconstructConduitDesc>Розібрати силовий кабель та повернути частину своїх ресурсів.</DesignatorDeconstructConduitDesc>
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Демонтувати</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
@@ -41,7 +41,7 @@
   <!-- EN: Hunt -->
   <DesignatorHunt>Полювати</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Виділіть тварин для полювання.\n\nЛише мисливці з далекобійною зброєю будуть полювати.</DesignatorHuntDesc>
   <!-- EN: Mine -->
   <DesignatorMine>Видобути</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
@@ -244,7 +244,7 @@
   <!-- EN: The surface is already marked for smoothing. -->
   <SurfaceBeingSmoothed>Територія вже відмічена для вирівнювання.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>Ідентичний об'єкт вже тут.</IdenticalThingExists>
+  <IdenticalThingExists>Тут вже є ідентичний об'єкт.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
   <IdenticalBlueprintExists>Ідентичний проєкт вже тут.</IdenticalBlueprintExists>
   <!-- EN: {0_label} cannot be built on this terrain. -->

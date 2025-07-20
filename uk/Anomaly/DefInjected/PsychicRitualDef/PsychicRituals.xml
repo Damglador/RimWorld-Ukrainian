@@ -97,11 +97,11 @@
   <!-- EN: A higher-quality ritual will attract more fleshbeasts. The fleshbeasts can be captured and studied, or butchered for twisted meat. -->
   <SummonPitGate.outcomeDescription>Вища якість ритуалу приверне більше звірів плоті. Їх можна спіймати та вивчати, або забити на покручене м’ясо.</SummonPitGate.outcomeDescription>
   <!-- EN: draw shamblers -->
-  <SummonShamblers.label>виклик немертвих</SummonShamblers.label>
+  <SummonShamblers.label>виклик волокунів</SummonShamblers.label>
   <!-- EN: Create a psychic pulse which will draw a distant horde of animated corpses towards your local area. While they attack any humans that they see, they won't attack your colony directly. You can capture them for study. -->
   <SummonShamblers.description>Створити психічний імпульс, який притягне віддалену орду оживлених трупів до вашої місцевості. Хоча вони нападають на будь-яких людей, яких побачать, вони не атакуватимуть безпосередньо вашу колонію. Ви можете захопити їх для вивчення.</SummonShamblers.description>
   <!-- EN: The higher the ritual quality, the more shamblers that will be summoned. -->
-  <SummonShamblers.outcomeDescription>Чим вища якість ритуалу, тим більше немертвих буде викликано.</SummonShamblers.outcomeDescription>
+  <SummonShamblers.outcomeDescription>Чим вища якість ритуалу, тим більше волокунів буде викликано.</SummonShamblers.outcomeDescription>
   <!-- EN: void provocation -->
   <VoidProvocation.label>провокація порожнечі</VoidProvocation.label>
   <!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There's a chance that the invoker will fall into a coma for several hours. -->

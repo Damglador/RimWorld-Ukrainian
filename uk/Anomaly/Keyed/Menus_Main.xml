@@ -19,9 +19,9 @@
   <!-- EN: Add a multiplier to how much research is gained when studying unnatural entities. -->
   <Difficulty_StudyEfficiency_Info>Множник до кількості знань, що отримуються під час вивчення неприродних суб'єктів.</Difficulty_StudyEfficiency_Info>
   <!-- EN: Child shamblers -->
-  <Difficulty_ChildShamblersAllowed_Label>Діти немертві</Difficulty_ChildShamblersAllowed_Label>
+  <Difficulty_ChildShamblersAllowed_Label>Діти-волокуни</Difficulty_ChildShamblersAllowed_Label>
   <!-- EN: Reanimated child shamblers will sometimes appear. -->
-  <Difficulty_ChildShamblersAllowed_Info>Періодична поява дітей як немертвих</Difficulty_ChildShamblersAllowed_Info>
+  <Difficulty_ChildShamblersAllowed_Info>Іноді з'являтимуться діти у формі повсталих з мертвих волокунів.</Difficulty_ChildShamblersAllowed_Info>
   <!-- EN: Anomaly settings -->
   <AnomalySettings>Налаштування аномалій</AnomalySettings>
   <!-- EN: Choose how you'd like to integrate Anomaly horror into your game: -->

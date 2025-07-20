@@ -166,7 +166,7 @@
   <!-- EN: Broken down -->
   <BrokenDown>Несправно</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>(♥)</BondBrackets>
+  <BondBrackets>(прив'язаність)</BondBrackets>
   <!-- EN: Fuel -->
   <Fuel>Паливо</Fuel>
   <!-- EN: Fuel -->
@@ -1084,7 +1084,7 @@
   <PowerConsumptionOff>вимкнено</PowerConsumptionOff>
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
-  <Indoors>В приміщенні</Indoors>
+  <Indoors>У приміщенні</Indoors>
   <!-- EN: Unroofed -->
   <IndoorsUnroofed>Без даху</IndoorsUnroofed>
   <!-- EN: outdoors -->
@@ -1978,9 +1978,9 @@
   <DesignatorFillInDesc>Designate this crater to be filled in. A colonist assigned to construction will fill it in.</DesignatorFillInDesc>
   <!-- Hacking -->
   <!-- EN: Hack progress -->
-  <HackProgress>Hack progress</HackProgress>
+  <HackProgress>Прогрес зламу</HackProgress>
   <!-- EN: hacking speed -->
-  <HackingSpeed>hacking speed</HackingSpeed>
+  <HackingSpeed>швидкість зламу</HackingSpeed>
   <!-- EN: {0}'s -->
   <HackingLastUser>{0}'s</HackingLastUser>
   <!-- EN: hacked -->

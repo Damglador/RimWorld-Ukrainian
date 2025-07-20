@@ -43,11 +43,11 @@
   <!-- EN: revenant -->
   <Revenant.label>ревенант</Revenant.label>
   <!-- EN: shambler assault -->
-  <ShamblerAssault.label>атака немертвого</ShamblerAssault.label>
+  <ShamblerAssault.label>атака волокуна</ShamblerAssault.label>
   <!-- EN: shambler swarm -->
-  <ShamblerSwarm.label>рій немертвих</ShamblerSwarm.label>
+  <ShamblerSwarm.label>рій волокунів</ShamblerSwarm.label>
   <!-- EN: shambler swarm -->
-  <ShamblerSwarmAnimals.label>рій немертвих</ShamblerSwarmAnimals.label>
+  <ShamblerSwarmAnimals.label>рій волокунів</ShamblerSwarmAnimals.label>
   <!-- EN: sightstealer arrival -->
   <SightstealerArrival.label>поява зорокрадів</SightstealerArrival.label>
   <!-- EN: sightstealer swarm -->
@@ -57,9 +57,9 @@
   <!-- EN: Your colonists hear inhuman shrieks in the distance.\n\nSomething is out there. -->
   <SightstealerSwarm.letterText>Ваші колоністи чують нелюдські крики на відстані.\n\nТам щось є.</SightstealerSwarm.letterText>
   <!-- EN: shambler swarm -->
-  <SmallShamblerSwarm.label>рій немертвих</SmallShamblerSwarm.label>
+  <SmallShamblerSwarm.label>рій волокунів</SmallShamblerSwarm.label>
   <!-- EN: Shamblers approach -->
-  <SmallShamblerSwarm.letterLabel>прибуття немертвих</SmallShamblerSwarm.letterLabel>
+  <SmallShamblerSwarm.letterLabel>Волокуни наближаються</SmallShamblerSwarm.letterLabel>
   <!-- EN: A small group of {0} shambling corpses is approaching. The inhuman force that animates them is fading, so they will collapse within a day.\n\nIf you can capture one, you can study it for anomaly knowledge. Otherwise, they might not notice you if you leave them alone. -->
-  <SmallShamblerSwarm.letterText>Прибуває невелика група з {0} немертвих. Нелюдська сила, яка їх оживила згасає, тому вони впадуть протягом дня.\n\nЯкщо ви можете захопити одного з них, ви можете вивчати його, щоб отримати знання про аномалії. В іншому випадку вони можуть не помітити вас, якщо ви залишите їх в спокої.</SmallShamblerSwarm.letterText>
+  <SmallShamblerSwarm.letterText>Прибуває невелика група з {0} волокунів. Нелюдська сила, яка їх оживила згасає, тому вони впадуть за день.\n\nЯкщо ви зможете захопити одного з них, у вас буде можливість вивчати його, щоб отримати знання про аномалії. В іншому випадку вони можуть не помітити вас, якщо ви дасте їм спокій.</SmallShamblerSwarm.letterText>
 </LanguageData>

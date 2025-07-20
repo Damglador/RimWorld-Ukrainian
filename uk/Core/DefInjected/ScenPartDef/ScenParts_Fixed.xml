@@ -5,7 +5,7 @@
   <!-- EN: forced map -->
   <ForcedMap.label>forced map</ForcedMap.label>
   <!-- EN: planet layer type -->
-  <PlanetLayerFixed.label>planet layer type</PlanetLayerFixed.label>
+  <PlanetLayerFixed.label>тип шару планети</PlanetLayerFixed.label>
   <!-- EN: Player faction -->
   <PlayerFaction.label>фракція гравця</PlayerFaction.label>
   <!-- EN: arrival method -->

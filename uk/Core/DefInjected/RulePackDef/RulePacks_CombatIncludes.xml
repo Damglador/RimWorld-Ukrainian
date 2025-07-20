@@ -143,7 +143,7 @@
     <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</li>
     <li>damaged_present(deflected!=True)->wounding</li>
     <li>damaged_present(deflected!=True)->injuring</li>
-    <li>destroyed(p=0.5)->destroyed</li>
+    <li>destroyed(p=0.5)->знищено</li>
     <li>destroyed(p=0.5)->demolished</li>
     <li>destroyed(p=0.5)->ruined</li>
     <li>destroyed(p=0.5)->wrecked</li>

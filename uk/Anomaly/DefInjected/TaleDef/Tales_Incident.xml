@@ -24,7 +24,7 @@
     <li>image->, як [PAWN_nameFull] із жахом спостерігає, як туман несмертя поглинає [PAWN_possessive] мирний дім, перетворюючи його на поле битви з мертвими[circumstance_phrase]</li>
     <li>circumstance_phrase-> та викрикує свої відчайдушні молитви про безпеку</li>
     <li>circumstance_phrase->. Запах гниття та відчаю наповнює повітря</li>
-    <li>circumstance_phrase->, знаходячись в повному оточенні немертвих</li>
+    <li>circumstance_phrase->, знаходячись в повному оточенні волокунів</li>
     <li>desc_sentence->Прямо посеред туману несмертя, [PAWN_nameDef] готується до бою</li>
     <li>desc_sentence->Вплив туману несмертя вселяє жах у друзів [PAWN_nameDef]</li>
     <li>desc_sentence->[PAWN_nameDef] помітно терпить, оскільки вплив туману несмертя поширюється</li>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Call {0} -->
-  <CallOnRadio>Виклик {0}</CallOnRadio>
+  <CallOnRadio>Зв'язатися з {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
   <CannotUseReason>Неможливо використати {lookup: {0}; Case; 4}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
@@ -440,7 +440,7 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>Колоніст вже почав {0}</CannotGenericAlreadyAmCustom>
   <!-- EN: Will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>Will never do {0}</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Не вміє в {0}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>немає необхідного титулу</MissingTitleAbility>
   <!-- EN: Will never {0} -->
@@ -542,9 +542,9 @@
   <!-- EN: without medicine -->
   <WithoutMedicine>без медикаментів</WithoutMedicine>
   <!-- EN: Repair {0} -->
-  <RepairThing>Ремонтувати {lookup: {0}; Case; 3}</RepairThing>
+  <RepairThing>Ремонтувати {lookup: {0}; Case; 4}</RepairThing>
   <!-- EN: Cannot repair {0} -->
-  <CannotRepair>Неможливо ремонтувати {lookup: {0}; Case; 3}</CannotRepair>
+  <CannotRepair>Неможливо ремонтувати {lookup: {0}; Case; 4}</CannotRepair>
   <!-- EN: Cannot enter -->
   <CannotEnter>Неможливо увійти</CannotEnter>
   <!-- EN: Cannot enter {0} -->
@@ -589,7 +589,7 @@
   <!-- EN: Already hacked -->
   <AlreadyHacked>Already hacked</AlreadyHacked>
   <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>Incapable of hacking</IncapableOfHacking>
+  <IncapableOfHacking>Не може зламувати</IncapableOfHacking>
   <!-- EN: to drop supplies -->
   <ToDropSupplies>to drop supplies</ToDropSupplies>
 </LanguageData>

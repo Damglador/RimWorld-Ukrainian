@@ -4,7 +4,7 @@
     <li>questDescription->[discoveryMethod] the location of an abandoned orbital platform. You don't detect any signs of life.\n\nYou can break in to obtain the loot inside, but the platform probably has defense systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
   <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
-    <li>questDescription->[discoveryMethod] місцезнаходження покинутої орбітальної платформи Ознак життя не виявлено.\n\nВи можете проникнути всередину та розграбувати платформу, але вона, скоріш за все, має захисні системи.\n\nОрбітальних координат можна дістатися на транспортній капсулі, шатлі або гравкораблі.</li>
+    <li>questDescription->[discoveryMethod] місцезнаходження покинутої орбітальної платформи. Ознак життя не виявлено.\n\nВи можете проникнути всередину та розграбувати платформу, але вона, скоріш за все, має захисні системи.\n\nОрбітальних координат можна дістатися на транспортній капсулі, шатлі або гравкораблі.</li>
   </OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[ancientPlatAdj] [platform]</li>

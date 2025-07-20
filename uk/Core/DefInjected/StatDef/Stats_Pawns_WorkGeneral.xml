@@ -33,7 +33,7 @@
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
   <FixBrokenDownBuildingSuccessChance.description>Імовірність, з якою персонаж зможе полагодити зламаний механізм чи прилад, маючи в руках компонент.\n\nНевдача призведе до втрати часу та частини ресурсів.\nЗауважте, що це стосується лише усунення поламок, яке відрізняється від усунення пошкоджень.</FixBrokenDownBuildingSuccessChance.description>
   <!-- EN: hacking speed -->
-  <HackingSpeed.label>hacking speed</HackingSpeed.label>
+  <HackingSpeed.label>швидкість зламу</HackingSpeed.label>
   <!-- EN: How fast this person can hack into computer terminals. -->
   <HackingSpeed.description>How fast this person can hack into computer terminals.</HackingSpeed.description>
   <!-- EN: hacking stealth -->

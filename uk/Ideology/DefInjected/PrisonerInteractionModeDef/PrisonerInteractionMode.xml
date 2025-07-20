@@ -9,7 +9,7 @@
   <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
   <Enslave.description>Наглядачі погрожуватимуть в'язню, щоб зменшити волю. Коли у нього не залишиться волі, він буде поневоленим.</Enslave.description>
   <!-- EN: reduce will only -->
-  <ReduceWill.label>reduce will only</ReduceWill.label>
+  <ReduceWill.label>тільки зменшити волю</ReduceWill.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
   <ReduceWill.description>Наглядачі погрожуватимуть в'язню, щоб зменшити його волю, але не поневолять.</ReduceWill.description>
 </LanguageData>

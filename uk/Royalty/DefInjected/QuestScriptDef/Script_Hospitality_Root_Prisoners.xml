@@ -41,7 +41,7 @@
     <li>threatsInfo6(generateThreats==false)-></li>
   -->
   <Hospitality_Prisoners.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true,lodgersCount==1)->Капітан корабля, що зараз знаходиться на орбіті, хоче, щоб ви перетримали у себе в'язня на ім'я [lodgers0_nameFull] в [map_definite] протягом [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]</li>
+    <li>questDescription(askerIsNull==true,lodgersCount==1)->Капітан, що знаходиться на орбіті, хоче, щоб ви прихистили в'язня на ім'я [lodgers0_nameFull] у [map_definite] на [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction!=Mechanoid)->\n\n[lodgers0_nameDef] нещодавно {lodgers0_gender ? плюнув : плюнула} в обличчя улюбленої дитини [enemyFaction_leader_nameFull], [enemyFaction_leaderTitle] фракції [enemyFaction_name]. Шукаючи помсти, [enemyFaction_leader_nameDef] буде надсилати {lookup: [enemyFaction_pawnsPlural]; Case; 3}, щоб дістатися до [lodgers0_nameDef]. [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==Raids,enemyFaction==Mechanoid)->\n\n[threatsInfoMechRaidsSingleHuman] [enemyGroupsParagraph]</li>
     <li>threatsInfo1(generateThreats==true,threatType==MechClusters)->\n\n[threatsInfoMechClustersSingleHuman] [enemyGroupsParagraph]</li>

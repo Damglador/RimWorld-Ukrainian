@@ -47,9 +47,9 @@
   <!-- EN: revenant -->
   <Revenant.label>ревенант</Revenant.label>
   <!-- EN: shambler -->
-  <Shambler.label>немертвий</Shambler.label>
+  <Shambler.label>волокун</Shambler.label>
   <!-- EN: Corpses reanimated by microscopic archites. Shamblers are slow, mindless, and will attack relentlessly. Unless captured, shamblers die from metabolic exhaustion after several days. -->
-  <Shambler.description>Трупи, що оживлені мікроскопічними архітами. Немертві повільні та безглузді, але нападають невпинно. Якщо їх не спіймати, немертві гинуть від метаболічного виснаження через кілька днів.</Shambler.description>
+  <Shambler.description>Трупи, що оживлені мікроскопічними архітами. Волокуни повільні та безглузді, але нападають невпинно. Якщо їх не спіймати, волокуни гинуть від метаболічного виснаження через кілька днів.</Shambler.description>
   <!-- EN: sightstealer -->
   <Sightstealer.label>зорокрад</Sightstealer.label>
   <!-- EN: twisted obelisk -->

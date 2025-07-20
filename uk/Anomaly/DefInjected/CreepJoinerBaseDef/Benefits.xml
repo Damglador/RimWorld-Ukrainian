@@ -33,7 +33,7 @@
   <!-- EN: Animals are skittish around {PAWN_nameDef}. {PAWN_pronoun} has the unnatural power to deform the flesh of living creatures, causing them to erupt into piles of twisted meat. {PAWN_nameDef} claims to use {PAWN_possessive} gift only to butcher animals - but it's clear {PAWN_pronoun} could just as easily butcher a person. -->
   <PsychicButcher.letterExtra>Тварини спокійні навколо {PAWN_nameDef}. {PAWN_pronoun} має неприродну силу деформувати плоть живих істот, змушуючи їх перетворюватися на купи покрученого м’яса. {PAWN_nameDef} стверджує, що використовує свій дар лише для того, щоб забивати тварин, але очевидно, що {PAWN_pronoun} може так само легко забити і людину.</PsychicButcher.letterExtra>
   <!-- EN: shambler overlord -->
-  <ShamblerOverlord.label>повелитель немертвих</ShamblerOverlord.label>
+  <ShamblerOverlord.label>повелитель волокунів</ShamblerOverlord.label>
   <!-- EN: {PAWN_nameDef}'s body is riddled with corrupt archites. {PAWN_pronoun} can release them at will, creating a cloud of deadlife dust which can reanimate nearby corpses. -->
   <ShamblerOverlord.letterExtra>Тіло {PAWN_nameDef} пронизане пошкодженими архітами. {PAWN_pronoun} може відпускати їх за бажанням, створюючи хмару пилу несмертя, яка може реанімувати трупи поблизу.</ShamblerOverlord.letterExtra>
   <!-- EN: unnatural healing -->

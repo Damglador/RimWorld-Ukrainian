@@ -42,6 +42,6 @@
     <li>numbers->[Digit][Digit]</li>
     <li>numbers->[Digit][Digit][Digit]</li>
     <li>planet->World</li>
-    <li>planet->Planet</li>
+    <li>planet->Планета</li>
   </NamerWorld.rulePack.rulesStrings>
 </LanguageData>

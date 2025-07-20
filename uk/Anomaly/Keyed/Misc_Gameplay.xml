@@ -10,13 +10,13 @@
   <!-- EN: Shuffling listlessly. -->
   <ShamblerShuffling>Мляво шаркає.</ShamblerShuffling>
   <!-- EN: Be careful, the group contains a shambler gorehulk. -->
-  <LetterText_ShamblerGorehulk>Будьте обережні, група містить немертвого ґевала.</LetterText_ShamblerGorehulk>
+  <LetterText_ShamblerGorehulk>Будьте обережні, група містить ґевала-волокуна.</LetterText_ShamblerGorehulk>
   <!-- EN: Be careful, the group contains several shambler gorehulks. -->
-  <LetterText_ShamblerGorehulkPlural>Будьте обережні, група містить декілька немертвих ґевалів.</LetterText_ShamblerGorehulkPlural>
+  <LetterText_ShamblerGorehulkPlural>Будьте обережні, група містить декількох ґевалів-волокунів.</LetterText_ShamblerGorehulkPlural>
   <!-- EN: Be careful, the group contains a shambler chimera. -->
-  <LetterText_ShamblerChimera>Будьте обережні, група містить немертву химеру.</LetterText_ShamblerChimera>
+  <LetterText_ShamblerChimera>Будьте обережні, група містить волокуна химеру.</LetterText_ShamblerChimera>
   <!-- EN: Be careful, the group contains several shambler chimeras. -->
-  <LetterText_ShamblerChimeraPlural>Будьте обережні, група містить декілька немертвих химер.</LetterText_ShamblerChimeraPlural>
+  <LetterText_ShamblerChimeraPlural>Будьте обережні, група містить декількох волокунів химер.</LetterText_ShamblerChimeraPlural>
   <!-- EN: Non-humans cannot participate in rituals. -->
   <MessageRitualCannotBeMutant>Не люди не можуть приймати участь у ритуалах.</MessageRitualCannotBeMutant>
   <!-- Revenant -->

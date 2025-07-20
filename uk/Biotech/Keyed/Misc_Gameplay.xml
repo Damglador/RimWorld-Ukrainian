@@ -557,7 +557,7 @@
   <WasteLevel>Відходи</WasteLevel>
   <!-- Dissolution -->
   <!-- EN: indoors -->
-  <DissolutionRateIndoors>в приміщенні</DissolutionRateIndoors>
+  <DissolutionRateIndoors>у приміщенні</DissolutionRateIndoors>
   <!-- EN: raining -->
   <DissolutionRain>дощ</DissolutionRain>
   <!-- EN: One wastepack dissolves every {0} -->

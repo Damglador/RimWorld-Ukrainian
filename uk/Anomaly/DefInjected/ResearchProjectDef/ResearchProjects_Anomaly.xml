@@ -265,7 +265,7 @@
   <!-- EN: deadlife dust -->
   <DeadlifeDust.label>пил несмерття</DeadlifeDust.label>
   <!-- EN: Craft devices that produce clouds of microscopic archites. The archites can reanimate corpses to produce deadly shamblers that will only attack your enemies. -->
-  <DeadlifeDust.description>Можливість створювати пристрої, що випускають мікроскопічних архітів. Архіти можуть реанімувати трупи, перетворюючи їх на смертоносних немертвих, які будуть атакувати ваших ворогів.</DeadlifeDust.description>
+  <DeadlifeDust.description>Можливість створювати пристрої, що випускають мікроскопічних архітів. Архіти можуть реанімувати трупи, перетворюючи їх на смертоносних волокунів, які будуть атакувати ваших ворогів.</DeadlifeDust.description>
   <!-- EN:
     <li>subject->deadlife dust</li>
     <li>subject_story->synthesized an aerosol-dispersal system for nanobots</li>
@@ -835,7 +835,7 @@
     <li>subject_gerund->summoning a pit gate</li>
   </SummonPitGate.generalRules.rulesStrings>
   <!-- EN: draw shamblers -->
-  <SummonShamblers.label>виклик немертвих</SummonShamblers.label>
+  <SummonShamblers.label>виклик волокунів</SummonShamblers.label>
   <!-- EN: Perform a psychic ritual which will draw a horde of animated corpses. While hostile, the corpses won't attack your colony directly. They can be captured for study. -->
   <SummonShamblers.description>Можливість проводити ритуал, який приверне орду оживлених трупів. Вони будуть ворожими, але не атакуватимуть вашу колонію безпосередньо. Їх можна відловлювати для вивчення.</SummonShamblers.description>
   <!-- EN:

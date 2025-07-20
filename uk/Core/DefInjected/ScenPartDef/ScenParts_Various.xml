@@ -27,7 +27,7 @@
   <!-- EN: permanent game condition -->
   <PermanentGameCondition.label>постійні умови</PermanentGameCondition.label>
   <!-- EN: planet layer type -->
-  <PlanetLayer.label>planet layer type</PlanetLayer.label>
+  <PlanetLayer.label>тип шару планети</PlanetLayer.label>
   <!-- EN: disallow building -->
   <Rule_DisallowBuilding.label>заборонити будівництво</Rule_DisallowBuilding.label>
   <!-- EN: cannot hunt -->

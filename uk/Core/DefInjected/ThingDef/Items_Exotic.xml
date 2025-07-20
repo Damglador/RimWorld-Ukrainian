@@ -27,7 +27,7 @@
   <!-- EN: techprof subpersona core -->
   <TechprofSubpersonaCore.label>ядро ШІ-науковця</TechprofSubpersonaCore.label>
   <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
-  <TechprofSubpersonaCore.description>Невеличке ядро з ШІ, що спеціалізується на технологіях навчання. При використанні ШІ відкриє технологію яку вивчаєте на даний час. Одноразове.</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.description>Невеличке ядро з ШІ, що спеціалізується на технологіях навчання. Після використанні ШІ вивчить технологію яка досліджувалася на момент активації. Одноразове.</TechprofSubpersonaCore.description>
   <!-- EN: Use {0_label} -->
   <TechprofSubpersonaCore.comps.CompUsable.useLabel>Використати {lookup: {0_label}; Case; 3}</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   <!-- EN: thrumbo horn -->

@@ -652,7 +652,7 @@
   <CommandNoUsesLeft>Не залишилось використань.</CommandNoUsesLeft>
   <!-- Map Portal -->
   <!-- EN: View {0} -->
-  <CommandViewPocketMapLabel>View {0}</CommandViewPocketMapLabel>
+  <CommandViewPocketMapLabel>Перемкнутися на {lookup: {0}; Case; 4}</CommandViewPocketMapLabel>
   <!-- EN: View the connected {0} map. -->
   <CommandViewPocketMapDesc>View the connected {0} map.</CommandViewPocketMapDesc>
   <!-- EN: View surface -->
@@ -666,7 +666,7 @@
   <AutoBuildTransportPodDesc>If on, your colonists will automatically build a new transport pod when possible.</AutoBuildTransportPodDesc>
   <!-- Hacking gizmo -->
   <!-- EN: Hack... -->
-  <HackGizmo>Hack...</HackGizmo>
+  <HackGizmo>Зламати...</HackGizmo>
   <!-- EN: Cannot hack -->
   <CannotChooseHacker>Cannot hack</CannotChooseHacker>
   <!-- EN: Choose hacker -->

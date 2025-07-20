@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: planet -->
-  <Surface.label>planet</Surface.label>
+  <Surface.label>планета</Surface.label>
   <!-- EN: {0}m -->
   <Surface.elevationString>{0}m</Surface.elevationString>
   <!-- EN: on the -->

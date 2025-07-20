@@ -37,15 +37,15 @@
   <!-- EN: Mysterious archotechnological influences are reanimating this creature's corpse. -->
   <Rising.description>Таємничі архотехнологічні сили оживляють труп цієї істоти.</Rising.description>
   <!-- EN: shambler -->
-  <Shambler.label>немертвий</Shambler.label>
+  <Shambler.label>волокун</Shambler.label>
   <!-- EN: This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire. -->
   <Shambler.description>This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire.</Shambler.description>
   <!-- EN: shambler corpse -->
-  <ShamblerCorpse.label>труп немертвого</ShamblerCorpse.label>
+  <ShamblerCorpse.label>труп волокуна</ShamblerCorpse.label>
   <!-- EN: This creature had previously been re-animated by corrupted archites. -->
   <ShamblerCorpse.description>Цю істоту раніше реанімував темний архотек.</ShamblerCorpse.description>
   <!-- EN: Shambler wounds -->
-  <ShamblerCorpse.renderNodeProperties.0.debugLabel>Рани немертвого</ShamblerCorpse.renderNodeProperties.0.debugLabel>
+  <ShamblerCorpse.renderNodeProperties.0.debugLabel>Рани волокуна</ShamblerCorpse.renderNodeProperties.0.debugLabel>
   <!-- EN: Shambler wounds -->
-  <ShamblerCorpse.renderNodeProperties.1.debugLabel>Рани немертвого</ShamblerCorpse.renderNodeProperties.1.debugLabel>
+  <ShamblerCorpse.renderNodeProperties.1.debugLabel>Рани волокуна</ShamblerCorpse.renderNodeProperties.1.debugLabel>
 </LanguageData>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: [lodgersLabelSingOrPlural] arrived -->
-  <Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>[lodgersLabelSingOrPlural] [arrived]</Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>
+  <Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>[lodgersLabelSingOrPlural] прибули</Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>
   <!-- EN: [lodgersLabelSingOrPluralDef] [lodgersHasHave] arrived. Protect [lodgersObjective] until the shuttle arrives in [shuttleDelayTicks_duration].[helpersArrivalLetterEnd] -->
-  <Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>[lodgersLabelSingOrPluralDef] [arrived]. Захищайте [lodgers_possessive], доки не прибуде шатл (через [shuttleDelayTicks_duration]).[helpersArrivalLetterEnd]</Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>
+  <Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>[lodgersLabelSingOrPluralDef] прибули. Захищайте [lodgersObjective], доки не прибуде шатл (через [shuttleDelayTicks_duration]).[helpersArrivalLetterEnd]</Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>
   <!-- EN: Should depart on shuttle -->
   <Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>Should depart on shuttle</Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
@@ -39,7 +39,7 @@
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>{SUBJECT_definite}, гість якого ви зобов'язалися захищати, зник. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.label.slateRef>Guest lost: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.label.slateRef>Втрачено гостя: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.label.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.text.slateRef>[letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersLeftBehind.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
@@ -47,7 +47,7 @@
   <!-- EN: [letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>{SUBJECT_definite}, гість якого ви зобов'язалися захищати, здичавів. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>Guest lost: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>Втрачено гостя: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>[letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
@@ -77,5 +77,5 @@
   <!-- EN: Shuttle destroyed -->
   <Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>Шатл знищено</Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to drop off [pawnsLabelDef] has been destroyed. You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have changed by [goodwillChangeOnShuttleDestroyed]. -->
-  <Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>Шатл, відправлений, щоб привезти до вас [lodgersLabelSingOrPluralAcc], знищено. Завдання "[resolvedQuestName]" провалено.\n\nВаші відносини з фракцією [asker_faction_name] погіршилися на [goodwillChangeOnShuttleDestroyed].</Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>
+  <Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>Шатл, відправлений, щоб привезти до вас [pawnsLabelDef], знищено. Завдання «[resolvedQuestName]» провалено.\n\nВаші відносини з фракцією [asker_faction_name] погіршилися на [goodwillChangeOnShuttleDestroyed].</Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>
 </LanguageData>

@@ -21,15 +21,15 @@
   <!-- EN: claw -->
   <Ghoul.tools.right_claw.labelNoLocation>кіготь</Ghoul.tools.right_claw.labelNoLocation>
   <!-- EN: shambler -->
-  <Shambler.label>немертвий</Shambler.label>
+  <Shambler.label>волокун</Shambler.label>
   <!-- EN: A creature who has been raised from the dead by corrupted nano-scale archites.\n\nAbout shamblers: Shamblers are corpses which have been reanimated by archotechnology. They attack living creatures relentlessly and their immunity to pain makes them difficult to kill. However, the archites which animate them cannot sustain the rotting body for long, so shamblers expire after a few days of movement.\n\nThere are ways to raise your own shamblers and make yourself invisible to them, so they attack only outsiders. -->
-  <Shambler.description>Істота, яка була воскрешена з мертвих спотвореними нанорозмірними архітами.\n\nПро немертвих: Немертві — це трупи, реанімовані за допомогою архотехнології. Вони невпинно нападають на живих істот, і через їх імунітет до болю їх важко вбити. Однак архіти, які їх оживляють, не можуть довго підтримувати гниле тіло, тому немертві вмирають через кілька днів на ногах.\n\nІснують способи створити власних немертвих і зробити себе невидимим для них, щоб вони нападали лише на ворогів.</Shambler.description>
+  <Shambler.description>Істота, яка була воскрешена з мертвих спотвореними нанорозмірними архітами.\n\nПро волокунів: Волокуни — це трупи, реанімовані за допомогою архотехнології. Вони невпинно нападають на живих істот, і через їх імунітет до болю їх важко вбити. Однак архіти, які їх оживляють, не можуть довго підтримувати гниле тіло, тому волокуни вмирають через кілька днів на ногах.\n\nІснують способи створити власних волокунів і зробити себе невидимим для них, щоб вони нападали лише на ворогів.</Shambler.description>
   <!-- EN: shambler  -->
-  <Shambler.namePrefix>'Немертвий'</Shambler.namePrefix>
+  <Shambler.namePrefix>волокун</Shambler.namePrefix>
   <!-- EN: Shambler wounds -->
-  <Shambler.renderNodeProperties.0.debugLabel>рани немертвого</Shambler.renderNodeProperties.0.debugLabel>
+  <Shambler.renderNodeProperties.0.debugLabel>Рани волокуна</Shambler.renderNodeProperties.0.debugLabel>
   <!-- EN: Shambler wounds -->
-  <Shambler.renderNodeProperties.1.debugLabel>рани немертвого</Shambler.renderNodeProperties.1.debugLabel>
+  <Shambler.renderNodeProperties.1.debugLabel>Рани волокуна</Shambler.renderNodeProperties.1.debugLabel>
   <!-- EN: teeth -->
   <Shambler.tools.teeth.label>зуби</Shambler.tools.teeth.label>
   <!-- EN: left hand -->

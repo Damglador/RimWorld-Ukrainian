@@ -292,7 +292,7 @@
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Примітка: інгредієнти, невеликого об'єму, як золото, потребують у {0} раз більше.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>Цей інгредієнт невеликого об'єму. Це означає, що кожна "шматочок" в {0} разів менше, ніж у розмір звичайного інгредієнта. Тому, щоб заповнити таку ж потребу у інгредієнті, вам необхідно в {0} разів більше матеріалу.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>Це матеріал невеликого об'єму. Це означає, що кожен «шматочок» вартий в {0} разів менше за шматочок звичайного матеріалу. Це означає, що вам необхідно в {0} разів більше матеріалу за те, що написано в інгредієнтах.</ThisIsSmallVolume>
   <!-- EN: ingredients -->
   <UsableIngredients>інгредієнти</UsableIngredients>
   <!-- EN: To {0} -->
@@ -306,7 +306,7 @@
   <!-- EN: Unpause -->
   <Unpause>Продовжити</Unpause>
   <!-- EN: Count equipped -->
-  <IncludeEquipped>Включно з екіпірованим</IncludeEquipped>
+  <IncludeEquipped>Включно зі спорядженим</IncludeEquipped>
   <!-- EN: Count tainted -->
   <IncludeTainted>Включаючи зняте з мертвих</IncludeTainted>
   <!-- EN: Only allowed ingredients -->

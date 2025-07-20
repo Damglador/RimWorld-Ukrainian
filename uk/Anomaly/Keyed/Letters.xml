@@ -111,9 +111,9 @@
   <!-- EN: {STUDIER_nameDef} has activated the monolith and been ripped from our spacetime into another place.\n\n{STUDIER_pronoun} finds {STUDIER_objective}self in a room of jagged metallic spikes. Every surface is slick with dark fluid and the air vibrates with power.\n\nThis metal hell is a connecting channel to an inhuman hyperintelligence. -->
   <VoidAwakeningFinalStructuresActivatedText>{STUDIER_nameDef} has activated the monolith and been ripped from our spacetime into another place.\n\n{STUDIER_pronoun} finds {STUDIER_objective}self in a room of jagged metallic spikes. Every surface is slick with dark fluid and the air vibrates with power.\n\nThis metal hell is a connecting channel to an inhuman hyperintelligence.</VoidAwakeningFinalStructuresActivatedText>
   <!-- EN: Shambler assault -->
-  <VoidAwakeningShamblerArrivalLabel>Атака немертвих</VoidAwakeningShamblerArrivalLabel>
+  <VoidAwakeningShamblerArrivalLabel>Атака волокунів</VoidAwakeningShamblerArrivalLabel>
   <!-- EN: A horde of shamblers have been attracted by the void structures. Get ready! -->
-  <VoidAwakeningShamblerArrivalText>Порожнеча привабила орду немертвих. Будьте готові!</VoidAwakeningShamblerArrivalText>
+  <VoidAwakeningShamblerArrivalText>Порожнеча привабила орду волокунів. Будьте готові!</VoidAwakeningShamblerArrivalText>
   <!-- EN: Fleshbeast tunneling -->
   <VoidAwakeningFleshbeastBurrowLabel>Тунель звірів плоті</VoidAwakeningFleshbeastBurrowLabel>
   <!-- EN: The monolith has generated a powerful psychic pulse, attracting nearby entities.\n\nBeneath the ground, you can hear meaty shrieks and scratching claws. Fleshbeasts are tunneling towards you. Get ready! -->
@@ -144,7 +144,7 @@
   <!-- EN: slaughter -->
   <RewardSlaughterAbility>забій</RewardSlaughterAbility>
   <!-- EN: shambler control -->
-  <RewardShamblerControlAbility>контроль немертвого</RewardShamblerControlAbility>
+  <RewardShamblerControlAbility>контроль волокунів</RewardShamblerControlAbility>
   <!-- Duplicate sickness -->
   <!-- EN: Duplicate sickness -->
   <DuplicateSicknessLabel>Хвороба дублювання</DuplicateSicknessLabel>
@@ -197,15 +197,15 @@
   <DarknessWaveringLetterText>З руйнуванням ноктоліти в темряві з’являється ледь помітна тріщина, яка потім заповнюється ще більш густою темрявою.\n\nЗнищіть решту ноктолітів, щоб покласти край неприродній темряві.</DarknessWaveringLetterText>
   <!-- Shambler Swarms -->
   <!-- EN: Shamblers approach -->
-  <LetterLabelShamblerSwarmArrived>Наближення немертвих</LetterLabelShamblerSwarmArrived>
+  <LetterLabelShamblerSwarmArrived>Наближення волокунів</LetterLabelShamblerSwarmArrived>
   <!-- EN: Shambler approaches -->
-  <LetterLabelShamblerArrived>Наближення немертвого</LetterLabelShamblerArrived>
+  <LetterLabelShamblerArrived>Наближення волокуна</LetterLabelShamblerArrived>
   <!-- EN: A group of {0} shambling, rotting corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
   <LetterShamblerSwarmArrived>Наближається група з {0} гнилих трупів. Якась нелюдська сила реанімувала ці бездиханні тіла та налаштувала їх на вбивство.\n\nТепер вони блукатимуть цією місцевістю. Якщо вони побачать людину, то нападуть. Якщо ні, вони підуть через кілька днів.\n\nЯкщо ви зможете захопити одного з них, ви зможете вивчати його та отримувати знання про аномалії.</LetterShamblerSwarmArrived>
   <!-- EN: A shambling, rotting corpse is approaching. Some inhuman force has reanimated this lifeless body and set it to murder.\n\nIt will now wander through the area. If it sees a human, it will attack. If not, it will leave in a few days.\n\nIf you can capture it, you can study it for anomaly knowledge. -->
-  <LetterShamblerArrived>Наближається немертвий, гниючий труп. Якась нелюдська сила реанімувала це бездиханне тіло та налаштувала його на вбивство.\n\nТепер воно блукатиме цією місцевістю. Якщо він побачить людину, він нападе. Якщо ні, він піде за кілька днів.\n\nЯкщо ви зможете його захопити, ви зможете вивчати його та отримувати знання про аномалії.</LetterShamblerArrived>
+  <LetterShamblerArrived>Наближається волокун, гниючий труп. Якась нелюдська сила реанімувала це бездиханне тіло та налаштувала його на вбивство.\n\nТепер воно блукатиме цією місцевістю. Якщо воно побачить людину, воно нападе. Якщо ні, воно піде за кілька днів.\n\nЯкщо ви зможете його захопити, ви зможете вивчати його та отримувати знання про аномалії.</LetterShamblerArrived>
   <!-- EN: {ANIMALKIND_label} shamblers -->
-  <LetterLabelShamblerAnimalsArrived>Немертві {lookup: {ANIMALKIND_label}; Case; 1}</LetterLabelShamblerAnimalsArrived>
+  <LetterLabelShamblerAnimalsArrived>{ANIMALKIND_label} волокунів</LetterLabelShamblerAnimalsArrived>
   <!-- EN: A group of shambling, rotting {ANIMALKIND_label} corpses is approaching. Some inhuman force has reanimated these lifeless bodies and set them to murder.\n\nThey will now wander through the area. If they see a human, they will attack. If not, they will leave in a few days.\n\nIf you can capture one, you can study it for anomaly knowledge. -->
   <LetterShamblerAnimalsArrived>Наближається група немертвих {lookup: {ANIMALKIND_label}; Case; 3}. Якась нелюдська сила реанімувала ці бездиханні тіла та налаштувала їх на вбивство.\n\nТепер вони блукатимуть цією місцевістю. Якщо вони побачать людину, то нападуть. Якщо ні, вони підуть через кілька днів.\n\nЯкщо ви зможете захопити одного з них, ви зможете вивчати його та отримувати знання про аномалії.</LetterShamblerAnimalsArrived>
   <!-- Ghoul pod crash -->
