@@ -480,7 +480,7 @@
     <li>terrain_word->sundering</li>
     <li>terrain_word->wound</li>
     <li>terrain_word->fault</li>
-    <li>r_name(p=0.05)->[terrain_word]</li>
+    <li>terrain_word->howl</li>
     <li>terrain_word_mas(p=3)->шрам</li>
     <li>terrain_word_mas->розлом</li>
     <li>terrain_word_mas->розрив</li>

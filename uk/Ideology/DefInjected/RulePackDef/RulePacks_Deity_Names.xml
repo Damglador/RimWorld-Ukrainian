@@ -13,9 +13,9 @@
     <li>end->dio</li>
   -->
   <GodContent_Byzantine.rulePack.rulesStrings>
-    <li>name->[SylBCap][end]</li>
-    <li>name->[SylBCap][syl][end]</li>
-    <li>name->[SylBCap]-[syl][end]</li>
+    <li>name->[syl][end]</li>
+    <li>name->[syl][syl][end]</li>
+    <li>name->[syl]-[syl][end]</li>
     <li>syl->[SylB]</li>
     <li>end->кос</li>
     <li>end->пос</li>
@@ -253,9 +253,9 @@
     <li>end->bust</li>
   -->
   <NamerDeityCorunan.rulePack.rulesStrings>
-    <li>name->[SylGCap][end]</li>
-    <li>name->[SylGCap][syl][end]</li>
-    <li>name->[SylGCap]'[syl][end]</li>
+    <li>name->[syl][end]</li>
+    <li>name->[syl][syl][end]</li>
+    <li>name->[syl]'[syl][end]</li>
     <li>syl->[SylG]</li>
     <li>end->абрей</li>
     <li>end->тро</li>

@@ -25,11 +25,11 @@
   <!-- EN: golden cube arrival -->
   <GoldenCubeArrival.label>прибуття золотого куба</GoldenCubeArrival.label>
   <!-- EN: harbinger tree -->
-  <HarbingerTreeProvoked.label>harbinger tree</HarbingerTreeProvoked.label>
+  <HarbingerTreeProvoked.label>дерево-провісник</HarbingerTreeProvoked.label>
   <!-- EN: Harbinger tree sprout -->
-  <HarbingerTreeProvoked.letterLabel>Harbinger tree sprout</HarbingerTreeProvoked.letterLabel>
+  <HarbingerTreeProvoked.letterLabel>Паросток дерева-провісника</HarbingerTreeProvoked.letterLabel>
   <!-- EN: A harbinger tree has sprouted nearby. These gnarled trees grow flesh-like coverings, and can feed on corpses and raw meat placed nearby. If well fed, the grove will continue to grow.\n\nIn a tribal myth, these trees are the emissaries of a shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky. -->
-  <HarbingerTreeProvoked.letterText>A harbinger tree has sprouted nearby. These gnarled trees grow flesh-like coverings, and can feed on corpses and raw meat placed nearby. If well fed, the grove will continue to grow.\n\nIn a tribal myth, these trees are the emissaries of a shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky.</HarbingerTreeProvoked.letterText>
+  <HarbingerTreeProvoked.letterText>Неподалік проросло дерево-провісник. Ці зморщені дерева обростають м'ясистим покривом і можуть харчуватися трупами та сирим м'ясом, покладеними поруч. Якщо їх добре годувати, вони прискорять свій ріст.\n\nУ племінному міфі ці дерева є посланцями безформного бога, який править безмежним чорним океаном. Міф закінчується після того, як безформний бог піднімається з води і розриває небо.</HarbingerTreeProvoked.letterText>
   <!-- EN: metalhorror implantation -->
   <MetalhorrorImplantation.label>імплантація металевого жаху</MetalhorrorImplantation.label>
   <!-- EN: mysterious cargo cube -->

@@ -230,12 +230,12 @@
     <li>r_name->[firstName] [lastName]</li>
     <li>maybeHyphen(p=4)-></li>
     <li>maybeHyphen->-</li>
-    <li>firstName(p=1)->[SylPCap][nameEnd]</li>
-    <li>firstName(p=3)->[SylPCap][nameEnd]</li>
+    <li>maybeHyphen->-</li>
+    <li>firstName(p=1)->[SylP][nameEnd]</li>
     <li>nickName->[nicknamePig]</li>
     <li>lastName(p=3)->[lastGenerated]</li>
-    <li>lastGenerated->[SylPCap][nameEnd]</li>
-    <li>lastGenerated->[SylPCap][maybeHyphen][SylP][nameEnd]</li>
+    <li>lastName(p=3)->[lastGenerated]</li>
+    <li>lastGenerated->[SylP][nameEnd]</li>
     <li>nameEnd->уг</li>
     <li>nameEnd->аг</li>
     <li>nameEnd->ап</li>
@@ -293,9 +293,9 @@
   <NamerPersonWaster.rulePack.rulesStrings>
     <li>r_name->[firstName] [lastName]</li>
     <li>r_name->[firstName] '[nicknameWaster]' [lastName]</li>
-    <li>firstName->[SylCap][Syl]</li>
-    <li>firstName->[SylCap]</li>
-    <li>lastName->[SylCap][End]</li>
+    <li>firstName->[Syl][Syl]</li>
+    <li>firstName->[Syl]</li>
+    <li>lastName->[Syl][End]</li>
     <li>End->ад</li>
     <li>End->ак</li>
     <li>End->анк</li>
@@ -351,11 +351,11 @@
   -->
   <NamerPersonYttakin.rulePack.rulesStrings>
     <li>r_name->[firstName] [lastName]</li>
-    <li>firstName(p=0.5)->[SylYCap]</li>
-    <li>firstName(p=2)->[SylYCap][nameEnd]</li>
-    <li>firstName->[SylYCap][SylY][nameEnd]</li>
-    <li>lastName(p=2)->[SylYCap][nameEnd]</li>
-    <li>lastName->[SylYCap][SylY][nameEnd]</li>
+    <li>firstName(p=0.5)->[SylY]</li>
+    <li>firstName(p=2)->[SylY][nameEnd]</li>
+    <li>firstName->[SylY][SylY][nameEnd]</li>
+    <li>lastName(p=2)->[SylY][nameEnd]</li>
+    <li>lastName->[SylY][SylY][nameEnd]</li>
     <li>lastName->Кін'[SylY][nameEnd]</li>
     <li>lastName->Він'[SylY][nameEnd]</li>
     <li>nameEnd(p=3)->ітт</li>

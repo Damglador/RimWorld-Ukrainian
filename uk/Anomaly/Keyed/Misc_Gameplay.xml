@@ -449,9 +449,9 @@
   <MessageShardDropped>{0} випускає уламок темної архотехнології. Ви можете збирати і використовувати його.</MessageShardDropped>
   <!-- Blood rain -->
   <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
-  <Berserk_BloodRain>The blood rain has driven {0_nameIndef} into a berserk rage!</Berserk_BloodRain>
+  <Berserk_BloodRain>Кривавий дощ довів {0_nameIndef} до берсеркової люті!</Berserk_BloodRain>
   <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
-  <Manhunter_BloodRain>The blood rain has driven {0_nameIndef} into a manhunting rage!</Manhunter_BloodRain>
+  <Manhunter_BloodRain>Кривавий дощ довів {0_nameIndef} до мисливської люті!</Manhunter_BloodRain>
   <!-- EN: This happened because of blood rage buildup. -->
   <MentalBreakReason_BloodRage>Це сталось через кривавий дощ.</MentalBreakReason_BloodRage>
   <!-- Unnatural corpses -->

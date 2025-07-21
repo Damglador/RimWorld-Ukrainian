@@ -112,7 +112,7 @@
     <li>tradeAdj->exo</li>
     <li>tradeNoun->guild</li>
     <li>tradeAdj_neu->торгове</li>
-    <li>tradeNoun->syndicate</li>
+    <li>tradeNoun->синдикат</li>
     <li>tradeNoun->alliance</li>
     <li>tradeAdj_neu->астронавтське</li>
     <li>tradeNoun->coalition</li>
@@ -179,7 +179,7 @@
     <li>platAdj_mas->зорянопиловий</li>
     <li>platAdj->quasar</li>
     <li>platAdj->pulsar</li>
-    <li>platAdj_mas->оріонов</li>
+    <li>platAdj->meteor</li>
     <li>platAdj->zenith</li>
     <li>platAdj->lunar</li>
     <li>platAdj_mas->горизонтовий</li>

@@ -25,10 +25,10 @@
     <li>placeEnd->vel</li>
   -->
   <ImpidUtility.rulePack.rulesStrings>
-    <li>placeNameCore->[SylICap][SylI]</li>
-    <li>placeNameCore->[SylICap][SylI][SylI]</li>
-    <li>placeNameCore->[SylICap][placeEnd]</li>
-    <li>placeNameCore->[SylICap][SylI][placeEnd]</li>
+    <li>placeNameCore->[SylI][SylI]</li>
+    <li>placeNameCore->[SylI][SylI][SylI]</li>
+    <li>placeNameCore->[SylI][placeEnd]</li>
+    <li>placeNameCore->[SylI][SylI][placeEnd]</li>
     <li>placeEnd->ач</li>
     <li>placeEnd->аз</li>
     <li>placeEnd->ет</li>
@@ -76,10 +76,10 @@
     <li>r_name->[political_union_outlanderMasc] [nameCore]</li>
     <li>maybeHyphen(p=3)-></li>
     <li>maybeHyphen->-</li>
-    <li>nameCore->[SylPCap][maybeHyphen][SylP]</li>
-    <li>nameCore->[SylPCap][maybeHyphen][SylP][maybeHyphen][SylP]</li>
-    <li>nameCore->[SylPCap][maybeHyphen][end]</li>
-    <li>nameCore->[SylPCap][maybeHyphen][SylP][maybeHyphen][end]</li>
+    <li>nameCore->[SylP][maybeHyphen][SylP]</li>
+    <li>nameCore->[SylP][maybeHyphen][SylP][maybeHyphen][SylP]</li>
+    <li>nameCore->[SylP][maybeHyphen][end]</li>
+    <li>nameCore->[SylP][maybeHyphen][SylP][maybeHyphen][end]</li>
     <li>end->оо</li>
     <li>end->лок</li>
     <li>end->лом</li>
@@ -221,10 +221,10 @@
     <li>r_name->[townname_wordgen]</li>
     <li>maybeHyphen(p=3)-></li>
     <li>maybeHyphen->-</li>
-    <li>townname_wordgen->[SylPCap][maybeHyphen][SylP]</li>
-    <li>townname_wordgen->[SylPCap][maybeHyphen][SylP][maybeHyphen][SylP]</li>
-    <li>townname_wordgen->[SylPCap][maybeHyphen][townend]</li>
-    <li>townname_wordgen->[SylPCap][maybeHyphen][SylP][maybeHyphen][townend]</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][SylP]</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][SylP][maybeHyphen][SylP]</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][townend]</li>
+    <li>townname_wordgen->[SylP][maybeHyphen][SylP][maybeHyphen][townend]</li>
     <li>townend->біл</li>
     <li>townend->віл</li>
     <li>townend->бвуг</li>
@@ -347,9 +347,9 @@
   <NeanderthalUtility.rulePack.rulesStrings>
     <li>maybeApo(p=8)-></li>
     <li>maybeApo->'</li>
-    <li>placeNameCore->[SylNCap][maybeApo][SylN]</li>
-    <li>placeNameCore->[SylNCap][maybeApo][SylN][maybeApo][SylN]</li>
-    <li>placeNameCore->[SylNCap][maybeApo][placeEnd]</li>
+    <li>placeNameCore->[SylN][maybeApo][SylN]</li>
+    <li>placeNameCore->[SylN][maybeApo][SylN][maybeApo][SylN]</li>
+    <li>placeNameCore->[SylN][maybeApo][placeEnd]</li>
     <li>placeNameCore->[SylNSylNCapmaybeApo][SylN][maybeApo][placeEnd]</li>
     <li>placeEnd->ілс</li>
     <li>placeEnd->ілт</li>
@@ -438,10 +438,10 @@
     <li>placeEnd->yn</li>
   -->
   <YttakinUtility.rulePack.rulesStrings>
-    <li>placeNameCore->[SylYCap][SylY]</li>
-    <li>placeNameCore->[SylYCap][SylY][SylY]</li>
-    <li>placeNameCore->[SylYCap][placeEnd]</li>
-    <li>placeNameCore->[SylYCap][SylY][placeEnd]</li>
+    <li>placeNameCore->[SylY][SylY]</li>
+    <li>placeNameCore->[SylY][SylY][SylY]</li>
+    <li>placeNameCore->[SylY][placeEnd]</li>
+    <li>placeNameCore->[SylY][SylY][placeEnd]</li>
     <li>placeEnd->іш</li>
     <li>placeEnd->сітт</li>
     <li>placeEnd->вітт</li>

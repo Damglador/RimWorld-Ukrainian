@@ -21,7 +21,7 @@
     <li>circumstance_phrase->, оскільки вузол порожнечі випромінює нав’язливе сяйво</li>
     <li>circumstance_phrase->, на задньому плані можна почути шепіт порожнечі</li>
     <li>desc_sentence->Сірий метал тисне з усіх боків</li>
-    <li>desc_sentence->[side_positionCap], можна побачити іншого колоніста, який нервує та чекає на повернення [PAWN_nameDef]</li>
+    <li>desc_sentence->[side_position], можна побачити іншого колоніста, який нервує та чекає на повернення [PAWN_nameDef].</li>
     <li>desc_sentence->Вираз обличчя [PAWN_nameDef] видає [PAWN_possessive] думки, щодо вибору, що повстав перед {PAWN_gender ? ним : нею}</li>
   </ClosedTheVoid.rulePack.rulesStrings>
   <!-- EN: embraced the void -->
@@ -48,7 +48,7 @@
     <li>circumstance_phrase->з тривожною усмішкою</li>
     <li>desc_sentence->[PAWN_nameDef] випромінює ауру зловісної сили, знак [PAWN_possessive] угоди з порожнечею</li>
     <li>desc_sentence->Очі [PAWN_nameDef] починають світитись потойбічним світлом</li>
-    <li>desc_sentence->[side_positionCap] можна побачити іншого колоніста, який ставить під сумніви мудрість [PAWN_nameDef]</li>
+    <li>desc_sentence->[side_position] можна побачити іншого колоніста, який ставить під сумніви мудрість [PAWN_nameDef].</li>
   </EmbracedTheVoid.rulePack.rulesStrings>
   <!-- EN: performed a psychic ritual -->
   <PerformedPsychicRitual.label>проведення психічного ритуалу</PerformedPsychicRitual.label>
@@ -77,7 +77,7 @@
     <li>circumstance_phrase->, демонструючи свою майстерність екстрасенсорного мистецтва</li>
     <li>circumstance_phrase-> з жорстокою посмішкою</li>
     <li>circumstance_phrase->, [PAWN_possessive] голос губиться посеред реву енергії</li>
-    <li>desc_sentence->[side_positionCap] можна побачити співців, які додають сили ритуалу</li>
+    <li>desc_sentence->[side_position] можна побачити співців, які додають сили ритуалу.</li>
     <li>desc_sentence->Повітря починає трястись, коли [PAWN_nameDef] завершує психічний ритуал</li>
     <li>desc_sentence->На задньому плані мерехтить моноліт</li>
     <li>desc_sentence->Навколишні свічки мерехтять і спалахують у виру енергії</li>

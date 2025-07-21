@@ -141,7 +141,7 @@
     <li>r_name(p=0.2)->the [narrative_name] [terrain_word]</li>
     <li>ruin_adjective(p=2)->ruined</li>
     <li>ruin_adjective->ancient</li>
-    <li>r_name(p=0.2)->[narrative_name]: [terrain_word]</li>
+    <li>ruin_adjective->old</li>
     <li>ruin_adjective_mas(p=2)->зруйнований</li>
     <li>ruin_adjective->blighted</li>
     <li>ruin_adjective->ashen</li>
