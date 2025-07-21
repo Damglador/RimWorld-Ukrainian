@@ -19,3 +19,6 @@ for DLC in "${COMPONENTS[@]}"; do
 	  done
 	done
 done
+
+echo "[build.sh] Updating timestamp to $(date "+%d.%m.%Y %T")"
+sed -i "s/-=.*=-/-=$(date "+%d.%m.%Y %T")=-/g" "Mod/Languages/Ukrainian (Crowdin)/LanguageInfo.xml"

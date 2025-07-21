@@ -24,5 +24,9 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Damglador</creditee>
     </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Останнє оновлення перекладу: -=21.07.2025 21:06:53=- </creditee>
+    </li>
   </credits>
 </LanguageInfo>
