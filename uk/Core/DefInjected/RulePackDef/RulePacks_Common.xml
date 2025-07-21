@@ -9,12 +9,12 @@
     <li>PlaceOutlander->[SylE][SylE][SylE][place_end]</li>
   -->
   <OutlanderPlaceNameUtility.rulePack.rulesStrings>
-    <li>PlaceOutlander->[SylECap][place_end]</li>
-    <li>PlaceOutlander->[SylECap][place_end]</li>
-    <li>PlaceOutlander->[SylECap][place_end]</li>
-    <li>PlaceOutlander->[SylECap][SylE][place_end]</li>
-    <li>PlaceOutlander->[SylECap][SylE][place_end]</li>
-    <li>PlaceOutlander->[SylECap][SylE][SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][SylE][place_end]</li>
   </OutlanderPlaceNameUtility.rulePack.rulesStrings>
   <!-- EN:
     <li>WordTribal(p=3)->[tribal_word_file]</li>
