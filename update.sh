@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-[ -z CROWDIN_PERSONAL_TOKEN ] && export CROWDIN_PERSONAL_TOKEN=""
-
-MOD_DIR=Mod
-
+set -e
 cd $(dirname $0)
+
+export CROWDIN_PROJECT_ID=295257
+MOD_DIR=Mod
 
 # Завантажити переклад з Crowdin (потрібен CROWDIN_PERSONAL_TOKEN менеджера проєкту)
 crowdin download
@@ -16,5 +16,9 @@ mkdir -p Mod/CrowdinFiles && cp -r uk/* "$MOD_DIR"/CrowdinFiles
 [ ! -x "$MOD_DIR"/build.sh ] && chmod u+x "$MOD_DIR"/build.sh
 "$MOD_DIR"/build.sh
 
+echo "Committing updated translation"
+readarray -t files < <(git diff --staged --name-only)
+git restore --staged .
 git add uk/
 git commit -m "Update translation"
+git add "${files[@]}"

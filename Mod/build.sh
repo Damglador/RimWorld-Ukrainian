@@ -4,6 +4,8 @@ cd $(dirname $0)
 
 COMPONENTS=("Core" "Royalty" "Ideology" "Biotech" "Anomaly" "Odyssey")
 
+echo "Updating Ukrainian Crowdin mod"
+
 for DLC in "${COMPONENTS[@]}"; do
 	LANG_DIR="$DLC/Languages/Ukrainian (Crowdin)"
 	mkdir -p "$LANG_DIR"/
