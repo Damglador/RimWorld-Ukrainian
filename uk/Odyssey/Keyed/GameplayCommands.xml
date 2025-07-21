@@ -34,13 +34,13 @@
   <!-- EN: Abort landing -->
   <AbortLandGravship>Перервати посадку</AbortLandGravship>
   <!-- EN: Cancel landing on this map, and force the gravship to land nearby on the world map. Useful if you can't find a landing spot.\n\nWarning: This increases the chance of a mishap when landing. -->
-  <AbortLandGravshipDesc>Cancel landing on this map, and force the gravship to land nearby on the world map. Useful if you can't find a landing spot.\n\nWarning: This increases the chance of a mishap when landing.</AbortLandGravshipDesc>
+  <AbortLandGravshipDesc>Скасувати посадку на цій карті та примусити гравкорабель приземлитися поблизу на карті світу. Корисно, якщо ви не можете знайти місце для посадки.\n\nПопередження: Це збільшує шанси на нещасний випадок під час посадки.</AbortLandGravshipDesc>
   <!-- EN: Aborting the landing will force your gravship to land in a random nearby location on the world map. This increases the chance of a mishap when landing.\n\nAre you sure you want to continue? -->
-  <AbortLandConfirmation>Aborting the landing will force your gravship to land in a random nearby location on the world map. This increases the chance of a mishap when landing.\n\nAre you sure you want to continue?</AbortLandConfirmation>
+  <AbortLandConfirmation>Переривання приземлення примусить гравкорабель сісти на землю у випадковому найближчому місці на мапі світу. Це збільшує шанс нещасного випадку під час приземлення.\n\nВи дійсно бажаєте продовжити?</AbortLandConfirmation>
   <!-- EN: Failed to find crash site. -->
-  <FailedToFindCrashSite>Failed to find crash site.</FailedToFindCrashSite>
+  <FailedToFindCrashSite>Не вдалося знайти місце падіння.</FailedToFindCrashSite>
   <!-- EN: You must designate a landing area for your gravship. -->
-  <GravshipLandingMarkerNotPlaced>You must designate a landing area for your gravship.</GravshipLandingMarkerNotPlaced>
+  <GravshipLandingMarkerNotPlaced>Ви маєте вказати місце приземлення для гравкорабля.</GravshipLandingMarkerNotPlaced>
   <!-- EN: Refuel from cargo -->
   <CommandRefuelShuttleFromCargo>Заправитись вантажем</CommandRefuelShuttleFromCargo>
   <!-- EN: Refuel the passenger shuttle using chemfuel stored within. -->
@@ -64,5 +64,5 @@
   <!-- EN: Order a pawn to deactivate the gravship shield generator. -->
   <GravshipShieldOrderDeactivationDesc>Накажіть пішаку деактивувати генератор щита корабля.</GravshipShieldOrderDeactivationDesc>
   <!-- EN: Merging these caravans will cause the following to be lost:\n{0}\n\nAre you sure you want to continue? -->
-  <ConfirmMergeShuttles>Merging these caravans will cause the following to be lost:\n{0}\n\nAre you sure you want to continue?</ConfirmMergeShuttles>
+  <ConfirmMergeShuttles>Об'єднання цих караванів призведе до втрати наступного:\n{0}\n\nВи впевнені що бажаєте продовжити?</ConfirmMergeShuttles>
 </LanguageData>

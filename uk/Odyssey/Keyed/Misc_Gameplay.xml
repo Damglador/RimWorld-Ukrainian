@@ -10,7 +10,7 @@
   <!-- EN: Cannot reach this destination -->
   <CannotLaunchDestination>Не може дістатися цих координат</CannotLaunchDestination>
   <!-- EN: Cannot land on the same tile -->
-  <CannotLandOnSameTile>Cannot land on the same tile</CannotLandOnSameTile>
+  <CannotLandOnSameTile>Неможливо приземлитися на тій же клітинці</CannotLandOnSameTile>
   <!-- EN: Connected substructure -->
   <ConnectedSubstructure>З'єднано з субструктурою</ConnectedSubstructure>
   <!-- EN: Substructure blueprints placed -->
@@ -58,7 +58,7 @@
   <!-- EN: Can't place in undiscovered area -->
   <GravshipBlockedByFog>Не можна розмістити в невідомих областях</GravshipBlockedByFog>
   <!-- EN: Blocked by roof -->
-  <GravshipBlockedByRoof>Blocked by roof</GravshipBlockedByRoof>
+  <GravshipBlockedByRoof>Заважає дах</GravshipBlockedByRoof>
   <!-- EN: Can't place outside map bounds -->
   <GravshipOutOfBounds>Не можна розмістити за межами мапи</GravshipOutOfBounds>
   <!-- EN: Can't place close to the map edge -->
@@ -168,9 +168,9 @@
   <!-- EN: below minimum fish population -->
   <FishingSpotUnderTargetPopulation>Популяція риби менше мінімальної</FishingSpotUnderTargetPopulation>
   <!-- EN: stored fish exceed fishing zone settings -->
-  <FishingSpotOverTargetResourceCount>stored fish exceed fishing zone settings</FishingSpotOverTargetResourceCount>
+  <FishingSpotOverTargetResourceCount>популяція риби перевищує налаштування зони риболовлі</FishingSpotOverTargetResourceCount>
   <!-- EN: Fishing -->
-  <TabFishing>риболовля</TabFishing>
+  <TabFishing>Риболовля</TabFishing>
   <!-- EN: Fish population -->
   <FishPopulation>Популяція риби</FishPopulation>
   <!-- EN: Population declining -->
@@ -287,9 +287,9 @@
   <!-- EN: Direct all mastered animals to attack a specific target. -->
   <AnimalsAttackTargetDesc>Наказує усім тваринам під контролем атакувати конкретну ціль.</AnimalsAttackTargetDesc>
   <!-- EN: Cancel attack -->
-  <CancelAttack>Cancel attack</CancelAttack>
+  <CancelAttack>Скасувати атаку</CancelAttack>
   <!-- EN: Clear this animal's current target. -->
-  <CancelAttackDesc>Clear this animal's current target.</CancelAttackDesc>
+  <CancelAttackDesc>Очистити поточну ціль цієї тварини.</CancelAttackDesc>
   <!-- EN: This animal does not have a master -->
   <NoMaster>У цієї тварини немає господаря</NoMaster>
   <!-- EN: This animal's master is not on this map -->
