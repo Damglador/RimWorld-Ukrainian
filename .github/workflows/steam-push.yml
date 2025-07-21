@@ -7,8 +7,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - name: steam-workshop-update
+    - name: download-git
       uses: actions/checkout@latest
+    - name: steam-workshop-update
       uses: hmlendea/steam-workshop-update@v1.2.0
       with:
         appid: 294100 # The game's Steam App ID
