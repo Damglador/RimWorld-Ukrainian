@@ -4,6 +4,8 @@ set -e
 cd $(dirname $0)
 
 export CROWDIN_PROJECT_ID=295257
+[ -z "$CROWDIN_PERSONAL_TOKEN" ] && export CROWDIN_PERSONAL_TOKEN=$(cat "$HOME/.local/share/crowdin/api_token")
+
 MOD_DIR=Mod
 
 # Завантажити переклад з Crowdin (потрібен CROWDIN_PERSONAL_TOKEN менеджера проєкту)
