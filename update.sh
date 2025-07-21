@@ -16,9 +16,9 @@ mkdir -p Mod/CrowdinFiles && cp -r uk/* "$MOD_DIR"/CrowdinFiles
 [ ! -x "$MOD_DIR"/build.sh ] && chmod u+x "$MOD_DIR"/build.sh
 "$MOD_DIR"/build.sh
 
-echo "Committing updated translation"
+echo "[update.sh] Committing updated translation"
 readarray -t files < <(git diff --staged --name-only)
 git restore --staged .
 git add uk/
 git commit -m "Update translation"
-git add "${files[@]}"
+[ ${#files[@]} -gt 0 ] && git add "${files[@]}" # Check if not empty avoid messages that I didn't commit anything
