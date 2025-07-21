@@ -35,11 +35,11 @@
   <!-- EN: Building -->
   <Stat_ContainmentStrength_Platform>Будівля</Stat_ContainmentStrength_Platform>
   <!-- EN: Bioferrite generation -->
-  <StatsReport_BioferriteGeneration>генерація біофериту</StatsReport_BioferriteGeneration>
+  <StatsReport_BioferriteGeneration>Генерація біоферриту</StatsReport_BioferriteGeneration>
   <!-- EN: How much bioferrite this entity generates per day when connected to a bioferrite harvester. -->
   <StatsReport_BioferriteGeneration_Desc>How much bioferrite this entity generates per day when connected to a bioferrite harvester.</StatsReport_BioferriteGeneration_Desc>
   <!-- EN: Multiplier for bioferrite density -->
-  <StatsReport_BioferriteDensityMultiplier>Множник щільності біофериту</StatsReport_BioferriteDensityMultiplier>
+  <StatsReport_BioferriteDensityMultiplier>Множник щільності біоферриту</StatsReport_BioferriteDensityMultiplier>
   <!-- EN: Multiplier for bioferrite extracted recently -->
   <StatsReport_BioferriteExtractedMultiplier>Multiplier for bioferrite extracted recently</StatsReport_BioferriteExtractedMultiplier>
   <!-- EN: Offering -->

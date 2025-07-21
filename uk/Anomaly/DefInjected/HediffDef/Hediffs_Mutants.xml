@@ -31,7 +31,7 @@
   <!-- EN: resurrection coma -->
   <ResurrectionComa.label>кома воскресіння</ResurrectionComa.label>
   <!-- EN: A mixture of deadlife dust and advanced biochemicals course through this creature's veins. -->
-  <ResurrectionComa.description>A mixture of deadlife dust and advanced biochemicals course through this creature's veins.</ResurrectionComa.description>
+  <ResurrectionComa.description>Суміш пилу несмертя та передових біохімічних речовин тече венами цієї істоти.</ResurrectionComa.description>
   <!-- EN: rising -->
   <Rising.label>воскресіння</Rising.label>
   <!-- EN: Mysterious archotechnological influences are reanimating this creature's corpse. -->
@@ -39,7 +39,7 @@
   <!-- EN: shambler -->
   <Shambler.label>волокун</Shambler.label>
   <!-- EN: This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire. -->
-  <Shambler.description>This dead creature has been re-animated by corrupted archites. Shamblers are slow and mindless, and will attack relentlessly. After a few days on their feet, shamblers die from metabolic exhaustion. Captured shamblers can't move and thus won't expire.</Shambler.description>
+  <Shambler.description>Ця мертва істота була реанімована пошкодженими архітами. Волокуни повільні та бездумні, і вони нещадно атакують. Через кілька днів на ногах, волокуни вмирають від метаболічного виснаження. Захоплені волокуни не можуть рухатися і тому не гинуть.</Shambler.description>
   <!-- EN: shambler corpse -->
   <ShamblerCorpse.label>труп волокуна</ShamblerCorpse.label>
   <!-- EN: This creature had previously been re-animated by corrupted archites. -->

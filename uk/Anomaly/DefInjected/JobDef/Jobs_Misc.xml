@@ -19,7 +19,7 @@
   <!-- EN: executing TargetA. -->
   <ExecuteEntity.reportString>страчує TargetA.</ExecuteEntity.reportString>
   <!-- EN: extracting bioferrite from TargetA. -->
-  <ExtractBioferrite.reportString>extracting bioferrite from TargetA.</ExtractBioferrite.reportString>
+  <ExtractBioferrite.reportString>вилучає біоферрит з TargetA.</ExtractBioferrite.reportString>
   <!-- EN: fleeing. -->
   <FleeAndCowerShort.reportString>тікає.</FleeAndCowerShort.reportString>
   <!-- EN: playing with golden cube. -->

@@ -105,7 +105,7 @@
   <!-- EN: void provocation -->
   <VoidProvocation.label>провокація порожнечі</VoidProvocation.label>
   <!-- EN: Psychically commune with the void, attracting an entity which can be captured and studied. There's a chance that the invoker will fall into a coma for several hours. -->
-  <VoidProvocation.description>Psychically commune with the void, attracting an entity which can be captured and studied. There's a chance that the invoker will fall into a coma for several hours.</VoidProvocation.description>
+  <VoidProvocation.description>Психічно спілкуватися з порожнечею, викликаючи сутність, яку можна схопити та вивчити. Існує ймовірність того, що той, хто проводить ритуал впаде у кому на кілька годин.</VoidProvocation.description>
   <!-- EN: With the current quality, there's a {0} chance the invoker will receive dark psychic shock. -->
   <VoidProvocation.outcomeDescription>З поточною якістю існує шанс у {0}, що той, хто проводить отримає темний психічний шок.</VoidProvocation.outcomeDescription>
 </LanguageData>

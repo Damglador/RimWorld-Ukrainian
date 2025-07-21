@@ -11,13 +11,13 @@
   <!-- EN: death pall resurrection -->
   <DeathPall.label>death pall resurrection</DeathPall.label>
   <!-- EN: The dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
-  <DeathPall.description>The dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting.</DeathPall.description>
+  <DeathPall.description>Мертві повстануть! Паліть, закопуйте, знищуйте або заносьте всередину трупи, аби запобігти їхньому воскресінню.</DeathPall.description>
   <!-- EN: A death-gray cloud has descended on the area.\n\nThe cloud is made of microscopic self-powered archites created by some unknown superintelligence. Where they land on dead flesh, they will enter the body and reanimate it to create a twisted imitation of life.\n\nThe dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
   <DeathPall.letterText>Трупно-сіра хмара опустилася на цю місцевість.\n\nХмара складається з мікроскопічних автономних архітів, створених якимсь невідомим суперрозумом. Там, де вони потрапляють на мертву плоть, вони проникають у тіло й реанімують його, створюючи спотворену імітацію життя.\n\nМертві воскреснуть! Спалюйте, ховайте, знищуйте або переміщуйте трупи в приміщення, щоб запобігти їх воскресінню.</DeathPall.letterText>
   <!-- EN: gray pall stench -->
   <GrayPall.label>gray pall stench</GrayPall.label>
   <!-- EN: A putrid stench fills the air, making people unhappy. The smell is worse outside. -->
-  <GrayPall.description>A putrid stench fills the air, making people unhappy. The smell is worse outside.</GrayPall.description>
+  <GrayPall.description>Гнильний сморід наповнює повітря, що робить людей нещасними. Надворі запах сильніший.</GrayPall.description>
   <!-- EN: A blanket of gritty fog has descended on this area. It smells somehow ancient and stings the skin. The unnatural grayness of it invokes a sense of dread. -->
   <GrayPall.letterText>На цю місцевість опустилася ковдра піщаного туману. Пахне якось древністю та пощипує шкіру. Його неприродна сірість викликає відчуття страху.</GrayPall.letterText>
   <!-- EN: hate chanting -->

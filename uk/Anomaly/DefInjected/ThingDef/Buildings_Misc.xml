@@ -195,7 +195,7 @@
   <!-- EN: IED deadlife trap -->
   <TrapIED_Deadlife.label>пастка з пилом несмертя</TrapIED_Deadlife.label>
   <!-- EN: A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust. -->
-  <TrapIED_Deadlife.description>Пара снарядів з пилом несмертя, з’єднаних зі спусковим гачком, які детонують від дотику або пострілу. Оскільки пастки призначені для прихованого встановлення, їх не можна ставити поряд з іншими подібними пристроями. Тварини у спокійному стані обходять міни та пастки стороною, але все-одно можуть зачепити їх.\n\nЦі пастки потребують трупів неподалік, щоб воскресити їх пилом несмертя.</TrapIED_Deadlife.description>
+  <TrapIED_Deadlife.description>Пара снарядів з пилом несмертя, з’єднаних зі спусковим гачком, які детонують від дотику або пострілу. Оскільки пастки призначені для прихованого встановлення, їх не можна ставити поряд з іншими подібними пристроями. Тварини у спокійному стані обходять міни та пастки стороною, але попри це можуть зачепити їх.\n\nЦі пастки потребують трупів неподалік, щоб воскресити їх пилом несмертя.</TrapIED_Deadlife.description>
   <!-- EN: tactical turret -->
   <Turret_TacticalTurret.label>тактична турель</Turret_TacticalTurret.label>
   <!-- EN: A short-range turret. It will stop functioning once its battery runs out. If damaged sufficiently, it may explode. -->

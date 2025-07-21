@@ -7,7 +7,7 @@
   <!-- EN: anomaly incidents disabled -->
   <Disabled.label>аномальні інциденти вимкнено</Disabled.label>
   <!-- EN: Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content. -->
-  <Disabled.description>Anomaly threats do not occur. Good if you don't want to interact with most Anomaly expansion content.</Disabled.description>
+  <Disabled.description>Аномальні загрози не будуть з'являтися. Вибір для тих, хто не хоче взаємодіяти з більшістю контенту доповнення Anomaly.</Disabled.description>
   <!-- EN: standard with monolith -->
   <Standard.label>стандартно з монолітом</Standard.label>
   <!-- EN: The standard Anomaly experience. Anomaly threats are linked to the activation of the void monolith. -->

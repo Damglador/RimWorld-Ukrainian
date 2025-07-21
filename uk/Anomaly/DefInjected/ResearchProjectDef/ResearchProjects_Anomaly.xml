@@ -263,7 +263,7 @@
     <li>subject_gerund->performing a chronophagy ritual</li>
   </Chronophagy.generalRules.rulesStrings>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust.label>пил несмерття</DeadlifeDust.label>
+  <DeadlifeDust.label>пил несмертя</DeadlifeDust.label>
   <!-- EN: Craft devices that produce clouds of microscopic archites. The archites can reanimate corpses to produce deadly shamblers that will only attack your enemies. -->
   <DeadlifeDust.description>Можливість створювати пристрої, що випускають мікроскопічних архітів. Архіти можуть реанімувати трупи, перетворюючи їх на смертоносних волокунів, які будуть атакувати ваших ворогів.</DeadlifeDust.description>
   <!-- EN:
@@ -276,12 +276,12 @@
     <li>subject_gerund->distributing archites to create shamblers</li>
   -->
   <DeadlifeDust.generalRules.rulesStrings>
-    <li>subject->deadlife dust</li>
+    <li>subject->пил несмертя</li>
     <li>subject_story->synthesized an aerosol-dispersal system for nanobots</li>
     <li>subject_story->used atomic centrifuges to separate out different grades of archite</li>
     <li>subject_story->watched a deadly shambler assault on an Urbworld vidclip</li>
     <li>subject_story->developed an archite control device with autotuned IFF systems</li>
-    <li>subject_gerund->crafting deadlife dust</li>
+    <li>subject_gerund->створення пилу несмертя</li>
     <li>subject_gerund->distributing archites to create shamblers</li>
   </DeadlifeDust.generalRules.rulesStrings>
   <!-- EN: death refusal -->

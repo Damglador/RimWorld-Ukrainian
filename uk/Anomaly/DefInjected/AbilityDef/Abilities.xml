@@ -41,7 +41,7 @@
   <!-- EN: release deadlife dust -->
   <ReleaseDeadlifeDust.label>вивільнити пил несмертя</ReleaseDeadlifeDust.label>
   <!-- EN: Release a cloud of dust-like substance that will settle on nearby corpses and raise them as shamblers. The shamblers will only attack your enemies. Deadlife dust is made of nano-scale archites that penetrate and reanimate dead tissue at the cellular level. -->
-  <ReleaseDeadlifeDust.description>Випустити хмару пилоподібної речовини, яка осяде на сусідніх трупах і підніме їх на ноги. Немертві будуть атакувати лише ваших ворогів. Пил несмертя складається з мікроскопічних архітів, які проникають і реанімують мертві тканини на клітинному рівні.</ReleaseDeadlifeDust.description>
+  <ReleaseDeadlifeDust.description>Випустити хмару пилоподібної речовини, яка осяде на трупи поблизу, повертаючи їх до життя як волокунів. Волокуни будуть атакувати лише ваших ворогів. Пил несмертя складається з мікроскопічних архітів, які проникають і реанімують мертві тканини на клітинному рівні.</ReleaseDeadlifeDust.description>
   <!-- EN: release deadlife dust -->
   <ReleaseDeadlifeDust.verbProperties.label>вивільнити пил несмертя</ReleaseDeadlifeDust.verbProperties.label>
   <!-- EN: revenant invisibility -->
@@ -67,7 +67,7 @@
   <!-- EN: transmute steel -->
   <TransmuteSteel.label>трансмутація сталі</TransmuteSteel.label>
   <!-- EN: Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items. -->
-  <TransmuteSteel.description>Reconfigure steel at the atomic level, turning it into a random valuable material. Can target steel, steel slag chunks, steel buildings, or steel items.</TransmuteSteel.description>
+  <TransmuteSteel.description>Видозмінити сталь на атомному рівні, перетворивши її на випадковий цінний матеріал. Може бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.description>
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Має бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   <!-- EN: entity skip -->
