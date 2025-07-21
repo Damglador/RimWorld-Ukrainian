@@ -1,4 +1,4 @@
-name: Update Workshop
+name: Update Workshop from repo
 
 on:
   workflow_dispatch:

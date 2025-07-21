@@ -1,4 +1,4 @@
-name: Update Crowdin translation
+name: Update repo from Crowdin
 
 on:
   workflow_dispatch:
