@@ -7,7 +7,7 @@ jobs:
   Build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Get files from Crowdin
         uses: crowdin/github-action@v1
         with:
@@ -22,7 +22,7 @@ jobs:
       - name: Build mod
         run: mkdir -p Mod/CrowdinFiles && cp -r uk/* Mod/CrowdinFiles && Mod/build.sh && rm -rf Mod/CrowdinFiles
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: mod-files
           path: Mod/*
