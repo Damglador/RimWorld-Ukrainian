@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: make vacstone blocks -->
-  <Make_StoneBlocksVacstone.label>make vacstone blocks</Make_StoneBlocksVacstone.label>
+  <Make_StoneBlocksVacstone.label>виготовити блоки ваккаменю</Make_StoneBlocksVacstone.label>
   <!-- EN: Cuts vacstone chunks into usable blocks. -->
-  <Make_StoneBlocksVacstone.description>Cuts vacstone chunks into usable blocks.</Make_StoneBlocksVacstone.description>
+  <Make_StoneBlocksVacstone.description>Обтесати уламки ваккаменю в блоки.</Make_StoneBlocksVacstone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksVacstone.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksVacstone.jobString>
+  <Make_StoneBlocksVacstone.jobString>Обтесати блоки з кам'яної брили.</Make_StoneBlocksVacstone.jobString>
 </LanguageData>
