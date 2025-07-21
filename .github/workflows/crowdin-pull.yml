@@ -1,4 +1,4 @@
-name: Sync Crowdin
+name: Update Crowdin translation
 
 on:
   workflow_dispatch:
@@ -9,7 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: crowdin/github-action@v1
+      - name: Get files from Crowdin
+        uses: crowdin/github-action@v1
         with:
           upload_sources: false
           upload_translations: false

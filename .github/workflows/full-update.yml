@@ -1,0 +1,48 @@
+name: Update Steam from Crowdin
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Get files from Crowdin
+        uses: crowdin/github-action@v1
+        with:
+          upload_sources: false
+          upload_translations: false
+          download_translations: true
+          push_translations: true
+        env:
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build mod
+        run: mkdir -p Mod/CrowdinFiles && cp -r uk/* Mod/CrowdinFiles && Mod/build.sh && rm -rf Mod/CrowdinFiles
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: mod-files
+          path: Mod/*
+
+  Update_Workshop:
+    needs: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: mod-files
+          path: Mod/
+      - name: Update the mod on Steam
+        uses: hmlendea/steam-workshop-update@v1.2.0
+        with:
+          appid: 294100 # The game's Steam App ID
+          itemid: 3531401512 # The mod's Steam Workshop Item ID
+          path: Mod/ # Relative path to your mod's folder, starting from the repository root
+        env:
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }} # The Steam account username
+          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }} # The Steam account password
+          STEAM_2FASEED: ${{ secrets.STEAM_2FASEED }} # The Steam account 2FA seed (standard TOTP, not the SteamGuard base64 secret)
