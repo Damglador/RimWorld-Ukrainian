@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: download-git
-      uses: actions/checkout@latest
+      uses: actions/checkout@v3
     - name: steam-workshop-update
       uses: hmlendea/steam-workshop-update@v1.2.0
       with:
