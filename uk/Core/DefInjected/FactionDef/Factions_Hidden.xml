@@ -7,7 +7,7 @@
   <!-- EN: leader -->
   <Ancients.leaderTitle>лідер</Ancients.leaderTitle>
   <!-- EN: Ancient soldiers are attacking. -->
-  <Ancients.messageDefendersAttacking>Ancient soldiers are attacking.</Ancients.messageDefendersAttacking>
+  <Ancients.messageDefendersAttacking>Стародавні воїни атакують.</Ancients.messageDefendersAttacking>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>древній</Ancients.pawnSingular>
   <!-- EN: ancients -->
@@ -19,7 +19,7 @@
   <!-- EN: leader -->
   <AncientsHostile.leaderTitle>лідер</AncientsHostile.leaderTitle>
   <!-- EN: Ancient soldiers are attacking. -->
-  <AncientsHostile.messageDefendersAttacking>Ancient soldiers are attacking.</AncientsHostile.messageDefendersAttacking>
+  <AncientsHostile.messageDefendersAttacking>Стародавні воїни атакують.</AncientsHostile.messageDefendersAttacking>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>древній</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
@@ -33,7 +33,7 @@
   <!-- EN: leader -->
   <Insect.leaderTitle>лідер</Insect.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Insect.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Insect.messageDefendersAttacking>
+  <Insect.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</Insect.messageDefendersAttacking>
   <!-- EN: insect -->
   <Insect.pawnSingular>комаха</Insect.pawnSingular>
   <!-- EN: insects -->
@@ -45,7 +45,7 @@
   <!-- EN: leader -->
   <Mechanoid.leaderTitle>лідер</Mechanoid.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Mechanoid.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Mechanoid.messageDefendersAttacking>
+  <Mechanoid.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</Mechanoid.messageDefendersAttacking>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>механоїд</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->

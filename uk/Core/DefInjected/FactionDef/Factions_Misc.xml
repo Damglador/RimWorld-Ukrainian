@@ -7,7 +7,7 @@
   <!-- EN: prime councilor -->
   <OutlanderCivil.leaderTitle>верховний радник</OutlanderCivil.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <OutlanderCivil.messageDefendersAttacking>{0} from {1} are attacking your {2}.</OutlanderCivil.messageDefendersAttacking>
+  <OutlanderCivil.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</OutlanderCivil.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderCivil.pawnSingular>чужинець</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
@@ -19,7 +19,7 @@
   <!-- EN: prime councilor -->
   <OutlanderRough.leaderTitle>верховний радник</OutlanderRough.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <OutlanderRough.messageDefendersAttacking>{0} from {1} are attacking your {2}.</OutlanderRough.messageDefendersAttacking>
+  <OutlanderRough.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</OutlanderRough.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderRough.pawnSingular>чужинець</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
@@ -31,7 +31,7 @@
   <!-- EN: boss -->
   <Pirate.leaderTitle>ватажок</Pirate.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Pirate.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Pirate.messageDefendersAttacking>
+  <Pirate.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</Pirate.messageDefendersAttacking>
   <!-- EN: pirate -->
   <Pirate.pawnSingular>пірат</Pirate.pawnSingular>
   <!-- EN: pirates -->
@@ -43,7 +43,7 @@
   <!-- EN: chief -->
   <TribeCivil.leaderTitle>вождь</TribeCivil.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <TribeCivil.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeCivil.messageDefendersAttacking>
+  <TribeCivil.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</TribeCivil.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeCivil.pawnSingular>абориген</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
@@ -55,7 +55,7 @@
   <!-- EN: chief -->
   <TribeRough.leaderTitle>вождь</TribeRough.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <TribeRough.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeRough.messageDefendersAttacking>
+  <TribeRough.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</TribeRough.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeRough.pawnSingular>абориген</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
@@ -67,7 +67,7 @@
   <!-- EN: chief -->
   <TribeSavage.leaderTitle>вождь</TribeSavage.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <TribeSavage.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribeSavage.messageDefendersAttacking>
+  <TribeSavage.messageDefendersAttacking>{0} з фракції «{1}» атакують. {2} під загрозою.</TribeSavage.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeSavage.pawnSingular>абориген</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->

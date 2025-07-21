@@ -127,7 +127,7 @@
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>Увімкнути тестові розміри мап</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
-  <MaxPermadeathAutosaveIntervalInfo>Максимальний інтервал днів, між автозбереженнями в режимі остаточної смерті - {0}.</MaxPermadeathAutosaveIntervalInfo>
+  <MaxPermadeathAutosaveIntervalInfo>Максимальний інтервал днів між автозбереженнями в режимі остаточної смерті - {0}.</MaxPermadeathAutosaveIntervalInfo>
   <!-- EN: Mod Settings -->
   <ModSettings>Налаштування модифікацій</ModSettings>
   <!-- EN: Permanently disable development mode -->

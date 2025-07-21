@@ -805,7 +805,7 @@
   <!-- EN: Filth -->
   <Filth_Label>Чистота</Filth_Label>
   <!-- EN: Features -->
-  <Features_Label>Features</Features_Label>
+  <Features_Label>Особливості</Features_Label>
   <!-- EN: Faction -->
   <Faction_Label>Фракція</Faction_Label>
   <!-- EN: Relationship -->
@@ -1995,11 +1995,11 @@
   <AutoHackDesc>When enabled, researchers will automatically hack this.</AutoHackDesc>
   <!-- World -->
   <!-- EN: View {LAYER_label} -->
-  <WorldSelectLayer>View {LAYER_label}</WorldSelectLayer>
+  <WorldSelectLayer>Перемкнутися на {lookup: {LAYER_label}; Case; 3}</WorldSelectLayer>
   <!-- EN: Jump to location -->
-  <WorldJumpTo>Jump to location</WorldJumpTo>
+  <WorldJumpTo>Перейти до місця</WorldJumpTo>
   <!-- EN: Find a colony, caravan, or quest location on the world map. -->
-  <WorldJumpToDesc>Find a colony, caravan, or quest location on the world map.</WorldJumpToDesc>
+  <WorldJumpToDesc>Знайти розташування колонії, каравану чи доручення на мапі світу.</WorldJumpToDesc>
   <!-- EN: Nothing to jump to. -->
   <NothingToJumpTo>Nothing to jump to.</NothingToJumpTo>
   <!-- EN: cannot function in {0} -->

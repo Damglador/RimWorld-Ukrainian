@@ -542,9 +542,9 @@
   <!-- EN: without medicine -->
   <WithoutMedicine>без медикаментів</WithoutMedicine>
   <!-- EN: Repair {0} -->
-  <RepairThing>Ремонтувати {lookup: {0}; Case; 4}</RepairThing>
+  <RepairThing>Ремонтувати {lookup: {0}; Case; 3}</RepairThing>
   <!-- EN: Cannot repair {0} -->
-  <CannotRepair>Неможливо ремонтувати {lookup: {0}; Case; 4}</CannotRepair>
+  <CannotRepair>Неможливо ремонтувати {lookup: {0}; Case; 3}</CannotRepair>
   <!-- EN: Cannot enter -->
   <CannotEnter>Неможливо увійти</CannotEnter>
   <!-- EN: Cannot enter {0} -->
