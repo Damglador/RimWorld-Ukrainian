@@ -5,8 +5,15 @@
     <li>lodgersLabelPlural->prisoners</li>
   -->
   <Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
-    <li>lodgersLabel->prisoner</li>
+    <li>lodgersLabel(lodgers0_gender==Male)->prisoner</li>
+    <li>lodgersLabel(lodgers0_gender==Female)->prisoner</li>
+    <li>lodgersLabelGen(lodgers0_gender==Male)->prisoner</li>
+    <li>lodgersLabelGen(lodgers0_gender==Female)->prisoner</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Male)->prisoner</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Female)->prisoner</li>
     <li>lodgersLabelPlural->prisoners</li>
+    <li>lodgersLabelPluralGen->prisoners</li>
+    <li>lodgersLabelPluralAcc->prisoners</li>
   </Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true,lodgersCount==1)->An orbiting ship captain wants you to guard a prisoner named [lodgers0_nameFull] at [map_definite] for [shuttleDelayTicks_duration]. [allLodgerInfo][threatsInfo1][commonDescEnding]</li>

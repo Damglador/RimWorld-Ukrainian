@@ -5,8 +5,15 @@
     <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
   -->
   <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
-    <li>lodgersLabel->guest</li>
+    <li>lodgersLabel(lodgers0_gender==Male)->guest</li>
+    <li>lodgersLabel(lodgers0_gender==Female)->guest</li>
+    <li>lodgersLabelGen(lodgers0_gender==Male)->guest</li>
+    <li>lodgersLabelGen(lodgers0_gender==Female)->guest</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Male)->guest</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Female)->guest</li>
     <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
+    <li>lodgersLabelPluralGen->[asker_faction_pawnsPlural]</li>
+    <li>lodgersLabelPluralAcc->[asker_faction_pawnsPlural]</li>
   </Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
