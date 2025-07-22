@@ -20,7 +20,12 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build mod
-        run: mkdir -p Mod/CrowdinFiles && cp -r uk/* Mod/CrowdinFiles && Mod/build.sh && rm -rf Mod/CrowdinFiles
+        run: | 
+          mkdir -p Mod/CrowdinFiles
+          cp -r uk/* Mod/CrowdinFiles
+          cp -r CustomTranslations/* Mod/CrowdinFiles
+          Mod/build.sh
+          rm -rf Mod/CrowdinFiles
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
