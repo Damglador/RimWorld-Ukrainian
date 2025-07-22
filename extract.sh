@@ -58,5 +58,5 @@ for dlc in "$GAMEDIR"/Data/*/; do
 	[ ! -f "$dlc"/Languages/"$LANGN.tar" ] && log "No file "$LANGN".tar in "$dlc"/Languages" && continue
 	log "Extracting files from $dlc"
 	mkdir -p "$DEST"/"$LANGN"/"$(basename "$dlc")"/
-	tar -xvf "$dlc"/Languages/"$LANGN.tar" -C "$DEST"/"$LANGN"/"$(basename "$dlc")"/
+	tar -xf "$dlc"/Languages/"$LANGN.tar" -C "$DEST"/"$LANGN"/"$(basename "$dlc")"/
 done
