@@ -125,8 +125,15 @@
     <li>lodgersLabelPlural->refugees</li>
   -->
   <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
-    <li>lodgersLabel->refugee</li>
-    <li>lodgersLabelPlural->refugees</li>
+    <li>lodgersLabel(lodgers0_gender==Male)->біженець</li>
+    <li>lodgersLabel(lodgers0_gender==Female)->біженка</li>
+    <li>lodgersLabelGen(lodgers0_gender==Male)->біженця</li>
+    <li>lodgersLabelGen(lodgers0_gender==Female)->біженки</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Male)->біженця</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Female)->біженку</li>
+    <li>lodgersLabelPlural->біженці</li>
+    <li>lodgersLabelPluralGen->біженців</li>
+    <li>lodgersLabelPluralAcc->біженців</li>
   </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>offer(lodgerCount==1)->offers</li>
@@ -303,8 +310,15 @@
     <li>lodgersLabelPlural->refugees</li>
   -->
   <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
-    <li>lodgersLabel->refugee</li>
-    <li>lodgersLabelPlural->refugees</li>
+    <li>lodgersLabel(lodgers0_gender==Male)->біженець</li>
+    <li>lodgersLabel(lodgers0_gender==Female)->біженка</li>
+    <li>lodgersLabelGen(lodgers0_gender==Male)->біженця</li>
+    <li>lodgersLabelGen(lodgers0_gender==Female)->біженки</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Male)->біженця</li>
+    <li>lodgersLabelAcc(lodgers0_gender==Female)->біженку</li>
+    <li>lodgersLabelPlural->біженці</li>
+    <li>lodgersLabelPluralGen->біженців</li>
+    <li>lodgersLabelPluralAcc->біженців</li>
   </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription->[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>

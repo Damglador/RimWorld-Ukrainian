@@ -30,7 +30,7 @@
   <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
   <LetterRelationsChange_Ally>Відносини з {0} стали дуже близькими. Вони тепер вважають вас союзником.</LetterRelationsChange_Ally>
   <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
-  <LetterRelationsChange_AllyGoodwillDescription>Вони, іноді, будуть насилати вам допомогу, коли на вас нападуть. Ви також можете покликати їх самостійно в будь-який час, але ціною прихильності.\n\nВи стали союзниками, тому що ваша прихильність ({0}) піднялася до {1} одиниць. Якщо прихильність знизиться до рівня {2}, відносини повернуться до нейтральних.</LetterRelationsChange_AllyGoodwillDescription>
+  <LetterRelationsChange_AllyGoodwillDescription>Вони, іноді, будуть насилати вам допомогу, коли на вас нападуть. Ви також можете покликати їх самостійно в будь-який час, але ціною прихильності.\n\nВи стали союзниками, оскільки ваша прихильність ({0}) перевищила {1} одиниць. Якщо прихильність знизиться до рівня {2}, відносини повернуться до нейтральних.</LetterRelationsChange_AllyGoodwillDescription>
   <!-- EN: goodwill -->
   <goodwill>прихильність</goodwill>
   <!-- EN: Neutral -->

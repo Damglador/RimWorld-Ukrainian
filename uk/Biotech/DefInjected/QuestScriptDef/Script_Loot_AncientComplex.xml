@@ -31,18 +31,18 @@
   <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
     <li>questName(p=3)->[complexAdj] mechanitor [complex]</li>
     <li>questName->mechanitor [complex]</li>
-    <li>complexAdj->secret</li>
-    <li>complexAdj->ancient</li>
-    <li>complexAdj->old</li>
-    <li>complexAdj->hidden</li>
-    <li>complexAdj->dusty</li>
-    <li>complexAdj->dangerous</li>
-    <li>complexAdj->hidden</li>
-    <li>complex->complex</li>
-    <li>complex->lair</li>
-    <li>complex->base</li>
-    <li>complex->compound</li>
-    <li>complex->crypt</li>
+    <li>complexAdj->секретний</li>
+    <li>complexAdj->древній</li>
+    <li>complexAdj->старий</li>
+    <li>complexAdj->прихований</li>
+    <li>complexAdj->запорошений</li>
+    <li>complexAdj->небезпечний</li>
+    <li>complexAdj->прихований</li>
+    <li>complex->комплекс</li>
+    <li>complex->лігво</li>
+    <li>complex->база</li>
+    <li>complex->склад</li>
+    <li>complex->склеп</li>
     <li>complex->mechplex</li>
     <li>complex->mechsite</li>
   </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>

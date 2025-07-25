@@ -289,11 +289,11 @@
   <!-- EN: The total complexity of all the genes in use. -->
   <ComplexityTotalDesc>Складність усіх використаних генів.</ComplexityTotalDesc>
   <!-- EN: metabolic efficiency -->
-  <Metabolism>metabolic efficiency</Metabolism>
+  <Metabolism>ефективність метаболізму</Metabolism>
   <!-- EN: The total metabolic efficiency of these genes when assembled. High efficiency means a person needs less food; low efficiency means they must eat more. -->
   <MetabolismDesc>Загальна метаболічна ефективність цих генів. Висока ефективність означає, що людині потрібно менше їжі; низька ефективність - навпаки.</MetabolismDesc>
   <!-- EN: Metabolic efficiency -->
-  <MetabolismTotal>Метаболічна ефективність</MetabolismTotal>
+  <MetabolismTotal>Ефективність метаболізму</MetabolismTotal>
   <!-- EN: The total metabolic efficiency of all genes in the genome. High efficiency means a person needs less food; low efficiency means they must eat more. -->
   <MetabolismTotalDesc>Загальна метаболічна ефективність усіх генів у геномі. Висока ефективність означає, що людині потрібно менше їжі; низька ефективність - навпаки.</MetabolismTotalDesc>
   <!-- EN: Number of genes -->

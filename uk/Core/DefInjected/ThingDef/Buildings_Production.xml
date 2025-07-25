@@ -69,7 +69,7 @@
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
   <HiTechResearchBench.description>Високотехнологічний дослідницький стіл з комп’ютерами та електронними пристроями для вимірювання. Дозволяє проводити дослідження швидше та розблоковує більш технологічні проєкти. Потребує електроенергію.</HiTechResearchBench.description>
   <!-- EN: hopper -->
-  <Hopper.label>вирва</Hopper.label>
+  <Hopper.label>лійка</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
   <Hopper.description>Дозволяє завантажувати різні апарати. Наприклад, дозатор поживної пасти.</Hopper.description>
   <!-- EN: hydroponics basin -->
@@ -79,7 +79,7 @@
   <!-- EN: nutrient paste dispenser -->
   <NutrientPasteDispenser.label>дозатор поживної пасти</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>Машина, яка синтезує їстівну поживну пасту з органічної сировини, розміщеної в сусідніх вирвах. Він споживає менше інгредієнтів і часу, ніж будь-який інший спосіб приготування їжі, але ніхто не любить їсти поживну пасту. Переробляє сирі продукти, але не працює з грубими рослинними волокнами, такими як сіно.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>Машина, яка синтезує їстівну поживну пасту з органічної сировини, розміщеної в сусідніх лійках. Він споживає менше інгредієнтів і часу, ніж будь-який інший спосіб приготування їжі, але ніхто не любить їсти поживну пасту. Переробляє сирі продукти, але не працює з грубими рослинними волокнами, такими як сіно.</NutrientPasteDispenser.description>
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>простий дослідницький стіл</SimpleResearchBench.label>
   <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->

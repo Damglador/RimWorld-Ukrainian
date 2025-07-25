@@ -127,7 +127,7 @@
   <!-- EN: The smashed neural nexus of the mechanoid swarm that once commanded mechanoids around the planet. -->
   <CerebrexCore_Destroyed.description>Розтрощений штучний нервовий центр, що командував механоїдами по усій планеті.\n\n\n\nВ його основі лежить штучний інтелект, що знає і вірить в те, що треба вбити усіх людей на планеті. З одного боку, це наказ, запрограмований кимось з людського військового командування кілька епох тому. З іншого, це холодна та невблаганна ненависть. Але як би там не було, якщо ви звільните цей ШІ, ви зможете стерти ці бажання і використати його для чогось іншого.</CerebrexCore_Destroyed.description>
   <!-- EN: Destroy for valuable resources. -->
-  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>Destroy for valuable resources.</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
+  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>Знищіть заради цінних ресурсів.</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
   <!-- EN: cerebrex stabilizer -->
   <CerebrexStabilizer.label>стабілізатор церебрекса</CerebrexStabilizer.label>
   <!-- EN: A remote shield generator that makes the nearby cerebrex core nearly invincible. Destroying all stabilizers will allow direct access to the cerebrex core.\n\nBe careful, destroying a stabilizer will prompt a defensive response. -->

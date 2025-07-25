@@ -65,7 +65,7 @@
   <!-- EN: Plan -->
   <DesignatorPlan>Планування</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones. -->
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Розміщення позначень планування. Вони нічого не роблять, окрім як допомагають планувати майбутні розширення.\n\nКлікніть правою кнопкою миші, щоб приховати або показати всі зони планування.</DesignatorPlanDesc>
   <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Видалити планування</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
@@ -143,7 +143,7 @@
   <!-- EN: Remove bridge -->
   <DesignatorRemoveBridge>Розібрати міст</DesignatorRemoveBridge>
   <!-- EN: Deconstruct bridges to reclaim partial resources. -->
-  <DesignatorRemoveBridgeDesc>Deconstruct bridges to reclaim partial resources.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>Демонтувати мости, щоб повернути частину ресурсів.</DesignatorRemoveBridgeDesc>
   <!-- EN: Strip -->
   <DesignatorStrip>Роздягнути</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
@@ -153,9 +153,9 @@
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Відкрити контейнер, чи могилу.</DesignatorOpenDesc>
   <!-- EN: Eject fuel -->
-  <DesignatorEjectFuel>Eject fuel</DesignatorEjectFuel>
+  <DesignatorEjectFuel>Злити паливо</DesignatorEjectFuel>
   <!-- EN: Eject all contained fuel onto the ground. -->
-  <DesignatorEjectFuelDesc>Eject all contained fuel onto the ground.</DesignatorEjectFuelDesc>
+  <DesignatorEjectFuelDesc>Злийте все паливо, що міститься в баку, в каністри на землю.</DesignatorEjectFuelDesc>
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Забити</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
@@ -165,7 +165,7 @@
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Приручити дику тварину.</DesignatorTameDesc>
   <!-- EN: Scaria infected animals can't be tamed. -->
-  <CantTameScaria>Scaria infected animals can't be tamed.</CantTameScaria>
+  <CantTameScaria>Заражених сказом тварин неможливо приручити.</CantTameScaria>
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Відпустити на волю</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
@@ -211,13 +211,13 @@
   <!-- EN: Grabbed color -->
   <GrabbedColor>Вибраний колір</GrabbedColor>
   <!-- EN: Expand plan -->
-  <DesignatorExpandPlan>Expand plan</DesignatorExpandPlan>
+  <DesignatorExpandPlan>Розширити план</DesignatorExpandPlan>
   <!-- EN: New plan -->
-  <NewPlan>New plan</NewPlan>
+  <NewPlan>Створити план території</NewPlan>
   <!-- EN: Shrink plan -->
-  <DesignatorPlanShrinkSingular>Shrink plan</DesignatorPlanShrinkSingular>
+  <DesignatorPlanShrinkSingular>Зменшити район планування</DesignatorPlanShrinkSingular>
   <!-- EN: Remove plans. -->
-  <DesignatorPlanShrinkDesc>Remove plans.</DesignatorPlanShrinkDesc>
+  <DesignatorPlanShrinkDesc>Видалити район планування.</DesignatorPlanShrinkDesc>
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Не вибраний матеріал</UnchosenStuff>
@@ -238,9 +238,9 @@
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Тут уже є {0}.</TerrainIsAlready>
   <!-- EN: There is already foundation here. -->
-  <FoundationAlreadyExists>There is already foundation here.</FoundationAlreadyExists>
+  <FoundationAlreadyExists>Тут вже є фундамент.</FoundationAlreadyExists>
   <!-- EN: The existing terrain here cannot be removed. -->
-  <TerrainUnremovable>The existing terrain here cannot be removed.</TerrainUnremovable>
+  <TerrainUnremovable>Наявний рельєф тут не може бути видалений.</TerrainUnremovable>
   <!-- EN: The surface is already marked for smoothing. -->
   <SurfaceBeingSmoothed>Територія вже відмічена для вирівнювання.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
@@ -281,9 +281,9 @@
   <!-- EN: Create new {0} -->
   <CreateNewZone>Створити {0}</CreateNewZone>
   <!-- EN: Expand {0} or\nCreate new plan -->
-  <ExpandOrCreatePlan>Expand {0} or\nCreate new plan</ExpandOrCreatePlan>
+  <ExpandOrCreatePlan>Розгорнути {0} або\nСтворити новий план</ExpandOrCreatePlan>
   <!-- EN: Create new plan -->
-  <CreateNewPlan>Create new plan</CreateNewPlan>
+  <CreateNewPlan>Створити новий план</CreateNewPlan>
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
   <TransmitsPower>Передає потужність</TransmitsPower>
@@ -292,7 +292,7 @@
   <!-- EN: None of your {0} have this skill. -->
   <NoColonistWithSkillTip>Жоден з ваших {lookup: {0}; Case; 1} не має необхідних навичок.</NoColonistWithSkillTip>
   <!-- EN: {0} needed -->
-  <SkillNeededForConstructing>Необхідна навичка: {0}</SkillNeededForConstructing>
+  <SkillNeededForConstructing>Потребує: {0}</SkillNeededForConstructing>
   <!-- EN: None of your {0} have all skills required. -->
   <NoColonistWithAllSkillsForConstructing>Жоден з ваших {lookup: {0}; Case; 1} не має необхідних навичок.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->

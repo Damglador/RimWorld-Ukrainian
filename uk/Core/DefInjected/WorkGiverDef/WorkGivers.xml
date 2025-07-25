@@ -57,7 +57,7 @@
   <!-- EN: remove foundation -->
   <ConstructRemoveFoundations.label>remove foundation</ConstructRemoveFoundations.label>
   <!-- EN: removing foundation -->
-  <ConstructRemoveFoundations.gerund>removing foundation</ConstructRemoveFoundations.gerund>
+  <ConstructRemoveFoundations.gerund>прибрати фундамент</ConstructRemoveFoundations.gerund>
   <!-- EN: remove foundation -->
   <ConstructRemoveFoundations.verb>remove foundation</ConstructRemoveFoundations.verb>
   <!-- EN: smooth floors -->
@@ -73,7 +73,7 @@
   <!-- EN: smooth -->
   <ConstructSmoothWalls.verb>шліфувати</ConstructSmoothWalls.verb>
   <!-- EN: fill food hoppers -->
-  <CookFillHopper.label>наповнювати вирви</CookFillHopper.label>
+  <CookFillHopper.label>наповнювати лійки</CookFillHopper.label>
   <!-- EN: filling -->
   <CookFillHopper.gerund>наповнити</CookFillHopper.gerund>
   <!-- EN: fill -->

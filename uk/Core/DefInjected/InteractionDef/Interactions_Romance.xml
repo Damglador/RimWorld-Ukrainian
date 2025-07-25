@@ -103,7 +103,7 @@
     <li>wooed->{INITIATOR_gender ? доглядав : доглядала} за</li>
     <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] {lookup: [PersonalCharacteristic]; Rule; 3}</li>
     <li>wootactic->розповідаючи історію про [TalkTopicAny]</li>
-    <li>wootactic->розповідаючи розповідь про [TalkTopicAny]</li>
+    <li>wootactic->розповідаючи історію про [TalkTopicAny]</li>
     <li>wootactic->жартуючи про [TalkTopicAny]</li>
     <li>wootactic->висловлення зауваження щодо [TalkTopicAny]</li>
     <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] {lookup: [PersonalCharacteristic]; Rule; 3}</li>

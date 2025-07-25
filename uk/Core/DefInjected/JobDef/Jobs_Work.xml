@@ -89,7 +89,7 @@
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>знімає підлогу</RemoveFloor.reportString>
   <!-- EN: removing foundation. -->
-  <RemoveFoundation.reportString>removing foundation.</RemoveFoundation.reportString>
+  <RemoveFoundation.reportString>прибирає фундамент.</RemoveFoundation.reportString>
   <!-- EN: removing paint from TargetA. -->
   <RemovePaintBuilding.reportString>знімає фарбу з {lookup: {TargetA}; Case; 3}</RemovePaintBuilding.reportString>
   <!-- EN: removing paint from TargetA. -->

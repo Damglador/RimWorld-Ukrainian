@@ -77,7 +77,7 @@
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>вже заповнено</AlreadyFilledLower>
   <!-- EN: missing {0} -->
-  <MissingMaterials>потрібен {0}</MissingMaterials>
+  <MissingMaterials>потрібно {0}</MissingMaterials>
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
   <NoMedicineMatchingCategory>Немає ліків для догляду «{CATEGORY}».</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
@@ -440,7 +440,7 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>Колоніст вже почав {0}</CannotGenericAlreadyAmCustom>
   <!-- EN: Will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>Не вміє в {0}</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Ніколи не буде {lookup: {0}; skilldo; 1}</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>немає необхідного титулу</MissingTitleAbility>
   <!-- EN: Will never {0} -->
@@ -448,11 +448,11 @@
   <!-- EN: will never {0} -->
   <WillNever>ніколи не буде {lookup: {0}; Case; 4}</WillNever>
   <!-- EN: Not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>Not assigned to {0}</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Не призначений займатися {lookup: {0}; Case; 4}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>не призначений</NotAssigned>
   <!-- EN: not assigned to {0} -->
-  <NotAssignedToWorkType>не є {lookup: {0}; Case; 4}</NotAssignedToWorkType>
+  <NotAssignedToWorkType>не призначений займатися {lookup: {0}; Case; 4}</NotAssignedToWorkType>
   <!-- EN: Research is a long-term task -->
   <CannotPrioritizeResearch>Research is a long-term task</CannotPrioritizeResearch>
   <!-- EN: {1_label} is forbidden -->
@@ -471,11 +471,11 @@
   <!-- EN: Launch to {LOCATION_label} -->
   <LaunchTo>Launch to {LOCATION_label}</LaunchTo>
   <!-- EN: Are you sure you want to launch? -->
-  <LaunchToConfirmation>Are you sure you want to launch?</LaunchToConfirmation>
+  <LaunchToConfirmation>Впевнені, що хочете злітати?</LaunchToConfirmation>
   <!-- EN: Drop at edge -->
-  <DropAtEdge>Кинути з краю</DropAtEdge>
+  <DropAtEdge>Приземлити з краю</DropAtEdge>
   <!-- EN: Drop in center -->
-  <DropInCenter>Кинути в центр</DropInCenter>
+  <DropInCenter>Приземлити в центрі</DropInCenter>
   <!-- EN: Attack {0} -->
   <AttackShuttle>Атакувати {lookup: {0}; Case; 3}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
@@ -536,7 +536,7 @@
   <!-- EN: Tend {0} -->
   <Tend>Лікувати {lookup: {0}; Case; 3}</Tend>
   <!-- EN: Cannot tend {0} -->
-  <CannotTend>Неможливо лікувати {lookup: {0}; Case; 3}</CannotTend>
+  <CannotTend>Неможливо лікувати {0}</CannotTend>
   <!-- EN: {0} does not require tending -->
   <TendingNotRequired>{0} не потребує лікування</TendingNotRequired>
   <!-- EN: without medicine -->
@@ -544,7 +544,7 @@
   <!-- EN: Repair {0} -->
   <RepairThing>Ремонтувати {lookup: {0}; Case; 3}</RepairThing>
   <!-- EN: Cannot repair {0} -->
-  <CannotRepair>Неможливо ремонтувати {lookup: {0}; Case; 3}</CannotRepair>
+  <CannotRepair>Неможливо ремонтувати {0}</CannotRepair>
   <!-- EN: Cannot enter -->
   <CannotEnter>Неможливо увійти</CannotEnter>
   <!-- EN: Cannot enter {0} -->

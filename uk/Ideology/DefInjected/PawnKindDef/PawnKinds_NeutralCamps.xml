@@ -7,11 +7,11 @@
   <!-- EN: logger -->
   <Logger.label>лісоруб</Logger.label>
   <!-- EN: miner -->
-  <Miner.label>шахтар</Miner.label>
+  <Miner.label>гірник</Miner.label>
   <!-- EN: farmer -->
   <Tribal_Farmer.label>фермер</Tribal_Farmer.label>
   <!-- EN: logger -->
   <Tribal_Logger.label>лісоруб</Tribal_Logger.label>
   <!-- EN: miner -->
-  <Tribal_Miner.label>шахтар</Tribal_Miner.label>
+  <Tribal_Miner.label>гірник</Tribal_Miner.label>
 </LanguageData>

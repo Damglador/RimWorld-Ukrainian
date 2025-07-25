@@ -151,7 +151,7 @@
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Немає доступних спальних місць для тварин.</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
-  <MessageWarningNoMedicineForRestriction>Попередження: обмеження {PAWN_nameDef} на препарати ({RESTRICTIONLABEL}) не дозволяє виконати цю операцію. Подумайте про зміну {PAWN_possessive} обмеження на використання препаратів.</MessageWarningNoMedicineForRestriction>
+  <MessageWarningNoMedicineForRestriction>Попередження: обмеження {PAWN_nameDef} на препарати ({RESTRICTIONLABEL}) не дозволяє виконати цю операцію.\nПодумайте про зміну {PAWN_possessive} обмеження на використання препаратів.</MessageWarningNoMedicineForRestriction>
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} {PAWN_gender ? помер : померла}. Причина: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
@@ -261,9 +261,9 @@
   <!-- EN: {0} has died from rotting. -->
   <MessagePlantDiedOfRot>{0} {0_gender ? загинув : загинула : загинуло}.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0} {0_gender ? загинув : загинула : загинуло} через отруєння.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0} гине через отруєння.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{0} {0_gender ? загинув : загинула : загинуло} через хворобу.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} гине через хворобу.</MessagePlantDiedOfBlight>
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{1_labelShort} отримує опіки від перегрітого повітря!</MessagePawnBeingBurned>
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
@@ -305,7 +305,7 @@
   <!-- EN: Transport pod loading complete. Launch when ready. -->
   <MessageFinishedLoadingTransporters>Завантаження транспортних капсул завершено.</MessageFinishedLoadingTransporters>
   <!-- EN: {SHUTTLE_label} is loaded with required cargo and can launch when ready. -->
-  <MessageFinishedLoadingShuttle>{SHUTTLE_label} is loaded with required cargo and can launch when ready.</MessageFinishedLoadingShuttle>
+  <MessageFinishedLoadingShuttle>{SHUTTLE_label} завантажений з необхідним вантажем та може відправлятися.</MessageFinishedLoadingShuttle>
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>Ваші {1} не можуть завершити навантаження через відсутність доступу до деяких людей або речей: {2_labelShort}.</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
@@ -722,7 +722,7 @@
   <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently. -->
   <MessageHackerLockedOutPermanently>{HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently.</MessageHackerLockedOutPermanently>
   <!-- EN: {0_labelShort} can be hacked again. -->
-  <MessageHackableUnlocked>{0_labelShort} can be hacked again.</MessageHackableUnlocked>
+  <MessageHackableUnlocked>{0_labelShort} знову можна зламувати.</MessageHackableUnlocked>
   <!-- EN: Cannot call shuttle -->
   <CannotCallShuttle>Cannot call shuttle</CannotCallShuttle>
   <!-- EN: The shuttle has arrived. -->

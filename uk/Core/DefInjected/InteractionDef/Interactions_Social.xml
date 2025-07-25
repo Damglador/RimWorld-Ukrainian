@@ -22,23 +22,23 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
-    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] з [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [subject] до [RECIPIENT_nameDef].</li>
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</li>
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
-    <li>talkedabout(p=4)->chatted about</li>
-    <li>talkedabout->shared a word about</li>
-    <li>talkedabout->spoke about</li>
-    <li>talkedabout->gabbed about</li>
-    <li>talkedabout->talked about</li>
-    <li>talkedabout->joked about</li>
-    <li>talkedabout->quipped about</li>
-    <li>commentedabout->said something about</li>
-    <li>commentedabout->said a word about</li>
-    <li>commentedabout->made a comment about</li>
-    <li>commentedabout->commented about</li>
-    <li>commentedabout->told a joke about</li>
+    <li>talkedabout(p=4)->теревенять про</li>
+    <li>talkedabout->перекинулися словом про</li>
+    <li>talkedabout->говорять про</li>
+    <li>talkedabout->базікають про</li>
+    <li>talkedabout->балакають про</li>
+    <li>talkedabout->жартують про</li>
+    <li>talkedabout->висміюють</li>
+    <li>commentedabout->розкачує щось про</li>
+    <li>commentedabout->вставляє слово про</li>
+    <li>commentedabout->робить жарт про</li>
+    <li>commentedabout->робить коментар про</li>
+    <li>commentedabout->розказує анекдот про</li>
   </Chitchat.logRulesInitiator.rulesStrings>
   <!-- EN: deep talk -->
   <DeepTalk.label>серйозна розмова</DeepTalk.label>
@@ -59,18 +59,18 @@
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
-    <li>talkedabout->communicated thoughts about</li>
-    <li>talkedabout->exchanged thoughts about</li>
-    <li>talkedabout->exchanged ideas about</li>
-    <li>talkedabout->shared views on</li>
-    <li>talkedabout->shared beliefs on</li>
-    <li>talkedabout->discussed the topic of</li>
-    <li>talkedabout->had a heartfelt conversation about</li>
-    <li>talkedabout->talked quietly about</li>
-    <li>talkedabout->talked deeply about</li>
-    <li>talkedabout->connected on the topic of</li>
+    <li>r_logentry->[INITIATOR_nameDef] та [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] з [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>talkedabout->обговорюють думки про</li>
+    <li>talkedabout->обмінюються думками про</li>
+    <li>talkedabout->обмінюються ідеями про</li>
+    <li>talkedabout->ділиться думками про</li>
+    <li>talkedabout->діляться переконаннями про</li>
+    <li>talkedabout->обговорюють</li>
+    <li>talkedabout->щиро спілкуються про</li>
+    <li>talkedabout->перешіптуються про</li>
+    <li>talkedabout->глибоко говорять про</li>
+    <li>talkedabout->зв'язуються на темі про</li>
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   </DeepTalk.logRulesInitiator.rulesStrings>
@@ -114,12 +114,12 @@
     <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
     <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
-    <li>insulted(p=3)->insulted</li>
-    <li>insulted->openly insulted</li>
-    <li>insulted->loudly insulted</li>
+    <li>insulted(p=3)->ображає</li>
+    <li>insulted->відкрито ображає</li>
+    <li>insulted->голосно ображає</li>
     <li>insulted->flagrantly insulted</li>
-    <li>insulted->directly insulted</li>
-    <li>insulted->viciously insulted</li>
+    <li>insulted->прямолінійно ображає</li>
+    <li>insulted->злісно ображає</li>
     <li>insulted->flagrantly disrespected</li>
     <li>insulted->slandered</li>
     <li>insulted->hurled invective about</li>

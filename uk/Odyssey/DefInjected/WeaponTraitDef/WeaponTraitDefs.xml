@@ -63,15 +63,15 @@
   <!-- EN: awkward -->
   <Cumbersome.traitAdjectives.2>незграбна</Cumbersome.traitAdjectives.2>
   <!-- EN: custom grip -->
-  <CustomGrip.label>покращена рукоятка</CustomGrip.label>
+  <CustomGrip.label>покращене руків'я</CustomGrip.label>
   <!-- EN: This weapon contains a customized grip that handles recoil better, improving accuracy at short range. It looks cool too. -->
-  <CustomGrip.description>На цю зброю встановлено покращену рукоятку, яка зменшує віддачу, покращуючи точність на короткій відстані. А ще вона круто виглядає.</CustomGrip.description>
+  <CustomGrip.description>На цю зброю встановлено покращене руків'я, яке зменшує віддачу, покращуючи точність на короткій відстані. А ще воно круто виглядає.</CustomGrip.description>
   <!-- EN: custom -->
-  <CustomGrip.traitAdjectives.0>власна</CustomGrip.traitAdjectives.0>
+  <CustomGrip.traitAdjectives.0>власне</CustomGrip.traitAdjectives.0>
   <!-- EN: customized -->
-  <CustomGrip.traitAdjectives.1>покращена</CustomGrip.traitAdjectives.1>
+  <CustomGrip.traitAdjectives.1>покращене</CustomGrip.traitAdjectives.1>
   <!-- EN: gripped -->
-  <CustomGrip.traitAdjectives.2>рукоятка</CustomGrip.traitAdjectives.2>
+  <CustomGrip.traitAdjectives.2>руків'я</CustomGrip.traitAdjectives.2>
   <!-- EN: hi-grip -->
   <CustomGrip.traitAdjectives.3>міцний хват</CustomGrip.traitAdjectives.3>
   <!-- EN: EMP cannon -->

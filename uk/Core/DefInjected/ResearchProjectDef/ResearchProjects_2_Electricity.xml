@@ -87,7 +87,7 @@
     <li>subject_gerund->crafting blowback firearms</li>
   -->
   <BlowbackOperation.generalRules.rulesStrings>
-    <li>subject->pistols</li>
+    <li>пістолети</li>
     <li>subject->blowback firearms</li>
     <li>subject_story->utilized machine pistols in the trench fighting that overtook the planet</li>
     <li>subject_story->sold low-powered autopistols to law enforcement in the orbitals</li>

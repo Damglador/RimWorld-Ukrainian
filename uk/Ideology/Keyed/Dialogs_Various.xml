@@ -296,7 +296,7 @@
   <!-- EN: Your colony was sold. Its purchasers are ready for you to choose where to land next. -->
   <SoldColonyDescription>Вашу колонію продано. Покупці готові доставити вас в нову місцевість.</SoldColonyDescription>
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}? -->
-  <ConfirmHackEnemyTerminal>Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}?</ConfirmHackEnemyTerminal>
+  <ConfirmHackEnemyTerminal>Злом цього {0} потривожить ворогів і вони нападуть. Ви дійсно бажаєте зламати {0}?</ConfirmHackEnemyTerminal>
   <!-- EN: Relics -->
   <RelicsSection>Реліквії</RelicsSection>
   <!-- Food restrictions -->

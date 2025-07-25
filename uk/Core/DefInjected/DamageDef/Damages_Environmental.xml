@@ -11,7 +11,7 @@
   <!-- EN: frostbite -->
   <Frostbite.label>обмороження</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>{0} {0_gender ? загинув : загинула} через обмороження.</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} гине через обмороження.</Frostbite.deathMessage>
   <!-- EN: scratch -->
   <TornadoScratch.label>розрив</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->

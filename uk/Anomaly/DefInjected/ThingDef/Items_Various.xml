@@ -29,7 +29,7 @@
   <!-- EN: golden cube -->
   <GoldenCube.label>золотий куб</GoldenCube.label>
   <!-- EN: A cube that fits snugly in the hand. Golden in color, it is always invitingly warm to the touch, like a trusted pet or a hug from a good friend. Those that look closely are rewarded for their attention by the delightful way light plays across its welcoming surface.\n\nThe cube seems impervious to most damage. -->
-  <GoldenCube.description>A cube that fits snugly in the hand. Golden in color, it is always invitingly warm to the touch, like a trusted pet or a hug from a good friend. Those that look closely are rewarded for their attention by the delightful way light plays across its welcoming surface.\n\nThe cube seems impervious to most damage.</GoldenCube.description>
+  <GoldenCube.description>Куб, який зручно лежить у руці. Золотистого кольору, він завжди привабливо теплий на дотик, наче довірена домашня тварина або обійми доброго друга. Той, хто придивиться уважніше, буде винагороджений за свою увагу чудовим способом, яким світло грає на його привітній поверхні.\n\nКуб здається несприйнятливим до більшості пошкоджень.</GoldenCube.description>
   <!-- EN: Golden cube study progress -->
   <GoldenCube.comps.CompStudyUnlocks.studyNotes.0.label>Прогрес дослідження золотого куба</GoldenCube.comps.CompStudyUnlocks.studyNotes.0.label>
   <!-- EN: {PAWN_nameDef}'s investigation of the golden cube has revealed more. It is able to psychically influence anyone who interacts with it. Those under the cube's influence will experience extreme withdrawal if they're separated from it.\n\n{PAWN_nameDef} thinks that there may be a way to deactivate the cube, but {PAWN_pronoun} will need to study it further. -->

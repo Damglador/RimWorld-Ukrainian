@@ -157,7 +157,7 @@
   <!-- EN: mink -->
   <Mink.label>норка</Mink.label>
   <!-- EN: A small semi-aquatic mammal. The high value of its fur has resulted in mink being farmed on numerous planets. -->
-  <Mink.description>Маленький ссавець, що частково живе у воді. Його хутро дуже цінне, і тому на норку полюють майже усюди, де вона водиться. </Mink.description>
+  <Mink.description>Маленький ссавець, що частково живе у воді. Його хутро дуже цінне, і тому на норку полюють майже усюди, де вона водиться.</Mink.description>
   <!-- EN: left claw -->
   <Mink.tools.left_claw.label>ліва лапа</Mink.tools.left_claw.label>
   <!-- EN: claw -->

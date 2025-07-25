@@ -60,11 +60,11 @@
     <li>interaction->розповідає історію до</li>
     <li>interaction->показує магічні трюки</li>
     <li>babyGame->хованки</li>
-    <li>babyGame->"ку-ку"</li>
-    <li>babyGame->"знайди палець"</li>
-    <li>babyGame->"мавпа бачить мавпа робить"</li>
-    <li>babyGame->"покажи і розкажи"</li>
-    <li>babyGame->"пальчикові ляльки"</li>
+    <li>babyGame->«ку-ку»</li>
+    <li>babyGame->«знайди палець»</li>
+    <li>babyGame->«мавпа бачить мавпа робить»</li>
+    <li>babyGame->«покажи та розкажи»</li>
+    <li>babyGame->«пальчикові ляльки»</li>
   </BabyPlay.logRulesInitiator.rulesStrings>
   <!-- EN: animal lesson -->
   <LessonAnimals.label>урок тваринництва</LessonAnimals.label>
@@ -97,7 +97,7 @@
     <li>subject->kibble</li>
   -->
   <LessonAnimals.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=4)->[INITIATOR_nameDef] [teach_verb] [RECIPIENT_nameDef], як [animal_verb] [article_animal].</li>
+    <li>r_logentry(p=4)->[INITIATOR_nameDef] [teach_verb] [RECIPIENT_nameDef] як [animal_verb] [article_animal].</li>
     <li>article_animal->гігантського лінивця</li>
     <li>article_animal->мегапавука</li>
     <li>article_animal->трумбо</li>
@@ -112,17 +112,17 @@
     <li>article_animal->яка</li>
     <li>article_animal->білку</li>
     <li>article_animal->муффало</li>
-    <li>article_animal->[AnimalAcc]</li>
     <li>animal_verb->приручати</li>
     <li>animal_verb->годувати</li>
     <li>animal_verb->заспокоювати</li>
-    <li>animal_verb->налякати</li>
-    <li>animal_verb->доглядати</li>
-    <li>subject->психологію тварин</li>
-    <li>subject->способи приручення</li>
-    <li>subject->небезпечність дикої природи</li>
-    <li>subject->рептилій</li>
+    <li>animal_verb->залякувати</li>
+    <li>animal_verb->втиратися у довіру до</li>
+    <li>animal_verb->розуміти внутрішній світ</li>
+    <li>subject->техніки приручення</li>
+    <li>subject->небезпечні дикі тварини</li>
+    <li>subject->рептилії</li>
     <li>subject->скаріоз</li>
+    <li>subject->корм</li>
   </LessonAnimals.logRulesInitiator.rulesStrings>
   <!-- EN: art lesson -->
   <LessonArtistic.label>урок мистецтва</LessonArtistic.label>

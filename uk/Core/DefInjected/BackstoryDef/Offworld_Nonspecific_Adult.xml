@@ -37,7 +37,7 @@
   <!-- EN: cave explorer -->
   <CaveExplorer45.titleShort>спелеолог</CaveExplorer45.titleShort>
   <!-- EN: [PAWN_nameDef] was the star chef at a high-class coreworld restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among the kitchen staff for [PAWN_possessive] casual disdain for grunt work. -->
-  <Chef52.description/>
+  <Chef52.description>[PAWN_nameDef] was the star chef at a high-class coreworld restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among the kitchen staff for [PAWN_possessive] casual disdain for grunt work.</Chef52.description>
   <!-- EN: chef -->
   <Chef52.title>шеф-кухар</Chef52.title>
   <!-- EN: chef -->
@@ -71,7 +71,7 @@
   <!-- EN: contract miner -->
   <ContractMiner86.title>найманий шахтар</ContractMiner86.title>
   <!-- EN: contract miner -->
-  <ContractMiner86.titleShort>шахтар</ContractMiner86.titleShort>
+  <ContractMiner86.titleShort>контрактний гірник</ContractMiner86.titleShort>
   <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
   <CorporateManager76.description>[PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone.</CorporateManager76.description>
   <!-- EN: corporate manager -->

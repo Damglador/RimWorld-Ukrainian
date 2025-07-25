@@ -45,7 +45,7 @@
   <!-- EN: site -->
   <Site.label>site</Site.label>
   <!-- EN: transport pods -->
-  <TravellingTransporters.label>transport pods</TravellingTransporters.label>
+  <TravellingTransporters.label>транспортні капсули</TravellingTransporters.label>
   <!-- EN: Transport pods in flight. -->
-  <TravellingTransporters.description>Transport pods in flight.</TravellingTransporters.description>
+  <TravellingTransporters.description>Транспортні капсули у польоті.</TravellingTransporters.description>
 </LanguageData>

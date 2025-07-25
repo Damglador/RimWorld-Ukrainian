@@ -24,8 +24,8 @@
     <li>bandit->Brigand</li>
   -->
   <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
-    <li>questName-> [bandit] [camp]</li>
     <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] і [camp] [bandit]</li>
     <li>questName->[asker_nameDef] табір [camp]</li>
     <li>camp->Табір</li>
     <li>camp->Форпост</li>

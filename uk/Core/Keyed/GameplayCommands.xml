@@ -442,7 +442,7 @@
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>Скасувати завантаження речей та посадку пасажирів та вивантажити те, що вже завантажено.</CommandCancelLoadDesc>
   <!-- EN: Unload all -->
-  <CommandUnload>Unload all</CommandUnload>
+  <CommandUnload>Вивантажити все</CommandUnload>
   <!-- EN: Eject all contents from the {0}. -->
   <CommandUnloadDesc>Eject all contents from the {0}.</CommandUnloadDesc>
   <!-- Launch group -->
@@ -451,11 +451,11 @@
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>Злетіти та взяти курс до місця призначення.</CommandLaunchGroupDesc>
   <!-- EN: Must be loaded first. -->
-  <CommandLaunchGroupFailNotLoaded>Must be loaded first.</CommandLaunchGroupFailNotLoaded>
+  <CommandLaunchGroupFailNotLoaded>Спочатку потрібно завантажити.</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Як мінімум одна капсула не приєднана до порту для заправки.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Roof blocking launch. -->
-  <CommandLaunchGroupFailUnderRoof>Roof blocking launch.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>Стеля блокує зліт.</CommandLaunchGroupFailUnderRoof>
   <!-- EN: Not enough fuel to launch. -->
   <CommandLaunchGroupFailNoFuel>Not enough fuel to launch.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Over mass capacity. -->

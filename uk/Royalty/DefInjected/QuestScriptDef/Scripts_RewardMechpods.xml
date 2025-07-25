@@ -30,7 +30,7 @@
     <li>menace->fear</li>
   -->
   <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
-    <li>questName->[menace] cluster</li>
+    <li>questName->кластер [menace]</li>
     <li>questName->[menace] pods</li>
     <li>questName->[nameBased]</li>
     <li>nameBased->[asker_nameDef]'s mechs</li>

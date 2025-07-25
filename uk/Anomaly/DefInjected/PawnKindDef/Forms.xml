@@ -23,7 +23,7 @@
   <!-- EN: A dark scholar covered with twisted scars is approaching the colony. -->
   <DarkScholar.letterLabel>До вас наближується покритий покручений рубцями темний науковець.</DarkScholar.letterLabel>
   <!-- EN: The dark scholar slouches in place, lifeless and silent. Only {PAWN_possessive} eyes seem alive, as if {PAWN_pronoun} could look inside you.\n\n{PAWN_pronoun} says that this is where {PAWN_pronoun} belongs and asks to stay for a while. {PAWN_possessive} tone indicates that {PAWN_pronoun} will not take 'no' for an answer. -->
-  <DarkScholar.letterPrompt>The dark scholar slouches in place, lifeless and silent. Only {PAWN_possessive} eyes seem alive, as if {PAWN_pronoun} could look inside you.\n\n{PAWN_pronoun} says that this is where {PAWN_pronoun} belongs and asks to stay for a while. {PAWN_possessive} tone indicates that {PAWN_pronoun} will not take 'no' for an answer.</DarkScholar.letterPrompt>
+  <DarkScholar.letterPrompt>Темний вчений сутулиться на місці, неживий і мовчазний. Лише очі {PAWN_possessive} здаються живими, ніби {PAWN_pronoun} може зазирнути всередину вас.\n\n{PAWN_pronoun} каже, що саме тут місце {PAWN_pronoun}, і просить залишитися на деякий час. Тон {PAWN_possessive} вказує на те, що {PAWN_pronoun} не прийме «ні» як відповідь.</DarkScholar.letterPrompt>
   <!-- EN: deal maker -->
   <DealMaker.label>бізнесмен</DealMaker.label>
   <!-- EN: A stunningly good-looking stranger is approaching the colony. -->

@@ -877,7 +877,7 @@
   <NoFuel>Немає палива</NoFuel>
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>несе {lookup: {THING_label}; Case; 3} до {lookup: {DESTINATION}; Case; 1}.</ReportHaulingTo>
+  <ReportHaulingTo>несе {THING_label} до {lookup: {DESTINATION}; Case; 1}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
   <ReportHaulingToGrave>хоронить {lookup: {THING_label}; Case; 3} в {lookup: {DESTINATION}; Case; 3}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
@@ -1301,7 +1301,7 @@
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Слід розміщувати впритул до корабельної балки.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Вирва повинна бути розміщена поряд із пристроєм, що потребує подавач.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Лійка повинна бути розміщена поряд із пристроєм, що потребує подавач.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Цей об'єкт потрібно розміщувати безпосередньо на геотермальному паровому гейзері.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->

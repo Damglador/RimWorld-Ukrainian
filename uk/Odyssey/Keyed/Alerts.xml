@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Vacuum exposure -->
-  <AlertVacuumExposure>дія вакууму</AlertVacuumExposure>
+  <AlertVacuumExposure>Дія вакууму</AlertVacuumExposure>
   <!-- EN: These people and animals are suffering from exposure to the vacuum of space:\n{0}\n\nGet them to a pressurized area before they die. -->
   <AlertVacuumExposureDesc>Ці люди та тварини страждають від дії космічного вакууму:\n{0}\n\nПоверніть їх в герметичне місце з повітрям, бо вони загинуть.</AlertVacuumExposureDesc>
   <!-- EN: Mechanoid threat -->
