@@ -71,7 +71,7 @@
   <!-- EN: Must target steel, steel slag chunks, steel buildings, or steel items. -->
   <TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>Має бути спрямовано на сталь, металобрухт, сталеві будівлі або сталеві вироби.</TransmuteSteel.comps.CompAbilityEffect_Transmute.failedMessage>
   <!-- EN: entity skip -->
-  <UnnaturalCorpseSkip.label>переміщення сутності</UnnaturalCorpseSkip.label>
+  <UnnaturalCorpseSkip.label>переміщення істоти</UnnaturalCorpseSkip.label>
   <!-- EN: Teleport to a target destination. -->
   <UnnaturalCorpseSkip.description>Телепортація до місця призначення.</UnnaturalCorpseSkip.description>
   <!-- EN: unnatural healing -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Bioferrite generator -->
-  <BioferriteGenerator.stages.Bioferrite_generator.label>Біоферритовий генератор</BioferriteGenerator.stages.Bioferrite_generator.label>
+  <BioferriteGenerator.stages.Bioferrite_generator.label>Біоферитовий генератор</BioferriteGenerator.stages.Bioferrite_generator.label>
   <!-- EN: The buzz of that blasted machine will make me mad. It's like nails on a chalkboard. -->
   <BioferriteGenerator.stages.Bioferrite_generator.description>Гудіння цієї проклятої машини зведе мене з розуму. Це як цвяхом по дошці.</BioferriteGenerator.stages.Bioferrite_generator.description>
   <!-- EN: blood rage -->

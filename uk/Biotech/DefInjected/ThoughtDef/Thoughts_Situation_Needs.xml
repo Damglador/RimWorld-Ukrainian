@@ -21,15 +21,15 @@
   <!-- EN: I've learned so much! I love all these new experiences. -->
   <NeedLearning.stages.learning_fully_satisfied.description>Я {PAWN_gender ? дізнався : дізналася} так багато нового! Мені подобаються всі ці нові враження.</NeedLearning.stages.learning_fully_satisfied.description>
   <!-- EN: desperately wants to play -->
-  <NeedPlay.stages.desperately_wants_to_play.label>відчайдушно хоче грати</NeedPlay.stages.desperately_wants_to_play.label>
+  <NeedPlay.stages.desperately_wants_to_play.label>відчайдушно хоче гратися</NeedPlay.stages.desperately_wants_to_play.label>
   <!-- EN: Play. With. Me. Now! -->
   <NeedPlay.stages.desperately_wants_to_play.description>Грай. Зі мною. Зараз!</NeedPlay.stages.desperately_wants_to_play.description>
   <!-- EN: really wants to play -->
-  <NeedPlay.stages.really_wants_to_play.label>сильно хоче грати</NeedPlay.stages.really_wants_to_play.label>
+  <NeedPlay.stages.really_wants_to_play.label>дуже хоче гратися</NeedPlay.stages.really_wants_to_play.label>
   <!-- EN: Why won't anybody play with me? -->
-  <NeedPlay.stages.really_wants_to_play.description>Чому зі мною ніхто не хоче грати?</NeedPlay.stages.really_wants_to_play.description>
+  <NeedPlay.stages.really_wants_to_play.description>Чому зі мною ніхто не хоче гратися?</NeedPlay.stages.really_wants_to_play.description>
   <!-- EN: wants to play -->
-  <NeedPlay.stages.wants_to_play.label>хоче грати</NeedPlay.stages.wants_to_play.label>
+  <NeedPlay.stages.wants_to_play.label>хоче гратися</NeedPlay.stages.wants_to_play.label>
   <!-- EN: This place is boring. -->
   <NeedPlay.stages.wants_to_play.description>Це місце нудне.</NeedPlay.stages.wants_to_play.description>
   <!-- EN: entertained -->

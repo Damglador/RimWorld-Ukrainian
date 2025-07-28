@@ -167,9 +167,9 @@
   <LetterTextConnectedTreeDestroyed>{TREE_label}, зв'язане з {CONNECTEDPAWN_nameDef}, було знищене. Королева дріад, що знаходилась всередині, загинула.\n\nЗі смертю королеви загинув колективний розум дріад, а з ним й усі дріади.</LetterTextConnectedTreeDestroyed>
   <!-- Archonexus victory -->
   <!-- EN: Quest '{0}' available -->
-  <LetterLabelArchonexusWealthReached>Завдання "{0}" доступне</LetterLabelArchonexusWealthReached>
+  <LetterLabelArchonexusWealthReached>Доручення «{0}» доступне</LetterLabelArchonexusWealthReached>
   <!-- EN: You have reached the wealth requirement for the quest '{0}'. You can now accept the quest. -->
-  <LetterTextArchonexusWealthReached>Ви досягли необхідного рівня цінності колонії. Тепер ви можете прийняти завдання "{0}".</LetterTextArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>Ви досягли необхідного рівня цінності колонії. Тепер ви можете прийняти доручення «{0}».</LetterTextArchonexusWealthReached>
   <!-- EN: {0_labelShort} studied -->
   <LetterLabelArchonexusStructureResearched>Дослідження завершено: {0_labelShort}</LetterLabelArchonexusStructureResearched>
   <!-- EN: You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map. -->

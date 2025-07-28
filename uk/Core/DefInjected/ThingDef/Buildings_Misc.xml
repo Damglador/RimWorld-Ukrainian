@@ -19,15 +19,15 @@
   <!-- EN: Summon diabolus threat -->
   <CommsConsole.comps.CompUsable.useLabel>Викликати механоїда-диявола</CommsConsole.comps.CompUsable.useLabel>
   <!-- EN: crater -->
-  <CraterLarge.label>crater</CraterLarge.label>
+  <CraterLarge.label>кратер</CraterLarge.label>
   <!-- EN: The blast site of a high-powered weapon. -->
   <CraterLarge.description>The blast site of a high-powered weapon.</CraterLarge.description>
   <!-- EN: crater -->
-  <CraterMedium.label>crater</CraterMedium.label>
+  <CraterMedium.label>кратер</CraterMedium.label>
   <!-- EN: The blast site of a high-powered weapon. -->
   <CraterMedium.description>The blast site of a high-powered weapon.</CraterMedium.description>
   <!-- EN: crater -->
-  <CraterSmall.label>crater</CraterSmall.label>
+  <CraterSmall.label>кратер</CraterSmall.label>
   <!-- EN: The blast site of a high-powered weapon. -->
   <CraterSmall.description>The blast site of a high-powered weapon.</CraterSmall.description>
   <!-- EN: cryptosleep casket -->

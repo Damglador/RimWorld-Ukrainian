@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-  <AbandonedChild30.description>[PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son.</AbandonedChild30.description>
+  <AbandonedChild30.description>{PAWN_nameDef} {PAWN_gender ? був : була} кмітливою та кумедною дитиною. Одного разу, {PAWN_pronoun} {PAWN_gender ? пішов : пішла} від своїх багатих батьків і зрештою {PAWN_gender ? загубився : загубилася} на нібито покинутому складі руди. Технології клонування були достатньо розвинені, щоб {PAWN_possessive} батьки вирішили за краще клонувати {PAWN_gender ? нового, розумнішого сина : нову, розумнішу доньку}, ніж шукати {PAWN_gender ? "старого" : "стару"}.</AbandonedChild30.description>
   <!-- EN: abandoned child -->
   <AbandonedChild30.title>покинуте дитя</AbandonedChild30.title>
   <!-- EN: abandoned -->

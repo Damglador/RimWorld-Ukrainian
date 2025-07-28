@@ -13,7 +13,7 @@
   <!-- EN: flying creature -->
   <FlyerLeaving.label>flying creature</FlyerLeaving.label>
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteCraterIncoming.label>meteorite (incoming)</MeteoriteCraterIncoming.label>
+  <MeteoriteCraterIncoming.label>метеорит (наближається)</MeteoriteCraterIncoming.label>
   <!-- EN: meteorite (incoming) -->
   <MeteoriteIncoming.label>метеорит (падає)</MeteoriteIncoming.label>
   <!-- EN: ship chunk (incoming) -->

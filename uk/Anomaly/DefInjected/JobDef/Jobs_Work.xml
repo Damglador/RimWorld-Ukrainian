@@ -3,7 +3,7 @@
   <!-- EN: suppressing TargetC. -->
   <ActivitySuppression.reportString>придушує {lookup: {TargetC}; Case; 3}.</ActivitySuppression.reportString>
   <!-- EN: filling in TargetA. -->
-  <FillIn.reportString>наповнює {lookup: {TargetA}; Case; 3}.</FillIn.reportString>
+  <FillIn.reportString>засипає {lookup: {TargetA}; Case; 3}.</FillIn.reportString>
   <!-- EN: interrogating TargetA. -->
   <PrisonerInterrogateIdentity.reportString>допитує TargetA.</PrisonerInterrogateIdentity.reportString>
 </LanguageData>

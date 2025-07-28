@@ -469,9 +469,9 @@
   <!-- EN: You have successfully completed the quest '{0}'! -->
   <LetterQuestCompletedSuccess>Ви успішно виконали доручення «{0}»!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>Ви провалили завдання "{0}".</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>Ви провалили доручення «{0}».</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>Ви завершили завдання "{0}".</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>Ви завершили доручення «{0}».</LetterQuestCompletedConcluded>
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
   <LetterBladelinkWeaponBondedLabel>Сформовано зв'язок з {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>

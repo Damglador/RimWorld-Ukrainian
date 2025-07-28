@@ -20,7 +20,7 @@
   <!-- EN: {0} complete -->
   <PsychicRitualCompleteLabel>{lookup: {0}; Case; 3} завершено</PsychicRitualCompleteLabel>
   <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual, sending out a psychic pulse that will attract entities. -->
-  <VoidProvocationCompletedText>{INVOKER_nameDef} завершує проводити ритуал {lookup: {RITUAL_definite}; Case; 1}, надсилаючи психічний імпульс, що привабить сутностей.</VoidProvocationCompletedText>
+  <VoidProvocationCompletedText>{INVOKER_nameDef} завершує проводити ритуал {lookup: {RITUAL_definite}; Case; 1}, надсилаючи психічний імпульс, що привабить істот.</VoidProvocationCompletedText>
   <!-- EN: Prepare for what comes next. -->
   <VoidProvocationSucceeded>Приготуйтесь до того, що буде далі.</VoidProvocationSucceeded>
   <!-- EN: Unfortunately, your call has been left unanswered. -->
@@ -88,7 +88,7 @@
   <!-- EN: {0_nameDef} has finished performing {RITUAL_definite} ritual. Fleshbeasts are emerging from the ground! -->
   <SummonFleshbeastsPlayerCompleteText>{0_nameDef} завершує ритуал {lookup: {RITUAL_definite}; Case; 1}. Звірі плоті з'являються з-під землі!</SummonFleshbeastsPlayerCompleteText>
   <!-- EN: {INVOKER_nameDef} has finished infusing {TARGET_nameDef} with bioferrite. The ritual has twisted {TARGET_nameDef}'s mind and mutated {TARGET_possessive} body, creating a terrifying creature known as a ghoul. {INVOKER_nameDef} shares a psychic link with {TARGET_nameDef}, allowing {INVOKER_objective} to control {TARGET_nameDef}.\n\nGhouls eat raw meat to survive. If they go hungry, they can turn hostile. -->
-  <GhoulInfusionCompleteText>{INVOKER_nameDef} закінчує накачувати {TARGET_nameDef} біоферритом. Ритуал спотворив розум {TARGET_nameDef} і мутував {TARGET_possessive} тіло, утворивши жахливу істоту, відому як гуль. {INVOKER_nameDef} має психічний зв’язок із {TARGET_nameDef}, що дозволяє {INVOKER_gender ? йому : їй} контролювати {TARGET_nameDef}.\n\nГулі їдять сире м’ясо, щоб вижити. Якщо вони голодують, то можуть стати ворожими.</GhoulInfusionCompleteText>
+  <GhoulInfusionCompleteText>{INVOKER_nameDef} закінчує накачувати {TARGET_nameDef} біоферитом. Ритуал спотворив розум {TARGET_nameDef} і мутував {TARGET_possessive} тіло, утворивши жахливу істоту, відому як гуль. {INVOKER_nameDef} має психічний зв’язок із {TARGET_nameDef}, що дозволяє {INVOKER_gender ? йому : їй} контролювати {TARGET_nameDef}.\n\nГулі їдять сире м’ясо, щоб вижити. Якщо вони голодують, то можуть стати ворожими.</GhoulInfusionCompleteText>
   <!-- EN: They might perform the ritual multiple times. You need to go stop them. -->
   <AttackersMayCastRitualMultipleTimes>Вони можуть проводити ритуал кілька разів. Вам потрібно зупинити їх.</AttackersMayCastRitualMultipleTimes>
   <!-- EN: {INVOKER_nameDef} has finished performing {RITUAL_definite} ritual. By manipulating space and time, {INVOKER_nameDef} has abducted {TARGET_nameDef} of the {FACTION_name} faction. The terrifying nature of the ritual has put {TARGET_nameDef} into a short-term coma. -->
@@ -117,15 +117,15 @@
   <!-- EN: Fleshbeast tunneling -->
   <VoidAwakeningFleshbeastBurrowLabel>Тунель звірів плоті</VoidAwakeningFleshbeastBurrowLabel>
   <!-- EN: The monolith has generated a powerful psychic pulse, attracting nearby entities.\n\nBeneath the ground, you can hear meaty shrieks and scratching claws. Fleshbeasts are tunneling towards you. Get ready! -->
-  <VoidAwakeningFleshbeastBurrowText>Моноліт генерує потужний психічний імпульс, який приваблює сутностей поблизу.\n\nПід землею можна почути м'ясисті верески та дряпання пазурів. Звірі плоті прокопують тунель до вас. Будьте готові!</VoidAwakeningFleshbeastBurrowText>
+  <VoidAwakeningFleshbeastBurrowText>Моноліт генерує потужний психічний імпульс, який приваблює істот поблизу.\n\nПід землею можна почути м'ясисті верески та дряпання пазурів. Звірі плоті прокопують тунель до вас. Будьте готові!</VoidAwakeningFleshbeastBurrowText>
   <!-- EN: Metalhorror attack -->
   <VoidAwakeningMetalhorrorArrivalLabel>Атака металевих жахів</VoidAwakeningMetalhorrorArrivalLabel>
   <!-- EN: Metalhorrors are appearing near the void monolith. Get ready! -->
   <VoidAwakeningMetalhorrorArrivalText>Поруч з монолітом порожнечі з'являються металеві жахи. Будьте готові!</VoidAwakeningMetalhorrorArrivalText>
   <!-- EN: Entity attack -->
-  <VoidAwakeningEntityArrivalLabel>Атака сутностей</VoidAwakeningEntityArrivalLabel>
+  <VoidAwakeningEntityArrivalLabel>Атака істоти</VoidAwakeningEntityArrivalLabel>
   <!-- EN: The activated void structure has generated a twisted psychic pulse, attracting nearby entities. Get ready! -->
-  <VoidAwakeningEntityArrivalText>Активація споруди порожнечі породила спотворений психічний імпульс, який приваблює сутностей поблизу. Будьте готові!</VoidAwakeningEntityArrivalText>
+  <VoidAwakeningEntityArrivalText>Активація споруди порожнечі породила спотворений психічний імпульс, який приваблює істот поблизу. Будьте готові!</VoidAwakeningEntityArrivalText>
   <!-- EN: Embrace the void -->
   <VoidAwakeningBreadcrumbLetterLabel>Обійми порожнечі</VoidAwakeningBreadcrumbLetterLabel>
   <!-- EN: While interacting with the void structure, {PAWN_nameDef} saw a vision of the void. For a moment {PAWN_pronoun} swam the black ocean of infinite depth and felt its endless inhuman power.\n\n{PAWN_nameDef} thinks there may be a way to control that power by embracing the void. If you were to permanently open the conduit to the void, rather than shutting it down, it could offer untold possibilities. -->
@@ -252,7 +252,7 @@
   <!-- EN: Void curiosity -->
   <VoidCuriosityLabel>Цікавість порожнечі</VoidCuriosityLabel>
   <!-- EN: {PAWN_nameDef} has begun to fixate on the void, and wishes to investigate it using the void provocation ritual.\n\nUse the void provocation ritual to discover and capture entities. Captured entities can be studied to complete Anomaly research projects, or connected to a bioferrite harvester to generate bioferrite.\n\nPlace a psychic ritual spot to perform the void provocation ritual. -->
-  <VoidCuriosityText_Researched>{PAWN_nameDef} починає зосереджуватися на порожнечі та хоче дослідити її за допомогою ритуалу провокації порожнечі.\n\nВикористовуйте ритуал провокації порожнечі, щоб виявити та захопити сутності. Захоплених сутностей можна вивчати, щоб завершити дослідницькі проекти аномалій, або до них можна підключити поглинач біоферриту для генерації біоферриту.\n\nРозмістіть місце психічного ритуалу, щоб виконати ритуал провокації порожнечі.</VoidCuriosityText_Researched>
+  <VoidCuriosityText_Researched>{PAWN_nameDef} починає зосереджуватися на порожнечі та хоче дослідити її за допомогою ритуалу провокації порожнечі.\n\nВикористовуйте ритуал провокації порожнечі, щоб виявити та захопити істот. Захоплених істот можна вивчати, щоб завершити дослідницькі проєкти Аномалії, або до них можна під'єднати поглинач біофериту для генерації біофериту.\n\nРозмістіть місце психічного ритуалу, щоб виконати ритуал провокації порожнечі.</VoidCuriosityText_Researched>
   <!-- EN: {PAWN_nameDef} has begun to fixate on the void, and wishes to investigate it using the void provocation ritual.\n\nUse the void provocation ritual to discover and capture entities. Captured entities can be studied to complete Anomaly research projects, or connected to a bioferrite harvester to generate bioferrite.\n\nResearch void provocation, then place a psychic ritual spot to perform the ritual. -->
-  <VoidCuriosityText_NotResearched>{PAWN_nameDef} починає зосереджуватися на порожнечі та хоче дослідити її за допомогою ритуалу провокації порожнечі.\n\nВикористовуйте ритуал провокації порожнечі, щоб виявити та захопити сутності. Захоплених сутностей можна вивчати, щоб завершити дослідницькі проекти аномалій, або до них можна підключити поглинач біоферриту для генерації біоферриту.\n\nВивчить ритуал провокації порожнечі, а потім розмістіть місце психічного ритуалу, щоб виконати його.</VoidCuriosityText_NotResearched>
+  <VoidCuriosityText_NotResearched>{PAWN_nameDef} починає зосереджуватися на порожнечі та хоче дослідити її за допомогою ритуалу провокації порожнечі.\n\nВикористовуйте ритуал провокації порожнечі, щоб виявити та захопити істот. Захоплених істот можна вивчати, щоб завершити дослідницькі проєкти аномалій, або до них можна під'єднати поглинач біофериту для генерації біоферриту.\n\nВивчіть ритуал провокації порожнечі, а потім розмістіть місце психічного ритуалу, щоб виконати його.</VoidCuriosityText_NotResearched>
 </LanguageData>

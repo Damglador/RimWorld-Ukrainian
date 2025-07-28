@@ -48,7 +48,7 @@
   <!-- EN: bandwidth -->
   <BandwidthLower>пропускна здатність</BandwidthLower>
   <!-- EN: A mechanitor can only oversee a mech if there is enough bandwidth to do so. Each mech consumes a different amount of bandwidth.\n\nGain more bandwidth by constructing band nodes and tuning the mechanitor to them, or by equipping special mechanitor apparel. -->
-  <BandwidthGizmoTip>Механізатор може наглядати за механоїдом лише в тому випадку, якщо для цього достатньо пропускної здатності. Кожен потребує різної кількості пропускної здатності.\n\nЩоб збільшити пропускну здатність, будуйте вузли зв'язку та налаштовуючи механізатора на них, або оснащуйте його спеціальним спорядженням.</BandwidthGizmoTip>
+  <BandwidthGizmoTip>Механітор може наглядати за механоїдом лише в тому випадку, якщо для цього достатньо пропускної здатності. Кожен потребує різної кількості пропускної здатності.\n\nЩоб збільшити пропускну здатність, будуйте вузли зв'язку та налаштовуючи механітора на них, або оснащуйте його спеціальним спорядженням.</BandwidthGizmoTip>
   <!-- EN: Control group -->
   <ControlGroup>Підконтрольна група</ControlGroup>
   <!-- EN: Current mode -->
@@ -58,15 +58,15 @@
   <!-- EN: Tuned to -->
   <BandNodeTunedTo>Налаштовано на</BandNodeTunedTo>
   <!-- EN: Tune to -->
-  <BandNodeTuneTo>Налаштувати до</BandNodeTuneTo>
+  <BandNodeTuneTo>Налаштувати на</BandNodeTuneTo>
   <!-- EN: Tuning to -->
   <BandNodeTuningTo>Налаштування до</BandNodeTuningTo>
   <!-- EN: Retune -->
   <BandNodeRetuneTo>Переналаштувати</BandNodeRetuneTo>
   <!-- EN: Tune this band node to a mechanitor. Tuning will take {0} to complete. -->
-  <BandNodeTuningDesc>Налаштуйте цей вузол зв'язку на механізатора. Для завершення налаштування потрібно {0}.</BandNodeTuningDesc>
+  <BandNodeTuningDesc>Налаштуйте цей вузол зв'язку на механітора. Для завершення налаштування потрібно {0}.</BandNodeTuningDesc>
   <!-- EN: Retune this band node to another mechanitor. Retuning will take {0} to complete. -->
-  <BandNodeRetuningDesc>Переналаштувати цей вузол зв'язку на іншого механізатора. Відновлення займе {0} до завершення.</BandNodeRetuningDesc>
+  <BandNodeRetuningDesc>Переналаштувати цей вузол зв'язку на іншого механітора. Відновлення займе {0} до завершення.</BandNodeRetuningDesc>
   <!-- EN: Removing {0} will change {1_labelShort}'s bandwidth from {2} to {3}. This will mean the following mechs will no longer be under control -->
   <DropThingBandwidthApparel>Якщо {1_labelShort} зніме {lookup: {0}; Case; 3}, {1_possessive} пропускна здатність зміниться з {2} на {3}. Це означатиме, що наступні механоїди більше не будуть під контролем</DropThingBandwidthApparel>
   <!-- EN: no mechs -->
@@ -351,7 +351,7 @@
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
   <ImplantXenogermWarningDesc>Імплантація ксенозародку введе {PAWN_nameDef} в кому, поки він буде інтегруватися в організм. Це триватиме приблизно {COMADURATION}. Час у комі залежить від медичної майстерності лікаря і якості вашого медичного обладнання.</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
-  <ImplantXenogermWarningOverwriteXenogenes>Крім того, імплантація ксенозародку перезапише наявні ксеногени. Ксенотипом {PAWN_nameDef} є "{XENOTYPE}". {PAWN_pronoun} має наступні ксеногени:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningOverwriteXenogenes>Крім того, імплантація ксенозародку перезапише наявні ксеногени. Ксенотипом {PAWN_nameDef} є «{XENOTYPE}». {PAWN_pronoun} має наступні ксеногени:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
   <!-- EN: After implantation, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
   <ImplantXenogermWarningNewMetabolism>Після імплантації, {PAWN_nameDef} матиме значення метаболізму {MET} та модифікатор споживання їжі {CONSUMPTION}.</ImplantXenogermWarningNewMetabolism>
   <!-- EN: Would you like to continue? -->
@@ -389,7 +389,7 @@
   <!-- EN: Waiting for {PAWN_nameDef}. -->
   <WaitingForPawn>Чекає на {PAWN_nameDef}.</WaitingForPawn>
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
-  <ExtractingXenogermFrom>Вилучити гени з {PAWN_nameDef}.</ExtractingXenogermFrom>
+  <ExtractingXenogermFrom>Вилучення генів з {PAWN_nameDef}.</ExtractingXenogermFrom>
   <!-- EN: Extraction paused: No power (interrupt in {TIME}) -->
   <ExtractionPausedNoPower>Extraction paused: No power (interrupt in {TIME})</ExtractionPausedNoPower>
   <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
@@ -397,7 +397,7 @@
   <!-- EN: {NAME} xenogerm -->
   <NamedXenogerm>{NAME} ксенозародок</NamedXenogerm>
   <!-- EN: Inserted {0} -->
-  <InsertedThing>Помістити {lookup: {0}; Case; 3}</InsertedThing>
+  <InsertedThing>Уміщено {lookup: {0}; Case; 3}</InsertedThing>
   <!-- EN: Assembly paused -->
   <AssemblyPaused>Збірку зупинено</AssemblyPaused>
   <!-- EN: Required gene bank unpowered -->
@@ -499,7 +499,7 @@
   <!-- EN: available in {0}. -->
   <BossgroupAvailableIn>доступно через {0}.</BossgroupAvailableIn>
   <!-- EN: requires mechanitor -->
-  <RequiresMechanitor>потрібен механізатор</RequiresMechanitor>
+  <RequiresMechanitor>потрібен механітор</RequiresMechanitor>
   <!-- Abilities -->
   <!-- EN: {0_labelShort} is not hemogenic. -->
   <AbilityDisabledNoHemogenGene>{0_labelShort} не потребує гемогену.</AbilityDisabledNoHemogenGene>
@@ -718,7 +718,7 @@
   <IvfPregnancyLetterParents>Дитина матиме генетичний склад {0} і {1}.</IvfPregnancyLetterParents>
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
-  <RemoteMechShieldTip>Дистанційний енерго-щит, спроєктований механізатором. Він намагатиметься зупинити вхідні снаряди чи осколки, але не допоможе проти атак ближнього бою чи високих температур. Запобігає пострілу власника та миттєво вимикається, якщо потрапляє під дію ЕМІ</RemoteMechShieldTip>
+  <RemoteMechShieldTip>Дистанційний енерго-щит, спроєктований механітором. Він намагатиметься зупинити вхідні снаряди чи осколки, але не допоможе проти атак ближнього бою чи високих температур. Запобігає пострілу власника та миттєво вимикається, якщо потрапляє під дію ЕМІ</RemoteMechShieldTip>
   <!-- Thoughtdef fallbacks -->
   <!-- EN: my child is happy -->
   <MyChildIsHappy>моя дитина щаслива</MyChildIsHappy>

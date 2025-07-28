@@ -142,7 +142,7 @@
   <!-- EN: Change any of the following -->
   <ReformIdeoChangeAny>Змініть будь-що з переліченого</ReformIdeoChangeAny>
   <!-- EN: The relic {0} will not be venerated by your colonists after reforming this ideoligion. Since the quest '{0}' is searching for this relic, it will be deactivated. -->
-  <ReformIdeoRelicHuntQuestEnd>Реліквія {0} не буде шануватись вашими колоністами після реформації ідеології. Отже, завдання "{0}", що присвячене пошуку цієї реліквії, стане неактуальним.</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoRelicHuntQuestEnd>Реліквія {0} не буде шануватись вашими колоністами після реформації ідеології. Отже, доручення «{0}», що присвячене пошуку цієї реліквії, стане неактуальним.</ReformIdeoRelicHuntQuestEnd>
   <!-- EN: The ritual {0} is in progress and will be cancelled. -->
   <ReformIdeoCancelRituals>Ритуал {0}, який зараз проводиться, буде скасовано.</ReformIdeoCancelRituals>
   <!-- EN: Do you wish to continue? -->

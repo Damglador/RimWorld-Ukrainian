@@ -7,7 +7,7 @@
   <!-- EN: suppress -->
   <ActivitySuppression.verb>придушувати</ActivitySuppression.verb>
   <!-- EN: make things at bioferrite shaper -->
-  <DoBillsBioferriteShaper.label>робити речі в формувачі біоферриту</DoBillsBioferriteShaper.label>
+  <DoBillsBioferriteShaper.label>робити речі в формувачі біофериту</DoBillsBioferriteShaper.label>
   <!-- EN: working at -->
   <DoBillsBioferriteShaper.gerund>працювати, використовуючи</DoBillsBioferriteShaper.gerund>
   <!-- EN: work at -->
@@ -39,7 +39,7 @@
   <!-- EN: fill in -->
   <FillIn.label>наповнювати</FillIn.label>
   <!-- EN: filling in -->
-  <FillIn.gerund>наповнює</FillIn.gerund>
+  <FillIn.gerund>засипати</FillIn.gerund>
   <!-- EN: fill -->
   <FillIn.verb>наповнити</FillIn.verb>
   <!-- EN: interrogate identity -->
@@ -61,11 +61,11 @@
   <!-- EN: study -->
   <StudyInteract.verb>вивчити</StudyInteract.verb>
   <!-- EN: take bioferrite out of bioferrite harvester -->
-  <TakeBioferriteOutOfHarvester.label>збирати біоферрит з поглинача біоферриту</TakeBioferriteOutOfHarvester.label>
+  <TakeBioferriteOutOfHarvester.label>збирати біоферит з поглинача біофериту</TakeBioferriteOutOfHarvester.label>
   <!-- EN: taking bioferrite from -->
-  <TakeBioferriteOutOfHarvester.gerund>збирає біоферрит з</TakeBioferriteOutOfHarvester.gerund>
+  <TakeBioferriteOutOfHarvester.gerund>збирає біоферит з</TakeBioferriteOutOfHarvester.gerund>
   <!-- EN: take bioferrite -->
-  <TakeBioferriteOutOfHarvester.verb>збирає біоферрит</TakeBioferriteOutOfHarvester.verb>
+  <TakeBioferriteOutOfHarvester.verb>збирає біоферит</TakeBioferriteOutOfHarvester.verb>
   <!-- EN: capture entity -->
   <TakeEntityToHoldingPlatform.label>захоплювати істот</TakeEntityToHoldingPlatform.label>
   <!-- EN: capturing -->

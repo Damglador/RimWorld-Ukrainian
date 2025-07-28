@@ -40,7 +40,7 @@
   <!-- EN: Disabled by {0} trait -->
   <WorkDisabledByTrait>Заблоковано рисою: {0}</WorkDisabledByTrait>
   <!-- EN: Disabled by quest '{0}' -->
-  <WorkDisabledByQuest>Заблоковано завданням: "{0}"</WorkDisabledByQuest>
+  <WorkDisabledByQuest>Заблоковано дорученням «{0}»</WorkDisabledByQuest>
   <!-- Assign tab -->
   <!-- EN: Unchangeable -->
   <Unchangeable>Незмінний</Unchangeable>
@@ -197,11 +197,11 @@
   <!-- EN: Prerequisite(s) not completed -->
   <PrerequisitesNotCompleted>Умови не виконані</PrerequisitesNotCompleted>
   <!-- EN: No project active. -->
-  <NoProjectSelected>Немає активних проектів.</NoProjectSelected>
+  <NoProjectSelected>Немає активних проєктів.</NoProjectSelected>
   <!-- EN: Active projects -->
-  <ActiveProjectPlural>Активні проекти</ActiveProjectPlural>
+  <ActiveProjectPlural>Активні проєкти</ActiveProjectPlural>
   <!-- EN: Active project -->
-  <ActiveProject>Активний проект</ActiveProject>
+  <ActiveProject>Активний проєкт</ActiveProject>
   <!-- EN: Stop research -->
   <StopResearch>Зупинити дослідження</StopResearch>
   <!-- EN: Missing required research facilities -->

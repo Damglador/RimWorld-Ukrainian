@@ -3,7 +3,7 @@
   <!-- EN: Main -->
   <Main.label>Основні</Main.label>
   <!-- EN: Unlock new technologies by researching at a research bench. You can only have one active project at a time. -->
-  <Main.generalDescription>Досліджуйте нові технології використовуючи дослідницький стіл. Одночасно можна мати лише один активний проект.</Main.generalDescription>
+  <Main.generalDescription>Досліджуйте нові технології використовуючи дослідницький стіл. Одночасно можна мати лише один активний проєкт.</Main.generalDescription>
   <!-- EN: Main research projects -->
-  <Main.generalTitle>Основні проекти досліджень</Main.generalTitle>
+  <Main.generalTitle>Основні проєкти досліджень</Main.generalTitle>
 </LanguageData>

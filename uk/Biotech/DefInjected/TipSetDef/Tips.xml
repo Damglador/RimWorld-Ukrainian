@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Mechanitors can summon powerful mechs. Fight them yourself - or draw them into your enemies. -->
-  <BiotechTips.CallBossgroups>Механізатори можуть викликати могутніх механоїдів. Боріться з ними самостійно - або заманюйте їх на своїх ворогів.</BiotechTips.CallBossgroups>
+  <BiotechTips.CallBossgroups>Механітори можуть викликати могутніх механоїдів. Боріться з ними самостійно - або заманюйте їх на своїх ворогів.</BiotechTips.CallBossgroups>
   <!-- EN: Children can sleep in the same room as parents and other children without any negative mood effect. -->
   <BiotechTips.ChildrenBarracks>Діти можуть спати в одній кімнаті з батьками та іншими дітьми без жодного негативного ефекту на настрій.</BiotechTips.ChildrenBarracks>
   <!-- EN: The more polluted nearby world tiles are, the more often you'll get acidic smog. -->

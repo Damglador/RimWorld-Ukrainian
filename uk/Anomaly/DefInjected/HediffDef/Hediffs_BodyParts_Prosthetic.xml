@@ -43,7 +43,7 @@
   <!-- EN: ghoul barbs -->
   <GhoulBarbs.label>шипи гуля</GhoulBarbs.label>
   <!-- EN: A number of barbed bioferrite spikes have been surgically attached to this ghoul. -->
-  <GhoulBarbs.description>Кілька біоферритових шипів, які були хірургічно прикріплені до гуля.</GhoulBarbs.description>
+  <GhoulBarbs.description>Кілька біоферитових шипів, які були хірургічно прикріплені до гуля.</GhoulBarbs.description>
   <!-- EN: Ghoul spikes -->
   <GhoulBarbs.renderNodeProperties.0.debugLabel>Шипи гуля</GhoulBarbs.renderNodeProperties.0.debugLabel>
   <!-- EN: Ghoul spikes -->
@@ -51,7 +51,7 @@
   <!-- EN: ghoul plating -->
   <GhoulPlating.label>обладунок гуля</GhoulPlating.label>
   <!-- EN: A number of large bioferrite plates have been surgically attached to this ghoul. -->
-  <GhoulPlating.description>Кілька великих біоферритових пластин, які були хірургічно прикріплені до гуля.</GhoulPlating.description>
+  <GhoulPlating.description>Кілька великих біоферитових пластин, які були хірургічно прикріплені до гуля.</GhoulPlating.description>
   <!-- EN: Ghoul plates -->
   <GhoulPlating.renderNodeProperties.0.debugLabel>обладунок гуля</GhoulPlating.renderNodeProperties.0.debugLabel>
   <!-- EN: metalblood heart -->

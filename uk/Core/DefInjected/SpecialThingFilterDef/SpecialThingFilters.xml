@@ -91,7 +91,7 @@
   <!-- EN: normal research -->
   <AllowMainResearch.label>дослідження</AllowMainResearch.label>
   <!-- EN: Allow books which advance research of normal research projects. -->
-  <AllowMainResearch.description>Дозволити книги, які допомагають звичайним дослідницьким проектам.</AllowMainResearch.description>
+  <AllowMainResearch.description>Дозволити книги, які допомагають звичайним дослідницьким проєктам.</AllowMainResearch.description>
   <!-- EN: allow males -->
   <AllowMaleGender.label>чоловікам</AllowMaleGender.label>
   <!-- EN: Allow male individuals. -->

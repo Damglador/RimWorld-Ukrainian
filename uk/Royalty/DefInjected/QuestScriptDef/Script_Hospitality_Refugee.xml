@@ -75,7 +75,7 @@
     <li>decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.</li>
     <li>whoAskedToStay->who asked to stay with you</li>
     <li>oneOfThe->one of the desperate [faction_pawnsPlural] who asked to stay with you</li>
-    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>questOver->Доручення «[resolvedQuestName]» закінчилося.</li>
     <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
     <li>lodgerDiedMemoryThoughtLetterLabel->[lodgersLabel] died: Anger</li>
     <li>lodgerDiedMemoryThoughtLetterText->[letterIntroDeath]\n\n[appalledButNoAction]</li>
@@ -303,7 +303,7 @@
     <li>otherLodgers(lodgerCount>=3)->and several [lodgersLabelPlural]</li>
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> and all other members of the [faction_name]</li>
-    <li>questOver->The quest '[resolvedQuestName]' is over.</li>
+    <li>questOver->Доручення «[resolvedQuestName]» закінчилося.</li>
   </RefugeeBetrayal.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>

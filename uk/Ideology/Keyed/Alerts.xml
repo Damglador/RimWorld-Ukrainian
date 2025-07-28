@@ -35,7 +35,7 @@
   <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
   <IdeoBuildingMissingDesc>{IDEO_name} потребує наявності {lookup: {0}; Case; 1} у вашій колонії, якщо {2} або вище.\n\n{0} - це варіант {lookup: {BASEBUILDING_label}; Case; 1}.{BUILDINGINFO}\n\nЦя вимога діє, якщо {IDEO_name} - основна ідеологія вашої фракції, або якщо у вас принаймні {MINBELIEVERS} її послідовників.{4}\n\nЯкщо вимоги не будуть виконані, у цих послідовників погіршиться настрій:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN:  You can find it by opening the '{TABNAME}' tab of the architect menu. -->
-  <IdeoBuildingArchitectTabDesc>Ви можете знайти цю споруду у вкладці "{TABNAME}" меню "Проєктування".</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingArchitectTabDesc>Ви можете знайти цю споруду у вкладці «{TABNAME}» меню «Проєктування».</IdeoBuildingArchitectTabDesc>
   <!-- EN:  It can be created at:\n{0}. -->
   <IdeoBuildingCanBeCraftedAt>Може бути виготовлено, за допомогою:\n{0}.</IdeoBuildingCanBeCraftedAt>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
@@ -85,7 +85,7 @@
   <!-- EN: Dryad caste not set -->
   <AlertGauranlenTreeWithoutDryadTypeLabel>Не обрана каста дріад</AlertGauranlenTreeWithoutDryadTypeLabel>
   <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
-  <AlertGauranlenTreeWithoutDryadTypeDesc>Для одного або більше дерева Гауранлен не обрана каста дріад.\n\nОберіть дерево та натисніть "{0}", аби вибрати бажану касту дріад.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>Для одного або більше Гауранленового дерева не обрана каста дріад.\n\nОберіть дерево та натисніть «{0}», аби вибрати бажану касту дріад.</AlertGauranlenTreeWithoutDryadTypeDesc>
   <!-- EN: Connector not assigned to plant cutting -->
   <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Зв’язуючий не призначений лісорубом</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
   <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->

@@ -39,7 +39,7 @@
   <!-- EN: {0} has deteriorated away in storage. -->
   <MessageDeterioratedAway>{0} {0_gender ? став : стала : стало} {0_gender ? непридатним : непридатною : непридатним} на складі.</MessageDeterioratedAway>
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>{0_gender ?  : почалась : почалось} {0}.</MessageSeasonBegun>
+  <MessageSeasonBegun>{0} починається.</MessageSeasonBegun>
   <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>Корабель {0} залишив зону доступу.</MessageShipHasLeftCommsRange>
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
@@ -151,7 +151,7 @@
   <!-- EN: There are no animal beds available. -->
   <MessageNoAnimalBeds>Немає доступних спальних місць для тварин.</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
-  <MessageWarningNoMedicineForRestriction>Попередження: обмеження {PAWN_nameDef} на препарати ({RESTRICTIONLABEL}) не дозволяє виконати цю операцію.\nПодумайте про зміну {PAWN_possessive} обмеження на використання препаратів.</MessageWarningNoMedicineForRestriction>
+  <MessageWarningNoMedicineForRestriction>Попередження: обмеження {PAWN_nameDef} на препарати ({RESTRICTIONLABEL}) не дозволяє виконати цю операцію. Подумайте про зміну {PAWN_possessive} обмеження на використання препаратів.</MessageWarningNoMedicineForRestriction>
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
   <PawnDiedBecauseOf>{PAWN_labelShort} {PAWN_gender ? помер : померла}. Причина: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
@@ -495,7 +495,7 @@
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
   <MessageBillValidationStoreZoneUnavailable>Результат завдання "{0}" {lookup: {1}; Case; 1} неможливо доставити до області "{2}", оскільки вона поза досяжністю.</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
-  <MessageBillValidationPawnUnavailable>{0} більше не може працювати над завданням "{1}" на {lookup: {2}; Case; 2}. Обмеження знято.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} більше не може працювати над завданням «{1}» на {lookup: {2}; Case; 2}. Обмеження знято.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
   <MessageBillValidationIncludeZoneDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки область "{2}" була видалена.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
@@ -586,7 +586,7 @@
   <!-- EN: Assign to {0} -->
   <AssignToRole>Призначити на роль {0}</AssignToRole>
   <!-- EN: {0} has begun. -->
-  <RitualBegun>{0} розпочався.</RitualBegun>
+  <RitualBegun>{0} розпочинається.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>Максимальна кількість колоністів, що можуть отримати роль "{0}" - {1}.</MaxPawnsPerRole>
   <!-- EN: Role of {0} is locked. -->

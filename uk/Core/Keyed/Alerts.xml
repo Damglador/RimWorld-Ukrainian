@@ -223,7 +223,7 @@
   <!-- EN: Quest expires in {0} -->
   <QuestExpiresSoon>Завдання пропаде через {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>Завдання "{0}" пропаде через {1}.</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Доручення «{0}» пропаде через {1}.</QuestExpiresSoonDesc>
   <!-- EN: Animal filth -->
   <AlertAnimalFilth>Бруд від тварин</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
@@ -273,5 +273,5 @@
   <!-- EN: Need research bench -->
   <NeedResearchBench>Потрібна споруда для досліджень</NeedResearchBench>
   <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
-  <NeedResearchBenchDesc>Ви маєте призначене дослідження: "{0}". Це дослідження вимагає наявності наступної споруди: {1}.</NeedResearchBenchDesc>
+  <NeedResearchBenchDesc>Ви маєте призначене дослідження: «{0}». Це дослідження вимагає наявності наступної споруди: {1}.</NeedResearchBenchDesc>
 </LanguageData>

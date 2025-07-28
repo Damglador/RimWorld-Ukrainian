@@ -253,9 +253,9 @@
   <!-- EN: No unforbidden, un-reserved {0} -->
   <NoItemReserved>Немає незаборонених, незарезервованих {0}</NoItemReserved>
   <!-- EN: Reserved by someone else. -->
-  <Reserved>Знято кимось іншим.</Reserved>
+  <Reserved>Зайнято кимось іншим.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>Знято {lookup: {1_labelShort}; Case; 4}</ReservedBy>
+  <ReservedBy>Зайнято {lookup: {1_labelShort}; Case; 4}</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>{0} вже використовує {lookup: {1}; Case; 3}.</IsReservedBy>
   <!-- EN: Too heavy -->
@@ -311,7 +311,7 @@
   <!-- EN: Pick up {1_labelShort} x1 -->
   <PickUpOne>Взяти {lookup: {1_labelShort}; Case; 3} х1</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
-  <PickUpAll>Взяти {lookup: {1_labelShort}; Case; 3} (усі)</PickUpAll>
+  <PickUpAll>Взяти {lookup: {1_label}; Case; 3} (усе)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Взяти {lookup: {1_labelShort}; Case; 3}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
@@ -417,7 +417,7 @@
   <!-- EN: Approaching {0}. -->
   <ApproachingSite>Approaching {0}.</ApproachingSite>
   <!-- EN: Offer gifts -->
-  <OfferGifts>Запропонувати подарунок</OfferGifts>
+  <OfferGifts>Подарувати</OfferGifts>
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>Торгувати з {0}</TradeWithSettlement>
   <!-- Specific thing interactions -->
@@ -454,7 +454,7 @@
   <!-- EN: not assigned to {0} -->
   <NotAssignedToWorkType>не призначений займатися {lookup: {0}; Case; 4}</NotAssignedToWorkType>
   <!-- EN: Research is a long-term task -->
-  <CannotPrioritizeResearch>Research is a long-term task</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Дослідження це довготривале завдання</CannotPrioritizeResearch>
   <!-- EN: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>{1_label} is forbidden</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: Forbidden -->

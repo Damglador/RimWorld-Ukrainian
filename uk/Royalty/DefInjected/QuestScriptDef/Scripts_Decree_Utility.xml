@@ -15,5 +15,5 @@
   <!-- EN: Decree cancelled -->
   <DecreeSetup.LetterLabelDecreeCancelled.slateRef>Указ скасовано</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
   <!-- EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed. -->
-  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef], неохоче, скасовує указ "[resolvedQuestName]" через те, що його неможливо виконати.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef], неохоче, скасовує указ «[resolvedQuestName]» через те, що його неможливо виконати.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
 </LanguageData>

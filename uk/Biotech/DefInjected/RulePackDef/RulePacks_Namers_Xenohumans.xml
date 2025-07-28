@@ -228,33 +228,33 @@
   -->
   <NamerPersonPigskin.rulePack.rulesStrings>
     <li>r_name->[firstName] [lastName]</li>
+    <li>r_name->[firstName] «[nickName]» [lastName]</li>
     <li>maybeHyphen(p=4)-></li>
     <li>maybeHyphen->-</li>
-    <li>maybeHyphen->-</li>
     <li>firstName(p=1)->[SylP][nameEnd]</li>
-    <li>nickName->[nicknamePig]</li>
+    <li>firstName(p=3)->[SylP][nameEnd]</li>
     <li>lastName(p=3)->[lastGenerated]</li>
     <li>lastName(p=3)->[lastGenerated]</li>
     <li>lastGenerated->[SylP][nameEnd]</li>
-    <li>nameEnd->уг</li>
-    <li>nameEnd->аг</li>
+    <li>lastGenerated->[SylP][maybeHyphen][SylP][nameEnd]</li>
+    <li>nameEnd->уґ</li>
+    <li>nameEnd->аґ</li>
     <li>nameEnd->ап</li>
     <li>nameEnd->орк</li>
-    <li>nameEnd->орг</li>
+    <li>nameEnd->орґ</li>
     <li>nameEnd->ен</li>
     <li>nameEnd->ер</li>
     <li>nameEnd->уб</li>
-    <li>nameEnd->орр</li>
+    <li>nameEnd->опп</li>
     <li>nameEnd->іс</li>
     <li>nameEnd->ов</li>
     <li>nameEnd->ап</li>
-    <li>nameEnd->аг</li>
-    <li>nameEnd->ог</li>
+    <li>nameEnd->аґ</li>
+    <li>nameEnd->оґ</li>
     <li>nameEnd->огг</li>
     <li>nameEnd->обб</li>
     <li>nameEnd->оік</li>
     <li>nameEnd->оін</li>
-    <li>nameEnd->oin</li>
   </NamerPersonPigskin.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
@@ -292,7 +292,7 @@
   -->
   <NamerPersonWaster.rulePack.rulesStrings>
     <li>r_name->[firstName] [lastName]</li>
-    <li>r_name->[firstName] '[nicknameWaster]' [lastName]</li>
+    <li>r_name->[firstName] «[nicknameWaster]» [lastName]</li>
     <li>firstName->[Syl][Syl]</li>
     <li>firstName->[Syl]</li>
     <li>lastName->[Syl][End]</li>

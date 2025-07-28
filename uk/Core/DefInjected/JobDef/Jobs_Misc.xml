@@ -49,7 +49,7 @@
   <!-- EN: extinguishing self. -->
   <ExtinguishSelf.reportString>гасить себе</ExtinguishSelf.reportString>
   <!-- EN: filling TargetA. -->
-  <FillFermentingBarrel.reportString>наповнює {lookup: {TargetA}; Case; 3}</FillFermentingBarrel.reportString>
+  <FillFermentingBarrel.reportString>засипає {lookup: {TargetA}; Case; 3}.</FillFermentingBarrel.reportString>
   <!-- EN: fleeing. -->
   <Flee.reportString>тікає</Flee.reportString>
   <!-- EN: fleeing. -->

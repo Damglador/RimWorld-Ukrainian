@@ -7,7 +7,7 @@
   <TomePolicy>фоліанти</TomePolicy>
   <!-- Caravan -->
   <!-- EN: Entities -->
-  <EntitiesSection>Сутності</EntitiesSection>
+  <EntitiesSection>Істоти</EntitiesSection>
   <!-- Hidden items filter -->
   <!-- EN: Undiscovered -->
   <UndiscoveredItemLabel>Не виявлено</UndiscoveredItemLabel>
@@ -15,9 +15,9 @@
   <UndiscoveredItemDesc>Цей предмет ще не виявлено.</UndiscoveredItemDesc>
   <!-- Medical settings -->
   <!-- EN: Entities -->
-  <MedGroupEntities>Сутності</MedGroupEntities>
+  <MedGroupEntities>Істоти</MedGroupEntities>
   <!-- EN: Anomalous entities and their variations. -->
-  <MedGroupEntitiesDesc>Аномальні сутності та їхні різновиди</MedGroupEntitiesDesc>
+  <MedGroupEntitiesDesc>Аномальні істоти та їхні різновиди.</MedGroupEntitiesDesc>
   <!-- EN: Ghouls -->
   <MedGroupGhouls>Гулі</MedGroupGhouls>
   <!-- EN: Ghouls belonging to your colony. -->
@@ -27,17 +27,17 @@
   <!-- EN: no anomaly buildings allowed -->
   <RoomRequirementNoAnomalyBuildings>аномальні споруди заборонені</RoomRequirementNoAnomalyBuildings>
   <!-- EN: Entity codex -->
-  <EntityCodex>Список сутностей</EntityCodex>
+  <EntityCodex>Бестіарій істот</EntityCodex>
   <!-- EN: View all discovered entities. Discover new entities to advance the monolith and reveal new research projects. -->
-  <EntityCodexGizmoTip>Переглянути всі виявлені сутності. Відкривайте нові сутності, щоб розвивати моноліт і відкривати нові дослідницькі проекти.</EntityCodexGizmoTip>
+  <EntityCodexGizmoTip>Переглянути всі виявлені істоти. Відкривайте нові сутності, щоб розвивати моноліт і відкривати нові дослідницькі проєкти.</EntityCodexGizmoTip>
   <!-- EN: Research unlocks -->
   <ResearchUnlocks>Розблоковує дослідження</ResearchUnlocks>
   <!-- EN: This page lists all known entities which are related to the dark void. Discover new entities using the “void provocation” psychic ritual. Discovering new entities reveals new research projects, and allows you to advance the void monolith. -->
-  <EntityCodexDesc>На цій сторінці перераховані всі відомі сутності, що пов’язані з темною порожнечею. Відкривайте нові сутності за допомогою психічного ритуалу "провокація порожнечі". Відкриття нових сутностей відкриває нові дослідницькі проекти та дозволяє розвивати моноліт порожнечі.</EntityCodexDesc>
+  <EntityCodexDesc>На цій сторінці перераховані всі відомі істоти, що пов’язані з темною порожнечею. Відкривайте нових істот за допомогою психічного ритуалу «провокація порожнечі». Відкриття нових істот відкриває нові дослідницькі проєкти та дозволяє розвивати моноліт порожнечі.</EntityCodexDesc>
   <!-- EN: Undiscovered entity -->
-  <UndiscoveredEntity>Не виявлені сутності</UndiscoveredEntity>
+  <UndiscoveredEntity>Не виявлені істоти</UndiscoveredEntity>
   <!-- EN: You have not discovered this entity. -->
   <UndiscoveredEntityDesc>Ви ще не виявили цю сутність.</UndiscoveredEntityDesc>
   <!-- EN: View entity codex -->
-  <ViewEntityCodex>Переглянути список сутностей</ViewEntityCodex>
+  <ViewEntityCodex>Переглянути бестіарій істот</ViewEntityCodex>
 </LanguageData>

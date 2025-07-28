@@ -13,9 +13,9 @@
   <!-- EN: This person has been hypnotized by an awoken unnatural corpse. The trance is absolute, but if the awoken corpse breaks its gaze then the hypnosis will end. -->
   <AwokenHypnosis.description>Ця людина була загіпнотизована пробудженим неприродним трупом. Транс абсолютний, але якщо пробуджений труп перериває свій погляд, то гіпноз закінчується.</AwokenHypnosis.description>
   <!-- EN: bioferrite extracted -->
-  <BioferriteExtracted.label>біоферрит добуто</BioferriteExtracted.label>
+  <BioferriteExtracted.label>біоферит добуто</BioferriteExtracted.label>
   <!-- EN: Bioferrite has been surgically removed from this entity. It will regenerate, but the process takes days. -->
-  <BioferriteExtracted.description>Біоферрит було вилучено хірургічним шляхом з цієї сутності. Він відновиться, але цей процес займе кілька днів.</BioferriteExtracted.description>
+  <BioferriteExtracted.description>Біоферит було вилучено хірургічним шляхом з цієї істоти. Він відновиться, але цей процес займе кілька днів.</BioferriteExtracted.description>
   <!-- EN: bliss lobotomy -->
   <BlissLobotomy.label>блаженна лоботомія</BlissLobotomy.label>
   <!-- EN: This person has been psychically lobotomized, placing them in a state of bliss but limiting their cognitive function. -->
@@ -121,7 +121,7 @@
   <!-- EN: cube withdrawal -->
   <CubeWithdrawal.label>залежність від куба</CubeWithdrawal.label>
   <!-- EN: This person obsessively wants to find their golden cube. Their skin itches and their mind races, thinking of ways to get closer to the cube. Their symptoms will get worse until they play with the cube. -->
-  <CubeWithdrawal.description>Ця людина одержимо хоче знайти свій золотий куб. Шкіра свербить а у голові каша та роздуми про те, як би дістатися куба. Симптоми будуть погіршуватися, доки не буде можливості пограти з кубом.</CubeWithdrawal.description>
+  <CubeWithdrawal.description>Ця людина одержимо хоче знайти свій золотий куб. Шкіра свербить, а у голові каша та роздуми про те, як би дістатися куба. Симптоми будуть погіршуватися, доки не буде можливості пограти з кубом.</CubeWithdrawal.description>
   <!-- EN: inital -->
   <CubeWithdrawal.stages.inital.label>початкова</CubeWithdrawal.stages.inital.label>
   <!-- EN: moderate -->
@@ -209,7 +209,7 @@
   <!-- EN: metalblood -->
   <Metalblood.label>залізна кров</Metalblood.label>
   <!-- EN: This creature has the metalblood compound in their bloodstream. This substance can rapidly harden the flesh when it anticipates a blow, making the user more resistant to damage. However, the bioferrite-based chemistry of this serum also makes the user particularly vulnerable to fire. -->
-  <Metalblood.description>У кровотоці цієї істоти міститься металева кров. Ця речовина може швидко затвердіти, коли очікується удар, роблячи користувача більш стійким до пошкоджень. Однак хімічний склад цієї сироватки на основі біоферриту також робить користувача особливо вразливим до вогню.</Metalblood.description>
+  <Metalblood.description>У крові цієї істоти міститься металева кров. Ця речовина може швидко затвердіти, коли очікується удар, роблячи користувача більш стійким до пошкоджень. Однак хімічний склад цієї сироватки на основі біофериту також робить користувача особливо вразливим до вогню.</Metalblood.description>
   <!-- EN: metalhorror implantation -->
   <MetalhorrorImplant.label>імплантація металевого жаху</MetalhorrorImplant.label>
   <!-- EN: A gestating creature of metallic horror. Starting from a tiny archometallic seed, it will quickly take control of the nervous system, grow, and extend throughout the host's body until it is ready to reveal itself. Once discovered, you can use the surgical inspection operation to cause a metalhorror to emerge from its host. Be prepared for a fight. -->

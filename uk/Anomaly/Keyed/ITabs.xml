@@ -14,7 +14,7 @@
   <!-- EN: Maintain only -->
   <EntityStudyMode_MaintainOnly>Тільки догляд</EntityStudyMode_MaintainOnly>
   <!-- EN: Wardens will not perform special actions on this entity, but other interactions are still available. -->
-  <EntityStudyMode_MaintainOnlyDesc>Наглядачі не виконуватимуть спеціальних дій щодо цієї сутності, але інші види взаємодії все ще доступні.</EntityStudyMode_MaintainOnlyDesc>
+  <EntityStudyMode_MaintainOnlyDesc>Наглядачі не виконуватимуть спеціальних дій щодо цієї істоти, але інші види взаємодії все ще доступні.</EntityStudyMode_MaintainOnlyDesc>
   <!-- EN: Study -->
   <EntityStudyMode_Study>Вивчення</EntityStudyMode_Study>
   <!-- EN: Researchers will study the entity. -->
@@ -22,7 +22,7 @@
   <!-- EN: Release -->
   <EntityStudyMode_Release>Відпустити</EntityStudyMode_Release>
   <!-- EN: A warden will release the entity from the holding platform. Entities may be hostile when released. -->
-  <EntityStudyMode_ReleaseDesc>Наглядач звільнить сутність із платформи утримання. Сутності можуть бути ворожими після звільнення.</EntityStudyMode_ReleaseDesc>
+  <EntityStudyMode_ReleaseDesc>Наглядач звільнить істот із платформи утримання. Істоти можуть бути ворожими після звільнення.</EntityStudyMode_ReleaseDesc>
   <!-- EN: Execute -->
   <EntityStudyMode_Execute>Стратити</EntityStudyMode_Execute>
   <!-- EN: A warden will execute the restrained entity. -->
@@ -42,7 +42,7 @@
   <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
   <StudyKnowledgeGainDesc>Обсяг знань, отриманих за інтервал вивчення. Краще утримання допомагає досліднику зосередитися на вивченні, а не на безпеці, отримуючи більше знань.</StudyKnowledgeGainDesc>
   <!-- EN: What type of medicine can be given to this entity. -->
-  <MedicineQualityDescriptionEntity>Тип ліків, що можна дати цій сутності.</MedicineQualityDescriptionEntity>
+  <MedicineQualityDescriptionEntity>Тип ліків, що можна дати цій істоті.</MedicineQualityDescriptionEntity>
   <!-- EN: Electroharvester -->
   <FactorForElectroharvester>Поглинач енергії</FactorForElectroharvester>
   <!-- EN: Long captivity -->

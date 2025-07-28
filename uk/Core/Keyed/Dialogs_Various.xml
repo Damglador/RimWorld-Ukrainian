@@ -40,7 +40,7 @@
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
   <GameUpdatedToNewVersionSteam>Якщо ви хочете продовжувати грати у стару версію, ви можете це зробити за допомогою функції "Тестування" в Steam.\n\n  1. В бібліотеці Steam натисніть на RimWorld правою кнопкою миші.\n  2. Натисніть  "Властивості...".\n  3. Перейдіть у вкладку "Тестування".\n  4. Оберіть бажану версію зі списку.</GameUpdatedToNewVersionSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
-  <GameUpdatedToNewVersionSteamController>Якщо ви хочете продовжувати грати у стару версію, ви можете це зробити за допомогою функції "Тестування" в Steam.</GameUpdatedToNewVersionSteamController>
+  <GameUpdatedToNewVersionSteamController>Якщо ви хочете продовжувати грати у стару версію, ви можете це зробити за допомогою функції «Тестування» в Steam.</GameUpdatedToNewVersionSteamController>
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
   <RecoveredFromErrorsDialogTitle>Відновлено від помилок несумісних чи пошкоджених модифікацій</RecoveredFromErrorsDialogTitle>
@@ -128,7 +128,7 @@
   <!-- EN: Load anyway -->
   <LoadAnyway>Завантажити з поточними</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Завантажити модифікації збереження</ChangeLoadedMods>
+  <ChangeLoadedMods>Завантажити моди зі збереження</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
   <MissingMods>Деякі модифікації відсутні, спершу треба встановити їх</MissingMods>
   <!-- EN: Official content -->
@@ -357,7 +357,7 @@
   <!-- EN: Charging -->
   <ChargingTime>Заряджається</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>Наступне перезаряджання (для {1}) через: {0}\nЦикл зарядки: {2}</ChargingNext>
+  <ChargingNext>Наступне перезаряджання (на {1}) через: {0}\nЦикл зарядки: {2}</ChargingNext>
   <!-- EN: Shut down -->
   <ShutDown>Відключено</ShutDown>
   <!-- EN: Fire rate -->
@@ -636,7 +636,7 @@
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
   <ConfirmTraderShortFunds>У торгівця недостатньо срібла для повної оплати товарів. Все одно продовжити?</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
-  <SortBy>Сортувати за</SortBy>
+  <SortBy>Сортування</SortBy>
   <!-- EN: trader type -->
   <TraderTypePrice>тип торгівця</TraderTypePrice>
   <!-- EN: selling -->
@@ -1112,7 +1112,7 @@
   <ConfirmCancelMonumentMarker>Ви дійсно хочете видалити маркер монумента?</ConfirmCancelMonumentMarker>
   <!-- Abilities -->
   <!-- EN: Cannot use {0} -->
-  <CannotUseAbility>Неможливо використати "{lookup: {0}; Case; 4}"</CannotUseAbility>
+  <CannotUseAbility>Неможливо використати «{lookup: {0}; Case; 4}»</CannotUseAbility>
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>Потребує прямої видимості</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
@@ -1148,7 +1148,7 @@
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
   <AbilityCantApplyToScaria>{0_labelShort} хворіє на скаріоз, що можна вилікувати лише медикаментами.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
-  <AbilityDoesntWorkOnMentalState>{0} не працює на людей у стані "{1}".</AbilityDoesntWorkOnMentalState>
+  <AbilityDoesntWorkOnMentalState>{0} не працює на людей у стані «{1}».</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
   <AbilityCantApplyNoResistance>{0_labelShort} не має спротиву.</AbilityCantApplyNoResistance>
   <!-- EN: {0_labelShort} is downed. -->

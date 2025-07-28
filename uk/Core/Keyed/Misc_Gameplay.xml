@@ -350,7 +350,7 @@
   <!-- EN: Requires -->
   <Requires>Потрібно</Requires>
   <!-- EN: Replaces -->
-  <Replaces>Replaces</Replaces>
+  <Replaces>Замінює</Replaces>
   <!-- EN: missing {0} -->
   <MissingPartWithLabel>missing {0}</MissingPartWithLabel>
   <!-- EN: {0}x any of -->
@@ -434,7 +434,7 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>немає вибрана технологія для дослідження</NoActiveResearchProjectToFinish>
   <!-- EN: Current project -->
-  <CurrentProject>Поточні проекти</CurrentProject>
+  <CurrentProject>Поточні проєкти</CurrentProject>
   <!-- EN: Research progress -->
   <ResearchProgress>Прогрес досліджень</ResearchProgress>
   <!-- EN: already has {0} -->
@@ -1723,7 +1723,7 @@
   <!-- EN: {0} was not completed because of lack of attendance. -->
   <RitualNobodyAttended>{0} не відбувся: відсутність відвідувачів.</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
-  <RitualFinished>{0} було завершено.</RitualFinished>
+  <RitualFinished>{0} завершено.</RitualFinished>
   <!-- EN: ends in {0} -->
   <RitualEndsIn>завершиться через {0}</RitualEndsIn>
   <!-- EN: Can start any time -->
@@ -1767,7 +1767,7 @@
   <!-- EN: {0} total quality was {1}, determined by these factors -->
   <RitualOutcomeQualitySpecific>загалом, якість {0} була {1}. На якість вплинули наступні фактори</RitualOutcomeQualitySpecific>
   <!-- EN: Performed recently -->
-  <RitualOutcomePerformedRecently>Ритуал проведено нещодавно</RitualOutcomePerformedRecently>
+  <RitualOutcomePerformedRecently>Проведено нещодавно</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
   <RitualQualityExpectations>Очікування від ритуалу: {0}</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
@@ -1785,9 +1785,9 @@
   <!-- EN: Begin -->
   <Begin>Розпочати</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>розпочати {lookup: {0}; Case; 3}</BeginRitual>
+  <BeginRitual>Розпочати {lookup: {0}; Case; 3}</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
-  <BeginRitualFor>розпочати {lookup: {0}; Case; 3} для {1}</BeginRitualFor>
+  <BeginRitualFor>Розпочати {lookup: {0}; Case; 3} для {1}</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
   <QualityOutOf>{0} (із {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
@@ -1973,7 +1973,7 @@
   <BlockedByTerrain>Blocked by terrain (requires {0_label} terrain support)</BlockedByTerrain>
   <!-- Craters -->
   <!-- EN: Fill in -->
-  <DesignatorFillIn>Fill in</DesignatorFillIn>
+  <DesignatorFillIn>Засипати</DesignatorFillIn>
   <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
   <DesignatorFillInDesc>Designate this crater to be filled in. A colonist assigned to construction will fill it in.</DesignatorFillInDesc>
   <!-- Hacking -->
@@ -2031,7 +2031,7 @@
   <ExitPortal>Exit {0}</ExitPortal>
   <!-- CompProjectileInterceptor -->
   <!-- EN: Shield energy -->
-  <ShieldEnergy>Shield energy</ShieldEnergy>
+  <ShieldEnergy>Заряд щита</ShieldEnergy>
   <!-- EN: Shield cooldown -->
   <ShieldTimeToRecovery>Shield cooldown</ShieldTimeToRecovery>
   <!-- EN: Shield duration -->
@@ -2039,7 +2039,7 @@
   <!-- EN: On cooldown -->
   <ShieldOnCooldown>On cooldown</ShieldOnCooldown>
   <!-- EN: Below minimum energy -->
-  <ShieldBelowMinHitpoints>Below minimum energy</ShieldBelowMinHitpoints>
+  <ShieldBelowMinHitpoints>Менше мінімального заряду</ShieldBelowMinHitpoints>
   <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
   <ProjectileInterceptorTip>A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP.</ProjectileInterceptorTip>
   <!-- EN: max {0} -->

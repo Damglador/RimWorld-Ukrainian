@@ -112,9 +112,9 @@
   <!-- EN: Select holding platform -->
   <SelectHoldingPlatform>Вибрати платформу для утримання</SelectHoldingPlatform>
   <!-- EN: Entity escape -->
-  <LetterLabelEscapingFromHoldingPlatform>Втеча сутності</LetterLabelEscapingFromHoldingPlatform>
+  <LetterLabelEscapingFromHoldingPlatform>Втеча істоти</LetterLabelEscapingFromHoldingPlatform>
   <!-- EN: The following entities have escaped their restraints:\n\n{0}\n\nBuild stronger containment rooms to stop entities escaping. Entities are less likely to escape from holding platforms with high containment strength, which comes from strong walls and doors, good lighting, and special containment devices. -->
-  <LetterEscapingFromHoldingPlatform>Наступні сутності змогли вибратися:\n\n{0}\n\nБудуйте кращі місця для утримання, щоб зупинити втечу сутностей. Суб’єкти з меншою ймовірністю втечуть із платформ утримання з високою силою стримування, яка збільшується завдяки міцним стінам і дверям, хорошому освітленню та спеціальним пристроям для утримання.</LetterEscapingFromHoldingPlatform>
+  <LetterEscapingFromHoldingPlatform>Наступні істоти змогли вибратися:\n\n{0}\n\nПобудуйте кращі місця для утримання, щоб зупинити втечу істот. Суб'єкти з меншою ймовірністю втечуть із платформ утримання з високою силою стримування, яка збільшується завдяки міцним стінам і дверям, хорошому освітленню та спеціальним пристроям для утримання.</LetterEscapingFromHoldingPlatform>
   <!-- EN: requires {0} -->
   <HoldingPlatformRequiresStrength>потребує {0}</HoldingPlatformRequiresStrength>
   <!-- EN: No holding platforms available. -->
@@ -254,7 +254,7 @@
   <!-- EN: ready to study -->
   <ReadyToStudy>готовий до вивчення</ReadyToStudy>
   <!-- EN: No active anomaly research project selected for {0} knowledge category. -->
-  <NoActiveResearchProject>Для категорії знань {0} не вибрано жодного проекту дослідження аномалій.</NoActiveResearchProject>
+  <NoActiveResearchProject>Для категорії знань {0} не вибрано жодного проєкту дослідження аномалій.</NoActiveResearchProject>
   <!-- EN: Capturable -->
   <Capturable>Можна захопити</Capturable>
   <!-- EN: Must be captured in a holding platform. -->
@@ -268,7 +268,7 @@
   <!-- EN: Cancel transfer -->
   <CancelTransfer>Скасувати переміщення</CancelTransfer>
   <!-- EN: Cancel transferring this entity to another holding platform. -->
-  <CancelTransferDesc>Скасувати переміщення цієї сутності на іншу платформу.</CancelTransferDesc>
+  <CancelTransferDesc>Скасувати переміщення цієї істоти на іншу платформу.</CancelTransferDesc>
   <!-- Metalhorrors -->
   <!-- EN: Emerged from -->
   <EmergedFrom>Поява з</EmergedFrom>
@@ -400,7 +400,7 @@
   <MessageTransmutedStuffPlural>{PAWN_nameDef} перетворює {lookup: {1}; Case; 3} на {lookup: {TRANSMUTED_labelPluralIndef}; Case; 3}</MessageTransmutedStuffPlural>
   <!-- Electroharvester -->
   <!-- EN: No restrained entity. -->
-  <ElectroharvesterNoEntity>Немає утримуваної сутності.</ElectroharvesterNoEntity>
+  <ElectroharvesterNoEntity>Немає утримуваної істоти.</ElectroharvesterNoEntity>
   <!-- EN: Not connected to a holding platform. -->
   <ElectroharvesterNoPlatform>Не під'єднано до платформ для утримання.</ElectroharvesterNoPlatform>
   <!-- Fleshmass Heart -->
@@ -622,15 +622,15 @@
   <!-- EN: Send a colonist to investigate this. -->
   <VoidMonolithUndiscovered>Send a colonist to investigate this.</VoidMonolithUndiscovered>
   <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
-  <VoidMonolithRequiredEntityCategory>Щоб просунути моноліт до наступного кроку, вам потрібно виявити {0} сутностей рівня {1}.</VoidMonolithRequiredEntityCategory>
+  <VoidMonolithRequiredEntityCategory>Щоб просунути моноліт до наступного етапу, вам потрібно виявити {0} істот рівня {1}.</VoidMonolithRequiredEntityCategory>
   <!-- EN: Discovered: {0} -->
   <DiscoveredCount>Виявлено: {0}</DiscoveredCount>
   <!-- EN: Required entities discovered. -->
-  <VoidMonolithAllEntitiesDiscovered>Необхідні сутності виявлені.</VoidMonolithAllEntitiesDiscovered>
+  <VoidMonolithAllEntitiesDiscovered>Необхідні істоти виявлені.</VoidMonolithAllEntitiesDiscovered>
   <!-- EN: Required to increase level -->
   <VoidMonolithRequiresDiscovery>Необхідно для підвищення рівня</VoidMonolithRequiresDiscovery>
   <!-- EN: Undiscovered entities -->
-  <VoidMonolithRequiresDiscoveryShort>Не виявлені сутності</VoidMonolithRequiresDiscoveryShort>
+  <VoidMonolithRequiresDiscoveryShort>Не виявлені істоти</VoidMonolithRequiresDiscoveryShort>
   <!-- EN: Must discover {0} more {1} monolith entities. -->
   <VoidMonolithRequiresCategory>Потрібно виявити ще {0} монолітних об’єктів {1}.</VoidMonolithRequiresCategory>
   <!-- EN: Disturbing vision -->
@@ -709,7 +709,7 @@
   <EmergenceInDesc>Щось з'являється з-під землі у {0}.</EmergenceInDesc>
   <!-- Bioferrite harvester -->
   <!-- EN: Bioferrite contained -->
-  <BioferriteHarvesterContained>Містить біоферриту</BioferriteHarvesterContained>
+  <BioferriteHarvesterContained>Містить біоферит</BioferriteHarvesterContained>
   <!-- EN: per day -->
   <BioferriteHarvesterPerDay>на день</BioferriteHarvesterPerDay>
   <!-- EN: Eject contents -->
@@ -717,9 +717,9 @@
   <!-- EN: Eject all contained {0} onto the ground. -->
   <BioferriteHarvesterEjectContentsDesc>Витягнути весь {0} на землю.</BioferriteHarvesterEjectContentsDesc>
   <!-- EN: Toggle bioferrite unloading -->
-  <BioferriteHarvesterToggleUnloading>Вивантажувати біоферрит</BioferriteHarvesterToggleUnloading>
+  <BioferriteHarvesterToggleUnloading>Вивантажувати біоферит</BioferriteHarvesterToggleUnloading>
   <!-- EN: When active, colonists will automatically unload bioferrite from the harvester as it is filling up. -->
-  <BioferriteHarvesterToggleUnloadingDesc>Коли активовано, колоністи автоматично вивантажуватимуть біоферрит з контейнера, коли він заповнюється.</BioferriteHarvesterToggleUnloadingDesc>
+  <BioferriteHarvesterToggleUnloadingDesc>Коли активовано, колоністи автоматично вивантажуватимуть біоферит з контейнера, коли він заповнюється.</BioferriteHarvesterToggleUnloadingDesc>
   <!-- Proximity detector -->
   <!-- EN: Invisible creature detected. -->
   <ProximityDetectorCreatureDetected>Виявлено невидиме створіння.</ProximityDetectorCreatureDetected>

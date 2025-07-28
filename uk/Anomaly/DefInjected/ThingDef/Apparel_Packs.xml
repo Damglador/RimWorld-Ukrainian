@@ -11,7 +11,7 @@
   <!-- EN: disruptor flare pack -->
   <Apparel_DisruptorFlarePack.label>пристрій руйнівних фальшфеєрів</Apparel_DisruptorFlarePack.label>
   <!-- EN: A utility pack that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
-  <Apparel_DisruptorFlarePack.description>Пристрій, який запускає руйнівні фальшфеєри. При зіткненні фальшфеєр спалює капсулу з біоферриту, що створює яскравий спалах і локальний психічний імпульс. Цей імпульс приголомшує психічно чутливих істот, викриває невидимих і на короткий час зменшує їхню свідомість і швидкість руху. Після цього фальшфеєр продовжує горіти, деякий час освітлюючи широку територію.</Apparel_DisruptorFlarePack.description>
+  <Apparel_DisruptorFlarePack.description>Пристрій, який запускає руйнівні фальшфеєри. При зіткненні фальшфеєр спалює капсулу з біофериту, що створює яскравий спалах і локальний психічний імпульс. Цей імпульс приголомшує психічно чутливих істот, викриває невидимих і на короткий час зменшує їхню свідомість і швидкість руху. Після цього фальшфеєр продовжує горіти, деякий час освітлюючи широку територію.</Apparel_DisruptorFlarePack.description>
   <!-- EN: flare -->
   <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>фальшфеєр</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->

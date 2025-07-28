@@ -3,7 +3,7 @@
   <!-- EN: Assign to group -->
   <DesignatorMechControlGroup>Призначити в групу</DesignatorMechControlGroup>
   <!-- EN: Assign the selected mech(s) to another control group under their current mechanitor overseer. -->
-  <DesignatorMechControlGroupDesc>Призначте вибраних механоїдів іншій підконтрольній групі під їх поточним наглядом механізатора.</DesignatorMechControlGroupDesc>
+  <DesignatorMechControlGroupDesc>Призначте вибраних механоїдів іншій підконтрольній групі під їх поточним наглядом механітора.</DesignatorMechControlGroupDesc>
   <!-- EN: However, a {0} can build this. -->
   <MechCanBuildThis>Проте, {0} може збудувати це.</MechCanBuildThis>
   <!-- EN: Adopt -->

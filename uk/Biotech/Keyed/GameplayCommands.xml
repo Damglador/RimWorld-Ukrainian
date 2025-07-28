@@ -3,7 +3,7 @@
   <!-- EN: Auto-repair -->
   <CommandAutoRepair>Авторемонт</CommandAutoRepair>
   <!-- EN: If active, a mechanitor will automatically repair this mechanoid. Repairing a mechanoid drains its energy. -->
-  <CommandAutoRepairDesc>Якщо активно, механізатор автоматично відновить цього механоїда. Ремонт механоїда витрачає енергію.</CommandAutoRepairDesc>
+  <CommandAutoRepairDesc>Якщо активно, механітор автоматично відновить цього механоїда. Ремонт механоїда витрачає енергію.</CommandAutoRepairDesc>
   <!-- EN: {0_labelShort} is deathresting. -->
   <CommandDisabledDeathresting>{0_labelShort} у стані летаргії.</CommandDisabledDeathresting>
   <!-- EN: Cancel vatgrowth -->
@@ -13,7 +13,7 @@
   <!-- EN: Select overseer -->
   <CommandSelectOverseer>Обрати наглядача</CommandSelectOverseer>
   <!-- EN: Select the mechanitor who is the overseer of this mech. -->
-  <CommandSelectOverseerDesc>Виберіть механізатора, який буде наглядати за цим механоїдом.</CommandSelectOverseerDesc>
+  <CommandSelectOverseerDesc>Виберіть механітора, який буде наглядати за цим механоїдом.</CommandSelectOverseerDesc>
   <!-- EN: No overseer. -->
   <CommandSelectOverseerDisabledDesc>Не наглядач.</CommandSelectOverseerDisabledDesc>
   <!-- EN: Cancel extraction -->
@@ -35,7 +35,7 @@
   <!-- EN: Select all mechs -->
   <CommandSelectAllMechs>Обрати всіх механоїдів</CommandSelectAllMechs>
   <!-- EN: Select all mechanoids controlled by this mechanitor. -->
-  <CommandSelectAllMechsDesc>Вибери всіх механоїдів, контрольованих цим механізатором.</CommandSelectAllMechsDesc>
+  <CommandSelectAllMechsDesc>Вибери всіх механоїдів, контрольованих цим механітором.</CommandSelectAllMechsDesc>
   <!-- EN: Turret enabled -->
   <CommandToggleTurret>Автоматичний вогонь</CommandToggleTurret>
   <!-- EN: Toggle turret being able to fire at will.\n\nWhen disabled, the turret will not automatically fire. This is useful while sneaking up on enemies. -->
