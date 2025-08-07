@@ -17,7 +17,7 @@
   <!-- EN: bioferrite burner -->
   <BioferriteBurner.label>пекельний пальник</BioferriteBurner.label>
   <!-- EN: This weapon has a bioferrite-powered flamethrower unit. The burner generates a blast of flame from a pressurized bioferrite charge. Once used, it must be reloaded using bioferrite. -->
-  <BioferriteBurner.description>В цю зброю вбудовано вогнемет на біоферриті. Вогнемет випускає хвилю полум'я, використовуючи заряд біоферриту під тиском. Після використання потребує біоферриту для перезарядки.</BioferriteBurner.description>
+  <BioferriteBurner.description>В цю зброю вбудовано вогнемет на біофериті. Вогнемет випускає хвилю полум'я, використовуючи заряд біофериту під тиском. Після використання потребує біоферриту для перезаряджання.</BioferriteBurner.description>
   <!-- EN: burner charge -->
   <BioferriteBurner.abilityProps.chargeNoun>вогнеметний заряд</BioferriteBurner.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
@@ -63,15 +63,15 @@
   <!-- EN: awkward -->
   <Cumbersome.traitAdjectives.2>незграбна</Cumbersome.traitAdjectives.2>
   <!-- EN: custom grip -->
-  <CustomGrip.label>покращена рукоятка</CustomGrip.label>
+  <CustomGrip.label>покращене руків'я</CustomGrip.label>
   <!-- EN: This weapon contains a customized grip that handles recoil better, improving accuracy at short range. It looks cool too. -->
-  <CustomGrip.description>На цю зброю встановлено покращену рукоятку, яка зменшує віддачу, покращуючи точність на короткій відстані. А ще вона круто виглядає.</CustomGrip.description>
+  <CustomGrip.description>На цю зброю встановлено покращене руків'я, яке зменшує віддачу, покращуючи точність на короткій відстані. А ще воно круто виглядає.</CustomGrip.description>
   <!-- EN: custom -->
-  <CustomGrip.traitAdjectives.0>власна</CustomGrip.traitAdjectives.0>
+  <CustomGrip.traitAdjectives.0>власне</CustomGrip.traitAdjectives.0>
   <!-- EN: customized -->
-  <CustomGrip.traitAdjectives.1>покращена</CustomGrip.traitAdjectives.1>
+  <CustomGrip.traitAdjectives.1>покращене</CustomGrip.traitAdjectives.1>
   <!-- EN: gripped -->
-  <CustomGrip.traitAdjectives.2>рукоятка</CustomGrip.traitAdjectives.2>
+  <CustomGrip.traitAdjectives.2>руків'я</CustomGrip.traitAdjectives.2>
   <!-- EN: hi-grip -->
   <CustomGrip.traitAdjectives.3>міцний хват</CustomGrip.traitAdjectives.3>
   <!-- EN: EMP cannon -->

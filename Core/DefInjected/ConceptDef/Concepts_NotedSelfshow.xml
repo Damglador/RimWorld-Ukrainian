@@ -73,7 +73,7 @@
   <!-- EN: Growing zones -->
   <GrowingFood.label>Зона посіву</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>Для вирощування рослин створіть зону посіву, використовуючи меню "Проєктування" -> "Зона".\n\nЗона посіву може бути розміщена лише на родючому ґрунті.</GrowingFood.helpText>
+  <GrowingFood.helpText>Для вирощування рослин створіть зону посіву, використовуючи меню «Проєктування» -> «Зона».\n\nЗона посіву може бути розміщена лише на родючому ґрунті.</GrowingFood.helpText>
   <!-- EN: History tab -->
   <HistoryTab.label>Літопис</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
@@ -81,7 +81,7 @@
   <!-- EN: Home area -->
   <HomeArea.label>Домашня область</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>Домашня область вкаже вашим колоністам, де потрібно займатися прибиранням, гасити пожежі та ремонтувати об’єкти.\n\nВизначте домашню область у вкладці "Проєктування" -> "Зона".</HomeArea.helpText>
+  <HomeArea.helpText>Домашня область вкаже вашим колоністам, де потрібно займатися прибиранням, гасити пожежі та ремонтувати об’єкти.\n\nВизначте домашню область у вкладці «Проєктування» -> «Зони».</HomeArea.helpText>
   <!-- EN: Hostility response modes -->
   <HostilityResponse.label>Реакція на загрозу</HostilityResponse.label>
   <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
@@ -101,7 +101,7 @@
   <!-- EN: Mining -->
   <Mining.label>Гірництво</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>Ви можете вказати, де вести розкопки, у вкладці "Проєктування" -> "Накази".\n\nПід час розкопок деяких порід видобувається сталь, золото, пласталь та інші корисні матеріали.</Mining.helpText>
+  <Mining.helpText>Ви можете вказати, де вести розкопки, у вкладці «Проєктування» -> «Накази».\n\nПід час розкопок деяких порід видобувається сталь, золото, пласталь та інші корисні матеріали.</Mining.helpText>
   <!-- EN: Outfits -->
   <Outfits.label>Налаштування гардеробу</Outfits.label>
   <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage apparel policies" dialog box to design a new outfit, and then assign the outfit to colonists. -->
@@ -121,7 +121,7 @@
   <!-- EN: Stockpiles -->
   <Stockpiles.label>Склади</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>Ваші колоністи повинні мати склад, щоб зберігати речі. Позначте зону складу для використання з цією метою.\n\nЦе можна зробити у вкладці "Проєктування" -> "Зона".</Stockpiles.helpText>
+  <Stockpiles.helpText>Ваші колоністи повинні мати склад, щоб зберігати речі. Позначте зону складу для використання з цією метою.\n\nЦе можна зробити у вкладці «Проєктування» -> «Зони».</Stockpiles.helpText>
   <!-- EN: Storage tab -->
   <StorageTab.label>Налаштування складу</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->

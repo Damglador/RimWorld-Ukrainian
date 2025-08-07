@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: animals -->
-  <Animals.label>Тваринництво</Animals.label>
+  <Animals.label>тваринництво</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
   <Animals.description>Приручення, тренування, догляд та контроль над тваринами.</Animals.description>
   <!-- EN:
@@ -33,9 +33,9 @@
     <li>subject->poultry</li>
   </Animals.generalRules.rulesStrings>
   <!-- EN: animals -->
-  <Animals.skillLabel>Тваринництво</Animals.skillLabel>
+  <Animals.skillLabel>тваринництво</Animals.skillLabel>
   <!-- EN: artistic -->
-  <Artistic.label>Мистецтво</Artistic.label>
+  <Artistic.label>мистецтво</Artistic.label>
   <!-- EN: Crafting art. -->
   <Artistic.description>Створення витворів мистецтва.</Artistic.description>
   <!-- EN:
@@ -65,9 +65,9 @@
     <li>subject->artistry</li>
   </Artistic.generalRules.rulesStrings>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>Мистецтво</Artistic.skillLabel>
+  <Artistic.skillLabel>мистецтво</Artistic.skillLabel>
   <!-- EN: construction -->
-  <Construction.label>Будівництво</Construction.label>
+  <Construction.label>будівництво</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
   <Construction.description>Створення споруд та меблів та їх деконструкція.</Construction.description>
   <!-- EN:
@@ -95,9 +95,9 @@
     <li>subject->infrastructure</li>
   </Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
-  <Construction.skillLabel>Будівництво</Construction.skillLabel>
+  <Construction.skillLabel>будівництво</Construction.skillLabel>
   <!-- EN: cooking -->
-  <Cooking.label>Кулінарія</Cooking.label>
+  <Cooking.label>кулінарія</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
   <Cooking.description>Створення страв з сирих інгредієнтів.</Cooking.description>
   <!-- EN:
@@ -131,9 +131,9 @@
     <li>subject->meals</li>
   </Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
-  <Cooking.skillLabel>Кулінарія</Cooking.skillLabel>
+  <Cooking.skillLabel>кулінарія</Cooking.skillLabel>
   <!-- EN: crafting -->
-  <Crafting.label>Ремесло</Crafting.label>
+  <Crafting.label>ремесло</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
   <Crafting.description>Створення зброї, броні, компонентів та інших предметів.</Crafting.description>
   <!-- EN:
@@ -159,9 +159,9 @@
     <li>subject->artisanry</li>
   </Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>Ремесло</Crafting.skillLabel>
+  <Crafting.skillLabel>ремесло</Crafting.skillLabel>
   <!-- EN: intellectual -->
-  <Intellectual.label>Інтелект</Intellectual.label>
+  <Intellectual.label>інтелект</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
   <Intellectual.description>Дослідження технологій, синтез препаратів та робота зі сканерами.</Intellectual.description>
   <!-- EN:
@@ -215,9 +215,9 @@
     <li>subject->intellectual inquiry</li>
   </Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
-  <Intellectual.skillLabel>Інтелект</Intellectual.skillLabel>
+  <Intellectual.skillLabel>інтелект</Intellectual.skillLabel>
   <!-- EN: medical -->
-  <Medicine.label>Медицина</Medicine.label>
+  <Medicine.label>медицина</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
   <Medicine.description>Догляд за пораненими та хворими. Виконання медичних процедур.</Medicine.description>
   <!-- EN:
@@ -269,9 +269,9 @@
     <li>subject->health sciences</li>
   </Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
-  <Medicine.skillLabel>Медицина</Medicine.skillLabel>
+  <Medicine.skillLabel>медицина</Medicine.skillLabel>
   <!-- EN: melee -->
-  <Melee.label>Ближній бій</Melee.label>
+  <Melee.label>ближній бій</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
   <Melee.description>Володіння холодною зброєю та навичка бою без зброї.</Melee.description>
   <!-- EN:
@@ -301,7 +301,7 @@
     <li>subject->dueling</li>
   </Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
-  <Melee.skillLabel>Ближній бій</Melee.skillLabel>
+  <Melee.skillLabel>ближній бій</Melee.skillLabel>
   <!-- EN: mining -->
   <Mining.label>гірництво</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
@@ -339,7 +339,7 @@
   <!-- EN: mining -->
   <Mining.skillLabel>гірництво</Mining.skillLabel>
   <!-- EN: plants -->
-  <Plants.label>Рослинництво</Plants.label>
+  <Plants.label>рослинництво</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
   <Plants.description>Посів, догляд і збір врожаю. Збір дикоростучої їжі під час подорожей.</Plants.description>
   <!-- EN:
@@ -381,9 +381,9 @@
     <li>subject->crop science</li>
   </Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
-  <Plants.skillLabel>Рослинництво</Plants.skillLabel>
+  <Plants.skillLabel>рослинництво</Plants.skillLabel>
   <!-- EN: shooting -->
-  <Shooting.label>Стрільба</Shooting.label>
+  <Shooting.label>стрільба</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
   <Shooting.description>Володіння далекобійною зброєю.</Shooting.description>
   <!-- EN:
@@ -407,7 +407,7 @@
     <li>subject->distance shooting</li>
   -->
   <Shooting.generalRules.rulesStrings>
-    <li>subject->guns</li>
+    <li>subject->зброї</li>
     <li>subject->weapons</li>
     <li>subject->aiming</li>
     <li>subject->shooting</li>
@@ -419,7 +419,7 @@
     <li>subject->long-range combat</li>
     <li>subject->precision shooting</li>
     <li>subject->rifle mastery</li>
-    <li>subject->target practice</li>
+    <li>subject->ціль практики</li>
     <li>subject->sharpshooting</li>
     <li>subject->ranged tactics</li>
     <li>subject->shot placement</li>
@@ -427,9 +427,9 @@
     <li>subject->distance shooting</li>
   </Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
-  <Shooting.skillLabel>Стрільба</Shooting.skillLabel>
+  <Shooting.skillLabel>стрільба</Shooting.skillLabel>
   <!-- EN: social -->
-  <Social.label>Соціальність</Social.label>
+  <Social.label>соціальність</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
   <Social.description>Перемовини, переконування, маніпулювання, вміння торгувати, лідерство та підбадьорювання інших.</Social.description>
   <!-- EN:
@@ -471,5 +471,5 @@
     <li>subject->communication skills</li>
   </Social.generalRules.rulesStrings>
   <!-- EN: social -->
-  <Social.skillLabel>Соціальність</Social.skillLabel>
+  <Social.skillLabel>соціальність</Social.skillLabel>
 </LanguageData>

@@ -29,7 +29,7 @@
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>розбирає {lookup: {TargetA}; Case; 3}</Deconstruct.reportString>
   <!-- EN: deconstructing TargetA. -->
-  <DeconstructForBlueprint.reportString>deconstructing TargetA.</DeconstructForBlueprint.reportString>
+  <DeconstructForBlueprint.reportString>розібрати {lookup: {TargetA}; Case; 3}</DeconstructForBlueprint.reportString>
   <!-- EN: feeding TargetA to TargetB. -->
   <DeliverFood.reportString>несе {lookup: {TargetA}; Case; 3} для {lookup: {TargetB}; Case; 1}</DeliverFood.reportString>
   <!-- EN: doing bill at TargetA. -->
@@ -49,7 +49,7 @@
   <!-- EN: executing TargetA. -->
   <GuiltyColonistExecution.reportString>страчує {TargetA}</GuiltyColonistExecution.reportString>
   <!-- EN: hacking TargetA. -->
-  <Hack.reportString>hacking TargetA.</Hack.reportString>
+  <Hack.reportString>зламує {lookup: TargetA; Case; 3}.</Hack.reportString>
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>збирає {lookup: {TargetA}; Case; 3}</Harvest.reportString>
   <!-- EN: harvesting TargetA. -->
@@ -89,7 +89,7 @@
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>знімає підлогу</RemoveFloor.reportString>
   <!-- EN: removing foundation. -->
-  <RemoveFoundation.reportString>removing foundation.</RemoveFoundation.reportString>
+  <RemoveFoundation.reportString>прибирає фундамент.</RemoveFoundation.reportString>
   <!-- EN: removing paint from TargetA. -->
   <RemovePaintBuilding.reportString>знімає фарбу з {lookup: {TargetA}; Case; 3}</RemovePaintBuilding.reportString>
   <!-- EN: removing paint from TargetA. -->
@@ -123,13 +123,13 @@
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>краде {lookup: {TargetA}; Case; 3}</Steal.reportString>
   <!-- EN: Studying TargetA. -->
-  <StudyInteract.reportString>Навчає {lookup: {TargetA}; Case; 3}.</StudyInteract.reportString>
+  <StudyInteract.reportString>Вивчає {lookup: {TargetA}; Case; 3}.</StudyInteract.reportString>
   <!-- EN: Studying TargetA. -->
-  <StudyItem.reportString>Навчає {lookup: {TargetA}; Case; 3}.</StudyItem.reportString>
+  <StudyItem.reportString>Вивчає {lookup: {TargetA}; Case; 3}.</StudyItem.reportString>
   <!-- EN: taking TargetA to bed. -->
   <TakeDownedPawnToBedDrafted.reportString>відносить {TargetA} у ліжко</TakeDownedPawnToBedDrafted.reportString>
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>відносить Навчає {lookup: {TargetA}; Case; 3} у ліжко</TakeToBedToOperate.reportString>
+  <TakeToBedToOperate.reportString>відносить {TargetA} у ліжко.</TakeToBedToOperate.reportString>
   <!-- EN: taking wounded prisoner TargetA. -->
   <TakeWoundedPrisonerToBed.reportString>переносить пораненого в'язня {TargetA}</TakeWoundedPrisonerToBed.reportString>
   <!-- EN: taming TargetA. -->

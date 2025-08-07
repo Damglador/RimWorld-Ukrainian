@@ -7,7 +7,7 @@
   <!-- EN: Attacking {0}. -->
   <BanditCamp.approachingReportString>Attacking {0}.</BanditCamp.approachingReportString>
   <!-- EN: Attack {0} -->
-  <BanditCamp.approachOrderString>Атакує {lookup: {0}; Case; 3}</BanditCamp.approachOrderString>
+  <BanditCamp.approachOrderString>Атакувати {lookup: {0}; Case; 3}</BanditCamp.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
   <BanditCamp.arrivedLetter>Тут розташований ворожий табір.</BanditCamp.arrivedLetter>
 </LanguageData>

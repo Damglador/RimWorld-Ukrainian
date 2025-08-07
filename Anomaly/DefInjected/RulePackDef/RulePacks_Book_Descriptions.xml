@@ -292,7 +292,7 @@
     <li>bookTypeSingle->essay</li>
     <li>bookTypeSingle->exposé</li>
     <li>bookTypeSingle->findings</li>
-    <li>bookTypeSingle->grimoire</li>
+    <li>bookTypeSingle->ґримуар</li>
     <li>bookTypeSingle->inquiry</li>
     <li>bookTypeSingle->investigation</li>
     <li>bookTypeSingle->manifesto</li>
@@ -477,7 +477,7 @@
     <li>writingQualityAdjective(quality==1)->rambling</li>
     <li>writingQualityAdjective(quality==2)->jumbled</li>
     <li>writingQualityAdjective(quality==2)->uninspired</li>
-    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==2)->посередня</li>
     <li>writingQualityAdjective(quality==2)->unremarkable</li>
     <li>writingQualityAdjective(quality==2)->vanilla</li>
     <li>writingQualityAdjective(quality==2)->passable</li>

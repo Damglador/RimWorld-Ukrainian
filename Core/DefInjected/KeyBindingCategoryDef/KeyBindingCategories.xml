@@ -3,7 +3,7 @@
   <!-- EN: architect -->
   <Architect.label>проєктування</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>Налаштування для меню "Проєктування".</Architect.description>
+  <Architect.description>Налаштування для меню «Проєктування».</Architect.description>
   <!-- EN: debug menu -->
   <DebugMenu.label>меню відладки</DebugMenu.label>
   <!-- EN: Controls used in debug menus. Active in development mode only. -->

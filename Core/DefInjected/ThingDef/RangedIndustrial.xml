@@ -3,7 +3,7 @@
   <!-- EN: assault rifle bullet -->
   <Bullet_AssaultRifle.label>куля штурмової гвинтівки</Bullet_AssaultRifle.label>
   <!-- EN: autopistol bullet -->
-  <Bullet_Autopistol.label>autopistol bullet</Bullet_Autopistol.label>
+  <Bullet_Autopistol.label>куля автоматичного пістолета</Bullet_Autopistol.label>
   <!-- EN: bolt-action rifle bullet -->
   <Bullet_BoltActionRifle.label>патрон рушниці</Bullet_BoltActionRifle.label>
   <!-- EN: EMP launcher shell -->
@@ -15,11 +15,11 @@
   <!-- EN: LMG bullet -->
   <Bullet_LMG.label>куля ручного кулемета</Bullet_LMG.label>
   <!-- EN: machine pistol bullet -->
-  <Bullet_MachinePistol.label>machine pistol bullet</Bullet_MachinePistol.label>
+  <Bullet_MachinePistol.label>куля пістолета-кулемета</Bullet_MachinePistol.label>
   <!-- EN: minigun bullet -->
   <Bullet_Minigun.label>minigun bullet</Bullet_Minigun.label>
   <!-- EN: revolver bullet -->
-  <Bullet_Revolver.label>revolver bullet</Bullet_Revolver.label>
+  <Bullet_Revolver.label>куля револьвера</Bullet_Revolver.label>
   <!-- EN: shotgun blast -->
   <Bullet_Shotgun.label>shotgun blast</Bullet_Shotgun.label>
   <!-- EN: smoke launcher shell -->
@@ -37,15 +37,15 @@
   <!-- EN: assault rifle -->
   <Gun_AssaultRifle.verbs.Verb_Shoot.label>штурмовою гвинтівкою</Gun_AssaultRifle.verbs.Verb_Shoot.label>
   <!-- EN: autopistol -->
-  <Gun_Autopistol.label>autopistol</Gun_Autopistol.label>
+  <Gun_Autopistol.label>автоматичний пістолет</Gun_Autopistol.label>
   <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
   <Gun_Autopistol.description>An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire.</Gun_Autopistol.description>
   <!-- EN: grip -->
-  <Gun_Autopistol.tools.grip.label>grip</Gun_Autopistol.tools.grip.label>
+  <Gun_Autopistol.tools.grip.label>руків'я</Gun_Autopistol.tools.grip.label>
   <!-- EN: barrel -->
-  <Gun_Autopistol.tools.barrel.label>barrel</Gun_Autopistol.tools.barrel.label>
+  <Gun_Autopistol.tools.barrel.label>ствол</Gun_Autopistol.tools.barrel.label>
   <!-- EN: autopistol -->
-  <Gun_Autopistol.verbs.Verb_Shoot.label>autopistol</Gun_Autopistol.verbs.Verb_Shoot.label>
+  <Gun_Autopistol.verbs.Verb_Shoot.label>автоматичний пістолет</Gun_Autopistol.verbs.Verb_Shoot.label>
   <!-- EN: bolt-action rifle -->
   <Gun_BoltActionRifle.label>рушниця</Gun_BoltActionRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
@@ -57,7 +57,7 @@
   <!-- EN: bolt-action rifle -->
   <Gun_BoltActionRifle.verbs.Verb_Shoot.label>рушницею</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
   <!-- EN: chain shotgun -->
-  <Gun_ChainShotgun.label>chain shotgun</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.label>автоматичний дробовик</Gun_ChainShotgun.label>
   <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
   <Gun_ChainShotgun.description>A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire.</Gun_ChainShotgun.description>
   <!-- EN: stock -->
@@ -65,7 +65,7 @@
   <!-- EN: barrel -->
   <Gun_ChainShotgun.tools.barrel.label>barrel</Gun_ChainShotgun.tools.barrel.label>
   <!-- EN: chain shotgun -->
-  <Gun_ChainShotgun.verbs.Verb_Shoot.label>chain shotgun</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>автоматичний дробовик</Gun_ChainShotgun.verbs.Verb_Shoot.label>
   <!-- EN: EMP launcher -->
   <Gun_EmpLauncher.label>EMP launcher</Gun_EmpLauncher.label>
   <!-- EN: A wide-barreled EMP shell launcher. The shell will upon impact release a burst of electromagnetic energy, stunning mechanical targets (mechanoids, turrets, mortars) and depleting shields in the area of effect. -->
@@ -81,7 +81,7 @@
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
   <Gun_HeavySMG.description>A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well.</Gun_HeavySMG.description>
   <!-- EN: grip -->
-  <Gun_HeavySMG.tools.grip.label>grip</Gun_HeavySMG.tools.grip.label>
+  <Gun_HeavySMG.tools.grip.label>руків'я</Gun_HeavySMG.tools.grip.label>
   <!-- EN: barrel -->
   <Gun_HeavySMG.tools.barrel.label>barrel</Gun_HeavySMG.tools.barrel.label>
   <!-- EN: heavy SMG -->
@@ -107,15 +107,15 @@
   <!-- EN: LMG -->
   <Gun_LMG.verbs.Verb_Shoot.label>ручний кулемет</Gun_LMG.verbs.Verb_Shoot.label>
   <!-- EN: machine pistol -->
-  <Gun_MachinePistol.label>machine pistol</Gun_MachinePistol.label>
+  <Gun_MachinePistol.label>пістолет-кулемет</Gun_MachinePistol.label>
   <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->
   <Gun_MachinePistol.description>A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness.</Gun_MachinePistol.description>
   <!-- EN: grip -->
-  <Gun_MachinePistol.tools.grip.label>grip</Gun_MachinePistol.tools.grip.label>
+  <Gun_MachinePistol.tools.grip.label>руків'я</Gun_MachinePistol.tools.grip.label>
   <!-- EN: barrel -->
-  <Gun_MachinePistol.tools.barrel.label>barrel</Gun_MachinePistol.tools.barrel.label>
+  <Gun_MachinePistol.tools.barrel.label>ствол</Gun_MachinePistol.tools.barrel.label>
   <!-- EN: machine pistol -->
-  <Gun_MachinePistol.verbs.Verb_Shoot.label>machine pistol</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>пістолет-кулемет</Gun_MachinePistol.verbs.Verb_Shoot.label>
   <!-- EN: minigun -->
   <Gun_Minigun.label>minigun</Gun_Minigun.label>
   <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
@@ -125,21 +125,21 @@
   <!-- EN: minigun -->
   <Gun_Minigun.verbs.Verb_Shoot.label>minigun</Gun_Minigun.verbs.Verb_Shoot.label>
   <!-- EN: pump shotgun -->
-  <Gun_PumpShotgun.label>pump shotgun</Gun_PumpShotgun.label>
+  <Gun_PumpShotgun.label>дробовик</Gun_PumpShotgun.label>
   <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
   <Gun_PumpShotgun.description>An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range.</Gun_PumpShotgun.description>
   <!-- EN: stock -->
-  <Gun_PumpShotgun.tools.stock.label>stock</Gun_PumpShotgun.tools.stock.label>
+  <Gun_PumpShotgun.tools.stock.label>приклад</Gun_PumpShotgun.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_PumpShotgun.tools.barrel.label>barrel</Gun_PumpShotgun.tools.barrel.label>
+  <Gun_PumpShotgun.tools.barrel.label>ствол</Gun_PumpShotgun.tools.barrel.label>
   <!-- EN: pump shotgun -->
-  <Gun_PumpShotgun.verbs.Verb_Shoot.label>pump shotgun</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>дробовик</Gun_PumpShotgun.verbs.Verb_Shoot.label>
   <!-- EN: revolver -->
-  <Gun_Revolver.label>revolver</Gun_Revolver.label>
+  <Gun_Revolver.label>револьвер</Gun_Revolver.label>
   <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
   <Gun_Revolver.description>An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw.</Gun_Revolver.description>
   <!-- EN: grip -->
-  <Gun_Revolver.tools.grip.label>grip</Gun_Revolver.tools.grip.label>
+  <Gun_Revolver.tools.grip.label>руків'я</Gun_Revolver.tools.grip.label>
   <!-- EN: barrel -->
   <Gun_Revolver.tools.barrel.label>barrel</Gun_Revolver.tools.barrel.label>
   <!-- EN: revolver -->

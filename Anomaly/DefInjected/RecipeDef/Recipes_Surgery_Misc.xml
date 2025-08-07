@@ -9,7 +9,7 @@
   <!-- EN: ghoul infusion -->
   <GhoulInfusion.label>зараження гуля</GhoulInfusion.label>
   <!-- EN: Infuse a living person with an archotech shard to create a terrifying creature known as a ghoul. Ghouls are ferocious melee fighters and are incapable of work. They eat raw meat to survive but never sleep. Hungry ghouls are dangerous.\n\nGhouls created by this operation will be a part of your colony. -->
-  <GhoulInfusion.description>Infuse a living person with an archotech shard to create a terrifying creature known as a ghoul. Ghouls are ferocious melee fighters and are incapable of work. They eat raw meat to survive but never sleep. Hungry ghouls are dangerous.\n\nGhouls created by this operation will be a part of your colony.</GhoulInfusion.description>
+  <GhoulInfusion.description>Впровадьте в живу людину осколок архонта, щоб створити жахливу істоту, відому як упир. Упирі - люті бійці ближнього бою і не здатні до праці. Щоб вижити, вони харчуються сирим м'ясом, але ніколи не сплять. Голодні упирі небезпечні.\n\nУпирі, створені в результаті цієї операції, стануть частиною вашої колонії.</GhoulInfusion.description>
   <!-- EN: Ghoulizing TargetA. -->
   <GhoulInfusion.jobString>Робить гуля з TargetA.</GhoulInfusion.jobString>
   <!-- EN: surgical inspection -->

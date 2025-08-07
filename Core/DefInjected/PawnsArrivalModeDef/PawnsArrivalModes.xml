@@ -39,7 +39,7 @@
   <!-- EN: Several {0} are emerging from the water. -->
   <EmergeFromWater.textEnemy>Кілька {lookup: {0}; Case; 3} виходять із води.</EmergeFromWater.textEnemy>
   <!-- EN: {0_pawnsPluralDef} will emerge from the water. -->
-  <EmergeFromWater.textWillArrive>{0_pawnsPluralDef} will emerge from the water.</EmergeFromWater.textWillArrive>
+  <EmergeFromWater.textWillArrive>{0_pawnsPluralDef} вийдуть з води.</EmergeFromWater.textWillArrive>
   <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
   <MechClusterDrop.textEnemy>Капсули кластера механоїдів приземляться неподалік.</MechClusterDrop.textEnemy>
   <!-- EN: The mech cluster will arrive in drop pods. -->
@@ -51,9 +51,9 @@
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef} десантуються в транспортних капсулах.</RandomDrop.textWillArrive>
   <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
-  <SpecificDropDebug.textEnemy>A group of {0} from {1} have arrived in transport pods nearby.</SpecificDropDebug.textEnemy>
+  <SpecificDropDebug.textEnemy>Група {0} з {1} прибула на транспортних капсулах неподалік.</SpecificDropDebug.textEnemy>
   <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
-  <SpecificDropDebug.textFriendly>A group of friendly {0} from {1} have arrived in transport pods nearby.</SpecificDropDebug.textFriendly>
+  <SpecificDropDebug.textFriendly>Група дружніх {0} з {1} прибула на транспортних капсулах неподалік.</SpecificDropDebug.textFriendly>
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
-  <SpecificDropDebug.textWillArrive>{0_pawnsPluralDef} will arrive in transport pods.</SpecificDropDebug.textWillArrive>
+  <SpecificDropDebug.textWillArrive>{0_pawnsPluralDef} прибуде у транспортних капсулах.</SpecificDropDebug.textWillArrive>
 </LanguageData>

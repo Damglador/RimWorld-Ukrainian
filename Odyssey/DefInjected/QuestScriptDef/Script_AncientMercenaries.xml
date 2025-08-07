@@ -6,7 +6,7 @@
     <li>location(atLandmark==false)->The soldiers are hiding out in an ancient structure.</li>
   -->
   <OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
-    <li>questDescription->[discoveryMethod] місцезнаходження сумнозвісного загону найманців. Ці древні солдати прийшли в наш час з давно забутої епохи в історії планети. Вони лише недавно пробудилися від криптосну і одразу ж взялися за старе.\n\nНа чолі загону стоїть [LEADER_nameDef], що має унікальну зброю — це [WEAPON_quality]. Вміст групи:\n\n[mercenaryList]\n\nЯкщо вам вдасться взяти в полон або вбити ватажка, ви отримаєте унікальну зброю.\n\n[location]</li>
+    <li>questDescription->[discoveryMethod] місцезнаходження сумнозвісного загону найманців. Ці древні солдати прийшли в наш час з давно забутої епохи в історії планети. Вони лише недавно пробудилися від криптосну і одразу ж взялися за старе.\n\nНа чолі загону стоїть [LEADER_nameDef], що має унікальну зброю якості «[WEAPON_quality]». Вміст групи:\n\n[mercenaryList]\n\nЯкщо вам вдасться взяти в полон або вбити ватажка, ви отримаєте унікальну зброю.\n\n[location]</li>
     <li>location(atLandmark==true)->Солдати ховаються в старовинній споруді тут: [landmarkName].</li>
     <li>location(atLandmark==false)->Солдати ховаються в старовинній споруді.</li>
   </OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
@@ -23,7 +23,7 @@
   -->
   <OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
     <li>questName-> [ancient] [mercenaries]</li>
-    <li>questName->[ancient] [mercenaries]</li>
+    <li>questName-> [ancient] [mercenaries]</li>
     <li>ancient->Древній</li>
     <li>ancient->Пробуджений</li>
     <li>ancient->Криптосон</li>

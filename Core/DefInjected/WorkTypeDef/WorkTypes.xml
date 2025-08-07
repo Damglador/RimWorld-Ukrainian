@@ -123,11 +123,11 @@
   <!-- EN: Digging and drilling. -->
   <Mining.description>Видобування гірських порід та використання бурової установки.</Mining.description>
   <!-- EN: mining -->
-  <Mining.gerundLabel>шахтар</Mining.gerundLabel>
+  <Mining.gerundLabel>гірництво</Mining.gerundLabel>
   <!-- EN: mine -->
-  <Mining.labelShort>шахтар</Mining.labelShort>
+  <Mining.labelShort>гірник</Mining.labelShort>
   <!-- EN: Miner -->
-  <Mining.pawnLabel>Шахтар</Mining.pawnLabel>
+  <Mining.pawnLabel>Гірник</Mining.pawnLabel>
   <!-- EN: Mine -->
   <Mining.verb>Видобути</Mining.verb>
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->

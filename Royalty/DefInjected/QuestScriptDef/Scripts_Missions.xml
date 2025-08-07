@@ -6,8 +6,8 @@
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
   -->
   <Mission_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[enemiesLabel] стали табором та атакують каравани фракції [asker_faction_name]. Табір охороняють [enemiesCount] {lookup: [enemiesLabel]; Case; 3}. [asker_nameDef] хоче надати вам [soldiers] для допомоги ти висадити, в якості десанту на околицях цього табору.\n\n[asker_pronoun] надішле шатл, щоб підібрати ваших бійців та доставити їх в місце призначення. В дорозі їх нагодують та, за потреби, нададуть медичний догляд.\n\nВи повинні будете знищити всіх ворогів та турелі протягом [timeoutTicks_duration].</li>
-    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldiers</li>
+    <li>questDescription->[enemiesLabel] стали табором та атакують каравани фракції [asker_faction_name]. Табір охороняють (*Threat)[enemiesCount] {lookup: [enemiesLabel]; Case; 3}(/Threat). [asker_nameDef] хоче, щоб ви надали [soldiers] проведення атаки на цей табір.\n\n[asker_pronoun] надішле шатл, щоб підібрати ваших бійців та доставити їх в місце призначення. В дорозі їх нагодують та, за потреби, нададуть медичний догляд.\n\nВи повинні будете знищити всіх ворогів та турелі протягом [timeoutTicks_duration].</li>
+    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] солдатів</li>
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] солдата</li>
   </Mission_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
@@ -38,9 +38,9 @@
     <li>target->fort</li>
     <li>aerial->aerial</li>
     <li>aerial->air</li>
-    <li>aerial->shuttle-borne</li>
-    <li>attack->attack</li>
-    <li>attack->assault</li>
+    <li>attack->шатл</li>
+    <li>attack->атакує</li>
+    <li>attack->напад</li>
     <li>work->work</li>
     <li>work->job</li>
   </Mission_BanditCamp.questNameRules.rulesStrings>

@@ -19,7 +19,7 @@
   <!-- EN: executing TargetA. -->
   <ExecuteEntity.reportString>страчує TargetA.</ExecuteEntity.reportString>
   <!-- EN: extracting bioferrite from TargetA. -->
-  <ExtractBioferrite.reportString>вилучає біоферрит з TargetA.</ExtractBioferrite.reportString>
+  <ExtractBioferrite.reportString>вилучає біоферит з TargetA.</ExtractBioferrite.reportString>
   <!-- EN: fleeing. -->
   <FleeAndCowerShort.reportString>тікає.</FleeAndCowerShort.reportString>
   <!-- EN: playing with golden cube. -->
@@ -43,7 +43,7 @@
   <!-- EN: smashing TargetA. -->
   <SmashThing.reportString>розбиває {lookup: {TargetA}; Case; 3}.</SmashThing.reportString>
   <!-- EN: taking bioferrite out of TargetA. -->
-  <TakeBioferriteOutOfHarvester.reportString>вилучає біоферрит з {lookup: {TargetA}; Case; 1}.</TakeBioferriteOutOfHarvester.reportString>
+  <TakeBioferriteOutOfHarvester.reportString>вилучає біоферит з {lookup: {TargetA}; Case; 1}.</TakeBioferriteOutOfHarvester.reportString>
   <!-- EN: talking to TargetA. -->
   <TalkCreepJoiner.reportString>говорить до {lookup: {TargetA}; Case; 1}.</TalkCreepJoiner.reportString>
   <!-- EN: tending to TargetA. -->

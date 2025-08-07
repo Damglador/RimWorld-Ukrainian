@@ -30,7 +30,7 @@
   <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
   <LetterRelationsChange_Ally>Відносини з {0} стали дуже близькими. Вони тепер вважають вас союзником.</LetterRelationsChange_Ally>
   <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
-  <LetterRelationsChange_AllyGoodwillDescription>Вони, іноді, будуть насилати вам допомогу, коли на вас нападуть. Ви також можете покликати їх самостійно в будь-який час, але ціною прихильності.\n\nВи стали союзниками, тому що ваша прихильність ({0}) піднялася до {1} одиниць. Якщо прихильність знизиться до рівня {2}, відносини повернуться до нейтральних.</LetterRelationsChange_AllyGoodwillDescription>
+  <LetterRelationsChange_AllyGoodwillDescription>Вони, іноді, будуть насилати вам допомогу, коли на вас нападуть. Ви також можете покликати їх самостійно в будь-який час, але ціною прихильності.\n\nВи стали союзниками, оскільки ваша прихильність ({0}) перевищила {1} одиниць. Якщо прихильність знизиться до рівня {2}, відносини повернуться до нейтральних.</LetterRelationsChange_AllyGoodwillDescription>
   <!-- EN: goodwill -->
   <goodwill>прихильність</goodwill>
   <!-- EN: Neutral -->
@@ -256,7 +256,7 @@
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterFactionBaseDefeated>{0}, ворожа база, була зруйнована.\n\nУ вас є {1} щоб зібрати ресурси, після чого на вас розпочнуться атаки. Ворожі підкріплення будуть прибувати до тих пір, поки ви не покинете цю місцевість. Ви можете зробити це прямо зараз, якщо перейдете до мапи світу й натисніть на кнопку "Переформувати караван".</LetterFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed. -->
-  <LetterFactionBaseDefeatedNoRaids>The enemy settlement {0} has been destroyed.</LetterFactionBaseDefeatedNoRaids>
+  <LetterFactionBaseDefeatedNoRaids>Ворожий населений пункт {0} знищено.</LetterFactionBaseDefeatedNoRaids>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
   <LetterFactionBaseDefeated_FactionDestroyed>Оскільки це було останнє поселення фракції {0}, вони припиняють своє існування.</LetterFactionBaseDefeated_FactionDestroyed>
   <!-- Quest completed -->
@@ -355,7 +355,7 @@
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>Перемога!</LetterLabelCaravansBattlefieldVictory>
   <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterCaravansBattlefieldVictory>Ваш караван виграв битву.\n\nВи можете продовжити шлях. На мапі світу, виберіть поле бою та натисніть кнопку "Переформувати караван".\n\nНемає необхідності збирати ресурси вручну: під час переформування каравану це можна буде зробити миттєво.\n\nЧерез {0} на ваш караван нападуть. Ворожі підкріплення будуть прибувати до тих пір, поки ви не покинете цю місцевість.</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>Ваш караван виграв битву.\n\nВи можете продовжити шлях. На мапі світу, виберіть поле бою та натисніть кнопку «Переформувати караван».\n\nНемає необхідності збирати ресурси вручну: під час переформування каравану це можна буде зробити миттєво.\n\nЧерез {0} на ваш караван нападуть. Ворожі підкріплення будуть прибувати до тих пір, поки ви не покинете цю місцевість.</LetterCaravansBattlefieldVictory>
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>Врятований приєднується</LetterLabelRescueQuestFinished>
@@ -381,7 +381,7 @@
   <!-- EN: Quest active: {0} -->
   <LetterLabelQuestAutomaticallyAcceptedTitle>Доручення активне: {0}</LetterLabelQuestAutomaticallyAcceptedTitle>
   <!-- EN: {DISCOVEREDFROM} a new quest. -->
-  <LetterNewQuest>{DISCOVEREDFROM} a new quest.</LetterNewQuest>
+  <LetterNewQuest>{DISCOVEREDFROM} новий квест.</LetterNewQuest>
   <!-- EN: A new quest is available. -->
   <LetterNewQuestFromUnknown>Доступне нове доручення.</LetterNewQuestFromUnknown>
   <!-- EN: The quest is called '{0}'. -->
@@ -393,7 +393,7 @@
   <!-- EN: While reading {BOOK_labelNoParenthesis}, {READER_nameDef} discovered -->
   <QuestDiscoveredFromBook>While reading {BOOK_labelNoParenthesis}, {READER_nameDef} discovered</QuestDiscoveredFromBook>
   <!-- EN: While talking with the trader {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of -->
-  <QuestDiscoveredFromTrader>While talking with the trader {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of</QuestDiscoveredFromTrader>
+  <QuestDiscoveredFromTrader>Під час розмови з торговцем {TRADER_nameDef}, {NEGOTIATOR_nameDef} дізнався про</QuestDiscoveredFromTrader>
   <!-- EN: To show {RECEIVER_possessive} gratitude for your charity, the beggar {RECEIVER_nameDef} shared a secret with {GIVER_nameDef}.\n\nYou have learned of -->
   <QuestDiscoveredFromBeggar>To show {RECEIVER_possessive} gratitude for your charity, the beggar {RECEIVER_nameDef} shared a secret with {GIVER_nameDef}.\n\nYou have learned of</QuestDiscoveredFromBeggar>
   <!-- EN: You have discovered -->
@@ -469,9 +469,9 @@
   <!-- EN: You have successfully completed the quest '{0}'! -->
   <LetterQuestCompletedSuccess>Ви успішно виконали доручення «{0}»!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>Ви провалили завдання "{0}".</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>Ви провалили доручення «{0}».</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>Ви завершили завдання "{0}".</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>Ви завершили доручення «{0}».</LetterQuestCompletedConcluded>
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
   <LetterBladelinkWeaponBondedLabel>Сформовано зв'язок з {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>

@@ -14,7 +14,7 @@
     <li>bossDefeatedLetterText->[defeated][manufacture]</li>
     <li>defeated->Надважкого механоїда, {lookup: [escortees0_label]; Case; 3}, переможено! Як винагороду, ви отримуєте {lookup: [reward_label]; Case; 3}.</li>
     <li>manufacture->\n\nЦей чип можна використати для створення більш технологічних механоїдів.</li>
-    <li>study->\n\nВи можете дослідити {lookup: [reward_label]; Case; 3} вибравши механізатора та натиснувши ПКМ по чипу. Дослідження {lookup: [reward_label]; Case; 1} допоможе розблокувати більш складні технології механоїдів.</li>
+    <li>study->\n\nВи можете дослідити {lookup: [reward_label]; Case; 3} вибравши механітора та натиснувши ПКМ по чипу. Дослідження {lookup: [reward_label]; Case; 1} допоможе розблокувати більш складні технології механоїдів.</li>
   </Bossgroup.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->bossgroup</li>

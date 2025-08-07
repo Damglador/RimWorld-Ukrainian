@@ -208,7 +208,7 @@
     <li>bookType->epic poem</li>
   -->
   <Description_Novel.rulePack.rulesStrings>
-    <li>desc->This [writingQualityAdjective] [bookType] [follows] a [PersonJob] as [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]</li>
+    <li>desc->В цій [writingQualityAdjective] [bookType] [follows] за [PersonJob] як [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]</li>
     <li>desc->In this [writingQualityAdjective] [bookType], the [author] [tellsAStoryOf] [ANYPAWN_possessive] [storySource]. [writingQualitySentence]. [maybe_date]</li>
     <li>follows->follows</li>
     <li>follows->covers</li>
@@ -349,7 +349,7 @@
     <li>writingQualityAdjective(quality==5)->smart and insightful</li>
     <li>writingQualityAdjective(quality==4)->thoughtful and eloquent</li>
     <li>writingQualityAdjective(quality==3)->well-written</li>
-    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==2)->посередня</li>
     <li>writingQualityAdjective(quality==1)->poorly-written</li>
     <li>writingQualityAdjective(quality==0)->nearly-incoherent</li>
     <li>writingQualitySentence(quality[greater_than]4)->It is [excellentDesc] [excellentExtra]</li>
@@ -1266,7 +1266,7 @@
     <li>negative_adjective->rudimentary</li>
     <li>negative_adjective->simplistic</li>
     <li>negative_adjective->primitive</li>
-    <li>negative_adjective->mediocre</li>
+    <li>negative_adjective->посередній</li>
     <li>negative_adjective->inaccurate</li>
     <li>negative_adjective->deficient</li>
     <li>appearance(p=3)->[phys_desc]</li>

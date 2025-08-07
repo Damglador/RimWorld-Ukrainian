@@ -23,7 +23,7 @@
   <!-- EN: high mechtech -->
   <HighMechtech.label>просунуті мех-технології</HighMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat. -->
-  <HighMechtech.description>Технологія, що дозволяє створювати та контролювати просунутих механоїдів.\n\nВи можете отримати чип концентрації енергії після перемоги над королевою війни, яку може викликати механізатор.</HighMechtech.description>
+  <HighMechtech.description>Технологія, що дозволяє створювати та контролювати просунутих механоїдів.\n\nВи можете отримати чип концентрації енергії після перемоги над королевою війни, яку може викликати механітор.</HighMechtech.description>
   <!-- EN:
     <li>subject->high tier mechanoids</li>
     <li>subject_story->survived a War Queen assault on an Imperial world</li>
@@ -43,7 +43,7 @@
   <!-- EN: standard mechtech -->
   <StandardMechtech.label>стандартні мех-технології</StandardMechtech.label>
   <!-- EN: The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat. -->
-  <StandardMechtech.description>Технологія, що дозволяє створювати та контролювати стандартних механоїдів.\n\nВи можете отримати сигнальний чип після перемоги над дияволом, якого може викликати механізатор.</StandardMechtech.description>
+  <StandardMechtech.description>Технологія, що дозволяє створювати та контролювати стандартних механоїдів.\n\nВи можете отримати сигнальний чип після перемоги над дияволом, якого може викликати механітор.</StandardMechtech.description>
   <!-- EN:
     <li>subject->mechanoids</li>
     <li>subject_story->acquired a signal chip in shady circumstances</li>
@@ -63,7 +63,7 @@
   <!-- EN: ultra mechtech -->
   <UltraMechtech.label>ультра мех-технології</UltraMechtech.label>
   <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
-  <UltraMechtech.description>Технологія, що дозволяє створювати та контролювати ультратехнологічних механоїдів та спорядження механізатора.\n\nВи можете отримати наноструктурний чип після перемоги над сотником, якого може викликати механізатор.</UltraMechtech.description>
+  <UltraMechtech.description>Технологія, що дозволяє створювати та контролювати ультратехнологічних механоїдів та спорядження механітора.\n\nВи можете отримати наноструктурний чип після перемоги над апокритоном, якого може викликати механітор.</UltraMechtech.description>
   <!-- EN:
     <li>subject->ultra-tier mechanoids</li>
     <li>subject_story->found a powered-down apocriton in the wreckage of a deadworld</li>

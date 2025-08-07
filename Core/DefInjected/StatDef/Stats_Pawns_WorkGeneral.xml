@@ -77,5 +77,5 @@
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
   <WorkSpeedGlobal.description>Множник швидкості, з якою персонаж виконує будь-яку роботу.</WorkSpeedGlobal.description>
   <!-- EN: Offset from mechanitor -->
-  <WorkSpeedGlobal.parts.2.label>Приріст від механізатора</WorkSpeedGlobal.parts.2.label>
+  <WorkSpeedGlobal.parts.2.label>Приріст від механітора</WorkSpeedGlobal.parts.2.label>
 </LanguageData>

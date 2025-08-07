@@ -19,7 +19,7 @@
   <!-- EN: indoors -->
   <Indoors.label>замкнутий простір</Indoors.label>
   <!-- EN: Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside. -->
-  <Indoors.description>Indoors expresses the need to feel safe within walls and under a roof. It improves when someone spends time inside.</Indoors.description>
+  <Indoors.description>Виражає потребу відчувати себе в безпеці в стінах і під дахом. Вона збільшується, коли хтось проводить час усередині.</Indoors.description>
   <!-- EN: recreation -->
   <Joy.label>відпочинок</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Not a mechanitor -->
-  <NotAMechanitor>Не механізатор</NotAMechanitor>
+  <NotAMechanitor>Не механітор</NotAMechanitor>
   <!-- EN: Not enough bandwidth -->
   <NotEnoughBandwidth>Недостатня пропускна здатність</NotEnoughBandwidth>
   <!-- EN: Take control of {0} -->
@@ -31,7 +31,7 @@
   <!-- EN: Cannot go here -->
   <CannotGoOutOfRange>Не може вийти за зону досяжності</CannotGoOutOfRange>
   <!-- EN: Must be emptied -->
-  <WasteContainerFull>Повинен бути спустошений</WasteContainerFull>
+  <WasteContainerFull>Потрібно спустошити</WasteContainerFull>
   <!-- EN: Cannot repair mech {0} -->
   <CannotRepairMech>Неможливо відремонтувати {lookup: {0}; Case; 3}</CannotRepairMech>
   <!-- EN: Extract xenogerm from {PAWN_nameDef} -->

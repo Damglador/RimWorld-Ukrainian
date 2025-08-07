@@ -113,11 +113,11 @@
   <!-- EN: An unfertilized vulture egg. It can be eaten raw, but it's much better cooked. -->
   <EggVultureUnfertilized.description>Незапліднене яйце стерв'ятника. Можна їсти сирим, проте краще приготувати.</EggVultureUnfertilized.description>
   <!-- EN: mastodon wool -->
-  <WoolMastodon.label>шерсть мастодонта</WoolMastodon.label>
+  <WoolMastodon.label>вовна мастодонта</WoolMastodon.label>
   <!-- EN: Thick shaggy wool from a mastodon. Provides excellent insulation against the cold. -->
-  <WoolMastodon.description>Товста груба шерсть мастодонта. Ідеально захищає від холоду.</WoolMastodon.description>
+  <WoolMastodon.description>Товста груба вовна мастодонта. Ідеально захищає від холоду.</WoolMastodon.description>
   <!-- EN: muskox wool -->
-  <WoolMuskox.label>Шерсть вівцебика</WoolMuskox.label>
+  <WoolMuskox.label>вовна вівцебика</WoolMuskox.label>
   <!-- EN: Itchy wool from a muskox. Good at keeping the cold out. -->
-  <WoolMuskox.description>Колюча шерсть вівцебика. Добре захищає від холоду.</WoolMuskox.description>
+  <WoolMuskox.description>Колюча вовна вівцебика. Добре захищає від холоду.</WoolMuskox.description>
 </LanguageData>

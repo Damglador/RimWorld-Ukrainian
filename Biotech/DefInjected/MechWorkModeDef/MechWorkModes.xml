@@ -3,7 +3,7 @@
   <!-- EN: escort -->
   <Escort.label>супровід</Escort.label>
   <!-- EN: Stay near the mechanitor and fight nearby enemies. Follow the mechanitor, even off the map. -->
-  <Escort.description>Знаходитись поруч з механізатором та атакувати найближчих ворогів. Слідувати за механізатором навіть за межі цієї місцевості.</Escort.description>
+  <Escort.description>Знаходитись поруч з механітором та атакувати найближчих ворогів. Слідувати за механітором навіть за межі цієї місцевості.</Escort.description>
   <!-- EN: recharge -->
   <Recharge.label>перезаряджання</Recharge.label>
   <!-- EN: Go to rechargers and recharge, even if already well-charged. -->

@@ -2,7 +2,7 @@
 <LanguageData>
   <!-- Mechanitors -->
   <!-- EN: Any mechanitor -->
-  <AnyMechanitor>Будь-який механізатор</AnyMechanitor>
+  <AnyMechanitor>Будь-який механітор</AnyMechanitor>
   <!-- EN: Summoning the {LEADERKIND_label} threat will summon the following hostile mechanoids:\n\n{PAWNS}\n\nThe mechanoids will arrive in the next few hours or days. Are you ready to fight? -->
   <BossgroupWarningDialog>Виклик {lookup: {LEADERKIND_label}; Case; 1} призове наступних ворожих механоїдів:\n\n{PAWNS}\n\nмеханоїди прибудуть у найближчі кілька годин або днів. Ви готові до боротьби?</BossgroupWarningDialog>
   <!-- EN: {PAWN_labelShort} is downed. -->
@@ -18,9 +18,9 @@
   <!-- EN: Do you really want to permanently disassemble {0}?\n\nPermanently disassembling {0} will recover -->
   <ConfirmDisassemblingMech>Ви дійсно хочете розібрати {lookup: {0}; Case; 3}?\n\nПовний розбір {lookup: {0}; Case; 1} відновить</ConfirmDisassemblingMech>
   <!-- EN: A mechanitor must be capable of smithing to create mechanoids.\n\nAre you sure you want to continue? -->
-  <ConfirmInstallMechlink_Smithing>Механізатор має бути здатний до ремесла.\n\nВи впевненні, що бажаєте продовжити?</ConfirmInstallMechlink_Smithing>
+  <ConfirmInstallMechlink_Smithing>Механітор має бути здатний до ремесла.\n\nВи впевненні, що бажаєте продовжити?</ConfirmInstallMechlink_Smithing>
   <!-- EN: A mechanitor must be capable of intellectual tasks to unlock mechanitor research.\n\nAre you sure you want to continue? -->
-  <ConfirmInstallMechlink_Intellectual>Механізатор має бути здатний до інтелектуальної роботи.\n\nВи впевненні, що бажаєте продовжити?</ConfirmInstallMechlink_Intellectual>
+  <ConfirmInstallMechlink_Intellectual>Механітор має бути здатний до інтелектуальної роботи.\n\nВи впевненні, що бажаєте продовжити?</ConfirmInstallMechlink_Intellectual>
   <!-- EN: insufficient bandwidth -->
   <InsufficientBandwidth>недостатньо пропускної здатності</InsufficientBandwidth>
   <!-- EN: The following mechs have been left behind by {PAWN_labelShort}:\n\n{MECHS}\n\nThe mechs will stay here until they are picked up.\n\nWould you like to set their work mode to escort so they follow {PAWN_labelShort} off the map? -->

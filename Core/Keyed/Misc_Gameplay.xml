@@ -350,7 +350,7 @@
   <!-- EN: Requires -->
   <Requires>Потрібно</Requires>
   <!-- EN: Replaces -->
-  <Replaces>Replaces</Replaces>
+  <Replaces>Замінює</Replaces>
   <!-- EN: missing {0} -->
   <MissingPartWithLabel>missing {0}</MissingPartWithLabel>
   <!-- EN: {0}x any of -->
@@ -434,7 +434,7 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>немає вибрана технологія для дослідження</NoActiveResearchProjectToFinish>
   <!-- EN: Current project -->
-  <CurrentProject>Поточні проекти</CurrentProject>
+  <CurrentProject>Поточні проєкти</CurrentProject>
   <!-- EN: Research progress -->
   <ResearchProgress>Прогрес досліджень</ResearchProgress>
   <!-- EN: already has {0} -->
@@ -566,7 +566,7 @@
   <!-- EN: Ingredients -->
   <ThoughtFoodEatenIngredients>Складові</ThoughtFoodEatenIngredients>
   <!-- EN: Shield pack -->
-  <ShieldInbuilt>Бар'єрний проектор</ShieldInbuilt>
+  <ShieldInbuilt>Бар'єрний проєктор</ShieldInbuilt>
   <!-- EN: Punctured - will explode soon. -->
   <PuncturedWillExplode>Пробита - скоро вибухне.</PuncturedWillExplode>
   <!-- EN: Click to open research window -->
@@ -877,7 +877,7 @@
   <NoFuel>Немає палива</NoFuel>
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>несе {lookup: {THING_label}; Case; 3} до {lookup: {DESTINATION}; Case; 1}.</ReportHaulingTo>
+  <ReportHaulingTo>несе {THING_label} до {lookup: {DESTINATION}; Case; 1}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
   <ReportHaulingToGrave>хоронить {lookup: {THING_label}; Case; 3} в {lookup: {DESTINATION}; Case; 3}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
@@ -1132,9 +1132,9 @@
   <!-- EN: Fully grown in {0} of growth. -->
   <FullyGrownIn>Виросте через {0}.</FullyGrownIn>
   <!-- EN: needs light level -->
-  <PlantNeedsLightLevel>needs light level</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>потрібний рівень світла</PlantNeedsLightLevel>
   <!-- EN: resting -->
-  <PlantResting>resting</PlantResting>
+  <PlantResting>відпочиває</PlantResting>
   <!-- EN: temperature growth multiplier {0}% -->
   <OutOfIdealTemperatureRange>temperature growth multiplier {0}%</OutOfIdealTemperatureRange>
   <!-- EN: out of temperature growth range -->
@@ -1301,7 +1301,7 @@
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Слід розміщувати впритул до корабельної балки.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Вирва повинна бути розміщена поряд із пристроєм, що потребує подавач.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Лійка повинна бути розміщена поряд із пристроєм, що потребує подавач.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
   <MustPlaceOnSteamGeyser>Цей об'єкт потрібно розміщувати безпосередньо на геотермальному паровому гейзері.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
@@ -1723,7 +1723,7 @@
   <!-- EN: {0} was not completed because of lack of attendance. -->
   <RitualNobodyAttended>{0} не відбувся: відсутність відвідувачів.</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
-  <RitualFinished>{0} було завершено.</RitualFinished>
+  <RitualFinished>{0} завершено.</RitualFinished>
   <!-- EN: ends in {0} -->
   <RitualEndsIn>завершиться через {0}</RitualEndsIn>
   <!-- EN: Can start any time -->
@@ -1767,7 +1767,7 @@
   <!-- EN: {0} total quality was {1}, determined by these factors -->
   <RitualOutcomeQualitySpecific>загалом, якість {0} була {1}. На якість вплинули наступні фактори</RitualOutcomeQualitySpecific>
   <!-- EN: Performed recently -->
-  <RitualOutcomePerformedRecently>Ритуал проведено нещодавно</RitualOutcomePerformedRecently>
+  <RitualOutcomePerformedRecently>Проведено нещодавно</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
   <RitualQualityExpectations>Очікування від ритуалу: {0}</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
@@ -1785,9 +1785,9 @@
   <!-- EN: Begin -->
   <Begin>Розпочати</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>розпочати {lookup: {0}; Case; 3}</BeginRitual>
+  <BeginRitual>Розпочати {lookup: {0}; Case; 3}</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
-  <BeginRitualFor>розпочати {lookup: {0}; Case; 3} для {1}</BeginRitualFor>
+  <BeginRitualFor>Розпочати {lookup: {0}; Case; 3} для {1}</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
   <QualityOutOf>{0} (із {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
@@ -1973,7 +1973,7 @@
   <BlockedByTerrain>Blocked by terrain (requires {0_label} terrain support)</BlockedByTerrain>
   <!-- Craters -->
   <!-- EN: Fill in -->
-  <DesignatorFillIn>Fill in</DesignatorFillIn>
+  <DesignatorFillIn>Засипати</DesignatorFillIn>
   <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
   <DesignatorFillInDesc>Designate this crater to be filled in. A colonist assigned to construction will fill it in.</DesignatorFillInDesc>
   <!-- Hacking -->
@@ -1988,7 +1988,7 @@
   <!-- EN: Terminals hacked -->
   <TerminalsHacked>Terminals hacked</TerminalsHacked>
   <!-- EN: Intellectual needed -->
-  <IntellectualSkillPrerequisite>Intellectual needed</IntellectualSkillPrerequisite>
+  <IntellectualSkillPrerequisite>Мінімальний інтелект</IntellectualSkillPrerequisite>
   <!-- EN: Auto hack -->
   <AutoHack>Auto hack</AutoHack>
   <!-- EN: When enabled, researchers will automatically hack this. -->
@@ -2016,22 +2016,22 @@
   <ThisWillNotAffectLayer>This will not affect you {GERUND} {LAYER}.</ThisWillNotAffectLayer>
   <!-- Pocket maps -->
   <!-- EN: Enter {0} -->
-  <EnterPortal>Enter {0}</EnterPortal>
+  <EnterPortal>Зайти в {0}</EnterPortal>
   <!-- EN: Entering {0} -->
-  <EnteringPortal>Entering {0}</EnteringPortal>
+  <EnteringPortal>Входить в {0}</EnteringPortal>
   <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>Select people and items to enter the {0}.</CommandEnterPortalDesc>
+  <CommandEnterPortalDesc>Обрати людей та предмети для входу до {0}.</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>Cancel entering</CommandCancelEnterPortal>
+  <CommandCancelEnterPortal>Скасувати входження</CommandCancelEnterPortal>
   <!-- EN: Cancel exiting -->
-  <CommandCancelExitPortal>Cancel exiting</CommandCancelExitPortal>
+  <CommandCancelExitPortal>Скасувати виходження</CommandCancelExitPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>Cancel loading people or items into this.</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>Скасувати входження людей чи завантаження предметів.</CommandCancelEnterPortalDesc>
   <!-- EN: Exit {0} -->
-  <ExitPortal>Exit {0}</ExitPortal>
+  <ExitPortal>Вийти з {0}</ExitPortal>
   <!-- CompProjectileInterceptor -->
   <!-- EN: Shield energy -->
-  <ShieldEnergy>Shield energy</ShieldEnergy>
+  <ShieldEnergy>Заряд щита</ShieldEnergy>
   <!-- EN: Shield cooldown -->
   <ShieldTimeToRecovery>Shield cooldown</ShieldTimeToRecovery>
   <!-- EN: Shield duration -->
@@ -2039,7 +2039,7 @@
   <!-- EN: On cooldown -->
   <ShieldOnCooldown>On cooldown</ShieldOnCooldown>
   <!-- EN: Below minimum energy -->
-  <ShieldBelowMinHitpoints>Below minimum energy</ShieldBelowMinHitpoints>
+  <ShieldBelowMinHitpoints>Менше мінімального заряду</ShieldBelowMinHitpoints>
   <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
   <ProjectileInterceptorTip>A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP.</ProjectileInterceptorTip>
   <!-- EN: max {0} -->

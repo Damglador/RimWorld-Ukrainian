@@ -86,7 +86,7 @@
   -->
   <LeaderTitleMaker_Rustican.rulePack.rulesStrings>
     <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
-    <li>cultureLeaderAdjective->prime</li>
+    <li>cultureLeaderAdjective->головний</li>
     <li>cultureLeaderAdjective->first</li>
     <li>cultureLeaderNoun->councilor</li>
     <li>cultureLeaderNoun->leader</li>

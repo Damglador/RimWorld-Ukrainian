@@ -25,7 +25,7 @@
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
   <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не {INITIATOR_gender ? зміг : змогла} конвертувати {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? засмучений : засмучена} спробою, але {RECIPIENT_possessive} впевненість в {RECIPIENT_possessive} ідеології знизилась з {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? конвертував : конвертувала} {RECIPIENT_labelShort} до {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} навертає {RECIPIENT_labelShort} у {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   <!-- EN: counsel -->
   <Counsel.label>психологічна підтримка</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->

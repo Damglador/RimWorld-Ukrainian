@@ -19,7 +19,7 @@
   <!-- EN: cannot stand next to -->
   <CannotStandNear>cannot stand next to</CannotStandNear>
   <!-- EN: extract from {0} -->
-  <ExtractBioferrite>extract from {0}</ExtractBioferrite>
+  <ExtractBioferrite>вилучити з {0}</ExtractBioferrite>
   <!-- EN: bioferrite regenerating -->
-  <BioferriteAlreadyExtracted>bioferrite regenerating</BioferriteAlreadyExtracted>
+  <BioferriteAlreadyExtracted>регенерація біофериту</BioferriteAlreadyExtracted>
 </LanguageData>

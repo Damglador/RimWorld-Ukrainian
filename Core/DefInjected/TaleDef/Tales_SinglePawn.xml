@@ -179,7 +179,7 @@
     <li>desc_sentence->[PAWN_possessive] hair is totally mussed up.</li>
   </Drunk.rulePack.rulesStrings>
   <!-- EN: research project finished -->
-  <FinishedResearchProject.label>дослідницький проект завершено</FinishedResearchProject.label>
+  <FinishedResearchProject.label>дослідницький проєкт завершено</FinishedResearchProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing research on [PROJECT_label]</li>
     <li>image->[PAWN_nameFull] working on the [PROJECT_label] research project [circumstance_group]</li>

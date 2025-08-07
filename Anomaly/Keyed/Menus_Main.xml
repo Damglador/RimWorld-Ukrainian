@@ -11,7 +11,7 @@
   <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is not active. Only certain minor Anomaly incidents can occur when the monolith is inactive. -->
   <Difficulty_AnomalyThreatsInactive_Info>Відсоток  загроз, які будуть пов’язані з аномалією, коли моноліт неактивний. Коли моноліт неактивний, можуть статися лише певні незначні аномалії.</Difficulty_AnomalyThreatsInactive_Info>
   <!-- EN: Anomaly threats (active) -->
-  <Difficulty_AnomalyThreatsActive_Label>Аномальні загрози (акьивований моноліт)</Difficulty_AnomalyThreatsActive_Label>
+  <Difficulty_AnomalyThreatsActive_Label>Аномальні загрози (активований моноліт)</Difficulty_AnomalyThreatsActive_Label>
   <!-- EN: Adjust the percentage of major threats that will be Anomaly-related when the monolith is active. With the current settings:\n  - {0} of major threats will be Anomaly-related at monolith level 1 and 5\n  - {1} of major threats will be Anomaly-related at monolith levels 2-4 -->
   <Difficulty_AnomalyThreatsActive_Info>Відсоток загроз, які будуть пов’язані з аномалією, коли моноліт активний. З поточними налаштуваннями:\n - {0} основних загроз будуть пов'язані з аномаліями на рівнях моноліту 1 і 5\n - {1} основних загроз будуть пов'язані з аномаліями на рівнях моноліту 2-4 </Difficulty_AnomalyThreatsActive_Info>
   <!-- EN: Study efficiency -->

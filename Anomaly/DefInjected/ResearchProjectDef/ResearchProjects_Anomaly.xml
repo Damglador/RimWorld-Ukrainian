@@ -13,9 +13,9 @@
     <li>subject_gerund->performing advanced psychic rituals</li>
   -->
   <AdvancedPsychicRituals.generalRules.rulesStrings>
-    <li>subject->advanced psychic rituals</li>
-    <li>subject_story->was brought into a cult circle</li>
-    <li>subject_story->encountered an exiled cult master, who happily boasted about his secrets</li>
+    <li>subject->просунуті психічні ритуали</li>
+    <li>subject_story->був принесений у культове коло</li>
+    <li>subject_story->зустрів вигнаного майстра культу, який із задоволенням вихвалявся своїми секретами</li>
     <li>subject_story->deepened [ANYPAWN_possessive] understanding of ritual sacrifice</li>
     <li>subject_story->was appointed professor of psychic history at the University of Ix</li>
     <li>subject_gerund->performing advanced psychic rituals</li>
@@ -23,7 +23,7 @@
   <!-- EN: atmospheric heater -->
   <AtmosphericHeater.label>нагрівач атмосфери</AtmosphericHeater.label>
   <!-- EN: Build bioferrite-powered heaters that produce enough heat to warm an entire region. -->
-  <AtmosphericHeater.description>Можливість створювати біоферритовий нагрівач, що виділяє достатньо тепла, щоб нагріти цю місцевість.</AtmosphericHeater.description>
+  <AtmosphericHeater.description>Можливість створювати біоферитовий нагрівач, що виділяє достатньо тепла, щоб нагріти цю місцевість.</AtmosphericHeater.description>
   <!-- EN:
     <li>subject->bioferrite heating</li>
     <li>subject_story->upgraded archaic geothermal plants</li>
@@ -34,7 +34,7 @@
     <li>subject_gerund->constructing bioferrite-fueled heaters</li>
   -->
   <AtmosphericHeater.generalRules.rulesStrings>
-    <li>subject->bioferrite heating</li>
+    <li>subject->біоферитовий нагрівач</li>
     <li>subject_story->upgraded archaic geothermal plants</li>
     <li>subject_story->studied the heat output of biometals</li>
     <li>subject_story->researched the impossible capacity of archotech energy storage</li>
@@ -45,7 +45,7 @@
   <!-- EN: void provocation -->
   <BasicPsychicRituals.label>провокація порожнечі</BasicPsychicRituals.label>
   <!-- EN: Build a psychic ritual spot and perform psychic rituals. Use the void provocation ritual to discover new entities. -->
-  <BasicPsychicRituals.description>Можливість побудувати місце для психічних ритуалів і виконувати там психічні ритуали. Використовуйте ритуал провокації порожнечі, щоб відкрити нові сутності.</BasicPsychicRituals.description>
+  <BasicPsychicRituals.description>Можливість побудувати місце для психічних ритуалів і виконувати там психічні ритуали. Використовуйте ритуал провокації порожнечі, щоб відкрити нових істот.</BasicPsychicRituals.description>
   <!-- EN:
     <li>subject->psychic rituals</li>
     <li>subject_story->studied the rituals of Horax cultists</li>
@@ -69,9 +69,9 @@
     <li>subject_gerund->provoking void entities</li>
   </BasicPsychicRituals.generalRules.rulesStrings>
   <!-- EN: bioferrite extraction -->
-  <BioferriteExtraction.label>bioferrite extraction</BioferriteExtraction.label>
+  <BioferriteExtraction.label>біоферитовий екстрактор</BioferriteExtraction.label>
   <!-- EN: Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper. -->
-  <BioferriteExtraction.description>Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper.</BioferriteExtraction.description>
+  <BioferriteExtraction.description>Видобувайте біоферит безпосередньо з захоплених аномалій. Використовуйте його для виготовлення зброї та одягу на верстаку або на біоферитному формувачі.</BioferriteExtraction.description>
   <!-- EN:
     <li>subject->bioferrite extraction</li>
     <li>subject_story->extracted an organic compound from a rapidly mutating flesh sample</li>
@@ -81,7 +81,7 @@
     <li>subject_gerund->extracting bioferrite</li>
   -->
   <BioferriteExtraction.generalRules.rulesStrings>
-    <li>subject->bioferrite extraction</li>
+    <li>subject->біоферитовий екстрактор</li>
     <li>subject_story->extracted an organic compound from a rapidly mutating flesh sample</li>
     <li>subject_story->stripped and boiled the flesh of a harbinger tree</li>
     <li>subject_story->investigated reports of an archotech phenomenon</li>
@@ -89,9 +89,9 @@
     <li>subject_gerund->extracting bioferrite</li>
   </BioferriteExtraction.generalRules.rulesStrings>
   <!-- EN: bioferrite generator -->
-  <BioferriteGenerator.label>біоферритовий генератор</BioferriteGenerator.label>
+  <BioferriteGenerator.label>біоферитовий генератор</BioferriteGenerator.label>
   <!-- EN: Build power generators that burn bioferrite as a fuel. -->
-  <BioferriteGenerator.description>Можливість будувати генератор, що використовує біоферрит як паливо.</BioferriteGenerator.description>
+  <BioferriteGenerator.description>Можливість будувати генератор, що використовує біоферит як паливо.</BioferriteGenerator.description>
   <!-- EN:
     <li>subject->bioferrite power generation</li>
     <li>subject_story->was trained in the use of innovative power sources</li>
@@ -113,9 +113,9 @@
     <li>subject_gerund->powering generators using bioferrite</li>
   </BioferriteGenerator.generalRules.rulesStrings>
   <!-- EN: bioferrite harvester -->
-  <BioferriteHarvesting.label>bioferrite harvester</BioferriteHarvesting.label>
+  <BioferriteHarvesting.label>поглинач біофериту</BioferriteHarvesting.label>
   <!-- EN: Build bioferrite harvesters that automatically extract bioferrite from captured entities. Produces more bioferrite than manual extraction. -->
-  <BioferriteHarvesting.description>Build bioferrite harvesters that automatically extract bioferrite from captured entities. Produces more bioferrite than manual extraction.</BioferriteHarvesting.description>
+  <BioferriteHarvesting.description>Побудуйте поглиначі біофериту, щоб автоматично видобувати біоферит із захоплених аномалій. Виробляє більше біофериту, ніж ручне видобування.</BioferriteHarvesting.description>
   <!-- EN:
     <li>subject->bioferrite</li>
     <li>subject_story->investigated an exotic metal-like fibrous substance</li>
@@ -125,7 +125,7 @@
     <li>subject_gerund->harvesting bioferrite</li>
   -->
   <BioferriteHarvesting.generalRules.rulesStrings>
-    <li>subject->bioferrite</li>
+    <li>subject->біоферит</li>
     <li>subject_story->investigated an exotic metal-like fibrous substance</li>
     <li>subject_story->vivisected a ghoulish corpse</li>
     <li>subject_story->discovered a cache of organic metals</li>
@@ -133,9 +133,9 @@
     <li>subject_gerund->harvesting bioferrite</li>
   </BioferriteHarvesting.generalRules.rulesStrings>
   <!-- EN: bioferrite weaponry -->
-  <BioferriteIgnition.label>біоферритова зброя</BioferriteIgnition.label>
+  <BioferriteIgnition.label>біоферитова зброя</BioferriteIgnition.label>
   <!-- EN: Create advanced weapons that use bioferrite as a fuel source. -->
-  <BioferriteIgnition.description>Просунута зброя, що використовує біоферрит в якості палива.</BioferriteIgnition.description>
+  <BioferriteIgnition.description>Просунута зброя, що використовує біоферит як паливо.</BioferriteIgnition.description>
   <!-- EN:
     <li>subject->bioferrite combustion</li>
     <li>subject->bioferrite weaponry</li>
@@ -148,16 +148,16 @@
   <BioferriteIgnition.generalRules.rulesStrings>
     <li>subject->bioferrite combustion</li>
     <li>subject->bioferrite weaponry</li>
-    <li>subject_story->worked for an extraction rig on an archotech asteroid</li>
+    <li>subject_story->працював на видобувній установці на архотехнічному астероїді</li>
     <li>subject_story->researched the combustion points of exotic materials</li>
     <li>subject_story->joined the research arm of a milword weapons corp</li>
     <li>subject_story->cleared biomines in an archotech desert</li>
     <li>subject_gerund->building bioferrite-based weapons</li>
   </BioferriteIgnition.generalRules.rulesStrings>
   <!-- EN: bioferrite shaping -->
-  <BioferriteShaping.label>обробка біоферриту</BioferriteShaping.label>
+  <BioferriteShaping.label>обробка біофериту</BioferriteShaping.label>
   <!-- EN: Shape and re-form bioferrite into useful tools, weapons, flooring, and more. -->
-  <BioferriteShaping.description>Можливість створювати з біоферриту інструмент, зброю, покриття тощо.</BioferriteShaping.description>
+  <BioferriteShaping.description>Можливість створювати з біофериту інструмент, зброю, покриття тощо.</BioferriteShaping.description>
   <!-- EN:
     <li>subject->bioferrite shaping</li>
     <li>subject_story->learned unique techniques for molding and sculpting</li>
@@ -309,7 +309,7 @@
   <!-- EN: disruptor flares -->
   <DisruptorFlares.label>пси-фальшфеєри</DisruptorFlares.label>
   <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
-  <DisruptorFlares.description>Створення фальшфеєрів на основі біоферриту, які можуть викривати невидимих сутностей у радіусі дії.</DisruptorFlares.description>
+  <DisruptorFlares.description>Створення фальшфеєрів на основі біоферриту, які можуть викривати невидимих істот у радіусі дії.</DisruptorFlares.description>
   <!-- EN:
     <li>subject->bioferrite flares</li>
     <li>subject->short-term lighting</li>
@@ -333,7 +333,7 @@
   <!-- EN: electroharvester -->
   <Electroharvester.label>поглинач енергії</Electroharvester.label>
   <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
-  <Electroharvester.description>Створення генератора, який поглинає електроенергію від утримуваних сутностей. Цей процес посилює сутностей, ускладнюючи їх утримання.</Electroharvester.description>
+  <Electroharvester.description>Створення генератора, який поглинає електроенергію від утримуваних істот. Цей процес дратує істот, ускладнюючи їх утримання.</Electroharvester.description>
   <!-- EN:
     <li>subject->entity-derived power generation</li>
     <li>subject_story->researched ion pumps in cell membranes</li>
@@ -353,9 +353,9 @@
     <li>subject_gerund->constructing electroharvesters</li>
   </Electroharvester.generalRules.rulesStrings>
   <!-- EN: entity containment -->
-  <EntityContainment.label>утримування сутностей</EntityContainment.label>
+  <EntityContainment.label>утримування істот</EntityContainment.label>
   <!-- EN: Build holding platforms and inhibitors to better contain entities. -->
-  <EntityContainment.description>Створення платформ та інгібіторів для утримування сутностей.</EntityContainment.description>
+  <EntityContainment.description>Створення платформ та інгібіторів для утримування істот.</EntityContainment.description>
   <!-- EN:
     <li>subject->entity containment</li>
     <li>subject_story->worked in a prisonworld research facility</li>
@@ -399,7 +399,7 @@
   <!-- EN: ghoul enhancements -->
   <GhoulEnhancements.label>покращення гулів</GhoulEnhancements.label>
   <!-- EN: Craft bioferrite prosthetics to make ghouls stronger. -->
-  <GhoulEnhancements.description>Створення біоферритових протезів для посилення гулів.</GhoulEnhancements.description>
+  <GhoulEnhancements.description>Створення біоферитових протезів для посилення гулів.</GhoulEnhancements.description>
   <!-- EN:
     <li>subject->ghoul enhancements</li>
     <li>subject_story->experimented with the dead and the twice-dead</li>
@@ -635,7 +635,7 @@
   <!-- EN: proximity detector -->
   <ProximityDetector.label>детектор руху</ProximityDetector.label>
   <!-- EN: Build a device that can detect invisible creatures. -->
-  <ProximityDetector.description>Створення пристрою, що може виявляти невидимих сутностей.</ProximityDetector.description>
+  <ProximityDetector.description>Створення пристрою, що може виявляти невидимих істот.</ProximityDetector.description>
   <!-- EN:
     <li>subject->proximity detectors</li>
     <li>subject->motion sensors</li>
@@ -859,7 +859,7 @@
   <!-- EN: void sculptures -->
   <VoidSculptures.label>скульптури порожнечі</VoidSculptures.label>
   <!-- EN: Craft special void sculptures from bioferrite to enhance the quality of psychic rituals. -->
-  <VoidSculptures.description>Створення спеціальних скульптур порожнечі з біоферриту, щоб підвищити якість психічних ритуалів.</VoidSculptures.description>
+  <VoidSculptures.description>Створення спеціальних скульптур порожнечі з біофериту, щоб підвищити якість психічних ритуалів.</VoidSculptures.description>
   <!-- EN:
     <li>subject->void sculptures</li>
     <li>subject->bioferrite sculpture</li>

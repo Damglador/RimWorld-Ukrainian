@@ -91,9 +91,9 @@
   <!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
   <PlanetaryMiner64.description>[PAWN_nameDef] {PAWN_gender ? був гірничим інженером: була гірничою інженеркою}  у великій планетарній гірничій корпорації. Робота [PAWN_pronoun] тримала [PAWN_objective] під землею тижнями, і [PAWN_pronoun] {PAWN_gender ? став : стала} цінувати темряву.</PlanetaryMiner64.description>
   <!-- EN: planetary miner -->
-  <PlanetaryMiner64.title>планетарний шахтар</PlanetaryMiner64.title>
+  <PlanetaryMiner64.title>планетарний гірник</PlanetaryMiner64.title>
   <!-- EN: miner -->
-  <PlanetaryMiner64.titleShort>шахтар</PlanetaryMiner64.titleShort>
+  <PlanetaryMiner64.titleShort>гірник</PlanetaryMiner64.titleShort>
   <!-- EN: [PAWN_nameDef] made meals for [PAWN_possessive] aristocratic patrons.\n\nOnly the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self. -->
   <RoyalCook18.description>[PAWN_nameDef] {PAWN_gender ? готував : готувала} страви для [PAWN_possessive] аристократичних меценатів.\n\nЛише найкраща їжа була прийнятною, тому [PAWN_nameDef] {PAWN_gender ? доглядав : доглядала} невеликий сад на території маєтку, щоб отримувати найсвіжіші трави та овочі. [PAWN_pronoun] {PAWN_gender ? закохався : закохалась} у власну їжу.</RoyalCook18.description>
   <!-- EN: royal cook -->

@@ -7,7 +7,7 @@
   <!-- EN: leader -->
   <OutlanderRefugee.leaderTitle>лідер</OutlanderRefugee.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <OutlanderRefugee.messageDefendersAttacking>{0} from {1} are attacking your {2}.</OutlanderRefugee.messageDefendersAttacking>
+  <OutlanderRefugee.messageDefendersAttacking>{0} з фракції {1} атакують ваших {lookup: {2}; Case; 3}.</OutlanderRefugee.messageDefendersAttacking>
   <!-- EN: refugee -->
   <OutlanderRefugee.pawnSingular>біженець</OutlanderRefugee.pawnSingular>
   <!-- EN: refugees -->

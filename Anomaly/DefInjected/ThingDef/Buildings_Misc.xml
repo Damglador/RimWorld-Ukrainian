@@ -17,7 +17,7 @@
   <!-- EN: electric inhibitor -->
   <ElectricInhibitor.label>електричний інгібітор</ElectricInhibitor.label>
   <!-- EN: A device that emits a specially tuned electromagnetic field which numbs the neural activity of captured entities. As long as it is powered, it improves the containment strength of any holding platform that it is pointed at. The electric field does not affect humans or normal animals. -->
-  <ElectricInhibitor.description>Пристрій, який випромінює спеціально налаштоване електромагнітне поле, яке пригнічує нейронну активність захоплених сутностей. Поки він живиться, він покращує здатність стримування будь-якої платформи, на яку він спрямований. Електричне поле не впливає ні на людей, ні на звичайних тварин.</ElectricInhibitor.description>
+  <ElectricInhibitor.description>Пристрій, який випромінює спеціально налаштоване електромагнітне поле, яке пригнічує нейронну активність захоплених істот. Поки він живиться, він покращує здатність стримування будь-якої платформи, на яку він спрямований. Електричне поле не впливає ні на людей, ні на звичайних тварин.</ElectricInhibitor.description>
   <!-- EN: endless pit -->
   <EndlessPit2x2c.label>нескінченна яма</EndlessPit2x2c.label>
   <!-- EN: A smooth-sided hole that extends endlessly downwards. -->
@@ -125,11 +125,11 @@
   <!-- EN: holding platform -->
   <HoldingPlatform.label>платформа для утримання</HoldingPlatform.label>
   <!-- EN: A platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices. -->
-  <HoldingPlatform.description>Платформа для утримання небезпечних суб'єктів. У кутах є отвори, куди можна прикріпити міцні ланцюги.\n\nЗнерухомлені сутності можна захопити та закріпити на платформі для зберігання, де їх можна вивчати на предмет знання аномалій. Збільште здатність стримування, побудувавши міцні стіни та двері та інші спеціальні пристрої утримання.</HoldingPlatform.description>
+  <HoldingPlatform.description>Платформа для утримання небезпечних істот. У кутах є отвори, куди можна прикріпити міцні ланцюги.\n\nЗнерухомлених істот можна захопити та закріпити на платформі для зберігання, де їх можна вивчати для отримання знань про аномалії. Збільште здатність стримування, побудувавши міцні стіни та двері та інші спеціальні пристрої утримання.</HoldingPlatform.description>
   <!-- EN: holding spot -->
   <HoldingSpot.label>місце для утримання</HoldingSpot.label>
   <!-- EN: A spot for holding dangerous entities. Not as good as a steel holding platform, but a lot better than nothing.\n\nDowned entities can be secured at a holding spot where they can be studied. Increase containment strength by building strong walls and doors, and other special containment devices. -->
-  <HoldingSpot.description>Місце для утримання небезпечних сутностей. Не так добре, як сталева платформа для утримання, але набагато краще, ніж нічого.\n\nЗнерухомлені сутності можна захопити та закріпити на платформі для зберігання, де їх можна вивчати на предмет знання аномалій. Збільште здатність стримування, побудувавши міцні стіни та двері та інші спеціальні пристрої утримання.</HoldingSpot.description>
+  <HoldingSpot.description>Місце для утримання небезпечних істот. Не так добре, як сталева платформа для утримання, але набагато краще, ніж нічого.\n\nЗнерухомлені істоти можна захопити та закріпити на платформі для зберігання, де їх можна вивчати на предмет знання аномалій. Збільште здатність стримування, побудувавши міцні стіни та двері та інші спеціальні пристрої утримання.</HoldingSpot.description>
   <!-- EN: noctolith -->
   <Noctolith.label>ноктоліт</Noctolith.label>
   <!-- EN: A twisted pillar of jagged blade-like structures made of dark, oily metal. It pulses with energy, powered by dark archotechnology at its core.\n\nIf you destroy the pillar, you can recover a shard of dark archotech. -->
@@ -167,7 +167,7 @@
   <!-- EN: proximity detector -->
   <ProximityDetector.label>детектор руху</ProximityDetector.label>
   <!-- EN: A scanner capable of detecting invisible creatures. The device raises an alarm when it detects the presence of psychically invisible biosignatures within its radius. -->
-  <ProximityDetector.description>Сканер, здатний виявляти невидимих сутностей. Пристрій подає тривогу, коли виявляє наявність психічно невидимих біосигнатур у своєму радіусі.</ProximityDetector.description>
+  <ProximityDetector.description>Сканер, здатний виявляти невидимих істот. Пристрій подає тривогу, коли виявляє наявність психічно невидимих біосигнатур у своєму радіусі.</ProximityDetector.description>
   <!-- EN: sand cube sculpture -->
   <SandCubeSculpture.label>скульптура куба з піску</SandCubeSculpture.label>
   <!-- EN: A hastily constructed sculpture resembling a cube. -->

@@ -274,7 +274,7 @@
   <!-- EN: discovered -->
   <DiscoveredQuest>виявлено</DiscoveredQuest>
   <!-- EN: Your orbital scanner has detected -->
-  <QuestDiscoveredFromOrbitalScanner>Ваш орбітальний сканер було виявлено</QuestDiscoveredFromOrbitalScanner>
+  <QuestDiscoveredFromOrbitalScanner>Ваш орбітальний сканер виявив</QuestDiscoveredFromOrbitalScanner>
   <!-- EN: {HACKER_nameDef} hacked an uplink and discovered -->
   <QuestDiscoveredFromUplink>{HACKER_nameDef} зламує передавач і виявляє</QuestDiscoveredFromUplink>
   <!-- Special Trainables -->

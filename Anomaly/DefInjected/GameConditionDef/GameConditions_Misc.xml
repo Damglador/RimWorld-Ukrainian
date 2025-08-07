@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: blood rain frenzy -->
-  <BloodRain.label>божевілля кривавого дощу</BloodRain.label>
+  <BloodRain.label>Божевілля кривавого дощу</BloodRain.label>
   <!-- EN: Blood-like fluid falls from the sky. Anyone outside will be driven into a berserk frenzy. -->
   <BloodRain.description>Кровоподібна рідина падає з неба. Будь-хто на вулиці буде доведений до божевілля берсерка.</BloodRain.description>
   <!-- EN: The blood rain is ending. -->
@@ -9,13 +9,13 @@
   <!-- EN: Drops of thick blood-like fluid have begun falling from the sky.\n\nAnyone exposed feels a growing anger which strengthens melee attacks but will eventually become a berserk rage. Exposed animals will eventually become manhunters. The intensity of the effect varies between individuals depending on their traits, psychic sensitivity, and random individual factors. -->
   <BloodRain.letterText>Краплі, схожої на кров густої рідини, почали падати з неба.\n\nБудь-хто, хто піддається їх впливу, відчуває гнів, який посилює атаки ближнього бою, але з часом перетворюється на шалену лють. Відкриті тварини згодом стануть мисливцями на людей. Інтенсивність ефекту варіюється між людьми залежно від їхніх рис, психічної чутливості та випадкових індивідуальних факторів.</BloodRain.letterText>
   <!-- EN: death pall resurrection -->
-  <DeathPall.label>death pall resurrection</DeathPall.label>
+  <DeathPall.label>Воскресіння через пелену смерті</DeathPall.label>
   <!-- EN: The dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
   <DeathPall.description>Мертві повстануть! Паліть, закопуйте, знищуйте або заносьте всередину трупи, аби запобігти їхньому воскресінню.</DeathPall.description>
   <!-- EN: A death-gray cloud has descended on the area.\n\nThe cloud is made of microscopic self-powered archites created by some unknown superintelligence. Where they land on dead flesh, they will enter the body and reanimate it to create a twisted imitation of life.\n\nThe dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting. -->
   <DeathPall.letterText>Трупно-сіра хмара опустилася на цю місцевість.\n\nХмара складається з мікроскопічних автономних архітів, створених якимсь невідомим суперрозумом. Там, де вони потрапляють на мертву плоть, вони проникають у тіло й реанімують його, створюючи спотворену імітацію життя.\n\nМертві воскреснуть! Спалюйте, ховайте, знищуйте або переміщуйте трупи в приміщення, щоб запобігти їх воскресінню.</DeathPall.letterText>
   <!-- EN: gray pall stench -->
-  <GrayPall.label>gray pall stench</GrayPall.label>
+  <GrayPall.label>Сіра пелена смороду</GrayPall.label>
   <!-- EN: A putrid stench fills the air, making people unhappy. The smell is worse outside. -->
   <GrayPall.description>Гнильний сморід наповнює повітря, що робить людей нещасними. Надворі запах сильніший.</GrayPall.description>
   <!-- EN: A blanket of gritty fog has descended on this area. It smells somehow ancient and stings the skin. The unnatural grayness of it invokes a sense of dread. -->

@@ -218,7 +218,7 @@
     <li>founderJoin(tag=meme_Cannibal)     ->На [place_job] під назвою [founderName] напав один із [foeSoldiers] [foeLeader]. [founderName] убив [foeLeader_objective] за допомогою [place_personalWeapon], з’їв плоть [foeLeader_possessive] і отримав силу [deity0_name].</li>
     <li>victory(tag=meme_Cannibal)         ->[founderName] привів групу [memberNamePlural] до [place_powerCenter], убив [foeLeader] і з’їв [foeLeader_possessive] плоть. [deity0_name] зробив [founderName] новим [foeLeader].</li>
     <li>setup(tag=meme_Cannibal)           ->[founderName] розбився в далекому світі. Не маючи їжі й оточений мертвими товаришами, [founder_pronoun] бенкетував і став сильним.</li>
-    <li>story(uses=1,tag=meme_Cannibal)    ->Щоб освятити свою відданість, [founderName] вимагав, щоб віруючі разом їли людське м’ясо принаймні щотижня.</li>
+    <li>story(uses=1,tag=meme_Cannibal)    ->Щоб освятити свою відданість, [founderName] вимагав, щоб віряни разом їли людське м’ясо принаймні щотижня.</li>
     <li>lessonIntro(tag=meme_Cannibal)         ->Лише за ситною їжею зі свинини я міг змусити людей зрозуміти правду: це</li>
     <li>lesson(tag=meme_Cannibal)              ->ти ніколи не збираєшся з кимось, поки не з'їси їх</li>
     <li>lessonReinforcement(tag=meme_Cannibal) ->Щоразу, коли я ділюся тілом ворога з новим другом, я переконаюся, що вони це розуміють.</li>
@@ -587,7 +587,7 @@
     <li>founderJoin(tag=meme_Nudism)        ->[deity0_name] найправдивіший послідовник [founderName] стояв перед [place_powerCenter], зірвав [founder_possessive] одяг і демонстрував себе [founder_objective] всупереч їхнім наказам.</li>
     <li>victory(tag=meme_Nudism)            ->[founderName] молився [deity0_name], яке охопило [place_name] хвилею спеки. [foeSoldiers] скинули свій одяг, щоб не загинути, а [foeLeader] утік з ганьбою.</li>
     <li>setup(tag=meme_Nudism)              ->[founderName] був поневолений системою, уніформований і контрольований, як і інші. Одного разу [founder_pronoun] зірвав увесь одяг і побіг голим, і народився наш рух.</li>
-    <li>story(uses=1,tag=meme_Nudism)       ->[founderName] запровадив правило відмови від одягу, щоб віруючі зосереджувалися на істинній меті, а не на матеріальній видимості.</li>
+    <li>story(uses=1,tag=meme_Nudism)       ->[founderName] запровадив правило відмови від одягу, щоб віряни зосереджувалися на істинній меті, а не на матеріальному зовнішньому вигляді.</li>
     <li>lessonIntro(tag=meme_Nudism)         ->Перші кілька років було соромно скакати голяка в парку. Але згодом це стало звільняючим. Я дізнався багато чого від людей, які минули. Наприклад - </li>
     <li>lesson(tag=meme_Nudism)              ->все людське зло робиться в одязі, людське добро робиться оголеним</li>
     <li>lessonReinforcement(tag=meme_Nudism) ->Коли ви побачите когось із нас на вулиці, який розмахує та бовтає, ви зрозумієте, що вони прийняли правду.</li>
@@ -801,7 +801,7 @@
     <li>founderJoin(tag=meme_Proselytizer)     ->[deity0_name] благословив [place_job] на ім’я [founderName] великою харизмою, і ніхто не міг відвернутися, коли [founder_pronoun] говорив.</li>
     <li>victory(tag=meme_Proselytizer)         ->[founderName] закликав [foeSoldiers] і нагадав їм про силу [deity0_name], і вони поклали свою [place_personalWeapon]s.</li>
     <li>setup(tag=meme_Proselytizer)           ->Наш засновник [founderName] був чудовим оратором, навертаючи тисячі, коли [founder_pronoun] подорожував між містами.</li>
-    <li>story(uses=1,tag=meme_Proselytizer)    ->Віруючі переміщалися між містами та установами, поширюючи звістку про нову праведність.</li>
+    <li>story(uses=1,tag=meme_Proselytizer)    ->Віряни переміщалися між містами та установами, поширюючи звістку про нову праведність.</li>
     <li>lessonIntro(tag=meme_Proselytizer)         ->За всі роки поширення нашої правди я засвоїв один урок, який стоїть понад усе:</li>
     <li>lesson(tag=meme_Proselytizer)              ->тримати цю добру новину при собі було б злочином</li>
     <li>lessonReinforcement(tag=meme_Proselytizer) ->Це те, що нам треба поширювати, і поширювати, і поширювати - всім людям, нехай вони радіють!</li>
@@ -996,7 +996,7 @@
     <li>founderJoin(tag=meme_Rancher)     ->[memberName] рятівник [founderName] народився весняного ранку в скромному сараї серед [ranchingAnimal], а [founder_possessive] батьками були [rancherParent1] і [rancherParent2].</li>
     <li>victory(tag=meme_Rancher)         ->[founderName] приїхав до [place_community] на чудовому коні та викликав [foeLeader] на дуель із [place_personalWeapon] опівдні. [foeLeader] не міг відмовити або втратити довіру [foeSoldiers]. [founderName] убив [foeLeader] намертво.</li>
     <li>setup(tag=meme_Rancher)           ->Фермерів переслідували, тому вони втекли в сільську місцевість, де могли побудувати хороше пастирське суспільство.</li>
-    <li>story(uses=1,tag=meme_Rancher)    ->Віруючі розійшлися по землі, і кількість їх зростала, коли вони жили на своїх ідилічних ранчо та фермах.</li>
+    <li>story(uses=1,tag=meme_Rancher)    ->Віряни розійшлися по землі, і кількість їх зростала, коли вони жили на своїх ідилічних ранчо та фермах.</li>
     <li>lessonIntro(tag=meme_Rancher)         ->Партнер, на полігонах, ми мали приказку серед старих рук:</li>
     <li>lesson(tag=meme_Rancher)              ->добро і щастя правильно живуть на пасовищі</li>
     <li>lessonReinforcement(tag=meme_Rancher) ->Це те, що ти приймаєш, партнере, на самотніх стежках пасища, слухаючи, як сплять тварини, поки ти сидиш біля вогнища.</li>

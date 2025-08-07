@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: abandoned camp -->
-  <AbandonedCamp.label>abandoned camp</AbandonedCamp.label>
+  <AbandonedCamp.label>покинутий табір</AbandonedCamp.label>
   <!-- EN: An abandoned camp. -->
-  <AbandonedCamp.description>An abandoned camp.</AbandonedCamp.description>
+  <AbandonedCamp.description>Покинутий табір.</AbandonedCamp.description>
   <!-- EN: abandoned settlement -->
   <AbandonedSettlement.label>покинуте поселення</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
@@ -13,9 +13,9 @@
   <!-- EN: A caravan under attack. -->
   <AttackedNonPlayerCaravan.description>Караван, який атакують.</AttackedNonPlayerCaravan.description>
   <!-- EN: camp -->
-  <Camp.label>camp</Camp.label>
+  <Camp.label>табір</Camp.label>
   <!-- EN: A caravan has set up camp here temporarily. -->
-  <Camp.description>A caravan has set up camp here temporarily.</Camp.description>
+  <Camp.description>Тут тимчасово розбився табір каравану.</Camp.description>
   <!-- EN: caravan -->
   <Caravan.label>караван</Caravan.label>
   <!-- EN: A group of traveling people. -->
@@ -45,7 +45,7 @@
   <!-- EN: site -->
   <Site.label>site</Site.label>
   <!-- EN: transport pods -->
-  <TravellingTransporters.label>transport pods</TravellingTransporters.label>
+  <TravellingTransporters.label>транспортні капсули</TravellingTransporters.label>
   <!-- EN: Transport pods in flight. -->
-  <TravellingTransporters.description>Transport pods in flight.</TravellingTransporters.description>
+  <TravellingTransporters.description>Транспортні капсули у польоті.</TravellingTransporters.description>
 </LanguageData>

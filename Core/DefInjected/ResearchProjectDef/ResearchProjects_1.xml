@@ -21,7 +21,7 @@
     <li>subject_gerund->brewing beer</li>
   </Brewing.generalRules.rulesStrings>
   <!-- EN: carpet-making -->
-  <CarpetMaking.label>carpet-making</CarpetMaking.label>
+  <CarpetMaking.label>шиття килимів</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
   <CarpetMaking.description>Красиві килими з полотна.</CarpetMaking.description>
   <!-- EN:
@@ -32,7 +32,7 @@
     <li>subject_gerund->weaving carpets</li>
   -->
   <CarpetMaking.generalRules.rulesStrings>
-    <li>subject->carpet-making</li>
+    <li>subject->шиття килимів</li>
     <li>subject_story->learned to weave carpets from hair, for a distant Emperor</li>
     <li>subject_story->left behind an unparalleled collection of carpets and tapestries</li>
     <li>subject_story->settled on a medieval moon, where the carpetweaving craft was truly appreciated</li>

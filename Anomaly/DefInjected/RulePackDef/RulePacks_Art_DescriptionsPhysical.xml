@@ -220,7 +220,7 @@
     <li>cubeEmotion->unmoved</li>
     <li>cubeEmotion->enraged</li>
     <li>cubeEmotion->charmed</li>
-    <li>cubeEmotion->aggravated</li>
+    <li>cubeEmotion->роздратування</li>
   </ArtDescription_CubeSculpture.rulePack.rulesStrings>
   <!-- EN:
     <li>r_art_description->This [voidStrange] sculpture [voidVerbphrase]. [voidDesc]</li>

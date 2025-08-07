@@ -3,21 +3,21 @@
   <!-- EN: water and marsh -->
   <TerrainTagWater>water and marsh</TerrainTagWater>
   <!-- EN: river -->
-  <TerrainTagRiver>river</TerrainTagRiver>
+  <TerrainTagRiver>річка</TerrainTagRiver>
   <!-- EN: ocean -->
-  <TerrainTagOcean>ocean</TerrainTagOcean>
+  <TerrainTagOcean>океан</TerrainTagOcean>
   <!-- EN: ice -->
-  <TerrainTagIce>ice</TerrainTagIce>
+  <TerrainTagIce>лід</TerrainTagIce>
   <!-- EN: fine floor -->
   <TerrainTagFineFloor>fine floor</TerrainTagFineFloor>
   <!-- EN: soil -->
-  <TerrainTagSoil>soil</TerrainTagSoil>
+  <TerrainTagSoil>ґрунт</TerrainTagSoil>
   <!-- EN: road -->
-  <TerrainTagRoad>road</TerrainTagRoad>
+  <TerrainTagRoad>дорога</TerrainTagRoad>
   <!-- EN: floor -->
   <TerrainTagFloor>floor</TerrainTagFloor>
   <!-- EN: substructure -->
-  <TerrainTagSubstructure>substructure</TerrainTagSubstructure>
+  <TerrainTagSubstructure>субструктура</TerrainTagSubstructure>
   <!-- EN: insect -->
   <TerrainTagInsect>insect</TerrainTagInsect>
 </LanguageData>

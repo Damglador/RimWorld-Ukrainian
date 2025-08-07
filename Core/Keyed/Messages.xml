@@ -37,9 +37,9 @@
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{0}, {0_gender ? який : яку : яке} {1_gender ? носив : носила} {1_nameFull}, {0_gender ? зіпсувався : зіпсувалась : зіпсувалось} нанівець.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
-  <MessageDeterioratedAway>{0} {0_gender ? став : стала : стало} {0_gender ? непридатним : непридатною : непридатним} на складі.</MessageDeterioratedAway>
+  <MessageDeterioratedAway>{0} розкладається на складі.</MessageDeterioratedAway>
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>{0_gender ?  : почалась : почалось} {0}.</MessageSeasonBegun>
+  <MessageSeasonBegun>{0} починається.</MessageSeasonBegun>
   <!-- EN: {0} has left comms range. -->
   <MessageShipHasLeftCommsRange>Корабель {0} залишив зону доступу.</MessageShipHasLeftCommsRange>
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
@@ -235,7 +235,7 @@
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
   <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} більше не ображає {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{1_label} {1_gender ? згнив : згнила : згнило} на складі.</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>{1_label} згниває на складі.</MessageRottedAwayInStorage>
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
   <MessageFoodPoisoning>{PAWN_labelShort} {PAWN_gender ? отруївся : отруїлася} {lookup: {FOOD_labelShort}; Case; 4}. Причина - {2}.</MessageFoodPoisoning>
   <!-- EN: {0} has been removed from the caravan. -->
@@ -261,9 +261,9 @@
   <!-- EN: {0} has died from rotting. -->
   <MessagePlantDiedOfRot>{0} {0_gender ? загинув : загинула : загинуло}.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0} {0_gender ? загинув : загинула : загинуло} через отруєння.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0} гине через отруєння.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{0} {0_gender ? загинув : загинула : загинуло} через хворобу.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} гине через хворобу.</MessagePlantDiedOfBlight>
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
   <MessagePawnBeingBurned>{1_labelShort} отримує опіки від перегрітого повітря!</MessagePawnBeingBurned>
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
@@ -305,7 +305,7 @@
   <!-- EN: Transport pod loading complete. Launch when ready. -->
   <MessageFinishedLoadingTransporters>Завантаження транспортних капсул завершено.</MessageFinishedLoadingTransporters>
   <!-- EN: {SHUTTLE_label} is loaded with required cargo and can launch when ready. -->
-  <MessageFinishedLoadingShuttle>{SHUTTLE_label} is loaded with required cargo and can launch when ready.</MessageFinishedLoadingShuttle>
+  <MessageFinishedLoadingShuttle>{SHUTTLE_label} завантажений з необхідним вантажем та може відправлятися.</MessageFinishedLoadingShuttle>
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>Ваші {1} не можуть завершити навантаження через відсутність доступу до деяких людей або речей: {2_labelShort}.</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
@@ -495,15 +495,15 @@
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
   <MessageBillValidationStoreZoneUnavailable>Результат завдання "{0}" {lookup: {1}; Case; 1} неможливо доставити до області "{2}", оскільки вона поза досяжністю.</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
-  <MessageBillValidationPawnUnavailable>{0} більше не може працювати над завданням "{1}" на {lookup: {2}; Case; 2}. Обмеження знято.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} більше не може працювати над завданням «{1}» на {lookup: {2}; Case; 2}. Обмеження знято.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
-  <MessageBillValidationIncludeZoneDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки область "{2}" була видалена.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання «{0}» {lookup: {1}; Case; 1}, оскільки область «{2}» була видалена.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted building {2}. -->
-  <MessageBillValidationIncludeBuildingDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки будівля "{2}" була видалена.</MessageBillValidationIncludeBuildingDeleted>
+  <MessageBillValidationIncludeBuildingDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання «{0}» {lookup: {1}; Case; 1}, оскільки будівля «{2}» була видалена.</MessageBillValidationIncludeBuildingDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted storage group {2}. -->
-  <MessageBillValidationIncludeStorageGroupDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки складська група "{2}" була видалена.</MessageBillValidationIncludeStorageGroupDeleted>
+  <MessageBillValidationIncludeStorageGroupDeleted>Неможливо розрахувати кількість предметів, вказаних для завдання «{0}» {lookup: {1}; Case; 1}, оскільки складська група «{2}» була видалена.</MessageBillValidationIncludeStorageGroupDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
-  <MessageBillValidationIncludeZoneUnavailable>Неможливо розрахувати кількість предметів, вказаних для завдання "{0}" {lookup: {1}; Case; 1}, оскільки область "{2}" поза досяжністю.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationIncludeZoneUnavailable>Неможливо розрахувати кількість предметів, вказаних для завдання «{0}» {lookup: {1}; Case; 1}, оскільки область «{2}» поза досяжністю.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
   <MessageBillValidationStoreZoneInsufficient>Неможливо доставити результат завдання "{0}" {lookup: {1}; Case; 1} до області "{2}".</MessageBillValidationStoreZoneInsufficient>
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
@@ -586,7 +586,7 @@
   <!-- EN: Assign to {0} -->
   <AssignToRole>Призначити на роль {0}</AssignToRole>
   <!-- EN: {0} has begun. -->
-  <RitualBegun>{0} розпочався.</RitualBegun>
+  <RitualBegun>{0} розпочинається.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>Максимальна кількість колоністів, що можуть отримати роль "{0}" - {1}.</MaxPawnsPerRole>
   <!-- EN: Role of {0} is locked. -->
@@ -718,11 +718,11 @@
   <!-- EN: Cannot skip: Refugee -->
   <MessageLodgersCantFarskip>Неможливо пропустити: Біженець</MessageLodgersCantFarskip>
   <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}. -->
-  <MessageHackerLockedOut>{HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}.</MessageHackerLockedOut>
+  <MessageHackerLockedOut>Хакер {HACKER_nameDef} був помічений. {HACKER_pronoun} доступ був заблокований на {DURATION}.</MessageHackerLockedOut>
   <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently. -->
-  <MessageHackerLockedOutPermanently>{HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently.</MessageHackerLockedOutPermanently>
+  <MessageHackerLockedOutPermanently>Хакер {HACKER_nameDef} був помічений. {HACKER_pronoun} доступ був заблокований перманентно.</MessageHackerLockedOutPermanently>
   <!-- EN: {0_labelShort} can be hacked again. -->
-  <MessageHackableUnlocked>{0_labelShort} can be hacked again.</MessageHackableUnlocked>
+  <MessageHackableUnlocked>{0_labelShort} знову можна зламувати.</MessageHackableUnlocked>
   <!-- EN: Cannot call shuttle -->
   <CannotCallShuttle>Cannot call shuttle</CannotCallShuttle>
   <!-- EN: The shuttle has arrived. -->

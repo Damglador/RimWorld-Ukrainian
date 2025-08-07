@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Bioferrite generator -->
-  <BioferriteGenerator.stages.Bioferrite_generator.label>Біоферритовий генератор</BioferriteGenerator.stages.Bioferrite_generator.label>
+  <BioferriteGenerator.stages.Bioferrite_generator.label>Біоферитовий генератор</BioferriteGenerator.stages.Bioferrite_generator.label>
   <!-- EN: The buzz of that blasted machine will make me mad. It's like nails on a chalkboard. -->
   <BioferriteGenerator.stages.Bioferrite_generator.description>Гудіння цієї проклятої машини зведе мене з розуму. Це як цвяхом по дошці.</BioferriteGenerator.stages.Bioferrite_generator.description>
   <!-- EN: blood rage -->
@@ -171,19 +171,19 @@
   <!-- EN: The serum makes me see so much more. Connections everywhere, emotions flowing. Faces in the shadows. So much... -->
   <Voidsight.stages.voidsight.description>Ця сироватка дозволяє мені бачити набагато більше. Скрізь зв’язки, перебіг емоцій. Обличчя в тіні. Так багато...</Voidsight.stages.voidsight.description>
   <!-- EN: dread leather {0} -->
-  <WearingDreadLeather.stages.dread_leather.label>{0} із жахливої шкіри</WearingDreadLeather.stages.dread_leather.label>
+  <WearingDreadLeather.stages.dread_leather.label>{0} з жахошкіри</WearingDreadLeather.stages.dread_leather.label>
   <!-- EN: I hate this stuff. It stinks. -->
   <WearingDreadLeather.stages.dread_leather.description>Я ненавиджу цю річ. Воно тхне.</WearingDreadLeather.stages.dread_leather.description>
   <!-- EN: dread leather {0} (+1) -->
-  <WearingDreadLeather.stages.dread_leather_1.label>{0} із жахливої шкіри (+1)</WearingDreadLeather.stages.dread_leather_1.label>
+  <WearingDreadLeather.stages.dread_leather_1.label>{0} з жахошкіри (+1)</WearingDreadLeather.stages.dread_leather_1.label>
   <!-- EN: Two dread leather items. These make me uncomfortable. -->
-  <WearingDreadLeather.stages.dread_leather_1.description>Дві речі із жахливої шкіри. Мені некомфортно.</WearingDreadLeather.stages.dread_leather_1.description>
+  <WearingDreadLeather.stages.dread_leather_1.description>Дві речі із жахошкіри. Мені некомфортно.</WearingDreadLeather.stages.dread_leather_1.description>
   <!-- EN: dread leather {0} (+2) -->
-  <WearingDreadLeather.stages.dread_leather_2.label>{0} із жахливої шкіри (+2)</WearingDreadLeather.stages.dread_leather_2.label>
+  <WearingDreadLeather.stages.dread_leather_2.label>{0} з жахошкіри (+2)</WearingDreadLeather.stages.dread_leather_2.label>
   <!-- EN: These three dread leather items make me squirm. They smell awful. -->
-  <WearingDreadLeather.stages.dread_leather_2.description>Три речі із жахливої шкіри змушують мене здригатися. Пахне жахливо.</WearingDreadLeather.stages.dread_leather_2.description>
+  <WearingDreadLeather.stages.dread_leather_2.description>Три речі із жахошкіри змушують мене здригатися. Пахне жахливо.</WearingDreadLeather.stages.dread_leather_2.description>
   <!-- EN: dread leather {0} etc -->
-  <WearingDreadLeather.stages.dread_leather_etc.label>{0} із жахливої шкіри (3+)</WearingDreadLeather.stages.dread_leather_etc.label>
+  <WearingDreadLeather.stages.dread_leather_etc.label>{0} із жахошкіри (3+)</WearingDreadLeather.stages.dread_leather_etc.label>
   <!-- EN: I'm covered in this horrible stuff. -->
   <WearingDreadLeather.stages.dread_leather_etc.description>Я {PAWN_gender ? одягнений : одягнена} у ці жахливі речі.</WearingDreadLeather.stages.dread_leather_etc.description>
 </LanguageData>

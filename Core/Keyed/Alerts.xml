@@ -33,7 +33,7 @@
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
   <NeedDoctorDesc>Цим колоністам потрібна медична допомога. У вас немає колоніста, призначеного лікарем.\n\n{0}\nЩоб призначити колоніста лікарем, зайдіть у вкладку "Праця" та поставте галочку в колонці "Лікар" навпроти його імені. Якщо лишити колоністів без лікування, вони можуть померти, а рани можуть неправильно загоїтись і стати постійними.</NeedDoctorDesc>
   <!-- EN: Need miner -->
-  <NeedMiner>Потрібен шахтар</NeedMiner>
+  <NeedMiner>Потрібен гірник</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
   <NeedMinerDesc>Ви відмітили гірські породи для видобутку, проте нікого не назначили шахтарем.\n\nПризначте колоніста на роботу «Шахтар» у вкладці «Праця».</NeedMinerDesc>
   <!-- EN: Need warden -->
@@ -79,9 +79,9 @@
   <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>Ці колоністи виснажені та потребують відпочинку:\n\n{0}\nДайте їм перепочити. Їм знадобляться ліжка, які відмічені, як для колоністів. Також, переконайтесь, що вони не в бойовому режимі.</ExhaustionDesc>
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Потрібна вирва</NeedFoodHopper>
+  <NeedFoodHopper>Потрібна лійка</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без вирви поряд.\n\nАби дозатор працював, він має витягувати матеріал із сусідньої вирви, яка заповнена сирою їжею.\n\nЗбудуйте вирву, що прилягає до дозатора.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без лійки поряд.\n\nАби дозатор працював, він має витягувати матеріал із сусідньої лійки, яка заповнена сирою їжею.\n\nЗбудуйте лійку, що прилягає до дозатора.</NeedFoodHopperDesc>
   <!-- EN: Need meal source -->
   <NeedMealSource>Потрібна приготовлена їжа</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
@@ -195,7 +195,7 @@
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Гості незадоволені</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>Завдання "{0}" вимагає тримати цю персону в хорошому настрої, проте зараз її настрій поганий. Зробіть щось для покращення настрою:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Доручення «{0}» вимагає тримати цю персону в хорошому настрої, проте зараз її настрій поганий. Зробіть щось для покращення настрою:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>Шатл злетить через {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
@@ -223,7 +223,7 @@
   <!-- EN: Quest expires in {0} -->
   <QuestExpiresSoon>Завдання пропаде через {0}</QuestExpiresSoon>
   <!-- EN: The quest '{0}' will expire in {1}. -->
-  <QuestExpiresSoonDesc>Завдання "{0}" пропаде через {1}.</QuestExpiresSoonDesc>
+  <QuestExpiresSoonDesc>Доручення «{0}» пропаде через {1}.</QuestExpiresSoonDesc>
   <!-- EN: Animal filth -->
   <AlertAnimalFilth>Бруд від тварин</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
@@ -273,5 +273,5 @@
   <!-- EN: Need research bench -->
   <NeedResearchBench>Потрібна споруда для досліджень</NeedResearchBench>
   <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
-  <NeedResearchBenchDesc>Ви маєте призначене дослідження: "{0}". Це дослідження вимагає наявності наступної споруди: {1}.</NeedResearchBenchDesc>
+  <NeedResearchBenchDesc>Ви маєте призначене дослідження: «{0}». Це дослідження вимагає наявності наступної споруди: {1}.</NeedResearchBenchDesc>
 </LanguageData>

@@ -95,7 +95,7 @@
   <!-- EN: kind words -->
   <KindWordsMood.stages.kind_words.label>слова підтримки</KindWordsMood.stages.kind_words.label>
   <!-- EN: I've been bestowed with kind words! What a nice person! -->
-  <KindWordsMood.stages.kind_words.description>{0} {1_gender ? підтримав : підтримала} мене добрим словом. Яка мила людина!</KindWordsMood.stages.kind_words.description>
+  <KindWordsMood.stages.kind_words.description>{1} {1_gender ? підтримав : підтримала} мене добрим словом. Яка мила людина!</KindWordsMood.stages.kind_words.description>
   <!-- EN: rapport built -->
   <RapportBuilt.stages.rapport_built.label>належне взаєморозуміння</RapportBuilt.stages.rapport_built.label>
   <!-- EN: rebuffed me -->

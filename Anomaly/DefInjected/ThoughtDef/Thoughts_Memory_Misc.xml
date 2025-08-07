@@ -51,15 +51,15 @@
   <!-- EN: My wonderful cube. My precious cube. I love it. It's so beautiful. -->
   <PlayedWithCube.stages.cube_joy.description>Мій чудовий куб. Мій дорогоцінний куб. Я люблю його. Він такий красивий.</PlayedWithCube.stages.cube_joy.description>
   <!-- EN: {RITUAL} guilt -->
-  <PsychicRitualGuilt.stages.guilt-0.label>сором від ритуалу {lookup: {RITUAL}; Case; 1}</PsychicRitualGuilt.stages.guilt-0.label>
+  <PsychicRitualGuilt.stages.guilt-0.label>провина від ритуалу {lookup: {RITUAL}; Case; 1}</PsychicRitualGuilt.stages.guilt-0.label>
   <!-- EN: It feels wrong to have participated in that ritual. -->
   <PsychicRitualGuilt.stages.guilt-0.description>Не правильно було приймати участь в цьому ритуалі.</PsychicRitualGuilt.stages.guilt-0.description>
   <!-- EN: {RITUAL} guilt -->
-  <PsychicRitualGuilt.stages.guilt-1.label>сором від ритуалу {lookup: {RITUAL}; Case; 1}</PsychicRitualGuilt.stages.guilt-1.label>
+  <PsychicRitualGuilt.stages.guilt-1.label>провина від ритуалу {lookup: {RITUAL}; Case; 1}</PsychicRitualGuilt.stages.guilt-1.label>
   <!-- EN: That ritual was a crime against its victim. I shouldn't have been there. -->
   <PsychicRitualGuilt.stages.guilt-1.description>Цей ритуал є злочином проти його жертви. Я не {PAWN_gender ? повинен був : повинна була} брати в ньому участь.</PsychicRitualGuilt.stages.guilt-1.description>
   <!-- EN: {RITUAL} guilt -->
-  <PsychicRitualGuilt.stages.guilt-2.label>сором від ритуалу {lookup: {RITUAL}; Case; 1}</PsychicRitualGuilt.stages.guilt-2.label>
+  <PsychicRitualGuilt.stages.guilt-2.label>провина від ритуалу {lookup: {RITUAL}; Case; 1}</PsychicRitualGuilt.stages.guilt-2.label>
   <!-- EN: That ritual was nothing short of torture. It's evil! -->
   <PsychicRitualGuilt.stages.guilt-2.description>Цей ритуал був нічим іншим, як тортурами. Це зло!</PsychicRitualGuilt.stages.guilt-2.description>
   <!-- EN: psychic ritual victim -->

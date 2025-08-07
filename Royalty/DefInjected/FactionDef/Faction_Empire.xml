@@ -7,7 +7,7 @@
   <!-- EN: high stellarch -->
   <Empire.leaderTitle>Вищий Стелларх</Empire.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Empire.messageDefendersAttacking>{0} from {1} are attacking your {2}.</Empire.messageDefendersAttacking>
+  <Empire.messageDefendersAttacking>{0} з фракції {1} атакують ваших {lookup: {2}; Case; 3}.</Empire.messageDefendersAttacking>
   <!-- EN: imperial -->
   <Empire.pawnSingular>імперець</Empire.pawnSingular>
   <!-- EN: imperials -->

@@ -30,11 +30,11 @@
   <Credits_Localization_Odyssey>Локалізація Одіссеї</Credits_Localization_Odyssey>
   <!-- text_todo -->
   <!-- EN: Lead Localization Project Manager -->
-  <Credits_LeadLocalizationProjectManager>Провідний менеджер проекту локалізації</Credits_LeadLocalizationProjectManager>
+  <Credits_LeadLocalizationProjectManager>Провідний менеджер проєкту локалізації</Credits_LeadLocalizationProjectManager>
   <!-- EN: Localization Project Manager -->
-  <Credits_LocalizationProjectManager>Менеджер проекту локалізації</Credits_LocalizationProjectManager>
+  <Credits_LocalizationProjectManager>Менеджер проєкту локалізації</Credits_LocalizationProjectManager>
   <!-- EN: Project Manager -->
-  <Credits_ProjectManager>Менеджер проекту</Credits_ProjectManager>
+  <Credits_ProjectManager>Менеджер проєкту</Credits_ProjectManager>
   <!-- EN: Translator -->
   <Credits_Translator>Переклад</Credits_Translator>
   <!-- EN: Editor -->

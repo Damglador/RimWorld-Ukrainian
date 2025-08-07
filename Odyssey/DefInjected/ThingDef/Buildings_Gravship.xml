@@ -15,7 +15,7 @@
   <!-- EN: grav anchor -->
   <GravAnchor.label>гравякір</GravAnchor.label>
   <!-- EN: Prevents the local map from being destroyed during a gravship launch.\n\nGrav anchors passively reduce unstable gravitation shear in a large area, which prevents the damaging effects of a gravship launch. It can't be constructed on the gravship itself because it would prevent flight entirely. -->
-  <GravAnchor.description>Запобігає руйнуванню мапи після запуску гравчовна.\n\nГравякір пасивно зменшує нестабільні гравітаційні розломи у великій області, що запобігає руйнівним ефектам запуску гравчовна. Його неможливо сконструювати на самому гравчовні, оскільки це унеможливить політ.</GravAnchor.description>
+  <GravAnchor.description>Запобігає руйнуванню мапи після запуску гравкорабля.\n\nГравякір пасивно зменшує нестабільні гравітаційні розломи у великій області, що запобігає руйнівним ефектам запуску гравкорабля. Його неможливо сконструювати на самому гравкораблі, оскільки це унеможливить політ.</GravAnchor.description>
   <!-- EN: gravcore power cell -->
   <GravcorePowerCell.label>елемент живлення гравядра</GravcorePowerCell.label>
   <!-- EN: A power generator that passively draws a small amount of energy from gravitational waves passing through the gravship. -->

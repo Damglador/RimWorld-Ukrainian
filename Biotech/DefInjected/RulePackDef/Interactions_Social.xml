@@ -8,11 +8,11 @@
     <li>situation(p=0.2)->while drunk</li>
   -->
   <LessonInteractionCommonSituations.rulePack.rulesStrings>
-    <li>situation(p=2)->safely</li>
-    <li>situation->at night</li>
-    <li>situation->in the cold</li>
-    <li>situation->while injured</li>
-    <li>situation(p=0.2)->while drunk</li>
+    <li>situation(p=2)->безпечно</li>
+    <li>situation->вночі</li>
+    <li>situation->на холоді</li>
+    <li>situation->під час поранення</li>
+    <li>situation(p=0.2)->під час сп'яніння</li>
   </LessonInteractionCommonSituations.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_adverb] [teach_verb] how to [action] [article_tool] to [RECIPIENT_nameDef].</li>
@@ -30,11 +30,11 @@
     <li>teach_test->cross-examined</li>
   -->
   <LessonInteractionQuiz.rulePack.rulesStrings>
-    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_test] [RECIPIENT_nameDef] on [action_gerund] [article_tool] [situation].</li>
-    <li>teach_test->quizzed</li>
-    <li>teach_test->tested</li>
-    <li>teach_test->grilled</li>
-    <li>teach_test->cross-examined</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] [teach_test] [RECIPIENT_nameDef] про [action_gerund] [article_tool] [situation].</li>
+    <li>teach_test->{INITIATOR_nameDef_gender ? опитав : опитала}</li>
+    <li>teach_test->{INITIATOR_nameDef_gender ? протестував : протестувала}</li>
+    <li>teach_test->{INITIATOR_nameDef_gender ? перевірив : перевірила}</li>
+    <li>teach_test->{INITIATOR_nameDef_gender ? допитав : допитала}</li>
   </LessonInteractionQuiz.rulePack.rulesStrings>
   <!-- EN:
     <li>r_logentry(p=0.25)->[INITIATOR_nameDef] [teach_adverb] [study_verb] [subject] with [RECIPIENT_nameDef].</li>

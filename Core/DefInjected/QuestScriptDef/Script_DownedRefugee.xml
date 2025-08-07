@@ -19,10 +19,10 @@
     <li>questName->[refugee_nameDef]'s Salvation</li>
   -->
   <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
-    <li>questName->Saving [refugee_nameDef]</li>
-    <li>questName->The Rescue of [refugee_nameDef]</li>
-    <li>questName->[refugee_nameDef]'s Rescue</li>
-    <li>questName->[refugee_nameDef]'s Salvation</li>
+    <li>questName->Порятунок [refugee_nameDef]</li>
+    <li>questName->[refugee_namrefug] у біді</li>
+    <li>questName->Порятунок [refugee_nameDef]</li>
+    <li>questName->Рятування [refugee_nameDef]</li>
   </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>Завдання більше не актуальне: [resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>

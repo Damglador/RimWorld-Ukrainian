@@ -13,9 +13,9 @@
   <!-- EN: Shredding mechanoid. -->
   <ButcherCorpseMechanoid.jobString>Розбирає механоїда.</ButcherCorpseMechanoid.jobString>
   <!-- EN: smash mechanoid or drone -->
-  <SmashCorpseMechanoid.label>smash mechanoid or drone</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>розбити механоїда або дрона</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid or drone with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>Smash a dead mechanoid or drone with simple hand tools to salvage usable material.</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.description>Розбийте мертвого механоїда або дрон за допомогою простих ручних інструментів, щоб вилучити придатний для використання матеріал.</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
   <SmashCorpseMechanoid.jobString>Розбиває механоїда.</SmashCorpseMechanoid.jobString>
 </LanguageData>

@@ -5,9 +5,9 @@
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
   <EggCassowaryFertilized.description>Запліднене яйце казуара. За потрібних умов вилуплюється пташеня казуара. Можна їсти сирим, проте краще приготувати.</EggCassowaryFertilized.description>
   <!-- EN: cassowary egg (unfert.) -->
-  <EggCassowaryUnfertilized.label>cassowary egg (unfert.)</EggCassowaryUnfertilized.label>
+  <EggCassowaryUnfertilized.label>яйце казуара (незапл.)</EggCassowaryUnfertilized.label>
   <!-- EN: An unfertilized cassowary egg. It can be eaten raw, but it's much better cooked. -->
-  <EggCassowaryUnfertilized.description>An unfertilized cassowary egg. It can be eaten raw, but it's much better cooked.</EggCassowaryUnfertilized.description>
+  <EggCassowaryUnfertilized.description>Незапліднене яйце казуара. Можна їсти сирим, проте краще приготувати.</EggCassowaryUnfertilized.description>
   <!-- EN: chicken egg (fert.) -->
   <EggChickenFertilized.label>куряче яйце (запл.)</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->

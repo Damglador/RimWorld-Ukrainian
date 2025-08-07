@@ -100,17 +100,17 @@
   <!-- EN: Unhide -->
   <CommandUnhideLabel>Показати</CommandUnhideLabel>
   <!-- EN: Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones. -->
-  <CommandHidePlanDesc>Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones.</CommandHidePlanDesc>
+  <CommandHidePlanDesc>Перемикання видимості цього плану.\n\nКлікніть правою кнопкою миші, щоб приховати або показати всі зони.</CommandHidePlanDesc>
   <!-- EN: Hide/unhide this zone.\n\nRight-click to hide or unhide all zones. -->
-  <CommandHideZoneDesc>Hide/unhide this zone.\n\nRight-click to hide or unhide all zones.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Приховати/показати цю зону.\n\nКлікніть правою кнопкою миші, щоб приховати або показати всі зони.</CommandHideZoneDesc>
   <!-- EN: Show all zones -->
   <ShowAllZones>Показати всі зони</ShowAllZones>
   <!-- EN: Hide all zones -->
   <HideAllZones>Приховати всі зони</HideAllZones>
   <!-- EN: Show all {0} zones -->
-  <ShowAllZoneTypes>Show all {0} zones</ShowAllZoneTypes>
+  <ShowAllZoneTypes>Показати всі зони {0}</ShowAllZoneTypes>
   <!-- EN: Hide all {0} zones -->
-  <HideAllZoneTypes>Hide all {0} zones</HideAllZoneTypes>
+  <HideAllZoneTypes>Приховати всі зони {0}</HideAllZoneTypes>
   <!-- EN: planning -->
   <Planning>планування</Planning>
   <!-- EN: Change color -->
@@ -346,14 +346,14 @@
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>У цій області є вороги.</CommandSettleFailEnemies>
   <!-- EN: Cannot settle here. -->
-  <CommandSettleFailGeneric>Cannot settle here.</CommandSettleFailGeneric>
+  <CommandSettleFailGeneric>Тут не можна оселитися.</CommandSettleFailGeneric>
   <!-- Camp -->
   <!-- EN: Camp -->
   <CommandCamp>Табір</CommandCamp>
   <!-- EN: Set up a temporary camp that can quickly be abandoned. -->
   <CommandCampDesc>Створити табір, котрий можна буде швидко покинути.</CommandCampDesc>
   <!-- EN: Cannot camp here. -->
-  <CommandCampFailExistingWorldObject>Cannot camp here.</CommandCampFailExistingWorldObject>
+  <CommandCampFailExistingWorldObject>Тут не можна отаборитися.</CommandCampFailExistingWorldObject>
   <!-- Abandon home -->
   <!-- EN: Abandon -->
   <CommandAbandonHome>Покинути колонію</CommandAbandonHome>
@@ -378,17 +378,17 @@
   <CommandAddToCaravanDesc>Додати цю людину чи тварину до каравану.</CommandAddToCaravanDesc>
   <!-- Force caravan depart -->
   <!-- EN: Force caravan departure -->
-  <CommandForceCaravanDepart>Force caravan departure</CommandForceCaravanDepart>
+  <CommandForceCaravanDepart>Примусове відряджання каравану</CommandForceCaravanDepart>
   <!-- EN: Force the caravan to depart immediately with only the currently-loaded items. Anyone unable to travel will be left behind. -->
-  <CommandForceCaravanDepartDesc>Force the caravan to depart immediately with only the currently-loaded items. Anyone unable to travel will be left behind.</CommandForceCaravanDepartDesc>
+  <CommandForceCaravanDepartDesc>Змусити караван негайно вирушити, взявши з собою лише те, що зараз завантажено. Всі, хто не зможе мандрувати, будуть залишені позаду.</CommandForceCaravanDepartDesc>
   <!-- EN: Are you sure you want to depart? -->
-  <ConfirmForceDepartIntro>Are you sure you want to depart?</ConfirmForceDepartIntro>
+  <ConfirmForceDepartIntro>Ви справді хочете вирушити?</ConfirmForceDepartIntro>
   <!-- EN: The following items are still being loaded and will be left behind: -->
-  <ConfirmForceDepartItemsStillLoading>The following items are still being loaded and will be left behind:</ConfirmForceDepartItemsStillLoading>
+  <ConfirmForceDepartItemsStillLoading>Ці товари все ще завантажуються і будуть залишені:</ConfirmForceDepartItemsStillLoading>
   <!-- EN: The following people won't be a part of the caravan: -->
-  <ConfirmForceDepartPawnsNotLeaving>The following people won't be a part of the caravan:</ConfirmForceDepartPawnsNotLeaving>
+  <ConfirmForceDepartPawnsNotLeaving>Наступні люди не будуть частиною каравану:</ConfirmForceDepartPawnsNotLeaving>
   <!-- EN: The following items are loaded onto creatures who won't be a part of the caravan and will be left behind: -->
-  <ConfirmForceDepartItemsOnPawnsNotLeaving>The following items are loaded onto creatures who won't be a part of the caravan and will be left behind:</ConfirmForceDepartItemsOnPawnsNotLeaving>
+  <ConfirmForceDepartItemsOnPawnsNotLeaving>Наступні товари завантажені на істот, які не будуть частиною каравану і будуть залишені:</ConfirmForceDepartItemsOnPawnsNotLeaving>
   <!-- Show map -->
   <!-- EN: Zoom in -->
   <CommandShowMap>Збільшити</CommandShowMap>
@@ -433,37 +433,37 @@
   <!-- EN: Toggle automatic refuel -->
   <CommandToggleAllowAutoRefuel>Дозаправляти автоматично</CommandToggleAllowAutoRefuel>
   <!-- EN: This determines whether colonists will automatically refuel this. If enabled, colonists will fill this up to {0}.\n\nAutomatic refueling is currently {ONOFF}. -->
-  <CommandToggleAllowAutoRefuelDesc>This determines whether colonists will automatically refuel this. If enabled, colonists will fill this up to {0}.\n\nAutomatic refueling is currently {ONOFF}.</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>Визначає, чи колоністи будуть автоматично заправляти його.. Якщо увімкнено, колоністи заповнюватимуть його до {0}.\n\nАвтоматична заправка наразі {ONOFF}.</CommandToggleAllowAutoRefuelDesc>
   <!-- EN: This determines whether colonists will automatically refuel these buildings.\n\nAutomatic refueling is currently {ONOFF}. -->
-  <CommandToggleAllowAutoRefuelDescMult>This determines whether colonists will automatically refuel these buildings.\n\nAutomatic refueling is currently {ONOFF}.</CommandToggleAllowAutoRefuelDescMult>
+  <CommandToggleAllowAutoRefuelDescMult>Визначає, чи будуть колоністи автоматично заправляти ці будівлі.\n\nАвтоматичне заправлення наразі {ONOFF}.</CommandToggleAllowAutoRefuelDescMult>
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
   <CommandCancelLoad>Скасувати завантаження</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>Скасувати завантаження речей та посадку пасажирів та вивантажити те, що вже завантажено.</CommandCancelLoadDesc>
   <!-- EN: Unload all -->
-  <CommandUnload>Unload all</CommandUnload>
+  <CommandUnload>Вивантажити все</CommandUnload>
   <!-- EN: Eject all contents from the {0}. -->
-  <CommandUnloadDesc>Eject all contents from the {0}.</CommandUnloadDesc>
+  <CommandUnloadDesc>Вилучити весь вміст з {0}.</CommandUnloadDesc>
   <!-- Launch group -->
   <!-- EN: Launch -->
   <CommandLaunchGroup>Пуск</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>Злетіти та взяти курс до місця призначення.</CommandLaunchGroupDesc>
   <!-- EN: Must be loaded first. -->
-  <CommandLaunchGroupFailNotLoaded>Must be loaded first.</CommandLaunchGroupFailNotLoaded>
+  <CommandLaunchGroupFailNotLoaded>Спочатку потрібно завантажити.</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Як мінімум одна капсула не приєднана до порту для заправки.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Roof blocking launch. -->
-  <CommandLaunchGroupFailUnderRoof>Roof blocking launch.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>Стеля блокує зліт.</CommandLaunchGroupFailUnderRoof>
   <!-- EN: Not enough fuel to launch. -->
-  <CommandLaunchGroupFailNoFuel>Not enough fuel to launch.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>Не вистачає палива для запуску.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Over mass capacity. -->
-  <CommandLaunchGroupFailOverMassCapacity>Over mass capacity.</CommandLaunchGroupFailOverMassCapacity>
+  <CommandLaunchGroupFailOverMassCapacity>Надмірна маса.</CommandLaunchGroupFailOverMassCapacity>
   <!-- EN: On cooldown. -->
-  <CommandLaunchGroupCooldown>On cooldown.</CommandLaunchGroupCooldown>
+  <CommandLaunchGroupCooldown>Відновлення.</CommandLaunchGroupCooldown>
   <!-- EN: {0} / {1} kg -->
-  <MassUsageString>{0} / {1} kg</MassUsageString>
+  <MassUsageString>{0} / {1} кг</MassUsageString>
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
   <CommandLoadTransporter>Завантажити в групу з {0}</CommandLoadTransporter>
@@ -606,13 +606,13 @@
   <!-- EN: Leave {RITUAL_label} -->
   <CommandLeaveRitual>Покинути {RITUAL_label}</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The event will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>Stop participating in the {RITUAL_labelDef}. The event will continue as long as it has at least one participant.</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>Припини участь у {RITUAL_labelDef}. Подія триватиме, доки в ній буде щонайменше один учасник.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
   <CommandLeaveLastParticipant>Це останній учасник "{RITUAL_labelDef}".</CommandLeaveLastParticipant>
   <!-- EN: Cancel {RITUAL_label} -->
   <CommandCancelRitual>Скасувати «{RITUAL_label}»</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. You can restart the event later. -->
-  <CommandCancelRitualDesc>End the {RITUAL_labelDef} immediately. You can restart the event later.</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>Негайно завершіть {RITUAL_labelDef}. Ви можете перезапустити подію пізніше.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>Ви впевнені що хочете перервати {RITUAL_labelDef}?</CommandCancelRitualConfirm>
   <!-- Storage linking -->
@@ -654,21 +654,21 @@
   <!-- EN: View {0} -->
   <CommandViewPocketMapLabel>Перемкнутися на {lookup: {0}; Case; 3}</CommandViewPocketMapLabel>
   <!-- EN: View the connected {0} map. -->
-  <CommandViewPocketMapDesc>View the connected {0} map.</CommandViewPocketMapDesc>
+  <CommandViewPocketMapDesc>Переглянути підключену карту {0}.</CommandViewPocketMapDesc>
   <!-- EN: View surface -->
-  <CommandViewSurface>View surface</CommandViewSurface>
+  <CommandViewSurface>Переглянути поверхню</CommandViewSurface>
   <!-- EN: View the connected surface map. -->
-  <CommandViewSurfaceDesc>View the connected surface map.</CommandViewSurfaceDesc>
+  <CommandViewSurfaceDesc>Переглянути підключену мапу поверхні.</CommandViewSurfaceDesc>
   <!-- Auto-build pod -->
   <!-- EN: Auto build transport pod -->
-  <AutoBuildTransportPod>Auto build transport pod</AutoBuildTransportPod>
+  <AutoBuildTransportPod>Автоматична побудова транспортної капсули</AutoBuildTransportPod>
   <!-- EN: If on, your colonists will automatically build a new transport pod when possible. -->
-  <AutoBuildTransportPodDesc>If on, your colonists will automatically build a new transport pod when possible.</AutoBuildTransportPodDesc>
+  <AutoBuildTransportPodDesc>Якщо увімкнено, ваші колоністи за можливості автоматично будуватимуть нову транспортну капсулу.</AutoBuildTransportPodDesc>
   <!-- Hacking gizmo -->
   <!-- EN: Hack... -->
   <HackGizmo>Зламати...</HackGizmo>
   <!-- EN: Cannot hack -->
-  <CannotChooseHacker>Cannot hack</CannotChooseHacker>
+  <CannotChooseHacker>Неможливо зламати</CannotChooseHacker>
   <!-- EN: Choose hacker -->
-  <CommandChooseHacker>Choose hacker</CommandChooseHacker>
+  <CommandChooseHacker>Виберіть хакера</CommandChooseHacker>
 </LanguageData>

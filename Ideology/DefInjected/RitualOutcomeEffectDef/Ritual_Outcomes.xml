@@ -241,7 +241,7 @@
   <!-- EN: participant count -->
   <Conversion.comps.1.label>кількість учасників</Conversion.comps.1.label>
   <!-- EN: {PAWN_labelShort}'s social impact -->
-  <Conversion.comps.2.label>соціальний вплив {PAWN_labelShort}</Conversion.comps.2.label>
+  <Conversion.comps.2.label>Соціальний вплив {PAWN_labelShort}</Conversion.comps.2.label>
   <!-- EN: speaker's social impact -->
   <Conversion.comps.2.labelAbstract>соціальний вплив оратора</Conversion.comps.2.labelAbstract>
   <!-- EN: {PAWN_labelShort}'s expectations -->

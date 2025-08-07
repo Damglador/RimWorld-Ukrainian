@@ -87,7 +87,7 @@
     <li>subject_gerund->crafting blowback firearms</li>
   -->
   <BlowbackOperation.generalRules.rulesStrings>
-    <li>subject->pistols</li>
+    <li>пістолети</li>
     <li>subject->blowback firearms</li>
     <li>subject_story->utilized machine pistols in the trench fighting that overtook the planet</li>
     <li>subject_story->sold low-powered autopistols to law enforcement in the orbitals</li>
@@ -117,7 +117,7 @@
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
   <Electricity.description>Використовуйте силу електроенергії для сотень різних задач.</Electricity.description>
   <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
-  <Electricity.discoveredLetterText>Ваша колонія приручила стихію, яку чужинці називають "електроенергією". З його допомогою можна кардинально змінити життя ваших колоністів.\n\nТепер вам доступна вкладка "Енергія" меню "Проєктування". У ній ви знайдете генератори, кабелі та інші електричні пристрої. Вкладка "Енергія" також відображає електричну мережу підключені до неї генератори та іншу електрику.</Electricity.discoveredLetterText>
+  <Electricity.discoveredLetterText>Ваша колонія приручила стихію, яку чужинці називають «електроенергією». З його допомогою можна кардинально змінити життя ваших колоністів.\n\nТепер вам доступна вкладка «Енергія» меню «Проєктування». У ній ви знайдете генератори, кабелі та інші електричні пристрої. Вкладка «Енергія» також відображає електричну мережу підключені до неї генератори та іншу електрику.</Electricity.discoveredLetterText>
   <!-- EN: About: Electricity -->
   <Electricity.discoveredLetterTitle>Докладніше: електроенергія</Electricity.discoveredLetterTitle>
   <!-- EN:
@@ -287,7 +287,7 @@
     <li>subject_gerund->growing plants indoors</li>
   -->
   <Hydroponics.generalRules.rulesStrings>
-    <li>subject->hydroponics</li>
+    <li>subject->гідропоніка</li>
     <li>subject_story->joined a generation ship crew as their crop specialist</li>
     <li>subject_story->established a hydroponics facility to feed the hungry</li>
     <li>subject_story->traveled around, teaching artificial plant growth to new colonists</li>

@@ -197,7 +197,7 @@
     <li>place_job->teacher</li>
     <li>place_job->militia commander</li>
     <li>place_job->shuttle pilot</li>
-    <li>place_personalWeapon->autopistol</li>
+    <li>place_personalWeapon->автоматичний пістолет</li>
     <li>place_personalWeapon->ручний кулемет</li>
     <li>place_massWeapon->a shoulder-mounted nuclear missile</li>
     <li>place_massWeapon->an orbital bombardment</li>
@@ -696,7 +696,7 @@
     <li>place_job->mechanic</li>
     <li>place_job->life support engineer</li>
     <li>place_personalWeapon->electro-baton</li>
-    <li>place_personalWeapon->autopistol</li>
+    <li>place_personalWeapon->автоматичний пістолет</li>
     <li>place_massWeapon->blasting charges</li>
     <li>place_massWeapon->[anEMPAttack]</li>
     <li>place_foeLeader->mine-corp boss</li>

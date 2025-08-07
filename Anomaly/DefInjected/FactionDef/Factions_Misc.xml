@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: entities -->
-  <Entities.label>сутності</Entities.label>
+  <Entities.label>істоти</Entities.label>
   <!-- EN: Dark entities -->
-  <Entities.fixedName>Темні сутності</Entities.fixedName>
+  <Entities.fixedName>Темні істоти</Entities.fixedName>
   <!-- EN: leader -->
   <Entities.leaderTitle>лідер</Entities.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <Entities.messageDefendersAttacking>{0} з {1} атакують вашу {2}.</Entities.messageDefendersAttacking>
   <!-- EN: entity -->
-  <Entities.pawnSingular>сутність</Entities.pawnSingular>
+  <Entities.pawnSingular>істота</Entities.pawnSingular>
   <!-- EN: entities -->
-  <Entities.pawnsPlural>сутності</Entities.pawnsPlural>
+  <Entities.pawnsPlural>істоти</Entities.pawnsPlural>
   <!-- EN: horax cult -->
   <HoraxCult.label>культ Горакса</HoraxCult.label>
   <!-- EN: God of the Void -->

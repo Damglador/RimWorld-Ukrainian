@@ -37,7 +37,7 @@
   <!-- EN: Gill rot is ending. -->
   <GillRot.endMessage>Зяброва гниль скінчилася.</GillRot.endMessage>
   <!-- EN: A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive. -->
-  <GillRot.letterText>Серед місцевої популяції риб з'явився паразитичний грибок, що викликає зяброву гниль. Хоч грибок і не зачіпає людей, він якийсь час постійно зменшує популяцію риб.\n\nЧим менше популяція риб, тим менше користі від рибалки.</GillRot.letterText>
+  <GillRot.letterText>Серед місцевої популяції риб з'явився паразитичний грибок, що викликає зяброву гниль. Хоч грибок і не зачіпає людей, певний час він знижуватиме популяцію риби.\n\nЧим менше популяція риби, тим менше користі від рибалки.</GillRot.letterText>
   <!-- EN: heat vent emissions -->
   <HeatVentHeat.label>викиди з теплової вентиляції</HeatVentHeat.label>
   <!-- EN: Heat from a nearby underground vent is raising the temperature in the area. -->

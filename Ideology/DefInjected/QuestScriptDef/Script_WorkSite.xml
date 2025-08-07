@@ -23,15 +23,15 @@
     <li>detected->uncovered</li>
   -->
   <OpportunitySite_WorkSite.questNameRules.rulesStrings>
-    <li>questName->[site_label] [detected]</li>
-    <li>detected->detected</li>
-    <li>detected->discovered</li>
-    <li>detected->nearby</li>
-    <li>detected->found</li>
-    <li>detected->identified</li>
-    <li>detected->noticed</li>
-    <li>detected->observed</li>
-    <li>detected->revealed</li>
-    <li>detected->uncovered</li>
+    <li>questName->[detected] [site_label]</li>
+    <li>detected->виявлено</li>
+    <li>detected->виявлено</li>
+    <li>detected->поблизу</li>
+    <li>detected->знайдено</li>
+    <li>detected->ідентифіковано</li>
+    <li>detected->помічено</li>
+    <li>detected->помічено</li>
+    <li>detected->розкрито</li>
+    <li>detected->розкрито</li>
   </OpportunitySite_WorkSite.questNameRules.rulesStrings>
 </LanguageData>

@@ -10,7 +10,7 @@
   <AncientComplex_Mission.questContentRules.rulesStrings>
     <li>terminalHackedMessage->термінал зламаний. Зламано {COUNT}/[terminalCount] терміналів.</li>
     <li>passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural].</li>
-    <li>passengersIncapableOfHackingDialogText->Шатл для завдання "[resolvedQuestName]" не має пасажира, здатного зламати термінал. Ви повинні надіслати принаймні одну людину з достатнім рівнем навички "Інтелект" для дослідження стародавнього комплексу.</li>
+    <li>passengersIncapableOfHackingDialogText->Шатл для доручення «[resolvedQuestName]» не має пасажира, здатного зламати термінал. Ви повинні надіслати принаймні одну людину з достатнім рівнем навички «Інтелект» для дослідження стародавнього комплексу.</li>
     <li>passengersSingularOrPlural(colonistCount==1)->пасажир</li>
     <li>passengersSingularOrPlural(colonistCount>=2)->passengers</li>
   </AncientComplex_Mission.questContentRules.rulesStrings>

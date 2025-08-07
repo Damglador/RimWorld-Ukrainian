@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: bioferrite generator -->
-  <BioferriteGenerator.label>біоферритовий генератор</BioferriteGenerator.label>
+  <BioferriteGenerator.label>біоферитовий генератор</BioferriteGenerator.label>
   <!-- EN: An electrical generator that works by pressurizing and igniting bioferrite, then harvesting energy from the resulting heat.\n\nBecause of the destruction of psychically active bioferrite, this device generates an uncomfortable psychic drone which disturbs those who pass nearby. -->
   <BioferriteGenerator.description>Електричний генератор, який біоферит під тиском та конвертує отримане тепло в енергію.\n\nЧерез руйнування пси-активного біофериту цей пристрій випромінює незручний психічний гул, який дарує тих, хто знаходиться неподалік.</BioferriteGenerator.description>
   <!-- EN: electroharvester -->

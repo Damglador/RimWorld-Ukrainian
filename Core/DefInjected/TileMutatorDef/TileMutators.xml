@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: caves -->
-  <Caves.label>caves</Caves.label>
+  <Caves.label>печери</Caves.label>
   <!-- EN: Small cave networks can be found within the rocks. -->
-  <Caves.description>Small cave networks can be found within the rocks.</Caves.description>
+  <Caves.description>Мережа невеликих печер, які можна знайти в скелях.</Caves.description>
   <!-- EN: coast -->
-  <Coast.label>coast</Coast.label>
+  <Coast.label>узбережжя</Coast.label>
   <!-- EN: This tile borders the coast. -->
-  <Coast.description>This tile borders the coast.</Coast.description>
+  <Coast.description>Ця клітка межує з узбережжям.</Coast.description>
   <!-- EN: mountain -->
-  <Mountain.label>mountain</Mountain.label>
+  <Mountain.label>гора</Mountain.label>
   <!-- EN: A mountain fills one side of this tile. -->
-  <Mountain.description>A mountain fills one side of this tile.</Mountain.description>
+  <Mountain.description>Одну сторону цієї клітки заповнює гора.</Mountain.description>
   <!-- EN: river -->
-  <River.label>river</River.label>
+  <River.label>річка</River.label>
   <!-- EN: A stream of fresh water flows through here. -->
-  <River.description>A stream of fresh water flows through here.</River.description>
+  <River.description>Тут протікає струмок прісної води.</River.description>
   <!-- EN: underground cave -->
-  <UndergroundCave.label>underground cave</UndergroundCave.label>
+  <UndergroundCave.label>підземна печера</UndergroundCave.label>
 </LanguageData>
