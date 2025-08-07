@@ -31,5 +31,5 @@
   <!-- EN: void provocation -->
   <VoidProvocation.label>провокація порожнечі</VoidProvocation.label>
   <!-- EN: Use the void provocation psychic ritual to discover and capture new entities.\n\nDiscovering entities will let you advance the void monolith to higher levels, and unlock new research projects. Capturing more entities will let you complete Anomaly research projects faster.\n\nPlace a psychic ritual spot in order to perform the void provocation ritual. -->
-  <VoidProvocation.helpText>Використовуйте психічний ритуал "Провокація порожнечі", щоб відкрити і захопити нові сутності.\n\nВідкриття сутностей дозволить вам просунути моноліт порожнечі на більш високі рівні і розблокувати нові дослідницькі проекти. Захопивши більше сутностей, ви зможете швидше завершити проекти з дослідження Аномалії.\n\nРозмістіть місце для психічних ритуалів, щоб виконати ритуал провокації порожнечі.</VoidProvocation.helpText>
+  <VoidProvocation.helpText>Використовуйте психічний ритуал «Провокація порожнечі», щоб виявити та захопити нових істот.\n\nВиявлення істот дозволить вам просунути моноліт порожнечі на вищі рівні та розблокувати нові дослідницькі проєкти. Захопивши більше істот, ви зможете швидше завершити проєкти з дослідження Аномалії.\n\nРозмістіть місце для психічних ритуалів, щоб виконати ритуал провокації порожнечі.</VoidProvocation.helpText>
 </LanguageData>

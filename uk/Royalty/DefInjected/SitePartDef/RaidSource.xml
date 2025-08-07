@@ -5,7 +5,7 @@
   <!-- EN: A guarded military staging area which sends periodic raids. -->
   <RaidSource.description>Ворожий плацдарм, на якому періодично збираються сили для рейдів.</RaidSource.description>
   <!-- EN: Attacking {0}. -->
-  <RaidSource.approachingReportString>Attacking {0}.</RaidSource.approachingReportString>
+  <RaidSource.approachingReportString>Атакує {0}.</RaidSource.approachingReportString>
   <!-- EN: Attack {0} -->
   <RaidSource.approachOrderString>Атакувати {lookup: {0}; Case; 3}</RaidSource.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->

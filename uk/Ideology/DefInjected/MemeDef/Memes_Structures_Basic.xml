@@ -188,7 +188,7 @@
     <li>memeConcept->creation</li>
     <li>memeConcept->life</li>
     <li>memeLeaderNoun->bishop</li>
-    <li>memeLeaderNoun->cardinal</li>
+    <li>memeLeaderNoun->кардинал</li>
     <li>memeLeaderNoun->pope</li>
     <li>memeLeaderNoun->divus</li>
     <li>memeLeaderAdjective->holy</li>
@@ -209,7 +209,7 @@
   <!-- EN: spiritualism -->
   <Structure_TheistAbstract.symbolPacks.0.theme>духовності</Structure_TheistAbstract.symbolPacks.0.theme>
   <!-- EN: faithful -->
-  <Structure_TheistAbstract.symbolPacks.1.adjective>віруючий</Structure_TheistAbstract.symbolPacks.1.adjective>
+  <Structure_TheistAbstract.symbolPacks.1.adjective>вірний</Structure_TheistAbstract.symbolPacks.1.adjective>
   <!-- EN: Faith -->
   <Structure_TheistAbstract.symbolPacks.1.ideoName>Віра</Structure_TheistAbstract.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
@@ -273,7 +273,7 @@
   <!-- EN: spiritualism -->
   <Structure_TheistEmbodied.symbolPacks.0.theme>духовності</Structure_TheistEmbodied.symbolPacks.0.theme>
   <!-- EN: faithful -->
-  <Structure_TheistEmbodied.symbolPacks.1.adjective>віруючий</Structure_TheistEmbodied.symbolPacks.1.adjective>
+  <Structure_TheistEmbodied.symbolPacks.1.adjective>вірний</Structure_TheistEmbodied.symbolPacks.1.adjective>
   <!-- EN: Faith -->
   <Structure_TheistEmbodied.symbolPacks.1.ideoName>Віра</Structure_TheistEmbodied.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->

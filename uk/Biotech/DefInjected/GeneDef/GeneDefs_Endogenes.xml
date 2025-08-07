@@ -323,7 +323,7 @@
   <!-- EN: human voice -->
   <Voice_Human.label>людський голос</Voice_Human.label>
   <!-- EN: Carriers of this gene have regular human vocal cords. -->
-  <Voice_Human.description>Carriers of this gene have regular human vocal cords.</Voice_Human.description>
+  <Voice_Human.description>Носії цього гена мають звичайні людські голосові зв'язки.</Voice_Human.description>
   <!-- EN: pig voice -->
   <VoicePig.label>свинячий голос</VoicePig.label>
   <!-- EN: Carriers have a squealing voice like that of a pig. -->

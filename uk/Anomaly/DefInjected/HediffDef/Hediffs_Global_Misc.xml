@@ -3,7 +3,7 @@
   <!-- EN: agony pulse -->
   <AgonyPulse.label>імпульс агонії</AgonyPulse.label>
   <!-- EN: Pure projected mental pain caused by a shock-pulse of suffering. It is overwhelming, but dissipates relatively quickly. -->
-  <AgonyPulse.description>Чистий спроектований біль, викликаний шоковим імпульсом страждання. Він сильний, але розсіюється відносно швидко.</AgonyPulse.description>
+  <AgonyPulse.description>Чистий спроєктований біль, викликаний шоковим імпульсом страждання. Він сильний, але розсіюється відносно швидко.</AgonyPulse.description>
   <!-- EN: acute -->
   <AgonyPulse.stages.acute.label>гострий</AgonyPulse.stages.acute.label>
   <!-- EN: lingering -->

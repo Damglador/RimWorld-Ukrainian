@@ -61,7 +61,7 @@
     <li>spaceNoun->Star</li>
     <li>spaceNoun->Moon</li>
     <li>spaceNoun->Comet</li>
-    <li>spaceNoun->Asteroid</li>
+    <li>spaceNoun->Астероїд</li>
     <li>spaceNoun->Eclipse</li>
     <li>spaceCollectiveNoun->Armada</li>
     <li>spaceCollectiveNoun->Fleet</li>
@@ -174,7 +174,7 @@
     <li>platAdj->galaxy</li>
     <li>platAdj->cosmos</li>
     <li>platAdj_mas->туманний</li>
-    <li>platAdj->asteroid</li>
+    <li>platAdj->астероїд</li>
     <li>platAdj->comet</li>
     <li>platAdj_mas->зорянопиловий</li>
     <li>platAdj->quasar</li>

@@ -189,7 +189,7 @@
     <li>suffixEvil->vix</li>
   -->
   <Namer_Tome.rulePack.rulesStrings>
-    <li>title->[maybeThe] [bookEvil] of [nounEvilUncountable]</li>
+    <li>title->[maybeThe] [bookEvil] про [nounEvilUncountable]</li>
     <li>title->[maybeThe] [bookEvil] of [nounEvilCountable]s</li>
     <li>title->[maybeThe] [bookEvil] of the [nounEvilCountable]</li>
     <li>title->[maybeThe] [nounEvilCountable]s [inThe] [placeEvil]</li>
@@ -222,7 +222,7 @@
     <li>bookEvil->Whispers</li>
     <li>bookEvil->Testimony</li>
     <li>bookEvil->Lamentations</li>
-    <li>bookEvil->Grimoire</li>
+    <li>bookEvil->Ґримуар</li>
     <li>bookEvil->Almanac</li>
     <li>bookEvil->Manuscript</li>
     <li>bookEvil->Annals</li>
@@ -295,10 +295,10 @@
     <li>nounEvilCountable->Noctol</li>
     <li>nounEvilCountable->Shambler</li>
     <li>nounEvilCountable->Fleshbeast</li>
-    <li>nounEvilCountable->Nociosphere</li>
+    <li>nounEvilCountable->Сфера ночі</li>
     <li>nounEvilCountable->Corpse</li>
     <li>nounEvilCountable->Cube</li>
-    <li>nounEvilCountable->Revenant</li>
+    <li>nounEvilCountable->Ревенант</li>
     <li>nounEvilCountable->Metalhorror</li>
     <li>nounEvilCountable->Abductor</li>
     <li>nounEvilCountable->Duplicator</li>

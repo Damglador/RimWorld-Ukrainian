@@ -491,7 +491,7 @@
   <!-- EN: Addiction cost -->
   <AddictionCost>Ціна залежності</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>Шанс випадкового передозування</RandomODChance>
+  <RandomODChance>Шанс передозування</RandomODChance>
   <!-- EN: Always safe -->
   <AlwaysSafe>Будь-який</AlwaysSafe>
   <!-- EN: Never safe -->

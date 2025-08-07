@@ -37,13 +37,14 @@
   <!-- EN: shelterkid -->
   <ShelterChild50.titleShort>дитя бункеру</ShelterChild50.titleShort>
   <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
-  <TestSubject15.description>On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier.</TestSubject15.description>
+  <TestSubject15.description>У найкорумпованіших урбаністичних світах вчені без морального компасу чинять невимовні звірства в ім'я науки. Від народження [PAWN_nameDef] утримували на самоті в закритому приміщенні і піддавали різноманітним поведінковим експериментам, намагаючись перетворити [PAWN_objective] на досконалого суперсолдата.</TestSubject15.description>
   <!-- EN: test subject -->
   <TestSubject15.title>піддослідний</TestSubject15.title>
   <!-- EN: testee -->
   <TestSubject15.titleShort>піддослідний</TestSubject15.titleShort>
   <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
-  <UrbworldUrchin61.description>The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food.</UrbworldUrchin61.description>
+  <UrbworldUrchin61.description>Урбанізований світ - стародавні та глибокі індустріальні міські пейзажі, 
+що вибухають людяністю та отрутою. [PAWN_nameDef] {PAWN_gender ? виріс : виросла} у темних, нікому не потрібних нетрях такого місця. [PAWN_pronoun] доводилося боротися за кожен шматочок їжі.</UrbworldUrchin61.description>
   <!-- EN: urbworld urchin -->
   <UrbworldUrchin61.title>дитя вулиць</UrbworldUrchin61.title>
   <!-- EN: urchin -->

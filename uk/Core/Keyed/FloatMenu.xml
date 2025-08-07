@@ -25,7 +25,7 @@
   <!-- EN: Fire at {1_labelShort} -->
   <FireAt>Вогонь по {lookup: {1_label}; Case; 2}</FireAt>
   <!-- EN: Remove -->
-  <Remove>Remove</Remove>
+  <Remove>Прибрати</Remove>
   <!-- EN: out of range -->
   <OutOfRange>поза зоною ураження</OutOfRange>
   <!-- EN: too close -->
@@ -43,7 +43,7 @@
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>не можна наказувати персонажам, яких ви не контролюєте</CannotOrderNonControlledLower>
   <!-- EN: cannot attack -->
-  <CannotAttack>cannot attack</CannotAttack>
+  <CannotAttack>не можна атакувати</CannotAttack>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>не можна атакувати себе</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
@@ -71,7 +71,7 @@
   <!-- EN: burning -->
   <BurningLower>палає</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
-  <NoEmptyPlaceLower>відсутні доступні місця, налаштовані для зберігання цього</NoEmptyPlaceLower>
+  <NoEmptyPlaceLower>немає доступного чи вільного місця для зберігання</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
   <NoMergeTarget>ні з чим об'єднувати</NoMergeTarget>
   <!-- EN: already filled enough -->
@@ -89,7 +89,7 @@
   <!-- EN: no reachable outside cell -->
   <NoReachableOutsideCell>немає доступних клітинок на мапі світу</NoReachableOutsideCell>
   <!-- EN: cannot exit map -->
-  <CannotExitMap>cannot exit map</CannotExitMap>
+  <CannotExitMap>неможливо вийти з карти</CannotExitMap>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>відсутній необхідний рівень навички</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -225,7 +225,7 @@
   <!-- EN: Cannot rescue -->
   <CannotRescue>Неможливо врятувати</CannotRescue>
   <!-- EN: Cannot rescue {PAWN_labelShort} -->
-  <CannotRescuePawn>Cannot rescue {PAWN_labelShort}</CannotRescuePawn>
+  <CannotRescuePawn>Неможливо врятувати {PAWN_labelShort}</CannotRescuePawn>
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Перенести {lookup: {1_labelShort}; Case; 3} до саркофагу криптосну</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
@@ -387,7 +387,7 @@
   <!-- EN: medical bed not for slaves -->
   <NotForSlaves>це ліжко не призначене для рабів</NotForSlaves>
   <!-- EN: Medical care disabled -->
-  <MedicalCareDisabled>Medical care disabled</MedicalCareDisabled>
+  <MedicalCareDisabled>Медична допомога вимкнена</MedicalCareDisabled>
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>{0} вже спить тут</SomeoneElseSleeping>
   <!-- EN: Trade with {0} -->
@@ -415,7 +415,7 @@
   <!-- EN: Approach {0} -->
   <ApproachSite>Підійти до {lookup: {0}; Case; 2}</ApproachSite>
   <!-- EN: Approaching {0}. -->
-  <ApproachingSite>Approaching {0}.</ApproachingSite>
+  <ApproachingSite>Наближається з {0}.</ApproachingSite>
   <!-- EN: Offer gifts -->
   <OfferGifts>Подарувати</OfferGifts>
   <!-- EN: Trade with {0} -->
@@ -456,7 +456,7 @@
   <!-- EN: Research is a long-term task -->
   <CannotPrioritizeResearch>Дослідження це довготривале завдання</CannotPrioritizeResearch>
   <!-- EN: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>{1_label} is forbidden</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>{1_label} заборонено</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>Неможливо виконати: заборонено</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
@@ -469,7 +469,7 @@
   <!-- EN: Prioritize {0} -->
   <PrioritizeGenericSimple>Пріоритизувати {0}</PrioritizeGenericSimple>
   <!-- EN: Launch to {LOCATION_label} -->
-  <LaunchTo>Launch to {LOCATION_label}</LaunchTo>
+  <LaunchTo>Запустити до {LOCATION_label}</LaunchTo>
   <!-- EN: Are you sure you want to launch? -->
   <LaunchToConfirmation>Впевнені, що хочете злітати?</LaunchToConfirmation>
   <!-- EN: Drop at edge -->
@@ -585,11 +585,11 @@
   <!-- EN: Cannot hack {0} -->
   <CannotHack>Неможливо зламати {0}</CannotHack>
   <!-- EN: Locked out -->
-  <LockedOut>Locked out</LockedOut>
+  <LockedOut>Заблоковано</LockedOut>
   <!-- EN: Already hacked -->
-  <AlreadyHacked>Already hacked</AlreadyHacked>
+  <AlreadyHacked>Вже зламано</AlreadyHacked>
   <!-- EN: Incapable of hacking -->
   <IncapableOfHacking>Не може зламувати</IncapableOfHacking>
   <!-- EN: to drop supplies -->
-  <ToDropSupplies>to drop supplies</ToDropSupplies>
+  <ToDropSupplies>для скидання припасів</ToDropSupplies>
 </LanguageData>

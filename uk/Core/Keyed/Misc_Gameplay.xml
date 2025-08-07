@@ -566,7 +566,7 @@
   <!-- EN: Ingredients -->
   <ThoughtFoodEatenIngredients>Складові</ThoughtFoodEatenIngredients>
   <!-- EN: Shield pack -->
-  <ShieldInbuilt>Бар'єрний проектор</ShieldInbuilt>
+  <ShieldInbuilt>Бар'єрний проєктор</ShieldInbuilt>
   <!-- EN: Punctured - will explode soon. -->
   <PuncturedWillExplode>Пробита - скоро вибухне.</PuncturedWillExplode>
   <!-- EN: Click to open research window -->
@@ -1132,9 +1132,9 @@
   <!-- EN: Fully grown in {0} of growth. -->
   <FullyGrownIn>Виросте через {0}.</FullyGrownIn>
   <!-- EN: needs light level -->
-  <PlantNeedsLightLevel>needs light level</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>потрібний рівень світла</PlantNeedsLightLevel>
   <!-- EN: resting -->
-  <PlantResting>resting</PlantResting>
+  <PlantResting>відпочиває</PlantResting>
   <!-- EN: temperature growth multiplier {0}% -->
   <OutOfIdealTemperatureRange>temperature growth multiplier {0}%</OutOfIdealTemperatureRange>
   <!-- EN: out of temperature growth range -->
@@ -1988,7 +1988,7 @@
   <!-- EN: Terminals hacked -->
   <TerminalsHacked>Terminals hacked</TerminalsHacked>
   <!-- EN: Intellectual needed -->
-  <IntellectualSkillPrerequisite>Intellectual needed</IntellectualSkillPrerequisite>
+  <IntellectualSkillPrerequisite>Мінімальний інтелект</IntellectualSkillPrerequisite>
   <!-- EN: Auto hack -->
   <AutoHack>Auto hack</AutoHack>
   <!-- EN: When enabled, researchers will automatically hack this. -->
@@ -2016,19 +2016,19 @@
   <ThisWillNotAffectLayer>This will not affect you {GERUND} {LAYER}.</ThisWillNotAffectLayer>
   <!-- Pocket maps -->
   <!-- EN: Enter {0} -->
-  <EnterPortal>Enter {0}</EnterPortal>
+  <EnterPortal>Зайти в {0}</EnterPortal>
   <!-- EN: Entering {0} -->
-  <EnteringPortal>Entering {0}</EnteringPortal>
+  <EnteringPortal>Входить в {0}</EnteringPortal>
   <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>Select people and items to enter the {0}.</CommandEnterPortalDesc>
+  <CommandEnterPortalDesc>Обрати людей та предмети для входу до {0}.</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>Cancel entering</CommandCancelEnterPortal>
+  <CommandCancelEnterPortal>Скасувати входження</CommandCancelEnterPortal>
   <!-- EN: Cancel exiting -->
-  <CommandCancelExitPortal>Cancel exiting</CommandCancelExitPortal>
+  <CommandCancelExitPortal>Скасувати виходження</CommandCancelExitPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>Cancel loading people or items into this.</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>Скасувати входження людей чи завантаження предметів.</CommandCancelEnterPortalDesc>
   <!-- EN: Exit {0} -->
-  <ExitPortal>Exit {0}</ExitPortal>
+  <ExitPortal>Вийти з {0}</ExitPortal>
   <!-- CompProjectileInterceptor -->
   <!-- EN: Shield energy -->
   <ShieldEnergy>Заряд щита</ShieldEnergy>

@@ -51,7 +51,7 @@
   <!-- EN: remove floors -->
   <ConstructRemoveFloors.label>знімати підлогу</ConstructRemoveFloors.label>
   <!-- EN: removing floor -->
-  <ConstructRemoveFloors.gerund>знімати підлогу</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.gerund>знімання підлоги</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
   <ConstructRemoveFloors.verb>знімати підлогу</ConstructRemoveFloors.verb>
   <!-- EN: remove foundation -->
@@ -87,9 +87,9 @@
   <!-- EN: deconstruct structures for blueprints -->
   <DeconstructForBlueprint.label>deconstruct structures for blueprints</DeconstructForBlueprint.label>
   <!-- EN: deconstructing -->
-  <DeconstructForBlueprint.gerund>deconstructing</DeconstructForBlueprint.gerund>
+  <DeconstructForBlueprint.gerund>розібрати</DeconstructForBlueprint.gerund>
   <!-- EN: deconstruct -->
-  <DeconstructForBlueprint.verb>deconstruct</DeconstructForBlueprint.verb>
+  <DeconstructForBlueprint.verb>розібрати</DeconstructForBlueprint.verb>
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>віднести їжу полоненим</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
@@ -215,7 +215,7 @@
   <!-- EN: crafting at -->
   <DoBillsUseCraftingSpot.gerund>працювати, використовуючи</DoBillsUseCraftingSpot.gerund>
   <!-- EN: craft at -->
-  <DoBillsUseCraftingSpot.verb>craft at</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.verb>працювати</DoBillsUseCraftingSpot.verb>
   <!-- EN: feed animals -->
   <DoctorFeedAnimals.label>годувати тварин</DoctorFeedAnimals.label>
   <!-- EN: feeding -->
@@ -355,11 +355,11 @@
   <!-- EN: sow -->
   <GrowerSow.verb>сіяти</GrowerSow.verb>
   <!-- EN: hack buildings -->
-  <Hack.label>hack buildings</Hack.label>
+  <Hack.label>зламувати структуру</Hack.label>
   <!-- EN: hacking -->
   <Hack.gerund>зламувати</Hack.gerund>
   <!-- EN: hack -->
-  <Hack.verb>hack</Hack.verb>
+  <Hack.verb>злам</Hack.verb>
   <!-- EN: feed animals -->
   <HandlingFeedPatientAnimals.label>годувати тварин</HandlingFeedPatientAnimals.label>
   <!-- EN: feeding -->

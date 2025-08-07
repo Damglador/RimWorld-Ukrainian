@@ -95,9 +95,9 @@
   <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
   <OrIdeoColor>, або кольору {PAWN_possessive} ідеології,</OrIdeoColor>
   <!-- EN: Set ideo color -->
-  <SetIdeoColor>Пофарбувати у колір ідеології</SetIdeoColor>
+  <SetIdeoColor>Колір ідеології</SetIdeoColor>
   <!-- EN: Set to favorite color -->
-  <SetFavoriteColor>Пофарбувати улюбленим кольором</SetFavoriteColor>
+  <SetFavoriteColor>Улюблений колір</SetFavoriteColor>
   <!-- EN: {PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
   <FavoriteColorPickerTip>{PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.</FavoriteColorPickerTip>
   <!-- EN: {PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->

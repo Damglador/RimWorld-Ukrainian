@@ -63,7 +63,7 @@
   <!-- EN: ultra mechtech -->
   <UltraMechtech.label>ультра мех-технології</UltraMechtech.label>
   <!-- EN: The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat. -->
-  <UltraMechtech.description>Технологія, що дозволяє створювати та контролювати ультратехнологічних механоїдів та спорядження механітора.\n\nВи можете отримати наноструктурний чип після перемоги над сотником, якого може викликати механітор.</UltraMechtech.description>
+  <UltraMechtech.description>Технологія, що дозволяє створювати та контролювати ультратехнологічних механоїдів та спорядження механітора.\n\nВи можете отримати наноструктурний чип після перемоги над апокритоном, якого може викликати механітор.</UltraMechtech.description>
   <!-- EN:
     <li>subject->ultra-tier mechanoids</li>
     <li>subject_story->found a powered-down apocriton in the wreckage of a deadworld</li>

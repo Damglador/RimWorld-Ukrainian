@@ -38,9 +38,9 @@
     <li>target->fort</li>
     <li>aerial->aerial</li>
     <li>aerial->air</li>
-    <li>aerial->shuttle-borne</li>
-    <li>attack->attack</li>
-    <li>attack->assault</li>
+    <li>attack->шатл</li>
+    <li>attack->атакує</li>
+    <li>attack->напад</li>
     <li>work->work</li>
     <li>work->job</li>
   </Mission_BanditCamp.questNameRules.rulesStrings>

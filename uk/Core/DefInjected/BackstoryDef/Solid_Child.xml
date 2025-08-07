@@ -31,7 +31,7 @@
   <!-- EN: student -->
   <AcademyStudent58.titleShort>студент</AcademyStudent58.titleShort>
   <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-  <AccursedChild88.description>[PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling.</AccursedChild88.description>
+  <AccursedChild88.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} в розпал місячного затемнення. Старійшини оголосили [PAWN_objective] дитям темряви і взяли [PAWN_objective] під свою опіку.\n\n[PAWN_possessive] все дитинство пройшло у вивченні легенд та ритуалів народу [PAWN_possessive] - аж до дня покликання.</AccursedChild88.description>
   <!-- EN: accursed child -->
   <AccursedChild88.title>проклята дитина</AccursedChild88.title>
   <!-- EN: cursed -->
@@ -175,7 +175,7 @@
   <!-- EN: blacksmith -->
   <BlacksmithsSon73.titleShort>коваль</BlacksmithsSon73.titleShort>
   <!-- EN: [PAWN_nameDef] was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout [PAWN_possessive] childhood.\n\n[PAWN_pronoun] learned to take care of the poor and give succor to the faithful from an early age. -->
-  <BlessedChild46.description>[PAWN_nameDef] was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout [PAWN_possessive] childhood.\n\n[PAWN_pronoun] learned to take care of the poor and give succor to the faithful from an early age.</BlessedChild46.description>
+  <BlessedChild46.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} за сприятливих обставин у духовній групі середнього світу, і шанували протягом усього [PAWN_possessive] дитинства.\n\n[PAWN_pronoun] {PAWN_gender ? навчився : навчилася} піклуватися про бідних і надавати допомогу вірним з раннього дитинства.</BlessedChild46.description>
   <!-- EN: blessed child -->
   <BlessedChild46.title>благословенне дитя</BlessedChild46.title>
   <!-- EN: blessed -->
@@ -565,7 +565,7 @@
   <!-- EN: farmer -->
   <FarmersSon20.titleShort>фермер</FarmersSon20.titleShort>
   <!-- EN: [PAWN_nameDef] was born on a farm on a rimworld.\n\nEverything was taken care of by the few members of the farm, including [PAWN_nameDef]. This helped [PAWN_objective] build independence, spirit, and a well-rounded character. -->
-  <FarmHand2.description>[PAWN_nameDef] was born on a farm on a rimworld.\n\nEverything was taken care of by the few members of the farm, including [PAWN_nameDef]. This helped [PAWN_objective] build independence, spirit, and a well-rounded character.</FarmHand2.description>
+  <FarmHand2.description>[PAWN_nameDef] {PAWN_gender ? народився : народилася} на фермі у світі rimworld.\n\nПро все на фермі дбали лише декілька людей, включаючи [PAWN_nameDef]. Це допомогло [PAWN_objective] розвинути незалежність, дух і сильний характер.</FarmHand2.description>
   <!-- EN: farm hand -->
   <FarmHand2.title>помічник на фермі</FarmHand2.title>
   <!-- EN: farm hand -->

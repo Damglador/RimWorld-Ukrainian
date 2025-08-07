@@ -9,9 +9,9 @@
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
   <CaravanPackingSpot.description>Призначає місце для причеплення тварин і формування караванів. Це місце також можна призначати під час зупинок під час подорожей.</CaravanPackingSpot.description>
   <!-- EN: cave exit -->
-  <CaveExit.label>cave exit</CaveExit.label>
+  <CaveExit.label>вихід з печери</CaveExit.label>
   <!-- EN: A rope line which links to the surface above. -->
-  <CaveExit.description>A rope line which links to the surface above.</CaveExit.description>
+  <CaveExit.description>Мотузка, якою можна вибратися на поверхню.</CaveExit.description>
   <!-- EN: comms console -->
   <CommsConsole.label>термінал зв'язку</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: heavy -->
-  <Heavy.label>heavy</Heavy.label>
+  <Heavy.label>важкий</Heavy.label>
   <!-- EN: light -->
-  <Light.label>light</Light.label>
+  <Light.label>легкий</Light.label>
   <!-- EN: medium -->
-  <Medium.label>medium</Medium.label>
+  <Medium.label>середній</Medium.label>
   <!-- EN: ultraheavy -->
-  <UltraHeavy.label>ultraheavy</UltraHeavy.label>
+  <UltraHeavy.label>надважкий</UltraHeavy.label>
 </LanguageData>

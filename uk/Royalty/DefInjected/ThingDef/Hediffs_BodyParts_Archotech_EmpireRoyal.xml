@@ -3,7 +3,7 @@
   <!-- EN: psychic harmonizer -->
   <PsychicHarmonizer.label>психічний гармонізатор</PsychicHarmonizer.label>
   <!-- EN: This brain implant projects the user's mood in a spherical psychic field, forcing others nearby to feel a blurred, simplified version of their emotions. It can be a powerful tool to keep morale high, but if the user becomes unhappy, it can lead to collective disaster. -->
-  <PsychicHarmonizer.description>Цей мозковий імплантат проектує настрій користувача в сферичне психічне поле, змушуючи інших людей поблизу відчувати розмиту, спрощену версію цих емоцій. Це може бути потужним інструментом для підтримки високого настрою, але якщо користувач стає нещасним, це може призвести до колективних хвилювань.</PsychicHarmonizer.description>
+  <PsychicHarmonizer.description>Цей мозковий імплантат проєктує настрій користувача у сферичне психічне поле, змушуючи інших людей поблизу відчувати розмиту, спрощену версію цих емоцій. Це може бути потужним інструментом для підтримки високого настрою, але якщо користувач стає нещасним, це може призвести до колективних хвилювань.</PsychicHarmonizer.description>
   <!-- EN: psychic reader -->
   <PsychicReader.label>психічний зчитувач</PsychicReader.label>
   <!-- EN: Gives limited mind-reading ability, improving the user's ability to get the upper hand in negotiations and social situations. The effect is proportional to the user's psychic sensitivity. -->

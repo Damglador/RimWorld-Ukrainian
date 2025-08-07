@@ -109,7 +109,7 @@
   <!-- EN: {STUDIER_nameDef} teleported -->
   <VoidAwakeningFinalStructuresActivatedLabel>{STUDIER_nameDef} телепортовано</VoidAwakeningFinalStructuresActivatedLabel>
   <!-- EN: {STUDIER_nameDef} has activated the monolith and been ripped from our spacetime into another place.\n\n{STUDIER_pronoun} finds {STUDIER_objective}self in a room of jagged metallic spikes. Every surface is slick with dark fluid and the air vibrates with power.\n\nThis metal hell is a connecting channel to an inhuman hyperintelligence. -->
-  <VoidAwakeningFinalStructuresActivatedText>{STUDIER_nameDef} has activated the monolith and been ripped from our spacetime into another place.\n\n{STUDIER_pronoun} finds {STUDIER_objective}self in a room of jagged metallic spikes. Every surface is slick with dark fluid and the air vibrates with power.\n\nThis metal hell is a connecting channel to an inhuman hyperintelligence.</VoidAwakeningFinalStructuresActivatedText>
+  <VoidAwakeningFinalStructuresActivatedText>{STUDIER_nameDef} активував моноліт і був вирваний з нашого простору-часу в інше місце.\n\n{STUDIER_pronoun} знаходить {STUDIER_objective} себе в кімнаті з зубчастими металевими шипами. Кожна поверхня вкрита темною рідиною, а повітря вібрує з силою.\n\nЦе металеве пекло є сполучним каналом з нелюдським гіперінтелектом.</VoidAwakeningFinalStructuresActivatedText>
   <!-- EN: Shambler assault -->
   <VoidAwakeningShamblerArrivalLabel>Атака волокунів</VoidAwakeningShamblerArrivalLabel>
   <!-- EN: A horde of shamblers have been attracted by the void structures. Get ready! -->
@@ -219,7 +219,7 @@
   <!-- EN: New research available -->
   <LetterLabelEntityDiscovery>Доступне нове дослідження</LetterLabelEntityDiscovery>
   <!-- EN: Your discovery of {ENTITY_definite} has yielded new insights. You can now research the following Anomaly projects -->
-  <LetterTextEntityDiscoveryResearch>Ваше відкриття {lookup: {ENTITY_definite}; Case; 1} дало нові знання. Тепер ви можете досліджувати наступні проекти Аномалій</LetterTextEntityDiscoveryResearch>
+  <LetterTextEntityDiscoveryResearch>Ваше відкриття {lookup: {ENTITY_definite}; Case; 1} дало нові знання. Тепер ви можете досліджувати наступні проєкти Аномалій</LetterTextEntityDiscoveryResearch>
   <!-- Nociosphere -->
   <!-- EN: Nociosphere defeated -->
   <NociosphereDefeatedLabel>Сферу ночі переможено</NociosphereDefeatedLabel>

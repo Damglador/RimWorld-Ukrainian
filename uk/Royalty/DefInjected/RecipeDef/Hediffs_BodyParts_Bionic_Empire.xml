@@ -37,11 +37,11 @@
   <!-- EN: Installing coagulator. -->
   <InstallCoagulator.jobString>Вживлює коагулятор.</InstallCoagulator.jobString>
   <!-- EN: install sterilizing stomach -->
-  <InstallDetoxifierStomach.label>install sterilizing stomach</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.label>вживити стерилізувальний шлунок</InstallDetoxifierStomach.label>
   <!-- EN: Install a sterilizing stomach. -->
-  <InstallDetoxifierStomach.description>Install a sterilizing stomach.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.description>Вживити стерилізувальний шлунок.</InstallDetoxifierStomach.description>
   <!-- EN: Installing sterilizing stomach. -->
-  <InstallDetoxifierStomach.jobString>Installing sterilizing stomach.</InstallDetoxifierStomach.jobString>
+  <InstallDetoxifierStomach.jobString>Вживлює стерилізувальний шлунок.</InstallDetoxifierStomach.jobString>
   <!-- EN: install gastro-analyzer -->
   <InstallGastroAnalyzer.label>вживити гастроаналізатор</InstallGastroAnalyzer.label>
   <!-- EN: Install a gastro-analyzer. -->

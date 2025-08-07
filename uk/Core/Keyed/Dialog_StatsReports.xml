@@ -141,7 +141,7 @@
   <!-- EN: Multiplier for malnutrition {0} -->
   <StatsReport_Malnutrition>Множник неправильного харчування {0}</StatsReport_Malnutrition>
   <!-- EN: Optimal room -->
-  <StatsReport_OptimalRoom>Приміщення підходить</StatsReport_OptimalRoom>
+  <StatsReport_OptimalRoom>Оптимальне приміщення</StatsReport_OptimalRoom>
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>Можливі модифікатори</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
@@ -560,13 +560,13 @@
   <!-- EN: {0} hits -->
   <Stat_TrapDamageHitCount>Влучань: {0}</Stat_TrapDamageHitCount>
   <!-- EN: The amount of progress that has been made towards hacking this object. -->
-  <Stat_Thing_HackingProgress>The amount of progress that has been made towards hacking this object.</Stat_Thing_HackingProgress>
+  <Stat_Thing_HackingProgress>Прогрес зламу цього об'єкта.</Stat_Thing_HackingProgress>
   <!-- EN: Multiplier for {0} terrain -->
-  <StatsReport_TerrainSpeedMultiplier>Multiplier for {0} terrain</StatsReport_TerrainSpeedMultiplier>
+  <StatsReport_TerrainSpeedMultiplier>Множник для місцевості {0}</StatsReport_TerrainSpeedMultiplier>
   <!-- EN: {0} trained -->
-  <StatsReport_Trainable>{0} trained</StatsReport_Trainable>
+  <StatsReport_Trainable>{0} натреновано</StatsReport_Trainable>
   <!-- EN: Available training -->
-  <StatsReport_AvailableTraining>Available training</StatsReport_AvailableTraining>
+  <StatsReport_AvailableTraining>Доступне тренування</StatsReport_AvailableTraining>
   <!-- EN: The tasks that this creature can be trained to perform. The available training is dependent on the creature's trainability, body size, and species. -->
-  <StatsReport_AvailableTraining_Desc>The tasks that this creature can be trained to perform. The available training is dependent on the creature's trainability, body size, and species.</StatsReport_AvailableTraining_Desc>
+  <StatsReport_AvailableTraining_Desc>Завдання, які можна навчити виконувати цю істоту. Доступні тренування залежать від здатності істоти до навчання, розміру тіла та виду.</StatsReport_AvailableTraining_Desc>
 </LanguageData>

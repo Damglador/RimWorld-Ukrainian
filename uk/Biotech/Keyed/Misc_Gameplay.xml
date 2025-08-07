@@ -407,7 +407,7 @@
   <!-- EN: {PAWN_nameDef} needs to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, {PAWN_pronoun} will suffer from {0} deficiency. After {COMADURATION}, {PAWN_pronoun} will fall into a coma. After {DEATHDURATION}, {PAWN_pronoun} will die. -->
   <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef} має вживати {lookup: {0}; Case; 3} на регулярній основі, щоб вижити. Після {DEFICIENCYDURATION} без {lookup: {0}; Case; 3}, {PAWN_pronoun} буде страждати від дефіциту. Після {COMADURATION}, {PAWN_pronoun} впаде в кому. Після {DEATHDURATION}, {PAWN_pronoun} помре.</GeneDefChemicalNeedDurationDesc>
   <!-- EN: {CHEMICAL_label} dependency -->
-  <ChemicalDependency>Залежність від {lookup: {CHEMICAL_label}; Case; 1}</ChemicalDependency>
+  <ChemicalDependency>Залежність від {CHEMICAL_label}</ChemicalDependency>
   <!-- EN: Xenogerm -->
   <Xenogerm>Ксенозародок</Xenogerm>
   <!-- EN: {PAWN_nameDef} will continue deathresting so long as {PAWN_pronoun} has lethal injuries. -->
@@ -725,7 +725,7 @@
   <!-- EN: my child is sad -->
   <MyChildIsSad>моя дитина засмучена</MyChildIsSad>
   <!-- EN: Genetic {CHEMICAL_label} dependency -->
-  <GeneticChemicalDependency_Label>Genetic {CHEMICAL_label} dependency</GeneticChemicalDependency_Label>
+  <GeneticChemicalDependency_Label>Залежність від {lookup: {CHEMICAL_label}; Case; 1}</GeneticChemicalDependency_Label>
   <!-- EN: I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any. -->
-  <GeneticChemicalDependency_Desc>I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any.</GeneticChemicalDependency_Desc>
+  <GeneticChemicalDependency_Desc>Минуло дуже багато часу від того як я в останній раз {0_gender ? споживав : споживала} {lookup: {CHEMICAL_label}; Case; 3}.</GeneticChemicalDependency_Desc>
 </LanguageData>

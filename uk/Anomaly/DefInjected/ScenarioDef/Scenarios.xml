@@ -11,7 +11,7 @@
   <!-- EN: The ancient monolith unleashed an energy pulse that tore your research vessel apart and mutated your crew. Only a few of you made it to the escape pods.\n\nDespite the setback, your mission is far from over. If you can learn more about the monolith, perhaps you can find a way to shut it down - or harness its inhuman power. -->
   <TheAnomaly.scenario.parts.GameStartDialog.text>Стародавній моноліт випустив енергетичний імпульс, який розірвав ваше дослідницьке судно на частини та мутував вашу команду. Лише деякі з вас дійшли до рятувальних капсул.\n\nПопри невдачу, ваша місія ще далека від завершення. Якщо ви зможете дізнатися більше про моноліт, можливо, ви знайдете спосіб закрити його або використати його нелюдську силу.</TheAnomaly.scenario.parts.GameStartDialog.text>
   <!-- EN: Start with one ghoul and three colonists. -->
-  <TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>Start with one ghoul and three colonists.</TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>
+  <TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>Почни з одним гулем та трьома колоністами.</TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>
   <!-- EN: Three researchers and a ghoul investigate an ancient monolith. -->
-  <TheAnomaly.scenario.summary>Three researchers and a ghoul investigate an ancient monolith.</TheAnomaly.scenario.summary>
+  <TheAnomaly.scenario.summary>Троє дослідників і гуль досліджують стародавній моноліт.</TheAnomaly.scenario.summary>
 </LanguageData>

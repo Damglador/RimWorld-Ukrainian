@@ -109,7 +109,7 @@
   <!-- EN: word of joy -->
   <WordOfJoy.label>слово щастя</WordOfJoy.label>
   <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in their mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
-  <WordOfJoy.description>Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in their mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness.</WordOfJoy.description>
+  <WordOfJoy.description>Говоріть щасливі, заспокійливі слова цілі, використовуючи психічне навіювання, щоб наповнити їх розум хвилями радості. Хвиля щастя придушить незручні думки та відчуття в цілі, щоб покращити настрій. Це має побічний ефект притуплення відчуття та прийняття рішень, що знижує свідомість.</WordOfJoy.description>
   <!-- EN: word of love -->
   <WordOfLove.label>слово кохання</WordOfLove.label>
   <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
@@ -121,5 +121,5 @@
   <!-- EN: word of trust -->
   <WordOfTrust.label>слово довіри</WordOfTrust.label>
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them. -->
-  <WordOfTrust.description>Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them.</WordOfTrust.description>
+  <WordOfTrust.description>Поговоріть з в'язнем, використовуючи психічне навіювання, щоб зменшити його психічний опір. Ця здібність лише зменшить опір в'язня, але не завербує його.</WordOfTrust.description>
 </LanguageData>

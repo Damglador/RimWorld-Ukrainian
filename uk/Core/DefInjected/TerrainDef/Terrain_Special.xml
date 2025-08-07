@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: ancient concrete -->
-  <AncientConcrete.label>ancient concrete</AncientConcrete.label>
+  <AncientConcrete.label>старий бетон</AncientConcrete.label>
   <!-- EN: Ancient concrete flooring. -->
-  <AncientConcrete.description>Ancient concrete flooring.</AncientConcrete.description>
+  <AncientConcrete.description>Старе бетонне покриття.</AncientConcrete.description>
   <!-- EN: ancient tile -->
-  <AncientTile.label>ancient tile</AncientTile.label>
+  <AncientTile.label>стародавня плитка</AncientTile.label>
   <!-- EN: Ancient metal tiles. -->
-  <AncientTile.description>Ancient metal tiles.</AncientTile.description>
+  <AncientTile.description>Стара металева плитка.</AncientTile.description>
   <!-- EN: ancient wood floor -->
-  <AncientWoodPlankFloor.label>ancient wood floor</AncientWoodPlankFloor.label>
+  <AncientWoodPlankFloor.label>стара деревяна підлога</AncientWoodPlankFloor.label>
   <!-- EN: underwall -->
   <Underwall.label>фундамент</Underwall.label>
 </LanguageData>

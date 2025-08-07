@@ -5,7 +5,7 @@
   <!-- EN: animal productivity -->
   <AnimalProductivity.label>продуктивність тварини</AnimalProductivity.label>
   <!-- EN: animal -->
-  <Animals.label>animal</Animals.label>
+  <Animals.label>тварина</Animals.label>
   <!-- EN: Apparel -->
   <Apparel.label>Одяг</Apparel.label>
   <!-- EN: Basics -->
@@ -35,21 +35,21 @@
   <!-- EN: Implant -->
   <Implant.label>Імплант</Implant.label>
   <!-- EN: Mechanoid -->
-  <Mechanoid.label>Mechanoid</Mechanoid.label>
+  <Mechanoid.label>Механоїд</Mechanoid.label>
   <!-- EN: Meditation -->
   <Meditation.label>Медитація</Meditation.label>
   <!-- EN: Combat -->
   <PawnCombat.label>Бойові</PawnCombat.label>
   <!-- EN: Food -->
-  <PawnFood.label>Food</PawnFood.label>
+  <PawnFood.label>Їжа</PawnFood.label>
   <!-- EN: Health -->
-  <PawnHealth.label>Health</PawnHealth.label>
+  <PawnHealth.label>Здоров'я</PawnHealth.label>
   <!-- EN: Misc -->
   <PawnMisc.label>Різні</PawnMisc.label>
   <!-- EN: Psyfocus -->
-  <PawnPsyfocus.label>Psyfocus</PawnPsyfocus.label>
+  <PawnPsyfocus.label>Пси-фокус</PawnPsyfocus.label>
   <!-- EN: Resistances and sensitivities -->
-  <PawnResistances.label>Resistances and sensitivities</PawnResistances.label>
+  <PawnResistances.label>Стійкість та чутливість</PawnResistances.label>
   <!-- EN: Social -->
   <PawnSocial.label>Соціальні</PawnSocial.label>
   <!-- EN: Work -->

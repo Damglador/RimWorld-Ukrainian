@@ -7,5 +7,5 @@
   <!-- EN: remote shield -->
   <RemoteShield.label>дистанційний щит</RemoteShield.label>
   <!-- EN: Remotely project a personal defense shield onto a mech. The shield stops incoming damage, but also prevents shooting out, so this can be useful even when cast on enemies. The mechanitor must continuously focus on the mech in order to maintain the shield. -->
-  <RemoteShield.description>Дистанційно проектує щит індивідуального захисту для механоїда. Щит зупиняє вхідні постріли, але й блокує постріли зсередини. Через це, здібність може бути корисною при використанні на певних ворогах. Механітор повинен постійно концентруватись на цілі, щоб підтримувати щит.</RemoteShield.description>
+  <RemoteShield.description>Дистанційно проєктує щит індивідуального захисту для механоїда. Щит зупиняє вхідні постріли, але й блокує постріли зсередини. Через це, здібність може бути корисною при використанні на певних ворогах. Механітор повинен постійно концентруватись на цілі, щоб підтримувати щит.</RemoteShield.description>
 </LanguageData>

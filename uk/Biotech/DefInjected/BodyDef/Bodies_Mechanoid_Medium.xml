@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: apocriton -->
-  <Apocriton.label>апокрітон</Apocriton.label>
+  <Apocriton.label>апокритон</Apocriton.label>
   <!-- EN: left sight sensor -->
   <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>лівий оптичний сенсор</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->

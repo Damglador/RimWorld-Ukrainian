@@ -173,7 +173,7 @@
     <li>travelerInfo(lodgerCount>=2)->These [faction_pawnsPlural] are</li>
   -->
   <Hospitality_Refugee.questDescriptionRules.rulesStrings>
-    <li>offer(lodgerCount==1)->offers</li>
+    <li>offer(lodgerCount>=1)->будуть</li>
     <li>offer(lodgerCount>=2)->offer</li>
     <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
     <li>lodgersPronoun(lodgerCount>=2)->they</li>
@@ -185,9 +185,9 @@
     <li>lodgersPossessive(lodgerCount>=2)->their</li>
     <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
     <li>lodgersSingularOrPluralDef(lodgerCount>=2)->the [lodgersLabelPlural]</li>
-    <li>questDescription->[approachInfo] [claimInfo] [asker_nameDef] begs you for permission to stay at [map_definite] for [questDurationTicks_duration] so [lodgersPronoun] can rest and regroup.\n\nIn return, [lodgersPronoun] [offer] to work and fight for free during that time.\n\n[joinInfo] [lodgersPronoun] may also reward you later for helping [lodgersObjective] - but there is no way to know [lodgersPossessive] true intentions.\n\n[travelerInfo] not part of any faction. If you wish, you can choose to kill, arrest, sell, or harvest [lodgersObjective], without diplomatic consequences.</li>
+    <li>questDescription->[approachInfo] [claimInfo] [asker_nameDef] просить у вас дозволу залишитися у [map_definite] на [questDurationTicks_duration] щоб [lodgersPronoun] могли відпочити і перегрупуватися.\n\nНатомість, [lodgersPronoun] [offer] працювати та тримати оборону безкоштовно протягом цього часу.\n\n[joinInfo] [lodgersPronoun] також може згодом винагородити вас за допомогу [lodgersObjective] - але немає способу дізнатися про [lodgersPossessive] справжні наміри.\n\n[travelerInfo] not part of any faction. не є членом жодної фракції. За бажанням ви можете вбити, заарештувати, продати або забрати [lodgersObjective], без дипломатичних наслідків.</li>
     <li>approachInfo(lodgerCount==1)->A desperate [faction_pawnSingular] named [asker_nameDef] is approaching.</li>
-    <li>approachInfo(lodgerCount==2)->[asker_nameDef] and another desperate [faction_pawnSingular] are approaching.</li>
+    <li>approachInfo(lodgerCount==2)->[asker_nameDef] та інші відчайдушні [faction_pawnSingular] наближаються.</li>
     <li>approachInfo(lodgerCount==2,childCount==1,priority=1)->[asker_nameDef] is approaching with a child in tow.</li>
     <li>approachInfo(lodgerCount>=3)->[lodgerCount] desperate [faction_pawnsPlural] are approaching. Their leader is called [asker_nameDef].</li>
     <li>approachInfo(lodgerCount>=3,childCount==1,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including a child are approaching. Their leader is called [asker_nameDef].</li>
@@ -201,7 +201,7 @@
     <li>claimInfo(lodgerCount>=2)->They claim to have escaped an organ harvesting operation.</li>
     <li>claimInfo(lodgerCount>=2)->They say they escaped from a slave caravan.</li>
     <li>claimInfo(lodgerCount>=2)->They say that crop blights starved them out of their village.</li>
-    <li>claimInfo(lodgerCount>=2)->They say a great flashstorm burned down their home.</li>
+    <li>claimInfo(lodgerCount>=2)->Вони кажуть, що сильна гроза спалила їх дім.</li>
     <li>claimInfo(lodgerCount>=2)->They say their caravan was ambushed and everything was taken.</li>
     <li>claimInfo(lodgerCount>=2)->They say they were banished from their town due to moral disagreements.</li>
     <li>joinInfo(lodgerCount==1)->If you make [asker_objective] happy, [asker_pronoun] may offer to join you.</li>

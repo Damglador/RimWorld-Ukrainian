@@ -195,7 +195,7 @@
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Гості незадоволені</QuestPartMoodBelowThreshold>
   <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
-  <QuestPartMoodBelowThresholdDesc>Завдання "{0}" вимагає тримати цю персону в хорошому настрої, проте зараз її настрій поганий. Зробіть щось для покращення настрою:\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThresholdDesc>Доручення «{0}» вимагає тримати цю персону в хорошому настрої, проте зараз її настрій поганий. Зробіть щось для покращення настрою:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>Шатл злетить через {0}</QuestPartShuttleLeaveDelay>
   <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->

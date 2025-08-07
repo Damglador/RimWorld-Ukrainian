@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: gestate agrihand -->
-  <Agrihand.label>зростити сотника</Agrihand.label>
+  <Agrihand.label>зростити землероба</Agrihand.label>
   <!-- EN: Gestate an agrihand mechanoid. -->
-  <Agrihand.description>Зростити механоїда сотника.</Agrihand.description>
+  <Agrihand.description>Зростити механоїда землероба.</Agrihand.description>
   <!-- EN: Gestating mech. -->
   <Agrihand.jobString>Зрощує механоїда.</Agrihand.jobString>
   <!-- EN: gestate cleansweeper -->

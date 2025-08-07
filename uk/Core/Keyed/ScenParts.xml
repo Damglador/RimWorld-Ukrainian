@@ -20,7 +20,7 @@
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
   <ScenPart_StatFactor>Всі значення параметра "{0}" в світі будуть встановлені в розмірі {1}.</ScenPart_StatFactor>
   <!-- EN: Select -->
-  <ScenPart_SelectQuestDef>Select</ScenPart_SelectQuestDef>
+  <ScenPart_SelectQuestDef>Обрати</ScenPart_SelectQuestDef>
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->
   <ScenPart_PawnsHaveHediff>{0} мають {1} шанс почати зі станом здоров'я "{2}".</ScenPart_PawnsHaveHediff>
@@ -72,7 +72,7 @@
   <!-- EN: Use settings def -->
   <ScenPart_PlanetLayerSettings_UseDef>Use settings def</ScenPart_PlanetLayerSettings_UseDef>
   <!-- EN: Select -->
-  <ScenPart_PlanetLayerSettings_SelectDef>Select</ScenPart_PlanetLayerSettings_SelectDef>
+  <ScenPart_PlanetLayerSettings_SelectDef>Обрати</ScenPart_PlanetLayerSettings_SelectDef>
   <!-- EN: Position -->
   <ScenPart_PlanetLayerSettings_Position>Position</ScenPart_PlanetLayerSettings_Position>
   <!-- EN: Radius -->

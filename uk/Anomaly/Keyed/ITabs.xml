@@ -4,7 +4,7 @@
   <!-- EN: Escape interval -->
   <HoldingPlatformEscapeMTBDays>Час між спробами втечі</HoldingPlatformEscapeMTBDays>
   <!-- EN: The average time between escapes. This is affected by containment strength, the type of entity, the entity's movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold. -->
-  <HoldingPlatformEscapeMTBDaysDesc>The average time between escapes. This is affected by containment strength, the type of entity, the entity's movement capability, and the duration of the entity's imprisonment. Some entities are also suppressed by cold.</HoldingPlatformEscapeMTBDaysDesc>
+  <HoldingPlatformEscapeMTBDaysDesc>Середній час між втечами. На нього впливають міцність утримання, тип сутності, рухливість сутності та тривалість ув’язнення. Деякі сутності також придушуються холодом.</HoldingPlatformEscapeMTBDaysDesc>
   <!-- EN: Entity -->
   <TabEntity>Сутність</TabEntity>
   <!-- EN: Study interval -->
@@ -28,15 +28,15 @@
   <!-- EN: A warden will execute the restrained entity. -->
   <EntityStudyMode_ExecuteDesc>Наглядач стратить утримувану сутність.</EntityStudyMode_ExecuteDesc>
   <!-- EN: Extract bioferrite -->
-  <EntityStudyMode_Extract>Extract bioferrite</EntityStudyMode_Extract>
+  <EntityStudyMode_Extract>Вилучення біофериту</EntityStudyMode_Extract>
   <!-- EN: Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can't be done if the entity is attached to a bioferrite harvester. -->
-  <EntityStudyMode_ExtractDesc>Doctors will extract bioferrite from the captured entity whenever possible. This extraction method is simple, but inefficient. Can't be done if the entity is attached to a bioferrite harvester.</EntityStudyMode_ExtractDesc>
+  <EntityStudyMode_ExtractDesc>Лікар буде вилучати біоферит із захопленої сутності, коли можливо. Цей метод вилучення простий, але неефективний. Неможливо виконати, якщо сутність прикріплена до збирача біофериту.</EntityStudyMode_ExtractDesc>
   <!-- EN: Requires bioferrite extraction. -->
-  <RequiresBioferriteExtraction>Requires bioferrite extraction.</RequiresBioferriteExtraction>
+  <RequiresBioferriteExtraction>Потребує вилучення біофериту.</RequiresBioferriteExtraction>
   <!-- EN: Blocked by bioferrite harvester. -->
-  <BioferriteHarvesterAttached>Blocked by bioferrite harvester.</BioferriteHarvesterAttached>
+  <BioferriteHarvesterAttached>Заблоковано збирачем біофериту.</BioferriteHarvesterAttached>
   <!-- EN: Can't be executed. -->
-  <CantBeExecuted>Страта неможлива</CantBeExecuted>
+  <CantBeExecuted>Страта неможлива.</CantBeExecuted>
   <!-- EN: Knowledge gain -->
   <StudyKnowledgeGain>Кількість отримуваних знань</StudyKnowledgeGain>
   <!-- EN: Amount of knowledge gained per study interval. Better containment helps the researcher focus on study instead of safety, yielding more knowledge. -->
@@ -56,7 +56,7 @@
   <!-- EN: Containment strength -->
   <FactorContainmentStrength>Сила утримання</FactorContainmentStrength>
   <!-- EN: Electroharvester -->
-  <FactorElectroharvester>Поглинач енергії</FactorElectroharvester>
+  <FactorElectroharvester>Збирач енергії</FactorElectroharvester>
   <!-- EN: Activity -->
   <FactorActivity>Активність</FactorActivity>
 </LanguageData>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: indoor dweller -->
-  <CaveDweller.label>indoor dweller</CaveDweller.label>
+  <CaveDweller.label>кімнатний мешканець</CaveDweller.label>
   <!-- EN: Carriers of this gene have no need for the outdoors and will never feel cooped up no matter how long they stay inside. -->
-  <CaveDweller.description>Carriers of this gene have no need for the outdoors and will never feel cooped up no matter how long they stay inside.</CaveDweller.description>
+  <CaveDweller.description>Носії цього гена не мають потреби бути на вулиці та ніколи не почуватимуться замкнутими, незалежно від того, як довго вони залишаються у приміщенні.</CaveDweller.description>
   <!-- EN: dark vision -->
   <DarkVision.label>нічний зір</DarkVision.label>
   <!-- EN: Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark. -->
@@ -77,7 +77,7 @@
   <!-- EN: kind instinct -->
   <KindInstinct.label>добродушність</KindInstinct.label>
   <!-- EN: Carriers of this gene are high in trait agreeableness and are very conscientious. They rarely insult others and will sometimes offer kind words to brighten the moods of those around them. They also never judge people by their appearance. -->
-  <KindInstinct.description>Carriers of this gene are high in trait agreeableness and are very conscientious. They rarely insult others and will sometimes offer kind words to brighten the moods of those around them. They also never judge people by their appearance.</KindInstinct.description>
+  <KindInstinct.description>Носії цього гена відрізняються високою доброзичливістю і дуже сумлінні. Вони рідко ображають інших і іноді говорять добрі слова, щоб підняти настрій оточуючим. Вони також ніколи не судять людей за їхнім зовнішнім виглядом.</KindInstinct.description>
   <!-- EN: kind -->
   <KindInstinct.labelShortAdj>добрий</KindInstinct.labelShortAdj>
   <!-- EN: kind -->
@@ -201,7 +201,7 @@
   <!-- EN: dove -->
   <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>голуб</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: webbed phalanges -->
-  <WebbedPhalanges.label>webbed phalanges</WebbedPhalanges.label>
+  <WebbedPhalanges.label>перетинчасті фаланги</WebbedPhalanges.label>
   <!-- EN: Carriers of this gene have webbed fingers and toes, allowing them to move faster in water. Webbed fingers slightly reduce fine motor control. -->
-  <WebbedPhalanges.description>Carriers of this gene have webbed fingers and toes, allowing them to move faster in water. Webbed fingers slightly reduce fine motor control.</WebbedPhalanges.description>
+  <WebbedPhalanges.description>Носії цього гена мають перетинчасті пальці рук і ніг, що дозволяє їм швидше пересуватися у воді. Перетинчасті пальці знижують контроль над дрібною моторикою.</WebbedPhalanges.description>
 </LanguageData>

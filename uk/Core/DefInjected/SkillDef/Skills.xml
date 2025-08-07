@@ -407,7 +407,7 @@
     <li>subject->distance shooting</li>
   -->
   <Shooting.generalRules.rulesStrings>
-    <li>subject->guns</li>
+    <li>subject->зброї</li>
     <li>subject->weapons</li>
     <li>subject->aiming</li>
     <li>subject->shooting</li>
@@ -419,7 +419,7 @@
     <li>subject->long-range combat</li>
     <li>subject->precision shooting</li>
     <li>subject->rifle mastery</li>
-    <li>subject->target practice</li>
+    <li>subject->ціль практики</li>
     <li>subject->sharpshooting</li>
     <li>subject->ranged tactics</li>
     <li>subject->shot placement</li>

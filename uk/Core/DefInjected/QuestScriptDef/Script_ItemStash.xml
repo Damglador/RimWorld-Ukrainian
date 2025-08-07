@@ -22,17 +22,17 @@
     <li>treasure->Supplies</li>
   -->
   <OpportunitySite_ItemStash.questNameRules.rulesStrings>
-    <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
-    <li>questName->[stash] of [treasure]</li>
-    <li>stash->Stash</li>
-    <li>stash->Cache</li>
-    <li>stash->Collection</li>
-    <li>stash->Shack</li>
-    <li>treasure->Treasure</li>
-    <li>treasure->Valuables</li>
-    <li>treasure->Fortune</li>
-    <li>treasure->Goodies</li>
-    <li>treasure->Supplies</li>
+    <li>questName(priority=1)->[stash] [treasure] [asker_nameDef]</li>
+    <li>questName->[stash] [treasure]</li>
+    <li>stash->Схованка</li>
+    <li>stash->Схрон</li>
+    <li>stash->Колекція</li>
+    <li>stash->Хижа</li>
+    <li>treasure->скарбів</li>
+    <li>treasure->цінностей</li>
+    <li>treasure->удачі</li>
+    <li>treasure->смаколиків</li>
+    <li>treasure->припасів</li>
   </OpportunitySite_ItemStash.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>Завдання більше не актуальне: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
