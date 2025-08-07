@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+    <!-- EN: cloth -->
+    <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>
+    <!-- EN: devilstrand -->
+    <DevilstrandCloth.stuffProps.stuffAdjective>devilstrand</DevilstrandCloth.stuffProps.stuffAdjective>
     <!-- EN: hyperweave -->
     <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>
     <!-- EN: jade -->
