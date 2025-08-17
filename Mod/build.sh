@@ -12,11 +12,11 @@ for DLC in "${COMPONENTS[@]}"; do
 	cp -r CrowdinFiles/"$DLC"/* "$LANG_DIR"/
 	
 	for dir in Keyed DefInjected; do
-	  find "$LANG_DIR/$dir" -type f -name '*.xml' | while read -r file; do
-	  	if [[ "$file" != *_${DLC}.xml ]]; then
-	        mv "$file" "${file%.xml}_${DLC}.xml"
-	  	fi
-	  done
+		find "$LANG_DIR/$dir" -type f -name '*.xml' | while read -r file; do
+	  		if [[ "$file" != *_${DLC}.xml ]]; then
+				mv "$file" "${file%.xml}_${DLC}.xml"
+			fi
+		done
 	done
 done
 
