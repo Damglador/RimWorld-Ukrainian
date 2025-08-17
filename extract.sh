@@ -1,20 +1,20 @@
 #!/usr/bin/env bash
 
-cd $(dirname $0)
+cd "$(dirname "$0")" || exit
 
 DEST=Extract
 GAMEDIR=/home/Games/SteamLibrary/steamapps/common/RimWorld
 LANGN=() # Language name, LANG is a system variable
 
 log() {
-	printf "$*\n"
+	printf "%s\n" "$@"
 }
 
 for arg in "$@"; do
-	case "$1" in
+	case "$arg" in
 		--lang)
 			LANGN+=("$2")
-			log "Searching for language $LANGN"
+			log "Searching for language «$2»"
 			shift 2;;
 		--gamedir)
 			GAMEDIR="$2"
@@ -26,8 +26,8 @@ for arg in "$@"; do
 			shift 2;;
 		--all)
 			for f in "$GAMEDIR"/Data/Core/Languages/*.tar; do
-			  name=$(basename "$f" .tar)
-			  LANGN+=("$name")
+				name=$(basename "$f" .tar)
+				LANGN+=("$name")
 			done
 			log "Selecting all languages from «$GAMEDIR/Data/Core/Languages»"
 			shift;;
