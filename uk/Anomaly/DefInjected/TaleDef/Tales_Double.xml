@@ -5,7 +5,7 @@
   <!-- EN: mutated my arm -->
   <MutatedMyArm.label>мутація руки</MutatedMyArm.label>
   <!-- EN: studied an entity -->
-  <StudiedEntity.label>вивчення істоти</StudiedEntity.label>
+  <StudiedEntity.label>вивчення аномалії</StudiedEntity.label>
   <!-- EN:
     <li>tale_noun->[STUDIER_nameDef] studying [ENTITY_nameIndef]</li>
     <li>image->[STUDIER_nameFull] carefully examining [ENTITY_nameDef] [circumstance_group]</li>

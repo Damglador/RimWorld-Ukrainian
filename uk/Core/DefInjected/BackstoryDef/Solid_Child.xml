@@ -1411,7 +1411,7 @@
   <!-- EN: racer -->
   <SpeederRacer71.titleShort>гонщик</SpeederRacer71.titleShort>
   <!-- EN: Born in a rich family, [PAWN_nameDef] was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.\n\n[PAWN_pronoun] was expected to become one of the best doctors in the world. -->
-  <SpoiledBrat59.description>Born in a rich family, [PAWN_nameDef] was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.\n\n[PAWN_pronoun] was expected to become one of the best doctors in the world.</SpoiledBrat59.description>
+  <SpoiledBrat59.description>Народившись у багатій родині, [PAWN_nameDef] {PAWN_gender ? отримував : отримувала} все, що забажає, проте [PAWN_pronoun] не {PAWN_gender ? отримав : отримала} елементарної трудової етики чи основ незалежності особистості.\n\nОчікувалося, що [PAWN_pronoun] стане {PAWN_gender ? одним : одною} із найкращих лікарів у світі.</SpoiledBrat59.description>
   <!-- EN: spoiled brat -->
   <SpoiledBrat59.title>розпещена дитина</SpoiledBrat59.title>
   <!-- EN: brat -->

@@ -5,7 +5,7 @@
   <!-- EN: You've intercepted a distress signal from this outpost. The threat is unknown, but the caller offered everything in the camp as a reward for help. -->
   <DistressCall_Fleshbeasts.description>Ви перехопили віддалений сигнал лиха з цього табору. Загроза невідома, але викликаючий обіцяв все, що є у таборі в якості нагороди за допомогу.</DistressCall_Fleshbeasts.description>
   <!-- EN: Investigating {0}. -->
-  <DistressCall_Fleshbeasts.approachingReportString>Investigating {0}.</DistressCall_Fleshbeasts.approachingReportString>
+  <DistressCall_Fleshbeasts.approachingReportString>Дослідження {0}.</DistressCall_Fleshbeasts.approachingReportString>
   <!-- EN: Investigate {0} -->
   <DistressCall_Fleshbeasts.approachOrderString>Дослідити {lookup: {0}; Case; 3}</DistressCall_Fleshbeasts.approachOrderString>
 </LanguageData>

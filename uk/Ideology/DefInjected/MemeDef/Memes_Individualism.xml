@@ -118,7 +118,7 @@
     <li>animistFact(tag=meme_Individualist)     ->Every spirit lends its unique nature to our world, and they expect us to do the same.</li>
   -->
   <Individualist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Individualist)        ->[deity0_name] fashioned every man and woman personally. Each one is a unique and precious artwork by [deity0_possessive] divine hand.</li>
+    <li>creation(tag=meme_Individualist)        ->[deity0_name] створив кожного чоловіка і жінку особисто. Кожен з них є унікальним і цінним витвором мистецтва, створеним [deity0_possessive] божественною рукою.</li>
     <li>episode(uses=1,tag=meme_Individualist)  ->[deity0_name] said to all, "Each and every one of you is a unique and holy being formed in my image."</li>
     <li>intro(tag=meme_Individualist)           ->[deity0_name] spoke to [memberNamePlural] [revelationAdverb], guiding each to travel to the [place_summary] [place_name] where their unique gifts would shine.</li>
     <li>conflict(tag=meme_Individualist)        ->The [foeLeader] forced the [memberNamePlural] to wear uniforms and work in [foeLeader_possessive] [place_community].</li>

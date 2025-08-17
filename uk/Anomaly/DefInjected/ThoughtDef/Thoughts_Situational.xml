@@ -69,7 +69,7 @@
   <!-- EN: monster by my bed -->
   <EntityInRoom.stages.monster_by_my_bed.label>монстр біля ліжка</EntityInRoom.stages.monster_by_my_bed.label>
   <!-- EN: I'll never be able to sleep with that twisted thing around! -->
-  <EntityInRoom.stages.monster_by_my_bed.description>Я ніколи не зможу спати поруч з цією покрученою істотою!</EntityInRoom.stages.monster_by_my_bed.description>
+  <EntityInRoom.stages.monster_by_my_bed.description>Я ніколи не зможу спати поруч з цією потворною аномалією!</EntityInRoom.stages.monster_by_my_bed.description>
   <!-- EN: flesh tentacle -->
   <FleshTentacle.stages.flesh_tentacle.label>м'ясистий мацак</FleshTentacle.stages.flesh_tentacle.label>
   <!-- EN: Get this thing off of me! -->
@@ -111,9 +111,9 @@
   <!-- EN: Rage in my head murderous rip the skin deserves it the black ocean terror deep... -->
   <HateChantDrone.stages.extreme_hate_chanting.description>Гнів у моїй голові... смертельний розрив шкіри․․․ заслуговують... чорний океан․․․ глибокий жах...</HateChantDrone.stages.extreme_hate_chanting.description>
   <!-- EN: imprisoned with entity -->
-  <ImprisonedWithEntity.stages.imprisoned_with_entity.label>ув'язнення з істотою</ImprisonedWithEntity.stages.imprisoned_with_entity.label>
+  <ImprisonedWithEntity.stages.imprisoned_with_entity.label>ув'язнення з аномалією</ImprisonedWithEntity.stages.imprisoned_with_entity.label>
   <!-- EN: I'm trapped in here with that twisted thing! -->
-  <ImprisonedWithEntity.stages.imprisoned_with_entity.description>Мене закрили разом з цією покрученою істотою!</ImprisonedWithEntity.stages.imprisoned_with_entity.description>
+  <ImprisonedWithEntity.stages.imprisoned_with_entity.description>Мене закрили разом з цією жахливою аномалією!</ImprisonedWithEntity.stages.imprisoned_with_entity.description>
   <!-- EN: Joyous presence -->
   <JoyousPresence.stages.Joyous_presence.label>Присутність Радісного</JoyousPresence.stages.Joyous_presence.label>
   <!-- EN: Wherever I go, I can feel the joyous one in the back of my mind. It makes me feel good. Very good. -->
@@ -159,7 +159,7 @@
   <!-- EN: The truth finally comes and swallows this false world. -->
   <UnnaturalDarkness.stages.unnatural_sky.description>Правда нарешті приходить і поглинає цей фальшивий світ.</UnnaturalDarkness.stages.unnatural_sky.description>
   <!-- EN: captured entity -->
-  <VoidFascination.stages.captured_entity.label>захоплено істоту</VoidFascination.stages.captured_entity.label>
+  <VoidFascination.stages.captured_entity.label>аномалію захоплено</VoidFascination.stages.captured_entity.label>
   <!-- EN: Such a magnificent creature. So much mystery. So much power. -->
   <VoidFascination.stages.captured_entity.description>Таке чудове створіння. Так багато загадок. Так багато сили.</VoidFascination.stages.captured_entity.description>
   <!-- EN: void pleasure -->

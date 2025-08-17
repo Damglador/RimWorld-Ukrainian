@@ -15,7 +15,7 @@
   <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
   <AddictionCounsel60.description>After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions.</AddictionCounsel60.description>
   <!-- EN: counselor -->
-  <AddictionCounsel60.title>counselor</AddictionCounsel60.title>
+  <AddictionCounsel60.title>радник</AddictionCounsel60.title>
   <!-- EN: counselor -->
   <AddictionCounsel60.titleShort>консультант</AddictionCounsel60.titleShort>
   <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
@@ -69,9 +69,9 @@
   <!-- EN: [PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee. -->
   <ArchotechSpy75.description>[PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee.</ArchotechSpy75.description>
   <!-- EN: archotech researcher -->
-  <ArchotechSpy75.title>archotech researcher</ArchotechSpy75.title>
+  <ArchotechSpy75.title>дослідник архотехнологій</ArchotechSpy75.title>
   <!-- EN: researcher -->
-  <ArchotechSpy75.titleShort>researcher</ArchotechSpy75.titleShort>
+  <ArchotechSpy75.titleShort>дослідник</ArchotechSpy75.titleShort>
   <!-- EN: [PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training. -->
   <ArmyCook0.description>[PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training.</ArmyCook0.description>
   <!-- EN: army cook -->
@@ -1069,7 +1069,7 @@
   <!-- EN: physicist -->
   <ParticlePhysicist44.titleShort>фізик</ParticlePhysicist44.titleShort>
   <!-- EN: [PAWN_nameDef]'s thirst for archaeo-technological knowledge drove [PAWN_objective] to spend years surveying abandoned data centers and studying ancient coding languages.\n\n[PAWN_pronoun] claimed to be one of the few who could piece together the tragedy of the past - and offer a path to the future. -->
-  <Philosopher97.description>[PAWN_nameDef]'s thirst for archaeo-technological knowledge drove [PAWN_objective] to spend years surveying abandoned data centers and studying ancient coding languages.\n\n[PAWN_pronoun] claimed to be one of the few who could piece together the tragedy of the past - and offer a path to the future.</Philosopher97.description>
+  <Philosopher97.description>Жага [PAWN_nameDef] до знань в галузі архотехнологій змусила [PAWN_possessive] провести роки у стародавніх базах даних та за вивченням старих мов програмування.\n\n[PAWN_pronoun] {PAWN_gender ? стверджував : стверджувала}, що [PAWN_pronoun] {PAWN_gender ? один : одна} з небагатьох, хто може зібрати воєдино трагедію минулого та вказати шлях до майбутнього.</Philosopher97.description>
   <!-- EN: philosopher -->
   <Philosopher97.title>філософ</Philosopher97.title>
   <!-- EN: sage -->
@@ -1267,7 +1267,7 @@
   <!-- EN: rocketeer -->
   <RocketPioneer19.titleShort>інженер</RocketPioneer19.titleShort>
   <!-- EN: After years of addiction to virtual reality games, [PAWN_nameDef] was saved when the doctors unplugged him.\n\nUnfortunately, they unplugged [PAWN_objective] during a match of Rugby Rampage 4. The mental backlash merged [PAWN_possessive] real identity and [PAWN_possessive] virtual identity, leaving [PAWN_objective] with the personality and skills of a rugby player. -->
-  <RugbyPlayer71.description>After years of addiction to virtual reality games, [PAWN_nameDef] was saved when the doctors unplugged him.\n\nUnfortunately, they unplugged [PAWN_objective] during a match of Rugby Rampage 4. The mental backlash merged [PAWN_possessive] real identity and [PAWN_possessive] virtual identity, leaving [PAWN_objective] with the personality and skills of a rugby player.</RugbyPlayer71.description>
+  <RugbyPlayer71.description>Після багатьох років залежності від ігор у віртуальній реальності, [PAWN_nameDef] був врятований, коли лікарі відключили його від апарату.\n\nНа жаль, вони відключили [PAWN_objective] під час матчу Rugby Rampage 4. Через психічний збій реальна ідентичність [PAWN_possessive] об'єдналась з віртуальною ідентичністю [PAWN_possessive], залишивши [PAWN_objective] з особистістю та навичками гравця в регбі.</RugbyPlayer71.description>
   <!-- EN: rugby player -->
   <RugbyPlayer71.title>регбіст</RugbyPlayer71.title>
   <!-- EN: winger -->

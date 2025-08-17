@@ -28,17 +28,17 @@
     <li>discovered->scanned</li>
   -->
   <LongRangeMineralScannerLump.questNameRules.rulesStrings>
-    <li>questName->[lump] of [targetMineableThing_label]</li>
-    <li>questName->[targetMineableThing_label] [lump]</li>
-    <li>questName->The [targetMineableThing_label] [lump]</li>
-    <li>questName->[adj] [targetMineableThing_label]</li>
+    <li>questName->[lump] {lookup: [targetMineable_label]; Case; 1}</li>
+    <li>questName->[adj_lump] {lookup: [targetMineable_label]; Case; 1}</li>
+    <li>questName->[discovered] [lump] {lookup: [targetMineable_label]; Case; 1}</li>
+    <li>questName->[discovered] [adj_lump] {lookup: [targetMineable_label]; Case; 1}</li>
     <li>questName->[targetMineableThing_label] [discovered]</li>
-    <li>lump->lump</li>
-    <li>lump->pile</li>
-    <li>lump->deposit</li>
-    <li>lump->seam</li>
-    <li>lump->chunk</li>
-    <li>lump->pile</li>
+    <li>lump->скупчення</li>
+    <li>lump->купа</li>
+    <li>lump->родовище</li>
+    <li>lump->пласт</li>
+    <li>lump->уламки</li>
+    <li>lump->насип</li>
     <li>adj->distant</li>
     <li>adj->far</li>
     <li>adj->unknown</li>

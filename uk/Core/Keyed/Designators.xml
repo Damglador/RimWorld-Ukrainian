@@ -165,7 +165,7 @@
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Приручити дику тварину.</DesignatorTameDesc>
   <!-- EN: Scaria infected animals can't be tamed. -->
-  <CantTameScaria>Заражених сказом тварин неможливо приручити.</CantTameScaria>
+  <CantTameScaria>Заражених скаріозом тварин неможливо приручити.</CantTameScaria>
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Відпустити на волю</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->

@@ -7,7 +7,7 @@
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0} вже у процесі.</CantStartRitualAlreadyInProgress>
   <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
-  <CantStartRitualLayer>{RITUAL} cannot be performed {GERUND} {LAYER}.</CantStartRitualLayer>
+  <CantStartRitualLayer>{RITUAL} не може бути виконано {GERUND} {LAYER}.</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
   <CantJoinRitualInExtremeWeather>Мінімум один з учасників не може приєднатися через небезпечну температуру..</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->

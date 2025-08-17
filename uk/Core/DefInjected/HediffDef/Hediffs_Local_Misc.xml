@@ -37,15 +37,15 @@
   <!-- EN: scaria -->
   <Scaria.label>скаріоз</Scaria.label>
   <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria can be cured through a special medical operation, but the creature must first be downed in order to make it possible to operate. The disease poisons the flesh, so creatures killed with scaria often appear rotten after death and cannot be butchered for meat or leather. After scaria rage has begun, the creature will last several days before dying from exhaustion. Scaria-infected animals can't be tamed. -->
-  <Scaria.description>Інфекційна хвороба, яка може доводити людей і тварин до несамовитої люті. Скарію можна вилікувати за допомогою спеціальної медичної операції, але спершу тварину потрібно знешкодити, щоб забезпечити можливість проведення операцій. Хвороба вражає плоть, тому істоти, вбиті скарією, часто виглядають згнилими після смерті, і їх неможливо забити на м'ясо чи шкіру. Після початку нападів скарії тварина проживе ще кілька днів, перш ніж помре від виснаження. Заражених цією інфекцією тварин неможливо приручити.</Scaria.description>
+  <Scaria.description>Інфекційна хвороба, яка може доводити людей і тварин до несамовитої люті. Скаріоз можна вилікувати за допомогою спеціальної медичної операції, але спершу тварину потрібно знешкодити, щоб забезпечити можливість проведення операцій. Хвороба вражає плоть, тому істоти, вбиті скаріозом, часто виглядають згнилими після смерті, і їх неможливо забити на м'ясо чи шкіру. Після зараження скаріозом тварина проживе ще кілька днів, перш ніж помре від виснаження. Заражених цією інфекцією тварин неможливо приручити.</Scaria.description>
   <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria-infected animals can't be tamed. -->
-  <Scaria.descriptionShort>Інфекційна хвороба, яка може доводити людей і тварин до несамовитої люті. Заражених скарією тварин неможливо приручити.</Scaria.descriptionShort>
+  <Scaria.descriptionShort>Інфекційна хвороба, яка може доводити людей і тварин до несамовитої люті. Заражених скаріозом тварин неможливо приручити.</Scaria.descriptionShort>
   <!-- EN: Scaria infected. -->
-  <Scaria.inspectString>{PAWN_gender ? Заражений : Заражена} скарією</Scaria.inspectString>
+  <Scaria.inspectString>Заражено скаріозом</Scaria.inspectString>
   <!-- EN: Scaria sores -->
-  <Scaria.renderNodeProperties.0.debugLabel>Виразки від скарії</Scaria.renderNodeProperties.0.debugLabel>
+  <Scaria.renderNodeProperties.0.debugLabel>Виразки від скаріозу</Scaria.renderNodeProperties.0.debugLabel>
   <!-- EN: Scaria sores -->
-  <Scaria.renderNodeProperties.1.debugLabel>Виразки від скарії</Scaria.renderNodeProperties.1.debugLabel>
+  <Scaria.renderNodeProperties.1.debugLabel>Виразки від скаріозу</Scaria.renderNodeProperties.1.debugLabel>
   <!-- EN: sterilized -->
   <Sterilized.label>стерилізація</Sterilized.label>
   <!-- EN: This creature's reproductive system has been permanently shut down. -->

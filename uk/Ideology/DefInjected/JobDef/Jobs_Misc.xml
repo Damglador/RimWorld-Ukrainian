@@ -15,7 +15,7 @@
   <!-- EN: extracting TargetB from TargetA. -->
   <ExtractRelic.reportString>дістає TargetB з TargetA.</ExtractRelic.reportString>
   <!-- EN: extracting TargetB to inventory. -->
-  <ExtractToInventory.reportString>extracting TargetB to inventory.</ExtractToInventory.reportString>
+  <ExtractToInventory.reportString>складання TargetB до інвентарю.</ExtractToInventory.reportString>
   <!-- EN: getting neural supercharge from TargetA -->
   <GetNeuralSupercharge.reportString>отримує нейронний надзаряд від TargetA</GetNeuralSupercharge.reportString>
   <!-- EN: giving TargetA to TargetB. -->

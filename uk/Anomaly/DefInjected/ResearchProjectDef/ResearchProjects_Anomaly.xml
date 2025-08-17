@@ -307,9 +307,9 @@
     <li>subject_gerund->performing a ritual to rebuke death</li>
   </DeathRefusal.generalRules.rulesStrings>
   <!-- EN: disruptor flares -->
-  <DisruptorFlares.label>пси-фальшфеєри</DisruptorFlares.label>
+  <DisruptorFlares.label>фальшфеєр дестабілізації</DisruptorFlares.label>
   <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
-  <DisruptorFlares.description>Створення фальшфеєрів на основі біоферриту, які можуть викривати невидимих істот у радіусі дії.</DisruptorFlares.description>
+  <DisruptorFlares.description>Створення фальшфеєрів на основі біофериту, які можуть викривати невидимих істот у радіусі дії.</DisruptorFlares.description>
   <!-- EN:
     <li>subject->bioferrite flares</li>
     <li>subject->short-term lighting</li>
@@ -321,14 +321,14 @@
     <li>subject_gerund->crafting bioferrite flares</li>
   -->
   <DisruptorFlares.generalRules.rulesStrings>
-    <li>subject->bioferrite flares</li>
-    <li>subject->short-term lighting</li>
-    <li>subject_story->studied the non-visual electromagnetic spectrum</li>
-    <li>subject_story->disabled the visual centres of test subjects</li>
-    <li>subject_story->studied the bioluminescence techniques of nightworld fauna</li>
-    <li>subject_story->narrowed the electromagnetic spectrum of archite energy releases</li>
-    <li>subject_gerund->boosting visibility temporarily</li>
-    <li>subject_gerund->crafting bioferrite flares</li>
+    <li>subject->біоферитові фальшфеєри</li>
+    <li>subject->короткочасне освітлення</li>
+    <li>subject_story->досліджував невидимий електромагнітний спектр</li>
+    <li>subject_story->виключив зорові центри піддослідних</li>
+    <li>subject_story->досліджував біолюмінесцентні методи нічної фауни</li>
+    <li>subject_story->звузив електромагнітний спектр вивільнення енергії архіту</li>
+    <li>subject_gerund->тимчасове підвищення видимості</li>
+    <li>subject_gerund->виготовлення біоферитових фальшфеєрів</li>
   </DisruptorFlares.generalRules.rulesStrings>
   <!-- EN: electroharvester -->
   <Electroharvester.label>поглинач енергії</Electroharvester.label>
@@ -353,9 +353,9 @@
     <li>subject_gerund->constructing electroharvesters</li>
   </Electroharvester.generalRules.rulesStrings>
   <!-- EN: entity containment -->
-  <EntityContainment.label>утримування істот</EntityContainment.label>
+  <EntityContainment.label>утримування аномалії</EntityContainment.label>
   <!-- EN: Build holding platforms and inhibitors to better contain entities. -->
-  <EntityContainment.description>Створення платформ та інгібіторів для утримування істот.</EntityContainment.description>
+  <EntityContainment.description>Створення платформ та інгібіторів для утримування аномалій.</EntityContainment.description>
   <!-- EN:
     <li>subject->entity containment</li>
     <li>subject_story->worked in a prisonworld research facility</li>
@@ -647,7 +647,7 @@
     <li>subject_gerund->detecting invisible creatures</li>
   -->
   <ProximityDetector.generalRules.rulesStrings>
-    <li>subject->proximity detectors</li>
+    <li>subject->детектори руху</li>
     <li>subject->motion sensors</li>
     <li>subject_story->watched ancient entertainment reels and was inspired</li>
     <li>subject_story->prototyped simple psi-hardened devices</li>

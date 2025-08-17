@@ -2,7 +2,7 @@
 <LanguageData>
   <!-- ======================== Non-grouped ========================-->
   <!-- EN: Title -->
-  <ScenarioTitle>Title</ScenarioTitle>
+  <ScenarioTitle>Назва</ScenarioTitle>
   <!-- EN: Your faction will be a {0}. -->
   <ScenPart_PlayerFaction>Тип вашої фракції: {0}.</ScenPart_PlayerFaction>
   <!-- EN: Start with 1 person. -->
@@ -48,7 +48,7 @@
   <!-- EN: {COUNT} {KINDLABEL} -->
   <PawnCount>{COUNT} {KINDLABEL}</PawnCount>
   <!-- EN: One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts. -->
-  <ScenPart_Error>One or more parts in this scenario could not be loaded due to missing modded content.\n\nYou can load the scenario with all its required mods, or load it anyway without the missing scenario parts.</ScenPart_Error>
+  <ScenPart_Error>Не вдалося завантажити одну або кілька частин у цьому сценарії через відсутність модифікованого контенту.n\nВи можете завантажити сценарій з усіма його необхідними модами або все одно завантажити його без відсутніх частин сценарію.</ScenPart_Error>
   <!-- ======================== Grouped ========================-->
   <!-- EN: Start with -->
   <ScenPart_StartWith>Початкові ресурси</ScenPart_StartWith>
@@ -64,43 +64,43 @@
   <ScenPart_DisallowBuilding>Заборонити спорудження</ScenPart_DisallowBuilding>
   <!-- ======================== Layers ========================-->
   <!-- EN: Tag -->
-  <ScenPart_PlanetLayerTag>Tag</ScenPart_PlanetLayerTag>
+  <ScenPart_PlanetLayerTag>Мітка</ScenPart_PlanetLayerTag>
   <!-- EN: Must have a unique tag -->
-  <ScenPart_PlanetLayerTag_Error>Must have a unique tag</ScenPart_PlanetLayerTag_Error>
+  <ScenPart_PlanetLayerTag_Error>Повинен мати унікальну мітку</ScenPart_PlanetLayerTag_Error>
   <!-- EN: Settings -->
-  <ScenPart_PlanetLayerSettings>Settings</ScenPart_PlanetLayerSettings>
+  <ScenPart_PlanetLayerSettings>Налаштування</ScenPart_PlanetLayerSettings>
   <!-- EN: Use settings def -->
-  <ScenPart_PlanetLayerSettings_UseDef>Use settings def</ScenPart_PlanetLayerSettings_UseDef>
+  <ScenPart_PlanetLayerSettings_UseDef>Використати станд. налаштування</ScenPart_PlanetLayerSettings_UseDef>
   <!-- EN: Select -->
   <ScenPart_PlanetLayerSettings_SelectDef>Обрати</ScenPart_PlanetLayerSettings_SelectDef>
   <!-- EN: Position -->
-  <ScenPart_PlanetLayerSettings_Position>Position</ScenPart_PlanetLayerSettings_Position>
+  <ScenPart_PlanetLayerSettings_Position>Розташування</ScenPart_PlanetLayerSettings_Position>
   <!-- EN: Radius -->
-  <ScenPart_PlanetLayerSettings_Radius>Radius</ScenPart_PlanetLayerSettings_Radius>
+  <ScenPart_PlanetLayerSettings_Radius>Радіус</ScenPart_PlanetLayerSettings_Radius>
   <!-- EN: Use surface view angle -->
-  <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>Use surface view angle</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
+  <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>Ураховувати кут огляду поверхні</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
   <!-- EN: View angle -->
-  <ScenPart_PlanetLayerSettings_ViewAngle>View angle</ScenPart_PlanetLayerSettings_ViewAngle>
+  <ScenPart_PlanetLayerSettings_ViewAngle>Кут огляду</ScenPart_PlanetLayerSettings_ViewAngle>
   <!-- EN: Extra camera height -->
-  <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>Extra camera height</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
+  <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>Додаткова висота камери</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
   <!-- EN: Subdivisions -->
-  <ScenPart_PlanetLayerSettings_Subdivisions>Subdivisions</ScenPart_PlanetLayerSettings_Subdivisions>
+  <ScenPart_PlanetLayerSettings_Subdivisions>Підрозділи</ScenPart_PlanetLayerSettings_Subdivisions>
   <!-- EN: Background camera offset -->
-  <ScenPart_PlanetLayerSettings_BackgroundOffset>Background camera offset</ScenPart_PlanetLayerSettings_BackgroundOffset>
+  <ScenPart_PlanetLayerSettings_BackgroundOffset>Зміщення камери фону</ScenPart_PlanetLayerSettings_BackgroundOffset>
   <!-- EN: Background parallax per 100 cells -->
-  <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>Background parallax per 100 cells</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
+  <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>Паралакс фону на 100 клітин</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
   <!-- EN: Connections -->
-  <ScenPart_PlanetLayerConnections>Connections</ScenPart_PlanetLayerConnections>
+  <ScenPart_PlanetLayerConnections>З'єднання</ScenPart_PlanetLayerConnections>
   <!-- EN: Add connection -->
-  <ScenPart_PlanetLayerConnections_Add>Add connection</ScenPart_PlanetLayerConnections_Add>
+  <ScenPart_PlanetLayerConnections_Add>Додати з'єднання</ScenPart_PlanetLayerConnections_Add>
   <!-- EN: No zoom -->
-  <ScenPart_PlanetLayerConnections_Zoom>No zoom</ScenPart_PlanetLayerConnections_Zoom>
+  <ScenPart_PlanetLayerConnections_Zoom>Без наближення</ScenPart_PlanetLayerConnections_Zoom>
   <!-- EN: Zoom in -->
-  <ScenPart_PlanetLayerConnections_ZoomIn>Zoom in</ScenPart_PlanetLayerConnections_ZoomIn>
+  <ScenPart_PlanetLayerConnections_ZoomIn>Наблизити</ScenPart_PlanetLayerConnections_ZoomIn>
   <!-- EN: Zoom out -->
-  <ScenPart_PlanetLayerConnections_ZoomOut>Zoom out</ScenPart_PlanetLayerConnections_ZoomOut>
+  <ScenPart_PlanetLayerConnections_ZoomOut>Віддалити</ScenPart_PlanetLayerConnections_ZoomOut>
   <!-- EN: Fuel cost -->
-  <ScenPart_PlanetLayerConnections_Fuel>Fuel cost</ScenPart_PlanetLayerConnections_Fuel>
+  <ScenPart_PlanetLayerConnections_Fuel>Вартість палива</ScenPart_PlanetLayerConnections_Fuel>
   <!-- EN: Planet layer -->
-  <ScenPart_ForcedMapPlanetLayer>Planet layer</ScenPart_ForcedMapPlanetLayer>
+  <ScenPart_ForcedMapPlanetLayer>Шар планети</ScenPart_ForcedMapPlanetLayer>
 </LanguageData>

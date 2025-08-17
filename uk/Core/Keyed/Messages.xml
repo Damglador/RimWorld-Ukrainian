@@ -33,7 +33,7 @@
   <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
   <MessageVisitorsAnomalousWeather>{0} з фракції {1} йдуть через небезпечні погодні умови.</MessageVisitorsAnomalousWeather>
   <!-- EN: {0} from {1} are leaving the map because of dangerous conditions. -->
-  <MessageVisitorsDangerousConditions>{0} from {1} are leaving the map because of dangerous conditions.</MessageVisitorsDangerousConditions>
+  <MessageVisitorsDangerousConditions>{0} з {1} залишають карту через небезпечні умови.</MessageVisitorsDangerousConditions>
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{0}, {0_gender ? який : яку : яке} {1_gender ? носив : носила} {1_nameFull}, {0_gender ? зіпсувався : зіпсувалась : зіпсувалось} нанівець.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
@@ -65,9 +65,9 @@
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>Тільки колоніст з рисою "улюбленець комах" може приручити {lookup: {INSECT_indefinite}; Case; 3}.</MessageInsectTameDesignated>
   <!-- EN: No colonists are assigned to hunt. -->
-  <MessageNoHuntersAvailable>No colonists are assigned to hunt.</MessageNoHuntersAvailable>
+  <MessageNoHuntersAvailable>Жоден колоніст не призначений полювати.</MessageNoHuntersAvailable>
   <!-- EN: No hunter has a valid hunting weapon. Equip a hunter with a suitable ranged weapon. -->
-  <MessageNoHuntersWithProperWeapon>No hunter has a valid hunting weapon. Equip a hunter with a suitable ranged weapon.</MessageNoHuntersWithProperWeapon>
+  <MessageNoHuntersWithProperWeapon>Жоден мисливець не має мисливської зброї. Озбройте мисливця відповідною зброєю дальнього бою.</MessageNoHuntersWithProperWeapon>
   <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
   <MessageInsectsHostileOnTaming>Увага: {PAWN_labelShort} {PAWN_labelShort} — ворожа істота, і нападатиме на вашого колоніста, поки той намагатиметься його приручити.</MessageInsectsHostileOnTaming>
   <!-- EN: New recruit -->
@@ -93,7 +93,7 @@
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
   <MessageMustDesignateHarvestableWood>Потрібно позначати дерева, які достатньо дозріли.</MessageMustDesignateHarvestableWood>
   <!-- EN: Prevent cutting is enabled for this plant. -->
-  <MessageMustPlantCuttingForbidden>Prevent cutting is enabled for this plant.</MessageMustPlantCuttingForbidden>
+  <MessageMustPlantCuttingForbidden>Для цієї рослини увімкнено запобігання зрізання.</MessageMustPlantCuttingForbidden>
   <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>Необхідно позначити рослини.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
@@ -135,15 +135,15 @@
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>Потрібно позначити заборонені елементи.</MessageMustDesignateUnforbiddable>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotClaimWhenPawnThreatsAreNear>Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby.</MessageCannotClaimWhenPawnThreatsAreNear>
+  <MessageCannotClaimWhenPawnThreatsAreNear>Не можна забрати {CLAIMABLE_labelShort}, поки поблизу знаходяться боєздатні {THREAT_factionPawnsPlural}.</MessageCannotClaimWhenPawnThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotAdoptWhilePawnThreatsAreNear>Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby.</MessageCannotAdoptWhilePawnThreatsAreNear>
+  <MessageCannotAdoptWhilePawnThreatsAreNear>Не можна прийняти {CLAIMABLE_labelShort}, поки поблизу знаходяться боєздатні {THREAT_factionPawnsPlural}.</MessageCannotAdoptWhilePawnThreatsAreNear>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
-  <MessageCannotClaimWhenThreatsAreNear>Cannot claim {CLAIMABLE_labelShort} while there is {THREAT} nearby.</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotClaimWhenThreatsAreNear>Не можна забрати {CLAIMABLE_labelShort}, якщо поблизу є {THREAT}.</MessageCannotClaimWhenThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
-  <MessageCannotAdoptWhileThreatsAreNear>Cannot adopt {CLAIMABLE_labelShort} while there is {THREAT} nearby.</MessageCannotAdoptWhileThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>Не можна прийняти {CLAIMABLE_labelShort}, поки поблизу знаходиться {THREAT}.</MessageCannotAdoptWhileThreatsAreNear>
   <!-- EN: Cannot remove foundation that supports a building. -->
-  <MessageCannotRemoveSupportingFoundation>Cannot remove foundation that supports a building.</MessageCannotRemoveSupportingFoundation>
+  <MessageCannotRemoveSupportingFoundation>Не можна демонтувати фундамент, який підтримує будівлю.</MessageCannotRemoveSupportingFoundation>
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>{1_labelShort} пручається арешту!</MessageRefusedArrest>
   <!-- EN: There are no medical beds available. -->
@@ -243,7 +243,7 @@
   <!-- EN: The caravan formation process has been terminated. -->
   <MessagePawnLostWhileFormingCaravan_AllLost>Формування каравану припинено.</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: No colonist capable of forming caravan. The caravan formation process has been terminated. -->
-  <MessageForceSendingCaravan_AllLost>No colonist capable of forming caravan. The caravan formation process has been terminated.</MessageForceSendingCaravan_AllLost>
+  <MessageForceSendingCaravan_AllLost>Немає колоністів, здатних сформувати караван. Процес формування каравану припинено.</MessageForceSendingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
   <MessageCaravanFormationPaused>Формування каравану продовжиться, коли всі оговтаються від нервового зриву.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
@@ -309,13 +309,13 @@
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>Ваші {1} не можуть завершити навантаження через відсутність доступу до деяких людей або речей: {2_labelShort}.</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoShuttle>Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}).</MessageCantLoadMoreIntoShuttle>
+  <MessageCantLoadMoreIntoShuttle>Ваш {1} не може завершити завантаження шатла, оскільки деякі предмети або люди стали недоступними ({2_labelShort}).</MessageCantLoadMoreIntoShuttle>
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoPortal>{1} не може увійти до {0}, оскільки деякі люди або предмети недосяжні ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Обране невідповідне місце призначення.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: {OBJECT_labelCap} is not a valid destination. -->
-  <MessageWorldObjectIsInvalid>{OBJECT_labelCap} is not a valid destination.</MessageWorldObjectIsInvalid>
+  <MessageWorldObjectIsInvalid>{OBJECT_labelCap} не є допустимим місцем призначення.</MessageWorldObjectIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
   <MessageTransportPodsDestinationIsTooFar>Кожна капсула повинна мати хоча б {0} од. палива, щоб долетіти сюди.</MessageTransportPodsDestinationIsTooFar>
   <!-- EN: The caravan has been reformed. -->
@@ -353,7 +353,7 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <MessageDefendersAttacking>{0} з фракції {1} атакують ваших {lookup: {2}; Case; 3}.</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been gestated and will defend their cluster. -->
-  <MessageMechanoidsAssembled>Mechanoids have been gestated and will defend their cluster.</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>Збірка механоїдів завершена, вони будуть захищати свій кластер.</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to gestate -->
   <MessageMechanoidsLeftToAssemble>Зростить ще</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
@@ -622,7 +622,7 @@
   <!-- EN: {0} must have eyes -->
   <MessageRitualRoleMustHaveEyes>{0} повинен мати очі</MessageRitualRoleMustHaveEyes>
   <!-- EN: {0_labelShort} does not require further scarification. -->
-  <MessageRitualRoleMustRequireScarification>{0_labelShort} does not require further scarification.</MessageRitualRoleMustRequireScarification>
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} не потребує подальшого шрамування.</MessageRitualRoleMustRequireScarification>
   <!-- EN: {0_labelShort} does not require blinding. -->
   <MessageRitualRoleMustRequireBlinding>{0_labelShort} більше не потребує осліплення.</MessageRitualRoleMustRequireBlinding>
   <!-- EN: {0} must be a prisoner or slave. -->
@@ -680,9 +680,9 @@
   <!-- EN: Need more fertile terrain. -->
   <MessageWarningNotEnoughFertility>Необхідний більш плодючий ґрунт.</MessageWarningNotEnoughFertility>
   <!-- EN: Temperature too extreme. -->
-  <CannotPlantExtremeTemp>Temperature too extreme.</CannotPlantExtremeTemp>
+  <CannotPlantExtremeTemp>Температура занадто екстремальна.</CannotPlantExtremeTemp>
   <!-- EN: Plants cannot grow on this terrain. -->
-  <CannotPlantMissingTerrainTag>Plants cannot grow on this terrain.</CannotPlantMissingTerrainTag>
+  <CannotPlantMissingTerrainTag>Рослини не можуть рости на цій поверхні.</CannotPlantMissingTerrainTag>
   <!-- EN: blocked by {0_label}. -->
   <BlockedBy>заблоковано {lookup: {0_label}; Case; 4}.</BlockedBy>
   <!-- EN: Cannot be planted next to {0_label}. -->
@@ -692,7 +692,7 @@
   <!-- EN: Too close to {0}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>Надто близько до місця посадки {lookup: {0}; Case; 1}.</TooCloseToOtherSeedPlantCell>
   <!-- EN: Cannot be placed on {0}. -->
-  <MessageCannotBePlacedOn>Cannot be placed on {0}.</MessageCannotBePlacedOn>
+  <MessageCannotBePlacedOn>Не можна розмістити на {0}.</MessageCannotBePlacedOn>
   <!-- EN: Warning: {0} has been marked for cutting. -->
   <MessageWarningCutImportantPlant>Увага: {0} позначено для вирізання.</MessageWarningCutImportantPlant>
   <!-- EN: {0_labelShort} is incapable of manipulation. -->
@@ -724,9 +724,9 @@
   <!-- EN: {0_labelShort} can be hacked again. -->
   <MessageHackableUnlocked>{0_labelShort} знову можна зламувати.</MessageHackableUnlocked>
   <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>Cannot call shuttle</CannotCallShuttle>
+  <CannotCallShuttle>Неможливо викликати шатл</CannotCallShuttle>
   <!-- EN: The shuttle has arrived. -->
   <MessageShuttleArrived>Шатл прибув до місця призначення.</MessageShuttleArrived>
   <!-- EN: Warning: {THING_labelCap} will not function in this biome -->
-  <MessageGroundPenetratingScannerNoBedrock>Warning: {THING_labelCap} will not function in this biome</MessageGroundPenetratingScannerNoBedrock>
+  <MessageGroundPenetratingScannerNoBedrock>Попередження: {THING_labelCap} не буде працювати в цьому біомі.</MessageGroundPenetratingScannerNoBedrock>
 </LanguageData>

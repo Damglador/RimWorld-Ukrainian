@@ -5,11 +5,11 @@
   <!-- EN: These entities are at dangerously high activity levels -->
   <ActivityDangerousDesc>Ці істоти показують небезпечно високий рівень активності</ActivityDangerousDesc>
   <!-- EN: When an entity reaches 100% activity, it will become dangerous.\n\nSend your warden to suppress these entities, or enable automatic suppression using the entity's activity panel. -->
-  <ActivityDangerousDescAppended>Коли істота досягне 100% активності, вона стає небезпечною.\n\nНадішліть свого наглядача придушити цих істот або ввімкніть автоматичне придушення за допомогою панелі активності сутності.</ActivityDangerousDescAppended>
+  <ActivityDangerousDescAppended>Коли аномалія досягне 100% активності, вона стає небезпечною.\n\nНадішліть свого наглядача придушити ці аномалії або ввімкніть автоматичне придушення за допомогою панелі активності аномалії.</ActivityDangerousDescAppended>
   <!-- EN: Need anomaly project -->
   <NeedAnomalyProject>Потрібен дослідницький проєкт аномалій</NeedAnomalyProject>
   <!-- EN: You have an entity marked for study but don't have a matching anomaly research project selected: -->
-  <NeedAnomalyProjectDesc>У вас є істота, що позначена для дослідження, але не вибрано відповідний дослідницький проєкт:</NeedAnomalyProjectDesc>
+  <NeedAnomalyProjectDesc>У вас є аномалія, що позначена для дослідження, але не вибрано відповідний дослідницький проєкт:</NeedAnomalyProjectDesc>
   <!-- EN: Need {NAME} anomaly research project -->
   <NeedAnomalyProjectDescLine>Потрібен проєкт дослідження аномалій: {NAME}</NeedAnomalyProjectDescLine>
   <!-- EN: Open the research menu and select a project on the anomaly tab.\n\nYou can have a basic and an advanced research project selected at the same time.\n\n(Click to open the research menu.) -->
@@ -66,9 +66,9 @@
   <AlertInhibitorBlockedDesc>Один із ваших електричних інгібіторів не працює, оскільки його заблокувала інша споруда.\n\n
 Звільніть простір перед електричним інгібітором.</AlertInhibitorBlockedDesc>
   <!-- EN: Entity treatment needed -->
-  <EntityNeedsTreatment>Істоті потрібен догляд</EntityNeedsTreatment>
+  <EntityNeedsTreatment>Аномалії потрібен догляд</EntityNeedsTreatment>
   <!-- EN: These entities need medical treatment. Without it, they may die in captivity.\n{0}\n\nSend a doctor to treat them. -->
-  <EntityNeedsTreatmentDesc>Ці істоти потребують медичного догляду. Без нього вони можуть померти.\n{0}\n\nНадішліть лікаря, щоб він підлікував їх.</EntityNeedsTreatmentDesc>
+  <EntityNeedsTreatmentDesc>Ці аномалії потребують медичного догляду. Без нього вони можуть померти.\n{0}\n\nНадішліть лікаря, щоб він підлікував їх.</EntityNeedsTreatmentDesc>
   <!-- EN: Ghoul hypothermia -->
   <AlertGhoulHypothermia>Гіпотермія гулів</AlertGhoulHypothermia>
   <!-- EN: These ghouls are suffering from hypothermia:\n{0}\n\nGet them to warmer temperatures. -->

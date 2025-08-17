@@ -3,7 +3,7 @@
   <!-- EN: destroy apparel -->
   <DestroyApparel.label>знищити одяг</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparel. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>Use heat to destroy unwanted apparel. This process is faster than smelting, and works on non-smeltable items, but yields no resources.</DestroyApparel.description>
+  <DestroyApparel.description>Знищити непотрібний одяг за допомогою високих температур. Спалювання швидше за плавлення і працює з неплавким одягом, але не дає ресурсів.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
   <DestroyApparel.jobString>Знищує одяг.</DestroyApparel.jobString>
   <!-- EN: destroy weapon -->

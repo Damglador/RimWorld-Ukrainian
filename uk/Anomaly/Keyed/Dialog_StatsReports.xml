@@ -3,13 +3,13 @@
   <!-- EN: Knowledge gain from study -->
   <KnowledgeFromStudy>Кількість знань від вивчення</KnowledgeFromStudy>
   <!-- EN: The type and amount of anomaly knowledge that can be obtained when this entity is studied. More sophisticated entities can unlock more advanced anomaly research projects. -->
-  <KnowledgeFromStudyDesc>Тип і обсяг знань про аномалії, які можна отримати під час вивчення цієї істоти. Складніші істоти можуть розблокувати просунутіші дослідницькі проєкти аномалій.</KnowledgeFromStudyDesc>
+  <KnowledgeFromStudyDesc>Тип і обсяг знань про аномалію, які можна отримати під час її вивчення. Складніші аномалії можуть розблокувати просунутіші дослідницькі проєкти.</KnowledgeFromStudyDesc>
   <!-- EN: {0} {1} -->
   <Stat_Knowledge>{0} {lookup: {1}; Case; 1}</Stat_Knowledge>
   <!-- EN: Study interval -->
   <StudyFrequency>Інтервал між вивченням</StudyFrequency>
   <!-- EN: The duration between available study periods for this entity. -->
-  <StudyFrequencyDesc>Тривалість між доступними періодами вивчення цієї істоти.</StudyFrequencyDesc>
+  <StudyFrequencyDesc>Тривалість між доступними періодами вивчення цієї аномалії.</StudyFrequencyDesc>
   <!-- EN: Healing -->
   <Stat_Hediff_Regeneration_Name>Відновлення</Stat_Hediff_Regeneration_Name>
   <!-- EN: A flat amount of healing per day. -->
@@ -57,7 +57,7 @@
   <!-- EN: Containment offset -->
   <StatsReport_ContainmentStrengthOffset>Зміщення утримання</StatsReport_ContainmentStrengthOffset>
   <!-- EN: How much this affects the ability of a holding platform to constrain an entity. Entities that are better contained are less likely to escape and provide more knowledge when studied. -->
-  <StatsReport_ContainmentStrengthOffset_Desc>Як це впливає на силу утримання платформ. Істоти, які краще утримуються, мають меншу ймовірність втечі та надають більше знань під час вивчення.</StatsReport_ContainmentStrengthOffset_Desc>
+  <StatsReport_ContainmentStrengthOffset_Desc>Як це впливає на силу утримання платформ. Аномалії, які краще утримуються, мають меншу ймовірність втечі та надають більше знань під час вивчення.</StatsReport_ContainmentStrengthOffset_Desc>
   <!-- EN: Duration -->
   <StatsReport_SerumDuration>Тривалість</StatsReport_SerumDuration>
   <!-- EN: How long the effects of a serum last. -->

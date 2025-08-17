@@ -161,7 +161,7 @@
   <!-- EN: Non-{ADJECTIVE} surroundings -->
   <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>Оточення не в стилі {ADJECTIVE}</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>
   <!-- EN: My surroundings are not at all {ADJECTIVE}. I am happy to be a part of a diverse community. -->
-  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>Оточення навколо мене не зовсім відповідає моїм переконанням. Я дуже {PAWN_gender ? радий : рада} бути частиною цієї різноманітної спільноти.</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>Оточення навколо мене не зовсім відповідає моїм переконанням. Я {PAWN_gender ? радий : рада} бути частиною цієї різноманітної спільноти.</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>
   <!-- EN: {ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>Оточення в стилі {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>
   <!-- EN: I am surrounded by constructions which match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES} -->

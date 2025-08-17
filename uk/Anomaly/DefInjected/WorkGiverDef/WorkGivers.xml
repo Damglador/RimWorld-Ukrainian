@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: suppress entity activity -->
-  <ActivitySuppression.label>придушувати активність істоти</ActivitySuppression.label>
+  <ActivitySuppression.label>придушувати активність аномалії</ActivitySuppression.label>
   <!-- EN: suppressing -->
   <ActivitySuppression.gerund>придушувати</ActivitySuppression.gerund>
   <!-- EN: suppress -->
@@ -25,7 +25,7 @@
   <!-- EN: tend to -->
   <DoctorTendToEntities.verb>догляд за</DoctorTendToEntities.verb>
   <!-- EN: execute entities -->
-  <ExecuteEntity.label>страчувати істот</ExecuteEntity.label>
+  <ExecuteEntity.label>страчувати аномалії</ExecuteEntity.label>
   <!-- EN: executing -->
   <ExecuteEntity.gerund>страчує</ExecuteEntity.gerund>
   <!-- EN: execute -->
@@ -49,7 +49,7 @@
   <!-- EN: interrogate -->
   <InterrogatePrisoner.verb>допитати</InterrogatePrisoner.verb>
   <!-- EN: release entities -->
-  <ReleaseEntity.label>випускати істот</ReleaseEntity.label>
+  <ReleaseEntity.label>випускати аномалії</ReleaseEntity.label>
   <!-- EN: releasing -->
   <ReleaseEntity.gerund>випускає</ReleaseEntity.gerund>
   <!-- EN: release -->
@@ -67,13 +67,13 @@
   <!-- EN: take bioferrite -->
   <TakeBioferriteOutOfHarvester.verb>збирає біоферит</TakeBioferriteOutOfHarvester.verb>
   <!-- EN: capture entity -->
-  <TakeEntityToHoldingPlatform.label>захоплювати істот</TakeEntityToHoldingPlatform.label>
+  <TakeEntityToHoldingPlatform.label>захоплювати аномалію</TakeEntityToHoldingPlatform.label>
   <!-- EN: capturing -->
   <TakeEntityToHoldingPlatform.gerund>захоплює</TakeEntityToHoldingPlatform.gerund>
   <!-- EN: capture -->
   <TakeEntityToHoldingPlatform.verb>захопити</TakeEntityToHoldingPlatform.verb>
   <!-- EN: transfer entities -->
-  <TransferEntity.label>переносити істот</TransferEntity.label>
+  <TransferEntity.label>переносити аномалію</TransferEntity.label>
   <!-- EN: transferring -->
   <TransferEntity.gerund>переносить</TransferEntity.gerund>
   <!-- EN: transfer -->

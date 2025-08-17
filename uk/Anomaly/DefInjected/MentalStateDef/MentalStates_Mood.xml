@@ -11,21 +11,21 @@
   <!-- EN: {PAWN_nameDef}'s dark visions have stopped. -->
   <DarkVisions.recoveryMessage>Темні видіння {PAWN_nameDef} скінчилися.</DarkVisions.recoveryMessage>
   <!-- EN: entity slayer -->
-  <EntityKiller.label>страта істот</EntityKiller.label>
+  <EntityKiller.label>страта аномалії</EntityKiller.label>
   <!-- EN: Mental state: Entity slayer -->
-  <EntityKiller.baseInspectLine>Психічний стан: Страта істот</EntityKiller.baseInspectLine>
+  <EntityKiller.baseInspectLine>Психічний стан: Страта аномалії</EntityKiller.baseInspectLine>
   <!-- EN: {0} has snapped. {PAWN_pronoun} can no longer tolerate holding such dangerous entities in captivity and intends to destroy as many as {PAWN_pronoun} can. -->
-  <EntityKiller.beginLetter>{0} зламано. {PAWN_pronoun} більше не може терпіти утримання таких небезпечних істот у та має намір вбити якомога більше з них.</EntityKiller.beginLetter>
+  <EntityKiller.beginLetter>{0} зламано. {PAWN_pronoun} більше не може терпіти утримання таких небезпечних аномалій та має намір вбити якомога більше з них.</EntityKiller.beginLetter>
   <!-- EN: {0} is no longer slaughtering random entities. -->
-  <EntityKiller.recoveryMessage>{0} більше не вбиває утриманих істот.</EntityKiller.recoveryMessage>
+  <EntityKiller.recoveryMessage>{0} більше не вбиває утриманих аномалій.</EntityKiller.recoveryMessage>
   <!-- EN: entity liberator -->
-  <EntityLiberator.label>звільнення істот</EntityLiberator.label>
+  <EntityLiberator.label>звільнення аномалії</EntityLiberator.label>
   <!-- EN: Mental state: Entity liberator -->
-  <EntityLiberator.baseInspectLine>Психічний стан: Звільнення істот</EntityLiberator.baseInspectLine>
+  <EntityLiberator.baseInspectLine>Психічний стан: Звільнення аномалії</EntityLiberator.baseInspectLine>
   <!-- EN: {0} has become suddenly allured by a captive entity and is convinced it must be freed. -->
-  <EntityLiberator.beginLetter>{0} раптово захоплюється полоненою істотою та вважає, що її необхідно звільнити.</EntityLiberator.beginLetter>
+  <EntityLiberator.beginLetter>{0} раптово захоплюється полоненою аномалією та вважає, що її необхідно звільнити.</EntityLiberator.beginLetter>
   <!-- EN: {0} is no longer freeing entities. -->
-  <EntityLiberator.recoveryMessage>{0} більше не звільняє істот.</EntityLiberator.recoveryMessage>
+  <EntityLiberator.recoveryMessage>{0} більше не звільняє аномалії.</EntityLiberator.recoveryMessage>
   <!-- EN: insane ramblings -->
   <InsaneRamblings.label>божевільні балачки</InsaneRamblings.label>
   <!-- EN: Mental state: Insane ramblings -->

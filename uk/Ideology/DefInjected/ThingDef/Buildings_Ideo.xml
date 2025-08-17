@@ -19,7 +19,7 @@
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>біоскульптор</BiosculpterPod.label>
   <!-- EN: An immersion pod full of bioactive gel. It can perform a variety of biological alterations including age reversal and pleasure-giving.\n\nThe pod biotunes to its user at the end of a cycle. While biotuned, it cannot be used by anyone else, but cycles will complete 25% more quickly. Biotuning resets if the pod is unused for 80 days.\n\nThe pod consumess 200W of power while working, but only 50W on standby. -->
-  <BiosculpterPod.description>An immersion pod full of bioactive gel. It can perform a variety of biological alterations including age reversal and pleasure-giving.\n\nThe pod biotunes to its user at the end of a cycle. While biotuned, it cannot be used by anyone else, but cycles will complete 25% more quickly. Biotuning resets if the pod is unused for 80 days.\n\nThe pod consumess 200W of power while working, but only 50W on standby.</BiosculpterPod.description>
+  <BiosculpterPod.description>Імерсійна капсула, наповнена біоактивним гелем. Вона може виконувати різноманітні біологічні зміни, включаючи омолодження та надання задоволення.\n\nКапсула біологічно налаштовується на свого користувача в кінці циклу. Під час біологічного налаштування вона не може використовуватися ніким іншим, але цикли завершуються на 25% швидше. Біосинхронізація скидається, якщо капсула не використовується протягом 80 днів.\n\nЦикли для людей з прихильністю трангуманізма проходить на 50% швидше.</BiosculpterPod.description>
   <!-- EN: medic -->
   <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>лікування</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
   <!-- EN: Heal all fresh wounds, blood loss, and one random infectious disease. -->

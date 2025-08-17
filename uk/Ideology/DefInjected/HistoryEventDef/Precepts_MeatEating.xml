@@ -3,5 +3,5 @@
   <!-- EN: ate meat -->
   <AteMeat.label>з'їдено м'ясо</AteMeat.label>
   <!-- EN: ate vegetarian -->
-  <AteNonMeat.label>ate vegetarian</AteNonMeat.label>
+  <AteNonMeat.label>з'їдено вегетаріанську страву</AteNonMeat.label>
 </LanguageData>

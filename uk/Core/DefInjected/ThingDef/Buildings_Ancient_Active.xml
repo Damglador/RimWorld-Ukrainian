@@ -9,7 +9,7 @@
   <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
   <AncientFuelNode.description>An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance.</AncientFuelNode.description>
   <!-- EN: hermetic crate -->
-  <AncientHermeticCrate.label>hermetic crate</AncientHermeticCrate.label>
+  <AncientHermeticCrate.label>герметичний контейнер</AncientHermeticCrate.label>
   <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
-  <AncientHermeticCrate.description>A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time.</AncientHermeticCrate.description>
+  <AncientHermeticCrate.description>Герметично закритий контейнер з автономним живленням для зберігання цінних предметів. Вони можуть зберігати свій вміст протягом тривалого часу.</AncientHermeticCrate.description>
 </LanguageData>

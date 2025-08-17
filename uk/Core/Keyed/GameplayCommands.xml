@@ -11,11 +11,11 @@
   <CommandNotForbiddenDesc>Дозволено: Вашим поселенцям будуть з цим взаємодіяти. Натисніть, щоб заборонити.</CommandNotForbiddenDesc>
   <!-- Power -->
   <!-- EN: Toggle power -->
-  <CommandTogglePowerLabel>Вімк./Вимк.</CommandTogglePowerLabel>
+  <CommandTogglePowerLabel>Увімк./Вимк.</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
   <CommandTogglePowerDesc>Перемкнути живлення.</CommandTogglePowerDesc>
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>Вімк./Вимк.</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Увімк./Вимк.</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
   <CommandDesignateTogglePowerDesc>Призначити переключення живлення. Незабаром прийде колоніст для виконання завдання.</CommandDesignateTogglePowerDesc>
   <!-- EN: Reconnect -->
@@ -287,7 +287,7 @@
   <CommandSelectPlantToGrowDesc>Визначте, яку рослину варто тут посіяти.</CommandSelectPlantToGrowDesc>
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
-  <CommandSelectMineralToScanFor>У пошуках</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>Шукати</CommandSelectMineralToScanFor>
   <!-- EN: Select the mineral type to scan for. -->
   <CommandSelectMineralToScanForDesc>Виберіть тип мінералу для сканування.</CommandSelectMineralToScanForDesc>
   <!-- Build copy -->

@@ -19,7 +19,7 @@
   <!-- EN: skipshield -->
   <BulletShield.label>стрибковий щит</BulletShield.label>
   <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected. -->
-  <BulletShield.description>Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected.</BulletShield.description>
+  <BulletShield.description>Створює сферичні стрибкові ворота, які відправляють кудись далеко усі вхідні та вихідні снаряди. Цей процес є достатньо потужним, щоб підірвати вибухові снаряди. Не працює з людьми та іншими предметами.</BulletShield.description>
   <!-- EN: burden -->
   <Burden.label>тягар</Burden.label>
   <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. -->
@@ -27,11 +27,11 @@
   <!-- EN: chaos skip -->
   <ChaosSkip.label>хаотичний стрибок</ChaosSkip.label>
   <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
-  <ChaosSkip.description>Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported.</ChaosSkip.description>
+  <ChaosSkip.description>Переміщує ціль у випадкове місце неподалік від її відправної точки. Об'єкти, розмір яких перевищує допустиме значення, не можуть бути телепортовані.</ChaosSkip.description>
   <!-- EN: chunk skip -->
   <Chunkskip.label>телепортація уламків</Chunkskip.label>
   <!-- EN: Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
-  <Chunkskip.description>Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations.</Chunkskip.description>
+  <Chunkskip.description>Розкидує 5 кам'яних чи металевих уламків навколо цільової точки. Це корисно для створення укриття під час наступальних операцій.</Chunkskip.description>
   <!-- EN: neural heat dump -->
   <EntropyDump.label>скидання пси-напруги</EntropyDump.label>
   <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
@@ -39,7 +39,7 @@
   <!-- EN: farskip -->
   <Farskip.label>далекий стрибок</Farskip.label>
   <!-- EN: Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
-  <Farskip.description>Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map.</Farskip.description>
+  <Farskip.description>Переміщує псионіка та усіх, хто поблизу нього до союзника в іншій місцевості. Ця здатність дозволяє переміщувати людей по планеті, але працює тільки якщо у пункті призначення знаходиться союзник, готовий виступити у якості "навігаційного маяка". Переміщені люди завжди з'являтимуться у точці призначення поблизу випадкового союзника.</Farskip.description>
   <!-- EN: flashstorm -->
   <Flashstorm.label>виклик грозового шторму</Flashstorm.label>
   <!-- EN: Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
@@ -59,7 +59,7 @@
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>масовий хаотичний стрибок</MassChaosSkip.label>
   <!-- EN: Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported. -->
-  <MassChaosSkip.description>Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported.</MassChaosSkip.description>
+  <MassChaosSkip.description>Переміщує усіх у певній області на випадкові позиції поблизу. Занадто великі об'єкти не можуть бути телепортовані.</MassChaosSkip.description>
   <!-- EN: neuroquake -->
   <Neuroquake.label>нейрошторм</Neuroquake.label>
   <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
@@ -73,7 +73,7 @@
   <!-- EN: skip -->
   <Skip.label>стрибок</Skip.label>
   <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
-  <Skip.description>Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported.</Skip.description>
+  <Skip.description>Телепортує ціль у бажану позицію не надто далеко від вихідної точки. Занадто великі об'єкти не можуть бути телепортовані.</Skip.description>
   <!-- EN: smokepop -->
   <Smokepop.label>пилова курява</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
@@ -117,7 +117,7 @@
   <!-- EN: word of serenity -->
   <WordOfSerenity.label>слово безтурботності</WordOfSerenity.label>
   <!-- EN: Use calming words and psychic suggestion to end a mental break on a person. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
-  <WordOfSerenity.description>Use calming words and psychic suggestion to end a mental break on a person. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break.</WordOfSerenity.description>
+  <WordOfSerenity.description>Промовте заспокійливі слова та застосовуйте психічні навіювання, щоб припинити психічний зрив у людини. Ціль впаде в короткий психічний сон. Витрата пси-фокусу залежить від інтенсивності психічного зриву цілі.</WordOfSerenity.description>
   <!-- EN: word of trust -->
   <WordOfTrust.label>слово довіри</WordOfTrust.label>
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them. -->

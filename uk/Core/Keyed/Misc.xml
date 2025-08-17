@@ -103,7 +103,7 @@
   <!-- EN: Inspect -->
   <Inspect>Оглянути</Inspect>
   <!-- EN: Edit -->
-  <Edit>Edit</Edit>
+  <Edit>Редагувати</Edit>
   <!-- Content generation-->
   <!-- EN: {0} meat -->
   <MeatLabel>м'ясо {lookup: {0}; Case; 1}</MeatLabel>

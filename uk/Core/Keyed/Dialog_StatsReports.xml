@@ -187,7 +187,7 @@
   <!-- EN: The weapon used by this turret. -->
   <Stat_Weapon_Desc>Зброя, яку використовує ця турель.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>Кількість шкоди, яку може витримати об'єкт.</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Скільки шкоди може витримати об'єкт, перш ніж бути знищеним.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>Обсяг роботи, необхідний для деінсталяції об'єкту.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Whether this building is a type of fence. Fences block these animals -->

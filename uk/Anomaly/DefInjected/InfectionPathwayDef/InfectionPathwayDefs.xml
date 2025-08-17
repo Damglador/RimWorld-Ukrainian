@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: entity attack -->
-  <EntityAttacked.label>атака суб'єкта</EntityAttacked.label>
+  <EntityAttacked.label>аномалія атакує</EntityAttacked.label>
   <!-- EN: revenant hypnotized -->
   <RevenantHypnotized.label>гіпноз ревенанта</RevenantHypnotized.label>
 </LanguageData>

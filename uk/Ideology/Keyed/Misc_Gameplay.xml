@@ -21,7 +21,7 @@
   <!-- EN: Structure -->
   <Structure>Структура</Structure>
   <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs. -->
-  <ChooseYourIdeoligionDesc>В що повинні вірити ваші початкові колоністи? Їх переконання впливають на візуальний стиль та ігровий процес. Ви зможете конвертувати інших в свою ідеологію, або прийняти їхню.</ChooseYourIdeoligionDesc>
+  <ChooseYourIdeoligionDesc>У що повинні вірити ваші початкові колоністи? Їх переконання впливають на візуальний стиль та ігровий процес. Ви зможете конвертувати інших у свою ідеологію, або прийняти їхню.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>Створити свою</CreateCustom>
   <!-- EN: Delete custom -->
@@ -91,7 +91,7 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Шанс отримати правило</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color: {COLOR}\nHaving more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort}'s favorite color: {COLOR}\nHaving more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>Улюблений колір {PAWN_labelShort}: {COLOR}\nЯкщо {PAWN_objective} одягу буде такого кольору {ORIDEO} більше ніж {PERCENTAGE}, {PAWN_possessive} відчує себе трохи щасливішою.\n\nВи можете змінити кольори одягу на перукарському столі за допомогою барвника з фарбувальної квітки.</FavoriteColorTooltip>
   <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
   <OrIdeoColor>, або кольору {PAWN_possessive} ідеології,</OrIdeoColor>
   <!-- EN: Set ideo color -->
@@ -99,9 +99,9 @@
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>Улюблений колір</SetFavoriteColor>
   <!-- EN: {PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
-  <FavoriteColorPickerTip>{PAWN_nameDef}'s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.</FavoriteColorPickerTip>
+  <FavoriteColorPickerTip> Улюблений колір {PAWN_nameDef}. Якщо {PAWN_objective} одягнений у цей колір або колір ідеології {PAWN_possessive}, це зробить його трохи щасливішим.</FavoriteColorPickerTip>
   <!-- EN: {PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
-  <IdeoColorPickerTip>{PAWN_nameDef}'s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier.</IdeoColorPickerTip>
+  <IdeoColorPickerTip>Колір ідеології {PAWN_nameDef}. Якщо {PAWN_nameDef} одягнений у цей колір (або в улюблений колір {PAWN_possessive}), це зробить {PAWN_objective} трохи щасливішим.</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>Налаштувати ідеологію фракції</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
@@ -199,13 +199,13 @@
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
   <RitualTargetConnectionTornGauranlenTree>Зв'язок з {TREE_definite} обірвався. Ритуал зв'язування можна повторити через {1}.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({1} total). -->
-  <RitualTargetWoodInfo>You need {0} wood for each participant ({1} total).</RitualTargetWoodInfo>
+  <RitualTargetWoodInfo>Вам потрібно {0} деревини для кожного учасника (всього {1}).</RitualTargetWoodInfo>
   <!-- EN: A participant cannot reach enough wood. -->
-  <RitualTargetWoodInfoAppend>A participant cannot reach enough wood.</RitualTargetWoodInfoAppend>
+  <RitualTargetWoodInfoAppend>Учасник не може дістати достатньо деревини.</RitualTargetWoodInfoAppend>
   <!-- EN: {0} participants cannot reach enough wood. -->
-  <RitualTargetWoodInfoAppendMultiple>{0} participants cannot reach enough wood.</RitualTargetWoodInfoAppendMultiple>
+  <RitualTargetWoodInfoAppendMultiple>{0} учасників не можуть дістати достатньо деревини.</RitualTargetWoodInfoAppendMultiple>
   <!-- EN: {PAWN_labelShort} cannot reach enough wood. -->
-  <RitualTargetWoodInfoWarning>{PAWN_labelShort} cannot reach enough wood.</RitualTargetWoodInfoWarning>
+  <RitualTargetWoodInfoWarning>{PAWN_labelShort} не може дістати достатньо деревини.</RitualTargetWoodInfoWarning>
   <!-- EN: {0} must be able to reach ritual target. -->
   <RitualTargetUnreachable>{0} не має можливості добратися до цілі ритуалу.</RitualTargetUnreachable>
   <!-- EN: Accuse -->
@@ -367,7 +367,7 @@
   <!-- EN: Relic info found -->
   <RelicInfoFound>Знайдено відомості про реліквію</RelicInfoFound>
   <!-- EN: inactive, requires at least {0} {1}s (have {2}) -->
-  <InactiveRoleRequiresMoreBelievers>inactive, requires at least {0} {1}s (have {2})</InactiveRoleRequiresMoreBelievers>
+  <InactiveRoleRequiresMoreBelievers>неактивний, вимагає щонайменше {0} {1} (має {2})</InactiveRoleRequiresMoreBelievers>
   <!-- EN: certainty -->
   <Certainty>впевненість</Certainty>
   <!-- Slave interaction -->
@@ -616,5 +616,5 @@
   <!-- EN: No available styles. -->
   <ChangeStyleDisabledNoCategories>Немає доступних стилів.</ChangeStyleDisabledNoCategories>
   <!-- EN: Spacedrone self-destructs in {0} -->
-  <SpacedroneSelfDestructsIn>Spacedrone self-destructs in {0}</SpacedroneSelfDestructsIn>
+  <SpacedroneSelfDestructsIn>Космічний дрон самознищиться через {0}</SpacedroneSelfDestructsIn>
 </LanguageData>
