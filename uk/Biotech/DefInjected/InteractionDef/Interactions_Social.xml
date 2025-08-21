@@ -576,12 +576,12 @@
     <li>action_gerund->reloading</li>
   -->
   <LessonShooting.logRulesInitiator.rulesStrings>
-    <li>article_tool->a rifle</li>
+    <li>article_tool->гвинтівкою</li>
     <li>article_tool->a pistol</li>
     <li>article_tool->a shotgun</li>
-    <li>article_tool->a rocket launcher</li>
+    <li>article_tool->пусковою установкою</li>
     <li>article_tool->an SMG</li>
-    <li>article_tool->a minigun</li>
+    <li>article_tool->мініґаном</li>
     <li>article_tool->a short bow</li>
     <li>article_tool->a recurve bow</li>
     <li>article_tool->a greatbow</li>

@@ -35,7 +35,7 @@
   <!-- EN: mechband dish -->
   <MechbandDish.label>мех-діапазонна станція</MechbandDish.label>
   <!-- EN: A mech-band signaling device more powerful than the normal mechband antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
-  <MechbandDish.description>A mech-band signaling device more powerful than the normal mechband antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once.</MechbandDish.description>
+  <MechbandDish.description>Пристрій для відправлення сигналу в мех-діапазоні, значно потужніший, ніж мех-діапазонна антена. При активації випускає потужний сигнал, який привертає увагу надважкого механоїда та його супроводу. Якщо ви переможете їх, ви зможете отримати доступ до спеціальних технологій. Сигнал настільки потужний, що спалює станцію. Тому цей пристрій одноразовий.</MechbandDish.description>
   <!-- EN: Summon apocriton threat -->
   <MechbandDish.comps.CompUsable.useLabel>Викликати апокритона</MechbandDish.comps.CompUsable.useLabel>
   <!-- EN: mech booster -->

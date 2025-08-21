@@ -7,8 +7,8 @@
   -->
   <ArtDescription_Furniture.rulePack.rulesStrings>
     <li>physical_description_root->На цих меблях вигравіювано [depiction] [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]</li>
-    <li>physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Ці меблі мають [depiction] про [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Гравюра на цій меблях [depicts] [image]. [desc_sentence_group]</li>
   </ArtDescription_Furniture.rulePack.rulesStrings>
   <!-- EN:
     <li>physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]</li>

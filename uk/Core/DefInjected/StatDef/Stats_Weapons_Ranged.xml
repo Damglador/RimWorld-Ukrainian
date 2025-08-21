@@ -35,7 +35,7 @@
   <!-- EN: A multiplier applied to this weapon's range. -->
   <RangedWeapon_RangeMultiplier.description>A multiplier applied to this weapon's range.</RangedWeapon_RangeMultiplier.description>
   <!-- EN: aiming time multiplier -->
-  <RangedWeapon_WarmupMultiplier.label>aiming time multiplier</RangedWeapon_WarmupMultiplier.label>
+  <RangedWeapon_WarmupMultiplier.label>множник часу прицілювання</RangedWeapon_WarmupMultiplier.label>
   <!-- EN: A multiplier applied to this weapon's aiming time. -->
-  <RangedWeapon_WarmupMultiplier.description>A multiplier applied to this weapon's aiming time.</RangedWeapon_WarmupMultiplier.description>
+  <RangedWeapon_WarmupMultiplier.description>Множник, що застосовується до часу прицілювання цієї зброї.</RangedWeapon_WarmupMultiplier.description>
 </LanguageData>

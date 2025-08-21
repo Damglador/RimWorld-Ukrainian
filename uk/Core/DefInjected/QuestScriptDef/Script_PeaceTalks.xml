@@ -17,7 +17,7 @@
     <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect].[leaderPawnInfo]</li>
     <li>extraLeaderPart-></li>
     <li>leaderRoleEffect->Інші фракції поважатимуть вас більше, якщо перемовником з вашого боку виступить лідер вашої фракції</li>
-    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)->[playerFaction_leaderTitle] ([playerFaction_leader_nameFull]) отримає бонус до успішності переговорів.</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)->[playerFaction_leaderTitle] [playerFaction_leader_nameFull] отримає бонус до успішності переговорів.</li>
     <li>leaderPawnInfo-></li>
   </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
   <!-- EN:

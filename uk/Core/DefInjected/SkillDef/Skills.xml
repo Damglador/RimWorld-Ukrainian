@@ -19,18 +19,18 @@
     <li>subject->poultry</li>
   -->
   <Animals.generalRules.rulesStrings>
-    <li>subject->animals</li>
-    <li>subject->herding</li>
-    <li>subject->taming</li>
-    <li>subject->livestock</li>
-    <li>subject->breeding</li>
-    <li>subject->zoology</li>
-    <li>subject->husbandry</li>
-    <li>subject->herding</li>
-    <li>subject->domestication</li>
-    <li>subject->fauna</li>
-    <li>subject->wildlife</li>
-    <li>subject->poultry</li>
+    <li>subject->тваринництво</li>
+    <li>subject->випасання</li>
+    <li>subject->приборкування</li>
+    <li>subject->поголів'я</li>
+    <li>subject->розведення</li>
+    <li>subject->зоологія</li>
+    <li>subject->господарство</li>
+    <li>subject->випасання</li>
+    <li>subject->одомашнення</li>
+    <li>subject->фауна</li>
+    <li>subject->дикі тварини</li>
+    <li>subject->птиця</li>
   </Animals.generalRules.rulesStrings>
   <!-- EN: animals -->
   <Animals.skillLabel>тваринництво</Animals.skillLabel>
@@ -52,17 +52,17 @@
     <li>subject->artistry</li>
   -->
   <Artistic.generalRules.rulesStrings>
-    <li>subject->art</li>
-    <li>subject->pottery</li>
-    <li>subject->sculpting</li>
-    <li>subject->painting</li>
-    <li>subject->creativity</li>
-    <li>subject->expression</li>
-    <li>subject->aesthetics</li>
-    <li>subject->design</li>
-    <li>subject->sculpture</li>
-    <li>subject->impressionism</li>
-    <li>subject->artistry</li>
+    <li>subject->мистецтво</li>
+    <li>subject->гончарство</li>
+    <li>subject->скульптура</li>
+    <li>subject->малювання</li>
+    <li>subject->творчість</li>
+    <li>subject->вираження</li>
+    <li>subject->естетика</li>
+    <li>subject->дизайн</li>
+    <li>subject->скульптура</li>
+    <li>subject->імпресіонізм</li>
+    <li>subject->артистизм</li>
   </Artistic.generalRules.rulesStrings>
   <!-- EN: artistic -->
   <Artistic.skillLabel>мистецтво</Artistic.skillLabel>
@@ -83,16 +83,16 @@
     <li>subject->infrastructure</li>
   -->
   <Construction.generalRules.rulesStrings>
-    <li>subject->construction</li>
-    <li>subject->building</li>
-    <li>subject->architecture</li>
-    <li>subject->engineering</li>
-    <li>subject->design</li>
-    <li>subject->renovation</li>
-    <li>subject->structures</li>
-    <li>subject->foundation</li>
-    <li>subject->carpentry</li>
-    <li>subject->infrastructure</li>
+    <li>subject->споруди</li>
+    <li>subject->будівництво</li>
+    <li>subject->архітектура</li>
+    <li>subject->інженерія</li>
+    <li>subject->дизайн</li>
+    <li>subject->реновація</li>
+    <li>subject->структури</li>
+    <li>subject->фундамент</li>
+    <li>subject->теслярство</li>
+    <li>subject->інфраструктура</li>
   </Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
   <Construction.skillLabel>будівництво</Construction.skillLabel>
@@ -116,19 +116,19 @@
     <li>subject->meals</li>
   -->
   <Cooking.generalRules.rulesStrings>
-    <li>subject->cooking</li>
-    <li>subject->food</li>
-    <li>subject->baking</li>
-    <li>subject->cuisine</li>
-    <li>subject->recipes</li>
-    <li>subject->gastronomy</li>
-    <li>subject->flavors</li>
-    <li>subject->ingredients</li>
-    <li>subject->spices</li>
-    <li>subject->nutrition</li>
-    <li>subject->taste</li>
-    <li>subject->sauces</li>
-    <li>subject->meals</li>
+    <li>subject->готування</li>
+    <li>subject->їжа</li>
+    <li>subject->випічка</li>
+    <li>subject->кухня</li>
+    <li>subject->рецепти</li>
+    <li>subject->гастрономія</li>
+    <li>subject->смаки</li>
+    <li>subject->інгредієнти</li>
+    <li>subject->приправи</li>
+    <li>subject->поживність</li>
+    <li>subject->смак</li>
+    <li>subject->соуси</li>
+    <li>subject->страви</li>
   </Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
   <Cooking.skillLabel>кулінарія</Cooking.skillLabel>
@@ -148,15 +148,15 @@
     <li>subject->artisanry</li>
   -->
   <Crafting.generalRules.rulesStrings>
-    <li>subject->crafting</li>
-    <li>subject->assembly</li>
-    <li>subject->manufacturing</li>
-    <li>subject->handcrafting</li>
-    <li>subject->fabrication</li>
-    <li>subject->production</li>
-    <li>subject->craftsmanship</li>
-    <li>subject->machining</li>
-    <li>subject->artisanry</li>
+    <li>subject->вироби</li>
+    <li>subject->збірка</li>
+    <li>subject->виробництво</li>
+    <li>subject->ручна робота</li>
+    <li>subject->виробництво</li>
+    <li>subject->виробництво</li>
+    <li>subject->майстерність</li>
+    <li>subject->обробка</li>
+    <li>subject->ремісництво</li>
   </Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
   <Crafting.skillLabel>ремесло</Crafting.skillLabel>
@@ -190,29 +190,29 @@
     <li>subject->intellectual inquiry</li>
   -->
   <Intellectual.generalRules.rulesStrings>
-    <li>subject->physics</li>
-    <li>subject->chemistry</li>
-    <li>subject->orbital dynamics</li>
-    <li>subject->mathematics</li>
-    <li>subject->biology</li>
-    <li>subject->science</li>
-    <li>subject->research</li>
-    <li>subject->innovation</li>
-    <li>subject->discovery</li>
-    <li>subject->analysis</li>
-    <li>subject->experimentation</li>
-    <li>subject->knowledge</li>
-    <li>subject->exploration</li>
-    <li>subject->physics</li>
-    <li>subject->chemistry</li>
-    <li>subject->data analysis</li>
-    <li>subject->scientific inquiry</li>
-    <li>subject->intellectual growth</li>
-    <li>subject->academic pursuits</li>
-    <li>subject->quantitative analysis</li>
-    <li>subject->experiment design</li>
-    <li>subject->research methods</li>
-    <li>subject->intellectual inquiry</li>
+    <li>subject->фізика</li>
+    <li>subject->хімія</li>
+    <li>subject->орбітальна динаміка</li>
+    <li>subject->математика</li>
+    <li>subject->біологія</li>
+    <li>subject->наука</li>
+    <li>subject->дослідження</li>
+    <li>subject->інновації</li>
+    <li>subject->відкриття</li>
+    <li>subject->аналіз</li>
+    <li>subject->експерименти</li>
+    <li>subject->знання</li>
+    <li>subject->дослідження</li>
+    <li>subject->фізика</li>
+    <li>subject->хімія</li>
+    <li>subject->аналіз даних</li>
+    <li>subject->наукове дослідження</li>
+    <li>subject->інтелектуальний ріст</li>
+    <li>subject->академічні досягнення</li>
+    <li>subject->аналіз чисел</li>
+    <li>subject->експериментальний дизайн</li>
+    <li>subject->методи дослідження</li>
+    <li>subject->інтелектуальне дослідження</li>
   </Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
   <Intellectual.skillLabel>інтелект</Intellectual.skillLabel>
@@ -245,28 +245,28 @@
     <li>subject->health sciences</li>
   -->
   <Medicine.generalRules.rulesStrings>
-    <li>subject->medicine</li>
-    <li>subject->surgery</li>
-    <li>subject->bacteria</li>
-    <li>subject->skin repair</li>
-    <li>subject->healthcare</li>
-    <li>subject->medical science</li>
-    <li>subject->physiology</li>
-    <li>subject->pharmacology</li>
-    <li>subject->treatment</li>
-    <li>subject->diagnosis</li>
-    <li>subject->surgery</li>
-    <li>subject->anatomy</li>
-    <li>subject->bacteria</li>
-    <li>subject->pathology</li>
-    <li>subject->disease management</li>
-    <li>subject->patient care</li>
-    <li>subject->emergency medicine</li>
-    <li>subject->nursing</li>
-    <li>subject->medical research</li>
-    <li>subject->public health</li>
-    <li>subject->virology</li>
-    <li>subject->health sciences</li>
+    <li>subject->медицина</li>
+    <li>subject->хірургія</li>
+    <li>subject->бактерія</li>
+    <li>subject->відновлення шкіри</li>
+    <li>subject->здоров'я</li>
+    <li>subject->медицина</li>
+    <li>subject->психологія</li>
+    <li>subject->фармакологія</li>
+    <li>subject->піклування</li>
+    <li>subject->діагностика</li>
+    <li>subject->операція</li>
+    <li>subject->анатомія</li>
+    <li>subject->бактерія</li>
+    <li>subject->патологія</li>
+    <li>subject->управління захворюваннями</li>
+    <li>subject->догляд за пацієнтом</li>
+    <li>subject->невідкладна медицина</li>
+    <li>subject->медсестринство</li>
+    <li>subject->медичне дослідження</li>
+    <li>subject->громадське здоров'я</li>
+    <li>subject->вірусологія</li>
+    <li>subject->медицина</li>
   </Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
   <Medicine.skillLabel>медицина</Medicine.skillLabel>
@@ -288,17 +288,17 @@
     <li>subject->dueling</li>
   -->
   <Melee.generalRules.rulesStrings>
-    <li>subject->fighting</li>
-    <li>subject->melee</li>
-    <li>subject->combat</li>
-    <li>subject->martial arts</li>
-    <li>subject->swordplay</li>
-    <li>subject->weaponry</li>
-    <li>subject->brawling</li>
-    <li>subject->pugilism</li>
-    <li>subject->fencing</li>
-    <li>subject->knighthood</li>
-    <li>subject->dueling</li>
+    <li>subject->бої</li>
+    <li>subject->ближній бій</li>
+    <li>subject->бій</li>
+    <li>subject->бойові мистецтва</li>
+    <li>subject->фехтування</li>
+    <li>subject->зброя</li>
+    <li>subject->бійки</li>
+    <li>subject->бокс</li>
+    <li>subject->фехтування</li>
+    <li>subject->лицарство</li>
+    <li>subject->дуелянство</li>
   </Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
   <Melee.skillLabel>ближній бій</Melee.skillLabel>
@@ -322,19 +322,19 @@
     <li>subject->earthmoving</li>
   -->
   <Mining.generalRules.rulesStrings>
-    <li>subject->mining</li>
-    <li>subject->digging</li>
-    <li>subject->quarrying</li>
-    <li>subject->strip-mining</li>
-    <li>subject->excavation</li>
-    <li>subject->prospecting</li>
-    <li>subject->ore</li>
-    <li>subject->tunneling</li>
-    <li>subject->drilling</li>
-    <li>subject->minerals</li>
-    <li>subject->gemology</li>
-    <li>subject->geology</li>
-    <li>subject->earthmoving</li>
+    <li>subject->шахтарство</li>
+    <li>subject->копання</li>
+    <li>subject->кар'єри</li>
+    <li>subject->проходи</li>
+    <li>subject->розкопки</li>
+    <li>subject->пошуки</li>
+    <li>subject->руда</li>
+    <li>subject->тунелі</li>
+    <li>subject->буріння</li>
+    <li>subject->мінерали</li>
+    <li>subject->ґемологія</li>
+    <li>subject->ґеологія</li>
+    <li>subject->землерійство</li>
   </Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
   <Mining.skillLabel>гірництво</Mining.skillLabel>
@@ -362,23 +362,23 @@
     <li>subject->crop science</li>
   -->
   <Plants.generalRules.rulesStrings>
-    <li>subject->plants</li>
-    <li>subject->herbs</li>
-    <li>subject->vegetables</li>
-    <li>subject->flora</li>
-    <li>subject->cultivation</li>
-    <li>subject->horticulture</li>
-    <li>subject->agriculture</li>
-    <li>subject->gardening</li>
-    <li>subject->farming</li>
-    <li>subject->harvesting</li>
-    <li>subject->permaculture</li>
-    <li>subject->botany</li>
-    <li>subject->crop management</li>
-    <li>subject->soil enrichment</li>
-    <li>subject->organic farming</li>
-    <li>subject->food production</li>
-    <li>subject->crop science</li>
+    <li>subject->рослини</li>
+    <li>subject->трави</li>
+    <li>subject->овочі</li>
+    <li>subject->флора</li>
+    <li>subject->культивація</li>
+    <li>subject->садівництво</li>
+    <li>subject->агрономія</li>
+    <li>subject->садівництво</li>
+    <li>subject->фермерство</li>
+    <li>subject->збирання</li>
+    <li>subject->пермакультура</li>
+    <li>subject->ботаніка</li>
+    <li>subject->управління врожаями</li>
+    <li>subject->добрива</li>
+    <li>subject->органіка</li>
+    <li>subject->виробництво їжі</li>
+    <li>subject->рослинництво</li>
   </Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
   <Plants.skillLabel>рослинництво</Plants.skillLabel>
@@ -408,23 +408,23 @@
   -->
   <Shooting.generalRules.rulesStrings>
     <li>subject->зброї</li>
-    <li>subject->weapons</li>
-    <li>subject->aiming</li>
-    <li>subject->shooting</li>
-    <li>subject->gunplay</li>
-    <li>subject->marksmanship</li>
-    <li>subject->firearms</li>
-    <li>subject->sniping</li>
-    <li>subject->ballistics</li>
-    <li>subject->long-range combat</li>
-    <li>subject->precision shooting</li>
-    <li>subject->rifle mastery</li>
+    <li>subject->зброя</li>
+    <li>subject->прицілювання</li>
+    <li>subject->стрільба</li>
+    <li>subject->перестрілка</li>
+    <li>subject->снайперство</li>
+    <li>subject->вогнепали</li>
+    <li>subject->снайпінг</li>
+    <li>subject->балістика</li>
+    <li>subject->дистанційний бій</li>
+    <li>subject->точна стрільба</li>
+    <li>subject->володіння гвинтівками</li>
     <li>subject->ціль практики</li>
-    <li>subject->sharpshooting</li>
-    <li>subject->ranged tactics</li>
-    <li>subject->shot placement</li>
-    <li>subject->gun handling</li>
-    <li>subject->distance shooting</li>
+    <li>subject->влучна стрільба</li>
+    <li>subject->тактика дальнього бою</li>
+    <li>subject->купність</li>
+    <li>subject->поводження зі зброєю</li>
+    <li>subject->стрільба на відстань</li>
   </Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
   <Shooting.skillLabel>стрільба</Shooting.skillLabel>
@@ -452,23 +452,23 @@
     <li>subject->communication skills</li>
   -->
   <Social.generalRules.rulesStrings>
-    <li>subject->communication</li>
-    <li>subject->networking</li>
-    <li>subject->conflict resolution</li>
-    <li>subject->collaboration</li>
-    <li>subject->leadership</li>
-    <li>subject->empathy</li>
-    <li>subject->negotiation</li>
-    <li>subject->trade</li>
-    <li>subject->listening</li>
-    <li>subject->diplomacy</li>
-    <li>subject->teamwork</li>
-    <li>subject->etiquette</li>
-    <li>subject->charisma</li>
-    <li>subject->social intelligence</li>
-    <li>subject->assertiveness</li>
-    <li>subject->emotional intelligence</li>
-    <li>subject->communication skills</li>
+    <li>subject->спілкування</li>
+    <li>subject->нетворкінг</li>
+    <li>subject->вирішення конфліктів</li>
+    <li>subject->співпраця</li>
+    <li>subject->лідерство</li>
+    <li>subject->емпатія</li>
+    <li>subject->перемовини</li>
+    <li>subject->торгівля</li>
+    <li>subject->слухання</li>
+    <li>subject->дипломатія</li>
+    <li>subject->робота в команді</li>
+    <li>subject->етикет</li>
+    <li>subject->харизма</li>
+    <li>subject->соціальний інтелект</li>
+    <li>subject->впевненість</li>
+    <li>subject->емоційний інтелект</li>
+    <li>subject->навички комунікації</li>
   </Social.generalRules.rulesStrings>
   <!-- EN: social -->
   <Social.skillLabel>соціальність</Social.skillLabel>

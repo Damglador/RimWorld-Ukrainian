@@ -174,11 +174,11 @@
     <li>subject_gerund->constructing rocket turrets</li>
   -->
   <RocketswarmLauncher.generalRules.rulesStrings>
-    <li>subject->rocket turrets</li>
-    <li>subject_story->testified about the use of rocketswarm launchers against civilian targets</li>
-    <li>subject_story->constructed last-ditch defenses, including traps and launchers, in case the settlement was ever threatened</li>
-    <li>subject_story->started by constructing primitive rockets to reach space, but the high failure rate led to them being repurposed as weapons</li>
-    <li>subject_gerund->constructing rocket turrets</li>
+    <li>subject->ракетні турелі</li>
+    <li>subject_story->засвідчив про використання ракетних установок проти цивільних об'єктів</li>
+    <li>subject_story-> будував останні оборонні споруди, включаючи пастки та пускові установки, на випадок, якщо поселення коли-небудь опиниться під загрозою</li>
+    <li>subject_story->почав з конструювання примітивних ракет для досягнення космосу, але високий рівень невдач призвів до того, що їх перепрофілювали на зброю</li>
+    <li>subject_gerund->будує ракетні турелі</li>
   </RocketswarmLauncher.generalRules.rulesStrings>
   <!-- EN: uranium slug turret -->
   <SniperTurret.label>високоточна турель</SniperTurret.label>

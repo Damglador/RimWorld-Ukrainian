@@ -29,9 +29,9 @@
   -->
   <LongRangeMineralScannerLump.questNameRules.rulesStrings>
     <li>questName->[lump] {lookup: [targetMineable_label]; Case; 1}</li>
-    <li>questName->[adj_lump] {lookup: [targetMineable_label]; Case; 1}</li>
+    <li>questName->[lump] {lookup: [targetMineable_label]; Case; 1}</li>
     <li>questName->[discovered] [lump] {lookup: [targetMineable_label]; Case; 1}</li>
-    <li>questName->[discovered] [adj_lump] {lookup: [targetMineable_label]; Case; 1}</li>
+    <li>questName->[discovered] [adj] {lookup: [targetMineable_label]; Case; 1}</li>
     <li>questName->[targetMineableThing_label] [discovered]</li>
     <li>lump->скупчення</li>
     <li>lump->купа</li>
@@ -39,14 +39,14 @@
     <li>lump->пласт</li>
     <li>lump->уламки</li>
     <li>lump->насип</li>
-    <li>adj->distant</li>
-    <li>adj->far</li>
-    <li>adj->unknown</li>
-    <li>adj->scanned</li>
-    <li>discovered->discovered</li>
-    <li>discovered->detected</li>
-    <li>discovered->found</li>
-    <li>discovered->scanned</li>
+    <li>adj->далекі</li>
+    <li>adj->віддалені</li>
+    <li>adj->невідомі</li>
+    <li>adj->проскановані</li>
+    <li>discovered->розкрили</li>
+    <li>discovered->виявлено</li>
+    <li>discovered->знайдено</li>
+    <li>discovered->проскановано</li>
   </LongRangeMineralScannerLump.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>Завдання більше не актуальне: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>

@@ -31,8 +31,8 @@
     <li>mapRemovedLetterText->The map was left behind before the crashed [asker_faction_pawnsPlural] could be collected. The [asker_faction_pawnsPlural] will now leave on foot.\n\n[failLetterEndingCommon]</li>
   -->
   <ShuttleCrash_Rescue.questContentRules.rulesStrings>
-    <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.</li>
-    <li>successLetterEndingCommon->You have succesfully completed the quest '[resolvedQuestName]'.</li>
+    <li>failLetterEndingCommon->Ви провалили завдання '[resolvedQuestName]'.</li>
+    <li>successLetterEndingCommon->Ви успішно завершили квест '[resolvedQuestName]'.</li>
     <li>goodwillSomeCiviliansLost->Not all the [asker_faction_pawnSingular] [pawnLabel] could be rescued. [goodwillNegativelyAffected]</li>
     <li>goodwillAllCiviliansLost->None of the [asker_faction_pawnSingular] [pawnLabelPlural] could be rescued. [goodwillNegativelyAffected]</li>
     <li>goodwillNegativelyAffected->Your goodwill with [asker_faction_name] has been negatively affected for every [pawnLabel] left.</li>
@@ -40,7 +40,7 @@
     <li>raidArrivedLetterLabel->Рейд: [enemyFaction_name]</li>
     <li>raidArrivedLetterText->[enemyFaction_pawnsPlural] з [enemyFaction_name] прибули. Вони атакуватимуть [asker_faction_pawnsPlural], котрі розбилися на [map_definite].\n\nЗахистіть [asker_faction_pawnsPlural], поки їх шатл не прибуде через [rescueShuttleAfterRaidDelay_duration].</li>
     <li>rescueShuttleArrivedLetterLabel->Rescue shuttle arrived</li>
-    <li>rescueShuttleArrivedLetterText->The rescue shuttle has arrived to collect the [pawnLabelSingleOrPlural] who crashed landed. Make sure to have these people on the shuttle before it leaves in [leaveDelay_duration]:\n\n[civilians]</li>
+    <li>rescueShuttleArrivedLetterText->Рятувальний шатл прибув, щоб забрати [pawnLabelSingleOrPlural], які зазнали аварійної посадки. Переконайтеся, що ці люди знаходяться в шатлі, перш ніж він відлетить через [leaveDelay_duration]:\n\n[civilians]</li>
     <li>questCompletedSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>
     <li>questCompletedSuccessLetterText->[commanderLandingDesc], успішно {asker_gender ? (врятувався) : (врятувалася) }. [asker_pronoun] {asker_gender ? (вдячний) : (вдячна) } за отриману у [map_definite] допомогу.\n\n[successLetterEndingCommon]</li>
     <li>questCompletedCiviliansLostSuccessLetterLabel->Quest completed: [resolvedQuestName]</li>

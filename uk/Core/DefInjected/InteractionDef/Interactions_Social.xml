@@ -34,7 +34,7 @@
     <li>talkedabout->балакають про</li>
     <li>talkedabout->жартують про</li>
     <li>talkedabout->висміюють</li>
-    <li>commentedabout->розкачує щось про</li>
+    <li>commentedabout->розказує щось про</li>
     <li>commentedabout->вставляє слово про</li>
     <li>commentedabout->робить жарт про</li>
     <li>commentedabout->робить коментар про</li>
@@ -104,16 +104,16 @@
     <li>insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object</li>
   -->
   <Insult.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [characteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] compared [target] to [insultcomparison].</li>
-    <li>r_logentry->[INITIATOR_nameDef] called [target] [insultcomparison].</li>
-    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] called [target] a false idol worshipper.</li>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target] через {target_gender ? його : її} [characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] порівнює[target] з [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] називає[target] [insultcomparison].</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] називає [target] хибним послідовником.</li>
     <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] implied that [target] had been driven insane by the golden cube.</li>
-    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] [insulted] the golden cube.</li>
+    <li>r_logentry(INITIATOR_cubeInterest==false,RECIPIENT_cubeInterest==true)->[INITIATOR_nameDef] ображає золотий куб.</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
     <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>target->[PersonFamily] [RECIPIENT_nameDef]</li>
     <li>insulted(p=3)->ображає</li>
     <li>insulted->відкрито ображає</li>
     <li>insulted->голосно ображає</li>
@@ -151,7 +151,7 @@
     <li>complimented->said good things about</li>
   -->
   <KindWords.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] каже комплімент про [RECIPIENT_nameDef]'s [characteristic].</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
     <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>зробили комплімент(p=3)->зробив комплімент</li>
@@ -190,11 +190,11 @@
     <li>madefunof->offered a backhanded compliment about</li>
   -->
   <Slight.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [characteristic] [target].</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
     <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
-    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>target->PersonFamily] [RECIPIENT_nameDef]</li>
     <li>висміяли->висміяв</li>
     <li>висміяли->зневажив</li>
     <li>висміяли->делікатно висміяв</li>
@@ -204,8 +204,8 @@
     <li>висміяли->сміявся з</li>
     <li>висміяли->хихикнув з</li>
     <li>висміяли->мав на увазі погані речі, пов'язані з</li>
-    <li>madefunof->belittled</li>
-    <li>madefunof->made a contemptuous remark about</li>
-    <li>madefunof->offered a backhanded compliment about</li>
+    <li>madefunof->принижує</li>
+    <li>madefunof->робить презирливе зауваження щодо</li>
+    <li>madefunof->робить нещирий комплімент про</li>
   </Slight.logRulesInitiator.rulesStrings>
 </LanguageData>

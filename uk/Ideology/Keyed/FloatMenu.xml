@@ -121,7 +121,7 @@
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>Для циклу омолодження необхідно бути не молодше {0} р.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
-  <CarryToBiosculpterPod>Віднести {PAWN_labelShort} в біоскульптор ({CYCLE} cycle)</CarryToBiosculpterPod>
+  <CarryToBiosculpterPod>Віднести {PAWN_labelShort} у біоскульптор (цикл {CYCLE})</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
   <CannotCarryToBiosculpterPod>Неможливо нести в біоскульптор</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->

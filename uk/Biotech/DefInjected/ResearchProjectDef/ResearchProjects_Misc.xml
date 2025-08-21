@@ -3,7 +3,7 @@
   <!-- EN: archogenetics -->
   <Archogenetics.label>архогенетика</Archogenetics.label>
   <!-- EN: Allows a gene assembler to use archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders. -->
-  <Archogenetics.description>Allows a gene assembler to use archite capsules to create seemingly impossible genes. Archite genes and archite capsules can be obtained from traders.</Archogenetics.description>
+  <Archogenetics.description>Дозволяє використовувати архітні капсули в збирачі генів, щоб створити немислимі ксенозародки. Архітні гени та капсули можуть бути куплені у торговців.</Archogenetics.description>
   <!-- EN:
     <li>subject->archogenetics</li>
     <li>subject_story->excavated archite genes from the transcendent moon of Ix</li>
@@ -13,7 +13,7 @@
     <li>subject_gerund->creating seemingly impossible genes</li>
   -->
   <Archogenetics.generalRules.rulesStrings>
-    <li>subject->archogenetics</li>
+    <li>subject->архогенетика</li>
     <li>subject_story->excavated archite genes from the transcendent moon of Ix</li>
     <li>subject_story->made a good living as an archite gene trader</li>
     <li>subject_story->led a research expedition to an ancient monolith and returned changed</li>

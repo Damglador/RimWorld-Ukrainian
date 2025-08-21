@@ -1633,7 +1633,7 @@
   <!-- EN: army brat -->
   <UrbworldArmyBrat84.titleShort>помічник</UrbworldArmyBrat84.titleShort>
   <!-- EN: [PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.\n\nWhen [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons. -->
-  <UrbworldChild56.description>[PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.\n\nWhen [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons.</UrbworldChild56.description>
+  <UrbworldChild56.description>{PAWN_nameDef} {PAWN_gender ? виріс : виросла} на ізольованих висотах урбанізованого світу. Через страх висоти, {PAWN_pronoun} більшість часу {PAWN_gender ? проводив : проводила} в квартирі.\n\nКоли ж {PAWN_pronoun} усе-таки {PAWN_gender ? виходив : виходила} з квартири, {PAWN_pronoun} {PAWN_gender ? полюбляв : полюбляла} грати у військові ігри, та навчатися володіти імітаційною зброєю.</UrbworldChild56.description>
   <!-- EN: urbworld child -->
   <UrbworldChild56.title>дитя урбанізованого світу</UrbworldChild56.title>
   <!-- EN: urbkid -->

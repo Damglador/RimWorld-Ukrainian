@@ -209,7 +209,7 @@
     <li>subject_gerund->causing it to rain blood</li>
   -->
   <BloodRain.generalRules.rulesStrings>
-    <li>subject->blood rain</li>
+    <li>subject->кривавий дощ</li>
     <li>subject_story->investigated ancient deist myths about organic precipitation</li>
     <li>subject_story->studied the neural pathways of anger sufferers</li>
     <li>subject_story->sampled psychofluid flows on the transcendent world of Ix</li>
