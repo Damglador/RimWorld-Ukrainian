@@ -4,7 +4,7 @@ set -e
 cd "$(dirname "$0")"
 
 export CROWDIN_PROJECT_ID=295257
-[ -z "$CROWDIN_PERSONAL_TOKEN" ] && export CROWDIN_PERSONAL_TOKEN=$(pass show crowdin/api/rimworld)
+[ -z "$CROWDIN_PERSONAL_TOKEN" ] && export CROWDIN_PERSONAL_TOKEN=$(pass crowdin/api/rimworld)
 
 MOD_DIR=Mod
 
