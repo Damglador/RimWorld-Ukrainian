@@ -9,7 +9,7 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <Entities.messageDefendersAttacking>{0} з {1} атакують вашу {2}.</Entities.messageDefendersAttacking>
   <!-- EN: entity -->
-  <Entities.pawnSingular>істота</Entities.pawnSingular>
+  <Entities.pawnSingular>аномалія</Entities.pawnSingular>
   <!-- EN: entities -->
   <Entities.pawnsPlural>істоти</Entities.pawnsPlural>
   <!-- EN: horax cult -->

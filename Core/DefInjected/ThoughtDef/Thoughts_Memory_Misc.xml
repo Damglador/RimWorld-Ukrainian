@@ -153,7 +153,7 @@
   <!-- EN: I had to sleep on the ground like an animal. -->
   <SleptOnGround.stages.slept_on_ground.description>Мені довелося спати на підлозі, наче я тварина.</SleptOnGround.stages.slept_on_ground.description>
   <!-- EN: slept outside -->
-  <SleptOutside.stages.slept_outside.label>{PAWN_gender ? Спав : Спала} просто неба</SleptOutside.stages.slept_outside.label>
+  <SleptOutside.stages.slept_outside.label>{PAWN_gender ? Спав : Спала} на вулиці</SleptOutside.stages.slept_outside.label>
   <!-- EN: I had to sleep outdoors without any protection from the elements. -->
   <SleptOutside.stages.slept_outside.description>Мені довелося спати просто неба, без будь-якого захисту від погоди.</SleptOutside.stages.slept_outside.description>
   <!-- EN: soaking wet -->

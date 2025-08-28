@@ -5,7 +5,7 @@
   <!-- EN: Mechanoid cluster -->
   <MechCluster.letterLabel>Кластер механоїдів</MechCluster.letterLabel>
   <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
-  <MechCluster.letterText>A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually.</MechCluster.letterText>
+  <MechCluster.letterText>Поруч приземляється бойовий кластер механоїдів. Спочатку кластер буде неактивним, тож ви зможете обміркувати, як його атакувати.\n\nВін може залишатися неактивним, доки його не потурбують, або ж мати таймер чи детектори руху.\n\nНавіть неактивні кластери механоїдів не є нешкідливими. Неактивний кластер може час від часу збирати механоїдних нападників або мати більш широкий негативний вплив, з яким зрештою доведеться боротися.</MechCluster.letterText>
   <!-- EN: abasia join -->
   <WandererJoinAbasia.label>новачок (абазія)</WandererJoinAbasia.label>
 </LanguageData>

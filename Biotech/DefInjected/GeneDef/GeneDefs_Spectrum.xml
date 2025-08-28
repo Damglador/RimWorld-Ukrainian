@@ -31,7 +31,7 @@
   <!-- EN: hush -->
   <Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>тишо</Aggression_DeadCalm.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: hyper-aggressive -->
-  <Aggression_HyperAggressive.label>гіперагресивність</Aggression_HyperAggressive.label>
+  <Aggression_HyperAggressive.label>гіпер-агресивність</Aggression_HyperAggressive.label>
   <!-- EN: Carriers of this gene are hormonally high-strung and very aggressive. They are three times as likely to start social fights. Any mental break they have will be of an aggressive type. -->
   <Aggression_HyperAggressive.description>Носії цього гена гормонально напружені та дуже агресивні. Вони втричі частіше починають соціальні бійки. Будь-який нервовий зрив у них буде агресивного типу.</Aggression_HyperAggressive.description>
   <!-- EN: aggro -->
@@ -47,7 +47,7 @@
   <!-- EN: fighter -->
   <Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>боє</Aggression_HyperAggressive.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: very attractive -->
-  <Beauty_Beautiful.label>very attractive</Beauty_Beautiful.label>
+  <Beauty_Beautiful.label>неймовірна краса</Beauty_Beautiful.label>
   <!-- EN: Carriers of this gene have remarkably precise and symmetrical faces. Their features are distinctive and strong without being exaggerated, and their skin is nearly perfect. They are generally seen as beautiful. -->
   <Beauty_Beautiful.description>Носії цього гена мають напрочуд чіткі та симетричні обличчя. Риси їх обличчя виразні та сильні без перебільшення, а шкіра майже ідеальна. Вони, як правило, вважаються красивими.</Beauty_Beautiful.description>
   <!-- EN: charm -->
@@ -65,7 +65,7 @@
   <!-- EN: smooth -->
   <Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>плавно</Beauty_Beautiful.symbolPack.prefixSymbols.6.symbol>
   <!-- EN: attractive -->
-  <Beauty_Pretty.label>attractive</Beauty_Pretty.label>
+  <Beauty_Pretty.label>краса</Beauty_Pretty.label>
   <!-- EN: Carriers of this gene have unusually symmetrical, balanced facial features and extra-clear skin which gives them a pleasing appearance. -->
   <Beauty_Pretty.description>Носії цього гена мають надзвичайно симетричні, збалансовані риси обличчя та надзвичайно чисту шкіру, що надає їм приємного зовнішнього вигляду.</Beauty_Pretty.description>
   <!-- EN: charm -->
@@ -79,13 +79,13 @@
   <!-- EN: cute -->
   <Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>мило</Beauty_Pretty.symbolPack.prefixSymbols.4.symbol>
   <!-- EN: unattractive -->
-  <Beauty_Ugly.label>unattractive</Beauty_Ugly.label>
+  <Beauty_Ugly.label>потворність</Beauty_Ugly.label>
   <!-- EN: Carriers of this gene have exaggerated facial features and poor skin that are generally considered ugly. -->
   <Beauty_Ugly.description>Носії цього гена мають перебільшені риси обличчя і погану шкіру, що прийнято вважати некрасивими.</Beauty_Ugly.description>
   <!-- EN: ug -->
   <Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>фу</Beauty_Ugly.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: very unattractive -->
-  <Beauty_VeryUgly.label>very unattractive</Beauty_VeryUgly.label>
+  <Beauty_VeryUgly.label>неймовірна потворність</Beauty_VeryUgly.label>
   <!-- EN: Carriers of this gene have misshapen, asymmetrical facial structures and blotchy skin. They're hard to look at. -->
   <Beauty_VeryUgly.description>Носії цього гена мають деформовану, асиметричну структуру обличчя та плямисту шкіру. На них важко дивитися.</Beauty_VeryUgly.description>
   <!-- EN: hideous -->
@@ -123,7 +123,7 @@
   <!-- EN: fragi -->
   <Delicate.symbolPack.prefixSymbols.6.symbol>крихко</Delicate.symbolPack.prefixSymbols.6.symbol>
   <!-- EN: quick study -->
-  <Learning_Fast.label>quick study</Learning_Fast.label>
+  <Learning_Fast.label>здібність в навчанні</Learning_Fast.label>
   <!-- EN: Carriers of this gene have excellent memories and grasp new ideas quickly. They learn faster than others. -->
   <Learning_Fast.description>Носії цього гена мають відмінну пам'ять і швидко схоплюють нові ідеї. Вони навчаються швидше за інших.</Learning_Fast.description>
   <!-- EN: brain -->
@@ -143,7 +143,7 @@
   <!-- EN: brain -->
   <Learning_Fast.symbolPack.suffixSymbols.1.symbol>мозок</Learning_Fast.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: slow study -->
-  <Learning_Slow.label>slow study</Learning_Slow.label>
+  <Learning_Slow.label>повільність в навчанні</Learning_Slow.label>
   <!-- EN: Carriers of this gene have deficient long-term memories and don't understand new ideas quickly. They are slow at learning new skills and knowledge. -->
   <Learning_Slow.description>Носії цього гена мають погану довготривалу пам'ять і не швидко розуміють нові ідеї. Вони повільно засвоюють нові навички та знання.</Learning_Slow.description>
   <!-- EN: thag -->
@@ -275,7 +275,7 @@
   <!-- EN: warm -->
   <MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>тепло</MinTemp_SmallIncrease.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: very unhappy -->
-  <Mood_Depressive.label>very unhappy</Mood_Depressive.label>
+  <Mood_Depressive.label>дуже нещасливий</Mood_Depressive.label>
   <!-- EN: Carriers of this gene are highly predisposed to negative emotion. They'll see the bad in every situation and have a much lower mood than others. -->
   <Mood_Depressive.description>Носії цього гена дуже схильні до негативних емоцій. Вони побачать погане в кожній ситуації та матимуть набагато гірший настрій, ніж інші.</Mood_Depressive.description>
   <!-- EN: sad -->
@@ -287,7 +287,7 @@
   <!-- EN: lachry -->
   <Mood_Depressive.symbolPack.prefixSymbols.3.symbol>плаче</Mood_Depressive.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: happy -->
-  <Mood_Optimist.label>happy</Mood_Optimist.label>
+  <Mood_Optimist.label>щасливий</Mood_Optimist.label>
   <!-- EN: Carriers of this gene are predisposed to optimistic feelings. They'll have higher mood than others. -->
   <Mood_Optimist.description>Носії цього гену налаштовані на оптимістичні відчуття, їхній настрій вищий, ніж інші.</Mood_Optimist.description>
   <!-- EN: bright -->
@@ -305,9 +305,9 @@
   <!-- EN: bright -->
   <Mood_Optimist.symbolPack.suffixSymbols.0.symbol>яскравий</Mood_Optimist.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: unhappy -->
-  <Mood_Pessimist.label>unhappy</Mood_Pessimist.label>
+  <Mood_Pessimist.label>депресивність</Mood_Pessimist.label>
   <!-- EN: Carriers of this gene are predisposed to pessimistic perceptions. They'll tend to interpret things negatively and have lower mood than others. -->
-  <Mood_Pessimist.description>Носії цього гена схильні до песимістичного сприйняття буття. Вони будуть схильні інтерпретувати речі негативно і матимуть нижчий настрій, ніж інші.</Mood_Pessimist.description>
+  <Mood_Pessimist.description>Носії цього гена дуже схильні до негативних емоцій. Вони побачать погане в кожній ситуації та матимуть набагато гірший настрій, ніж інші.</Mood_Pessimist.description>
   <!-- EN: sad -->
   <Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>сумно</Mood_Pessimist.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: gray -->
@@ -317,7 +317,7 @@
   <!-- EN: lachry -->
   <Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>плаче</Mood_Pessimist.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: very happy -->
-  <Mood_Sanguine.label>very happy</Mood_Sanguine.label>
+  <Mood_Sanguine.label>дуже щасливий</Mood_Sanguine.label>
   <!-- EN: Carriers of this gene are highly predisposed to optimism and not at all inclined to think negatively. They'll have much higher mood than others. -->
   <Mood_Sanguine.description>Носії цього гена дуже схильні до оптимізму і зовсім не схильні мислити негативно. Настрій у них буде набагато вище, ніж у інших.</Mood_Sanguine.description>
   <!-- EN: bright -->

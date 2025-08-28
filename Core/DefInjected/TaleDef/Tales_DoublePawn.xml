@@ -420,7 +420,7 @@
     <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
   -->
   <TradedWith.rulePack.rulesStrings>
-    <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
+    <li>tale_noun->угода між [SELLER_nameFull] та [BUYER_nameFull]</li>
     <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
     <li>image->[SELLER_nameFull] selling goods to [BUYER_nameFull] [circumstance_group]</li>
     <li>circumstance_phrase->with greedy intent</li>
@@ -430,7 +430,7 @@
     <li>desc_sentence->[SELLER_nameDef] starts haggling.</li>
     <li>desc_sentence->[BUYER_nameDef] argues with [SELLER_nameDef].</li>
     <li>desc_sentence->[SELLER_nameDef] and [BUYER_nameDef] agree on a price.</li>
-    <li>desc_sentence->[BUYER_nameDef] pays for the item.</li>
+    <li>desc_sentence->[BUYER_nameDef] платить за товар.</li>
     <li>desc_sentence->[SELLER_nameDef] is counting [SELLER_possessive] money.</li>
     <li>desc_sentence->[BUYER_nameDef] is taking [BUYER_possessive] goods.</li>
   </TradedWith.rulePack.rulesStrings>

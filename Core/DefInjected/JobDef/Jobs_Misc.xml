@@ -19,9 +19,9 @@
   <!-- EN: Doing something. -->
   <CastAbilityOnWorldTile.reportString>щось робить</CastAbilityOnWorldTile.reportString>
   <!-- EN: Doing something. -->
-  <CastAbilityTouch.reportString>щось робить</CastAbilityTouch.reportString>
+  <CastAbilityTouch.reportString>Щось робить.</CastAbilityTouch.reportString>
   <!-- EN: Doing something. -->
-  <CastJump.reportString>щось робить</CastJump.reportString>
+  <CastJump.reportString>Щось робить.</CastJump.reportString>
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>прибирає сніг</ClearSnow.reportString>
   <!-- EN: delivering TargetA. -->
@@ -33,7 +33,7 @@
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>викидує {lookup: {TargetA}; Case; 3}</DropEquipment.reportString>
   <!-- EN: Ejecting fuel from TargetA. -->
-  <EjectFuel.reportString>Ejecting fuel from TargetA.</EjectFuel.reportString>
+  <EjectFuel.reportString>Викидання палива з TargetA.</EjectFuel.reportString>
   <!-- EN: emptying TargetA. -->
   <EmptyThingContainer.reportString>спустошує {lookup: {TargetA}; Case; 3}</EmptyThingContainer.reportString>
   <!-- EN: entering cryptosleep casket. -->
@@ -63,7 +63,7 @@
   <!-- EN: following TargetA. -->
   <FollowRoper.reportString>слідкує за {TargetA}</FollowRoper.reportString>
   <!-- EN: making TargetA wear TargetB. -->
-  <ForceTargetWear.reportString>making TargetA wear TargetB.</ForceTargetWear.reportString>
+  <ForceTargetWear.reportString>змусити TargetA носити TargetB.</ForceTargetWear.reportString>
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>бере {lookup: {TargetA}; Case; 3}</GiveToPackAnimal.reportString>
   <!-- EN: moving. -->
@@ -89,7 +89,7 @@
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>споживає {lookup: {TargetA}; Case; 3}</Ingest.reportString>
   <!-- EN: installing TargetB in TargetA. -->
-  <InstallImplant.reportString>installing TargetB in TargetA.</InstallImplant.reportString>
+  <InstallImplant.reportString>встановлення TargetB в TargetA.</InstallImplant.reportString>
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>ображає {TargetA}</Insult.reportString>
   <!-- EN: activating TargetA. -->
@@ -155,11 +155,11 @@
   <!-- EN: using neurotrainer. -->
   <UseNeurotrainer.reportString>використовує нейро-тренажер.</UseNeurotrainer.reportString>
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>щось робить</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>Щось робить.</UseVerbOnThing.reportString>
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>щось робить</UseVerbOnThingStatic.reportString>
+  <UseVerbOnThingStatic.reportString>Щось робить.</UseVerbOnThingStatic.reportString>
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStaticReserve.reportString>щось робить.</UseVerbOnThingStaticReserve.reportString>
+  <UseVerbOnThingStaticReserve.reportString>Щось робить.</UseVerbOnThingStaticReserve.reportString>
   <!-- EN: vomiting. -->
   <Vomit.reportString>блює</Vomit.reportString>
   <!-- EN: standing. -->

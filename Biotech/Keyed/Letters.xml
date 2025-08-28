@@ -32,7 +32,7 @@
   <!-- EN: You have found the corpse of an ancient mechanitor!\n\nExtract {PAWN_possessive} mechlink by selecting a colonist and right-clicking the corpse. -->
   <LetterMechanitorCasketOpened>Ви знайшли труп механітора!\n\nДля вилучення {PAWN_possessive} мехлінка виберіть колоніста і натисніть правою кнопкою миші по трупу.</LetterMechanitorCasketOpened>
   <!-- EN: Mechanitor casket found -->
-  <LetterLabelMechanitorCasketFound>Механітор в стані криптосну</LetterLabelMechanitorCasketFound>
+  <LetterLabelMechanitorCasketFound>Знайдено саркофаг механітора</LetterLabelMechanitorCasketFound>
   <!-- EN: You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside. -->
   <LetterMechanitorCasketFound>Ви знайшли саркофаг криптосну з механітором!\n\nВідкрийте, щоб дістати його.</LetterMechanitorCasketFound>
   <!-- Pawns lost because map closed (including mechs) -->

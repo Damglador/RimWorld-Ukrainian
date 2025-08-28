@@ -29,7 +29,7 @@
   <!-- EN: Revenant smear discovered -->
   <LetterLabelRevenantSmearDiscovered>Виявлено пляму від ревенанта</LetterLabelRevenantSmearDiscovered>
   <!-- EN: {0} has noticed a black slick on the ground. It looks unnatural and gives off a foul, acrid smell. It is still fresh and wet. An eldritch entity passed by recently. -->
-  <LetterRevenantSmearDiscovered>{0} помічає чорну пляму на землі. Вона виглядає неприродно і видає неприємний, їдкий запах. Пляма ще свіжа і волога. Нещодавно тут проходила дивна істота.</LetterRevenantSmearDiscovered>
+  <LetterRevenantSmearDiscovered>{0} помічає чорну пляму на землі. Вона виглядає неприродно і видає неприємний, їдкий запах. Пляма ще свіжа і волога. Нещодавно тут проходила моторошна аномалія.</LetterRevenantSmearDiscovered>
   <!-- EN: Revenant killed -->
   <LetterLabelRevenantKilled>Ревенанта вбито</LetterLabelRevenantKilled>
   <!-- EN: The revenant is dead! Those who were hypnotized will recover.\n\nIts body has dissipated, leaving behind its spine. You can gather and study the spine, or destroy it. -->
@@ -37,7 +37,7 @@
   <!-- EN: {PAWN_nameDef} hypnotized -->
   <LetterLabelPawnHypnotized>{PAWN_nameDef} загіпнотизовано</LetterLabelPawnHypnotized>
   <!-- EN: {PAWN_nameDef} has been hypnotized by a revenant and is now rambling incoherently about nightmarish images and ideas.\n\nKilling the revenant will end the hypnosis.\n\nThe revenant uses psychic powers to twist the perceptions of those around it, making itself invisible. However, it can still be hunted by following the black smears that it leaves. The revenant will be revealed if hit by explosive weapons, firefoam, EMPs, fire, or disruptor flares.\n\nIf not killed, the revenant will continue to hypnotize new victims. -->
-  <LetterPawnHypnotized>{PAWN_nameDef} загіпнотизовано Ревенантом і тепер {PAWN_pronoun} безладно бормоче про кошмарні образи та ідеї.\n\nВбивство ревенанта припинить гіпноз.\n\nРевенант використовує психічні здібності, щоб спотворити сприйняття тих, хто його оточує, фактично стаючи невидимим. Однак на нього все ще можна полювати, слідкуючи за чорними плямами, які він залишає. Ревенант втратить невидимість, якщо його вразить вибухом, протипожежною піною, ЕМІ, вогнем або руйнівними фальшфеєрами.\n\nЯкщо ревенанта не вбити, він буде продовжувати гіпнотизувати нових жертв.</LetterPawnHypnotized>
+  <LetterPawnHypnotized>{PAWN_nameDef} загіпнотизовано ревенантом і тепер {PAWN_pronoun} безладно бормоче про кошмарні образи та ідеї.\n\nВбивство ревенанта припинить гіпноз.\n\nРевенант використовує психічні здібності, щоб спотворити сприйняття тих, хто його оточує, фактично стаючи невидимим. Однак на нього все ще можна полювати, слідкуючи за чорними плямами, які він залишає. Ревенант втратить невидимість, якщо його вразить вибухом, протипожежною піною, ЕМІ, вогнем або фальшфеєрами дестабілізації.\n\nЯкщо ревенанта не вбити, він буде продовжувати гіпнотизувати нових жертв.</LetterPawnHypnotized>
   <!-- EN: Revenant flesh chunk -->
   <LetterRevenantFleshChunkLabel>Шматок плоті ревенанта</LetterRevenantFleshChunkLabel>
   <!-- EN: The wounded revenant left behind a piece of itself. You can analyze this flesh chunk to learn how to track the revenant. -->
@@ -93,7 +93,7 @@
   <!-- EN: Squirming sounds -->
   <LetterLabelDreadmeldWarning>Звуки звивання</LetterLabelDreadmeldWarning>
   <!-- EN: As {PAWN_nameDef} draws near the fleshmass here, {PAWN_pronoun} senses a heavy writhing and throbbing from under its warm surface. Some huge living entity is hidden behind the wall of flesh. -->
-  <LetterDreadmeldWarning>Коли {PAWN_nameDef} наближається до м'ясної маси тут, {PAWN_pronoun} відчуває важке звивання та пульсацію з-під її теплої поверхні. Якась величезна жива істота ховається за цією стіною з плоті.</LetterDreadmeldWarning>
+  <LetterDreadmeldWarning>Коли {PAWN_nameDef} наближається до м'ясної маси тут, {PAWN_pronoun} відчуває важке звивання та пульсацію з-під її теплої поверхні. Якась величезна жива аномалія ховається за цією стіною з плоті.</LetterDreadmeldWarning>
   <!-- EN: Undercave unstable -->
   <LetterLabelUndercaveCollapsing>Печери нестабільні</LetterLabelUndercaveCollapsing>
   <!-- EN: The dreadmeld's death has shocked the fleshmass and caused the cave system to destabilize. The fleshmass that supported the cavern is already beginning to deteriorate. Within half a day, the entire cavern will collapse.\n\nGet out of the undercave before it's too late! -->
@@ -104,7 +104,7 @@
   <!-- EN: Remove {0_labelShort} -->
   <RemoveFromPlatform>Прибрати {0_labelShort}</RemoveFromPlatform>
   <!-- EN: Remove the current entity held on the platform. -->
-  <RemoveFromPlatformDesc>Видаліть поточну істоту, яка утримуєтьтся на платформі.</RemoveFromPlatformDesc>
+  <RemoveFromPlatformDesc>Видаліть поточну аномалію, яка утримується на платформі.</RemoveFromPlatformDesc>
   <!-- EN: {GERUND} {TARGETLABEL} from -->
   <ReleasingEntity>{GERUND} {TARGETLABEL} з</ReleasingEntity>
   <!-- EN: {GERUND} {TARGETLABEL} -->
@@ -112,7 +112,7 @@
   <!-- EN: Select holding platform -->
   <SelectHoldingPlatform>Вибрати платформу для утримання</SelectHoldingPlatform>
   <!-- EN: Entity escape -->
-  <LetterLabelEscapingFromHoldingPlatform>Втеча істоти</LetterLabelEscapingFromHoldingPlatform>
+  <LetterLabelEscapingFromHoldingPlatform>Втеча аномалії</LetterLabelEscapingFromHoldingPlatform>
   <!-- EN: The following entities have escaped their restraints:\n\n{0}\n\nBuild stronger containment rooms to stop entities escaping. Entities are less likely to escape from holding platforms with high containment strength, which comes from strong walls and doors, good lighting, and special containment devices. -->
   <LetterEscapingFromHoldingPlatform>Наступні істоти змогли вибратися:\n\n{0}\n\nПобудуйте кращі місця для утримання, щоб зупинити втечу істот. Суб'єкти з меншою ймовірністю втечуть із платформ утримання з високою силою стримування, яка збільшується завдяки міцним стінам і дверям, хорошому освітленню та спеціальним пристроям для утримання.</LetterEscapingFromHoldingPlatform>
   <!-- EN: requires {0} -->
@@ -224,9 +224,9 @@
   <!-- EN: {PAWN_labelShort} was sent. -->
   <CommandSent>{PAWN_labelShort} відправляється.</CommandSent>
   <!-- EN: Cannot activate entity -->
-  <CannotActivateEntity>Неможливо активувати сутність</CannotActivateEntity>
+  <CannotActivateEntity>Неможливо активувати аномалію</CannotActivateEntity>
   <!-- EN: Entity must be on platform -->
-  <CannotActivateEntityPlatform>Сутність має бути на платформі</CannotActivateEntityPlatform>
+  <CannotActivateEntityPlatform>Аномалія має бути на платформі</CannotActivateEntityPlatform>
   <!-- EN: Activity -->
   <ActivityGizmo>Активність</ActivityGizmo>
   <!-- EN: Automatic suppression -->
@@ -264,11 +264,11 @@
   <!-- EN: Transfer {0_definite} -->
   <TransferEntity>Перемістити {lookup: {0_definite}; Case; 3}</TransferEntity>
   <!-- EN: Transfer the contained entity to another holding platform. -->
-  <TransferEntityDesc>Перемістити сутність на іншу платформу.</TransferEntityDesc>
+  <TransferEntityDesc>Перемістити аномалію на іншу платформу.</TransferEntityDesc>
   <!-- EN: Cancel transfer -->
   <CancelTransfer>Скасувати переміщення</CancelTransfer>
   <!-- EN: Cancel transferring this entity to another holding platform. -->
-  <CancelTransferDesc>Скасувати переміщення цієї істоти на іншу платформу.</CancelTransferDesc>
+  <CancelTransferDesc>Скасувати переміщення цієї аномалії на іншу платформу.</CancelTransferDesc>
   <!-- Metalhorrors -->
   <!-- EN: Emerged from -->
   <EmergedFrom>Поява з</EmergedFrom>
@@ -400,7 +400,7 @@
   <MessageTransmutedStuffPlural>{PAWN_nameDef} перетворює {lookup: {1}; Case; 3} на {lookup: {TRANSMUTED_labelPluralIndef}; Case; 3}</MessageTransmutedStuffPlural>
   <!-- Electroharvester -->
   <!-- EN: No restrained entity. -->
-  <ElectroharvesterNoEntity>Немає утримуваної істоти.</ElectroharvesterNoEntity>
+  <ElectroharvesterNoEntity>Немає утримуваної аномалії.</ElectroharvesterNoEntity>
   <!-- EN: Not connected to a holding platform. -->
   <ElectroharvesterNoPlatform>Не під'єднано до платформ для утримання.</ElectroharvesterNoPlatform>
   <!-- Fleshmass Heart -->
@@ -449,9 +449,9 @@
   <MessageShardDropped>{0} впускає уламок темної архотехнології. Ви можете забрати його для власного використання.</MessageShardDropped>
   <!-- Blood rain -->
   <!-- EN: The blood rain has driven {0_nameIndef} into a berserk rage! -->
-  <Berserk_BloodRain>Кривавий дощ довів {0_nameIndef} до берсеркової люті!</Berserk_BloodRain>
+  <Berserk_BloodRain>Кривавий дощ довів {0_nameIndef} до нестримної люті!</Berserk_BloodRain>
   <!-- EN: The blood rain has driven {0_nameIndef} into a manhunting rage! -->
-  <Manhunter_BloodRain>Кривавий дощ довів {0_nameIndef} до мисливської люті!</Manhunter_BloodRain>
+  <Manhunter_BloodRain>Кривавий дощ довів {0_nameIndef} до нестримної люті!</Manhunter_BloodRain>
   <!-- EN: This happened because of blood rage buildup. -->
   <MentalBreakReason_BloodRage>Це сталось через кривавий дощ.</MentalBreakReason_BloodRage>
   <!-- Unnatural corpses -->
@@ -622,7 +622,7 @@
   <!-- EN: Send a colonist to investigate this. -->
   <VoidMonolithUndiscovered>Надішліть колоніста, щоб дослідити це.</VoidMonolithUndiscovered>
   <!-- EN: In order to advance the monolith to the next step, you need to discover {0} {1} tier entities. -->
-  <VoidMonolithRequiredEntityCategory>Щоб просунути моноліт до наступного етапу, вам потрібно виявити {0} істот рівня {1}.</VoidMonolithRequiredEntityCategory>
+  <VoidMonolithRequiredEntityCategory>Щоб просунути моноліт до наступного етапу, вам потрібно виявити {0} аномалії рівня {1}.</VoidMonolithRequiredEntityCategory>
   <!-- EN: Discovered: {0} -->
   <DiscoveredCount>Виявлено: {0}</DiscoveredCount>
   <!-- EN: Required entities discovered. -->

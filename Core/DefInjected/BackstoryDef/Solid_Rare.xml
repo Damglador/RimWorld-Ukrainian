@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: [PAWN_nameDef] spent almost all of [PAWN_possessive] time indoors, away from other humans. To survive, [PAWN_pronoun] trained and sold messenger rats. -->
-  <CynapseCustomAdulthood.description>[PAWN_nameDef] spent almost all of [PAWN_possessive] time indoors, away from other humans. To survive, [PAWN_pronoun] trained and sold messenger rats.</CynapseCustomAdulthood.description>
+  <CynapseCustomAdulthood.description>Майже весь свій час {PAWN_nameDef} {PAWN_gender ? проводив : проводила} удома, подалі від інших людей. Щоб вижити, {PAWN_pronoun} {PAWN_gender ? дресував і продавав : дресувала і продавала} щурів-гінців.</CynapseCustomAdulthood.description>
   <!-- EN: hermit -->
   <CynapseCustomAdulthood.title>відлюдник</CynapseCustomAdulthood.title>
   <!-- EN: hermit -->

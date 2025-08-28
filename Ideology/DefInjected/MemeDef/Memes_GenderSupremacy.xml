@@ -19,9 +19,9 @@
     <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will end the universe, but that a woman will wield the spirit of the [relic0_name] recreate the universe anew.</li>
   -->
   <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] gave wisdom to women, that they may guide and harmonize the excitable men and children, and admonished those who upset this divine order.</li>
+    <li>creation(tag=meme_FemaleSupremacy)->[deity0_gave] [deity0_name] мудрість жінкам, щоб вони могли направляти і гармонізувати збудливих чоловіків та дітей, і [deity0_admonished] тих, хто порушує цей божественний порядок.</li>
     <li>episode(uses=1,tag=meme_FemaleSupremacy) ->The women believers, finding themselves abused by the depraved men, fought them, and [deity0_name] gave them divine aid, and they rose to their rightful place.</li>
-    <li>setup(tag=meme_FemaleSupremacy)          ->In a world of selfish, violent men abusing all of humanity to fulfil their urges, [founderName] convened a meeting of powerful women and began working to build a better world for all.</li>
+    <li>setup(tag=meme_FemaleSupremacy)->У світі егоїстичних, насильницьких чоловіків, що знущаються над усім людством для задоволення своїх бажань, [founderName] [founder_convened] сильних жінок і [founder_began] роботу над створенням кращого світу для всіх.</li>
     <li>story(uses=1,tag=meme_FemaleSupremacy)   ->The male believers boasted and fought, so [founderName] cast them out of the council of leaders.</li>
     <li>lessonIntro(tag=meme_FemaleSupremacy)         ->Once again, a man was explaining to how to do the very thing I had just done. It just reinforced to me that</li>
     <li>lesson(tag=meme_FemaleSupremacy)              ->women are the only ones with the wisdom and strength to rule</li>

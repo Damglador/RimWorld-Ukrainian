@@ -171,7 +171,7 @@
     <li>questName->[platAdj] [platform] [designation]</li>
     <li>questName->[platAdj] [platform]</li>
     <li>platAdj(p=3)->механоїд</li>
-    <li>platAdj(p=3)->[mechanoid]</li>
+    <li>platAdj(p=3)->[механоїд]</li>
     <li>platAdj->зародження</li>
     <li>platAdj->синтез</li>
     <li>platAdj->збірка</li>
@@ -179,7 +179,7 @@
     <li>platform->платформа</li>
     <li>platform->станція</li>
     <li>platform->вузол</li>
-    <li>designation->[RomanNumeral]</li>
+    <li>позначення->[RomanNumeral]</li>
     <li>designation->[Letter]-[RomanNumeral]</li>
     <li>mechanoid->косар</li>
     <li>mechanoid->улан</li>
@@ -210,7 +210,7 @@
   -->
   <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
     <li>questName->[adjective] [orbital] [stash_noun]</li>
-    <li>questName->[orbital] [stash_noun]</li>
+    <li/>
     <li>adjective->Прихований</li>
     <li>adjective->Таємний</li>
     <li>orbital->Орбітальний</li>

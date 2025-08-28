@@ -660,12 +660,12 @@
   <GangMember83.title>член банди</GangMember83.title>
   <!-- EN: ganger -->
   <GangMember83.titleShort>дитя банди</GangMember83.titleShort>
-  <!-- EN: The son of a genetically-engineered "perfect mate" on a glitterworld, [PAWN_nameDef] was much more shy, withdrawn and nervous than [PAWN_possessive] parents. [PAWN_pronoun] kept mostly to [PAWN_objective]self, studying science and medicine and taking on gardening as a hobby. \n\nIn [PAWN_possessive] teens, [PAWN_pronoun] ran away from home, seeking a quieter life. -->
-  <GlitterworldKid85.description>The son of a genetically-engineered "perfect mate" on a glitterworld, [PAWN_nameDef] was much more shy, withdrawn and nervous than [PAWN_possessive] parents. [PAWN_pronoun] kept mostly to [PAWN_objective]self, studying science and medicine and taking on gardening as a hobby. \n\nIn [PAWN_possessive] teens, [PAWN_pronoun] ran away from home, seeking a quieter life.</GlitterworldKid85.description>
+  <!-- EN: The daughter of a glitterworld influencer and his genetically-engineered 'perfect mate', [PAWN_nameDef] grew up learning to rub shoulders with the cream of the crop - though [PAWN_pronoun] always preferred [PAWN_possessive] personal space, reading books and tinkering with tech. -->
+  <GlitterworldKid85.description>The daughter of a glitterworld influencer and his genetically-engineered 'perfect mate', [PAWN_nameDef] grew up learning to rub shoulders with the cream of the crop - though [PAWN_pronoun] always preferred [PAWN_possessive] personal space, reading books and tinkering with tech.</GlitterworldKid85.description>
   <!-- EN: glitterworld kid -->
   <GlitterworldKid85.title>дитя блискосвіту</GlitterworldKid85.title>
-  <!-- EN: glit kid -->
-  <GlitterworldKid85.titleShort>дитя блискосвіту</GlitterworldKid85.titleShort>
+  <!-- EN: glitterkid -->
+  <GlitterworldKid85.titleShort>glitterkid</GlitterworldKid85.titleShort>
   <!-- EN: [PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture. -->
   <GlitterworldNerd20.description>[PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture.</GlitterworldNerd20.description>
   <!-- EN: glitterworld nerd -->
@@ -1411,7 +1411,7 @@
   <!-- EN: racer -->
   <SpeederRacer71.titleShort>гонщик</SpeederRacer71.titleShort>
   <!-- EN: Born in a rich family, [PAWN_nameDef] was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.\n\n[PAWN_pronoun] was expected to become one of the best doctors in the world. -->
-  <SpoiledBrat59.description>Born in a rich family, [PAWN_nameDef] was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.\n\n[PAWN_pronoun] was expected to become one of the best doctors in the world.</SpoiledBrat59.description>
+  <SpoiledBrat59.description>Народившись у багатій родині, [PAWN_nameDef] {PAWN_gender ? отримував : отримувала} все, що забажає, проте [PAWN_pronoun] не {PAWN_gender ? отримав : отримала} елементарної трудової етики чи основ незалежності особистості.\n\nОчікувалося, що [PAWN_pronoun] стане {PAWN_gender ? одним : одною} із найкращих лікарів у світі.</SpoiledBrat59.description>
   <!-- EN: spoiled brat -->
   <SpoiledBrat59.title>розпещена дитина</SpoiledBrat59.title>
   <!-- EN: brat -->
@@ -1633,7 +1633,7 @@
   <!-- EN: army brat -->
   <UrbworldArmyBrat84.titleShort>помічник</UrbworldArmyBrat84.titleShort>
   <!-- EN: [PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.\n\nWhen [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons. -->
-  <UrbworldChild56.description>[PAWN_nameDef] had an isolated upbringing on an urbworld. [PAWN_possessive] hatred of heights kept [PAWN_objective] indoors often, and made [PAWN_objective] an introverted child.\n\nWhen [PAWN_pronoun] did go out onto the catwalks of the city, [PAWN_pronoun] enjoyed playing war games, becoming proficient with various simulation weapons.</UrbworldChild56.description>
+  <UrbworldChild56.description>{PAWN_nameDef} {PAWN_gender ? виріс : виросла} на ізольованих висотах урбанізованого світу. Через страх висоти, {PAWN_pronoun} більшість часу {PAWN_gender ? проводив : проводила} в квартирі.\n\nКоли ж {PAWN_pronoun} усе-таки {PAWN_gender ? виходив : виходила} з квартири, {PAWN_pronoun} {PAWN_gender ? полюбляв : полюбляла} грати у військові ігри, та навчатися володіти імітаційною зброєю.</UrbworldChild56.description>
   <!-- EN: urbworld child -->
   <UrbworldChild56.title>дитя урбанізованого світу</UrbworldChild56.title>
   <!-- EN: urbkid -->

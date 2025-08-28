@@ -188,9 +188,9 @@
     <li>subject_gerund->crafting multibarrel weapons</li>
   -->
   <MultibarrelWeapons.generalRules.rulesStrings>
-    <li>subject->miniguns</li>
-    <li>subject_story->constructed a unique portable minigun, which was the only thing found after the squad's disappearance</li>
-    <li>subject_story->designed massive hoppers to ensure the minigun ammo didn't run out</li>
+    <li>subject->мініґан</li>
+    <li>subject_story->сконструював унікальний портативний мініґан, який був єдиною річчю, знайденою після зникнення загону</li>
+    <li>subject_story->розробив великі контейнери, щоб не закінчувалися боєприпаси для мініґана</li>
     <li>subject_story->built guns explicitly to kill every last person in a room</li>
     <li>subject_gerund->crafting multibarrel weapons</li>
   </MultibarrelWeapons.generalRules.rulesStrings>

@@ -11,11 +11,11 @@
   <!-- EN: no bloodfeeders -->
   <BloodfeederColonist_Revered.stages.no_bloodfeeders.label>немає кровопивць</BloodfeederColonist_Revered.stages.no_bloodfeeders.label>
   <!-- EN: Without a bloodfeeder master, we are undirected and lost. We should make a bloodfeeder our leader. -->
-  <BloodfeederColonist_Revered.stages.no_bloodfeeders.description>Without a bloodfeeder master, we are undirected and lost. We should make a bloodfeeder our leader.</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.description>Без кровопивць наша колонія просто не має сенсу. Нашим лідером має бути кровопивця!</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
   <!-- EN: no bloodfeeder master -->
   <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>немає кровопивці-майстра</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>
   <!-- EN: Without a bloodfeeder master, we lack proper direction. We should make a bloodfeeder our leader. -->
-  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>Without a bloodfeeder master, we lack proper direction. We should make a bloodfeeder our leader.</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>Без кровопивці-майстра наша колонія просто не має сенсу. Нашим лідером має бути кровопивця!</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
   <!-- EN: bloodfeeder master -->
   <BloodfeederColonist_Revered.stages.bloodfeeder_master.label>є кровопивця-майстер</BloodfeederColonist_Revered.stages.bloodfeeder_master.label>
   <!-- EN: The bloodfeeder's presence is a great honor. May they live forever. -->

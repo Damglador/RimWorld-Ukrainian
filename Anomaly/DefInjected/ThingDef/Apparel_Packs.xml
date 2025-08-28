@@ -9,9 +9,9 @@
   <!-- EN: deploy deadlife dust -->
   <Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>розповсюдити пил несмертя</Apparel_DeadlifePack.verbs.deploy_deadlife_dust.label>
   <!-- EN: disruptor flare pack -->
-  <Apparel_DisruptorFlarePack.label>пристрій руйнівних фальшфеєрів</Apparel_DisruptorFlarePack.label>
+  <Apparel_DisruptorFlarePack.label>пристрій фальшфеєрів дестабілізації</Apparel_DisruptorFlarePack.label>
   <!-- EN: A utility pack that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
-  <Apparel_DisruptorFlarePack.description>Пристрій, який запускає руйнівні фальшфеєри. При зіткненні фальшфеєр спалює капсулу з біофериту, що створює яскравий спалах і локальний психічний імпульс. Цей імпульс приголомшує психічно чутливих істот, викриває невидимих і на короткий час зменшує їхню свідомість і швидкість руху. Після цього фальшфеєр продовжує горіти, деякий час освітлюючи широку територію.</Apparel_DisruptorFlarePack.description>
+  <Apparel_DisruptorFlarePack.description>Пристрій, який запускає фальшфеєри дестабілізації. При зіткненні фальшфеєр спалює капсулу з біофериту, що створює яскравий спалах і локальний психічний імпульс. Цей імпульс приголомшує психічно чутливих істот, викриває невидимих і на короткий час зменшує їхню свідомість і швидкість руху. Після цього фальшфеєр продовжує горіти, деякий час освітлюючи широку територію.</Apparel_DisruptorFlarePack.description>
   <!-- EN: flare -->
   <Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>фальшфеєр</Apparel_DisruptorFlarePack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
@@ -27,11 +27,11 @@
   <!-- EN: deploy turret -->
   <Apparel_PackTurret.verbs.deploy_turret.label>розгорнути турель</Apparel_PackTurret.verbs.deploy_turret.label>
   <!-- EN: disruptor flare -->
-  <DisruptorFlare.label>руйнівний фальшфеєр</DisruptorFlare.label>
+  <DisruptorFlare.label>фальшфеєр дестабілізації</DisruptorFlare.label>
   <!-- EN: deadlife capsule -->
   <Grenade_Deadlife.label>капсула несмертя</Grenade_Deadlife.label>
   <!-- EN: disruptor flare -->
-  <Grenade_DisruptorFlare.label>руйнівний фальшфеєр</Grenade_DisruptorFlare.label>
+  <Grenade_DisruptorFlare.label>фальшфеєр дестабілізації</Grenade_DisruptorFlare.label>
   <!-- EN: turret pack capsule -->
   <Grenade_TurretPack.label>портативна турель</Grenade_TurretPack.label>
 </LanguageData>

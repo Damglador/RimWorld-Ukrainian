@@ -9,5 +9,5 @@
   <!-- EN: When starting a new game, you can create custom xenotypes with any genetic combination you want. -->
   <BiotechTips.CustomXenotypes>Починаючи нову гру, ви можете створити власні ксенотипи з будь-якою генетичною комбінацією.</BiotechTips.CustomXenotypes>
   <!-- EN: Enemies are less likely to attack children when they are unarmed. Keep kids safer by not giving them weapons. -->
-  <BiotechTips.ArmedChildren>Enemies are less likely to attack children when they are unarmed. Keep kids safer by not giving them weapons.</BiotechTips.ArmedChildren>
+  <BiotechTips.ArmedChildren>Вороги рідше нападають на дітей, коли вони неозброєні. Тримайте дітей в безпеці, не даючи їм зброю.</BiotechTips.ArmedChildren>
 </LanguageData>

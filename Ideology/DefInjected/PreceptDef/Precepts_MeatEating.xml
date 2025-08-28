@@ -14,14 +14,14 @@
   <MeatEating_Horrible.description>Їсти м'ясо будь-якого виду - це жахливо.</MeatEating_Horrible.description>
   <!-- EN: vegetarian abhorrent -->
   <MeatEating_NonMeat_Abhorrent.label>vegetarian abhorrent</MeatEating_NonMeat_Abhorrent.label>
-  <!-- EN: Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
-  <MeatEating_NonMeat_Abhorrent.description>Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine.</MeatEating_NonMeat_Abhorrent.description>
+  <!-- EN: Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat, eggs, milk, or other animal product. -->
+  <MeatEating_NonMeat_Abhorrent.description>Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat, eggs, milk, or other animal product.</MeatEating_NonMeat_Abhorrent.description>
   <!-- EN: vegetarian disliked -->
   <MeatEating_NonMeat_Disapproved.label>vegetarian disliked</MeatEating_NonMeat_Disapproved.label>
-  <!-- EN: Eating vegetarian food is distasteful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
-  <MeatEating_NonMeat_Disapproved.description>Eating vegetarian food is distasteful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine.</MeatEating_NonMeat_Disapproved.description>
+  <!-- EN: Eating vegetarian food is distasteful. Every meal should have some meat, eggs, milk, or other animal product. -->
+  <MeatEating_NonMeat_Disapproved.description>Eating vegetarian food is distasteful. Every meal should have some meat, eggs, milk, or other animal product.</MeatEating_NonMeat_Disapproved.description>
   <!-- EN: vegetarian hated -->
   <MeatEating_NonMeat_Horrible.label>vegetarian hated</MeatEating_NonMeat_Horrible.label>
-  <!-- EN: Eating vegetarian food is awful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine. -->
-  <MeatEating_NonMeat_Horrible.description>Вживати вегетаріанську їжу - це жахливо. У кожному прийомі їжі має бути трохи м'яса. Яйця, молоко та оброблені продукти без овочів також підійдуть.</MeatEating_NonMeat_Horrible.description>
+  <!-- EN: Eating vegetarian food is awful. Every meal should have some meat, eggs, milk, or other animal product. -->
+  <MeatEating_NonMeat_Horrible.description>Eating vegetarian food is awful. Every meal should have some meat, eggs, milk, or other animal product.</MeatEating_NonMeat_Horrible.description>
 </LanguageData>

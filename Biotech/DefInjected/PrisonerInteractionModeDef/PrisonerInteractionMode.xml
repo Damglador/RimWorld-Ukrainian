@@ -3,7 +3,7 @@
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>підживлення кров'ю</Bloodfeed.label>
   <!-- EN: When a bloodfeeder's hemogen levels are low, they may feed on this prisoner. Other prisoners who are bloodfeeders can also feed on this prisoner, if they are in the same cell. -->
-  <Bloodfeed.description>When a bloodfeeder's hemogen levels are low, they may feed on this prisoner. Other prisoners who are bloodfeeders can also feed on this prisoner, if they are in the same cell.</Bloodfeed.description>
+  <Bloodfeed.description>Коли рівень гемогену кровожера низький, він може харчуватися в'язнем. Інші в'язні кровожери також можуть харчуватися в'язнем, якщо вони в одній камері.</Bloodfeed.description>
   <!-- EN: hemogen farm -->
   <HemogenFarm.label>гемогенна ферма</HemogenFarm.label>
   <!-- EN: An operation to extract hemogen packs will be automatically queued on this prisoner whenever it can be done without killing them. The operation will be carried out by a doctor. -->

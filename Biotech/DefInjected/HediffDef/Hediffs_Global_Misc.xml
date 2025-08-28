@@ -35,7 +35,7 @@
   <!-- EN: lactating -->
   <Lactating.label>годування</Lactating.label>
   <!-- EN: The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.\n\nPeople who are lactating will have a harder time becoming pregnant. -->
-  <Lactating.description>The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.\n\nPeople who are lactating will have a harder time becoming pregnant.</Lactating.description>
+  <Lactating.description>Умова можливості годувати дитину грудьми. Молочні залози активно виробляють і зберігають молоко. Стан лактації починається, коли мати народжує, і триває необмежений час, поки вона годує дитину грудьми принаймні раз на 10 днів.</Lactating.description>
   <!-- EN: {0} is no longer lactating due to not breastfeeding for 10 days. -->
   <Lactating.comps.HediffComp_MessageOnRemoval.message>{0} більше не має лактації через те, що {0_gender ? він не годував : вона не годувала} грудьми протягом 10 днів.</Lactating.comps.HediffComp_MessageOnRemoval.message>
   <!-- EN: milk fullness {CHARGEFACTOR_percentage} -->

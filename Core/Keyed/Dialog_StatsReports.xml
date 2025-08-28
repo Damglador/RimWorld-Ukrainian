@@ -187,7 +187,7 @@
   <!-- EN: The weapon used by this turret. -->
   <Stat_Weapon_Desc>Зброя, яку використовує ця турель.</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>Кількість шкоди, яку може витримати об'єкт.</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>Скільки шкоди може витримати об'єкт, перш ніж бути знищеним.</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>Обсяг роботи, необхідний для деінсталяції об'єкту.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Whether this building is a type of fence. Fences block these animals -->
@@ -226,8 +226,8 @@
   <Stat_Thing_Plant_MinGrowthTemperature_Desc>Мінімальна температура, яку може витримати ця рослина.\n\nТемператури нижче цього рівня з часом завдають рослині шкоду.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
   <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Максимальна температура, яку може витримати ця рослина.\n\nТемператури вище цього рівня з часом завдають рослині шкоду.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
-  <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Мінімальні навички, необхідні фермеру для того, щоб посіяти цю рослину.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <!-- EN: The minimum skill needed for a farmer to sow this plant. -->
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>The minimum skill needed for a farmer to sow this plant.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
   <Stat_Race_Diet_Desc>Їжа, якою харчується ця істота.\n\nМоже їсти: {0}</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->

@@ -135,5 +135,5 @@
   <!-- EN: Combined genes exceeded metabolism limits. -->
   <CombinedGenesExceedMetabolismLimits>Комбіновані гени перетинають межі метаболізму.</CombinedGenesExceedMetabolismLimits>
   <!-- EN: Starting colonists must be capable of violence in tutorial mode. -->
-  <MessageStartingPawnCapableOfViolence>Starting colonists must be capable of violence in tutorial mode.</MessageStartingPawnCapableOfViolence>
+  <MessageStartingPawnCapableOfViolence>Початкові колоністи повинні бути здатними до насильства в режимі навчання.</MessageStartingPawnCapableOfViolence>
 </LanguageData>

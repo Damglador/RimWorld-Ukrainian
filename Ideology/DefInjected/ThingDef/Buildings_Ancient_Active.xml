@@ -11,7 +11,7 @@
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
   <AncientEnemyTerminal.description>Старовинний комп'ютерний термінал може бути зламаний для виклику найближчих ворогів.</AncientEnemyTerminal.description>
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
-  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>Hacking this {0} will alert enemies and cause them to attack.</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>Спроба зламати цей {0} сповістить ворогів і змусить їх атакувати.</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
   <!-- EN: Hack to call nearby enemies. -->
   <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>Hack to call nearby enemies.</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
   <!-- EN: security crate -->

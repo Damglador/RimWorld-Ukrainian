@@ -15,7 +15,7 @@
   <!-- EN: Cultists attacking -->
   <HateChantersAttackingLabel>Культисти атакують</HateChantersAttackingLabel>
   <!-- EN: The cultists have ended their hate chant and have begun to come out of their ritual trance.\n\nPrepare to defend. -->
-  <HateChantersAttackingText>The cultists have ended their hate chant and have begun to come out of their ritual trance.\n\nPrepare to defend.</HateChantersAttackingText>
+  <HateChantersAttackingText>Культисти закінчили свою пісню ненависті і почали виходити з ритуального трансу.\n\nГотуйтеся до оборони.</HateChantersAttackingText>
   <!-- Psychic rituals -->
   <!-- EN: {0} complete -->
   <PsychicRitualCompleteLabel>{lookup: {0}; Case; 3} завершено</PsychicRitualCompleteLabel>
@@ -103,7 +103,7 @@
   <!-- EN: Structures activated -->
   <VoidAwakeningStageTwoStructuresActivatedLabel>Споруди активуються</VoidAwakeningStageTwoStructuresActivatedLabel>
   <!-- EN: As the second structure is activated, the darkness begins to intensify. An unnatural darkness will soon descend. Make sure your colony is prepared. Stockpile resources, build lights, craft disruptor flares, and reinforce defenses. Only those in the light will be safe.\n\nMore twisted structures will appear soon. -->
-  <VoidAwakeningStageOneStructuresActivatedText>Після активації другої споруди, темрява почала посилюватися. Скоро настане неприродна темрява. Переконайтеся, що ваша колонія підготовлена. Зберіть ресурси, подбайте про освітлення, створіть руйнівні фальшфеєри та зміцнюйте захист. Лише ті, хто на світлі, будуть у безпеці.\n\nНевдовзі з’явиться більше покручених споруд.</VoidAwakeningStageOneStructuresActivatedText>
+  <VoidAwakeningStageOneStructuresActivatedText>Після активації другої споруди, темрява почала посилюватися. Скоро настане неприродна темрява. Переконайтеся, що ваша колонія підготовлена. Зберіть ресурси, подбайте про освітлення, створіть фальшфеєри дестабілізації та зміцнюйте захист. Лише ті, хто на світлі, будуть у безпеці.\n\nНевдовзі з’явиться більше покручених споруд.</VoidAwakeningStageOneStructuresActivatedText>
   <!-- EN: All void structures have been activated. The space around the void monolith has begun to shimmer. Get ready. -->
   <VoidAwakeningStageTwoStructuresActivatedText>Усі споружи порожнечі активовані. Простір навколо моноліту порожнечі почав мерехтіти. Будьте готові.</VoidAwakeningStageTwoStructuresActivatedText>
   <!-- EN: {STUDIER_nameDef} teleported -->
@@ -123,9 +123,9 @@
   <!-- EN: Metalhorrors are appearing near the void monolith. Get ready! -->
   <VoidAwakeningMetalhorrorArrivalText>Поруч з монолітом порожнечі з'являються металеві жахи. Будьте готові!</VoidAwakeningMetalhorrorArrivalText>
   <!-- EN: Entity attack -->
-  <VoidAwakeningEntityArrivalLabel>Атака істоти</VoidAwakeningEntityArrivalLabel>
+  <VoidAwakeningEntityArrivalLabel>Аномалія атакує</VoidAwakeningEntityArrivalLabel>
   <!-- EN: The activated void structure has generated a twisted psychic pulse, attracting nearby entities. Get ready! -->
-  <VoidAwakeningEntityArrivalText>Активація споруди порожнечі породила спотворений психічний імпульс, який приваблює істот поблизу. Будьте готові!</VoidAwakeningEntityArrivalText>
+  <VoidAwakeningEntityArrivalText>Активація споруди порожнечі породила спотворений психічний імпульс, який приваблює аномалії поблизу. Будьте готові!</VoidAwakeningEntityArrivalText>
   <!-- EN: Embrace the void -->
   <VoidAwakeningBreadcrumbLetterLabel>Обійми порожнечі</VoidAwakeningBreadcrumbLetterLabel>
   <!-- EN: While interacting with the void structure, {PAWN_nameDef} saw a vision of the void. For a moment {PAWN_pronoun} swam the black ocean of infinite depth and felt its endless inhuman power.\n\n{PAWN_nameDef} thinks there may be a way to control that power by embracing the void. If you were to permanently open the conduit to the void, rather than shutting it down, it could offer untold possibilities. -->

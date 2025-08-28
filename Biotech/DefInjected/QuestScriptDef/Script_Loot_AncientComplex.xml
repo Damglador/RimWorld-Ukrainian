@@ -29,8 +29,8 @@
     <li>complex->mechsite</li>
   -->
   <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
-    <li>questName(p=3)->[complexAdj] mechanitor [complex]</li>
-    <li>questName->mechanitor [complex]</li>
+    <li>questName(p=3)->[complexAdj] [complex] механітора</li>
+    <li>questName->механітор [complex]</li>
     <li>complexAdj->секретний</li>
     <li>complexAdj->древній</li>
     <li>complexAdj->старий</li>
@@ -43,7 +43,7 @@
     <li>complex->база</li>
     <li>complex->склад</li>
     <li>complex->склеп</li>
-    <li>complex->mechplex</li>
-    <li>complex->mechsite</li>
+    <li>complex->мехплекс</li>
+    <li>complex->мехсайт</li>
   </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
 </LanguageData>

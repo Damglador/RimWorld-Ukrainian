@@ -277,11 +277,11 @@
   <!-- EN: drill -->
   <Drill.verb>бурити, використовуючи</Drill.verb>
   <!-- EN: eject fuel -->
-  <EjectFuel.label>eject fuel</EjectFuel.label>
+  <EjectFuel.label>злити паливо</EjectFuel.label>
   <!-- EN: ejecting fuel from -->
-  <EjectFuel.gerund>ejecting fuel from</EjectFuel.gerund>
+  <EjectFuel.gerund>злити паливо з</EjectFuel.gerund>
   <!-- EN: eject fuel -->
-  <EjectFuel.verb>eject fuel</EjectFuel.verb>
+  <EjectFuel.verb>злити паливо</EjectFuel.verb>
   <!-- EN: empty egg box -->
   <EmptyEggBox.label>збирати яйця з коробки</EmptyEggBox.label>
   <!-- EN: emptying -->
@@ -324,6 +324,12 @@
   <FillFermentingBarrel.gerund>наповнити</FillFermentingBarrel.gerund>
   <!-- EN: fill -->
   <FillFermentingBarrel.verb>наповнювати</FillFermentingBarrel.verb>
+  <!-- EN: fill in -->
+  <FillIn.label>fill in</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>filling in</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>fill</FillIn.verb>
   <!-- EN: fix broken-down buildings -->
   <FixBrokenDownBuilding.label>ремонтувати виведенні з ладу споруди</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->

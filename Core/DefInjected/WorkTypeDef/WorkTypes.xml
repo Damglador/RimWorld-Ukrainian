@@ -110,8 +110,8 @@
   <Hauling.pawnLabel>Вантажник</Hauling.pawnLabel>
   <!-- EN: Haul -->
   <Hauling.verb>Вантажити</Hauling.verb>
-  <!-- EN: Kill animals which are designated to be hunted and fish in fishing zones. -->
-  <Hunting.description>Kill animals which are designated to be hunted and fish in fishing zones.</Hunting.description>
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>мисливець</Hunting.gerundLabel>
   <!-- EN: hunt -->

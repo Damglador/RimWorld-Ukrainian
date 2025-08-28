@@ -37,13 +37,13 @@
   <!-- EN: psychic bond -->
   <PsychicBond.label>психічний зв'язок</PsychicBond.label>
   <!-- EN: This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf. -->
-  <PsychicBond.description>This person has a psychic bond with another person based on the psychic bonding gene. The bond itself grants some limited psychic awareness, allowing it to connect even with the psychically deaf.</PsychicBond.description>
+  <PsychicBond.description>У цієї людини є психічний зв'язок з іншою людиною, що базується на генах психічного зв'язку. Сам зв'язок надає певну обмежену психічну усвідомленість, дозволяючи йому встановлювати зв'язок навіть з психічно глухими.</PsychicBond.description>
   <!-- EN: This person's bonded individual is nearby. -->
   <PsychicBond.stages.0.extraTooltip>Прив'язана особа поруч.</PsychicBond.stages.0.extraTooltip>
   <!-- EN: psychic bond -->
   <PsychicBond.stages.0.overrideLabel>психічний зв'язок</PsychicBond.stages.0.overrideLabel>
   <!-- EN: This person feels separated from their bonded individual. -->
-  <PsychicBond.stages.1.extraTooltip>This person feels separated from their bonded individual.</PsychicBond.stages.1.extraTooltip>
+  <PsychicBond.stages.1.extraTooltip>Прив'язана особа далеко.</PsychicBond.stages.1.extraTooltip>
   <!-- EN: psychic bond distance -->
   <PsychicBond.stages.1.overrideLabel>дистанційний психічний зв'язок</PsychicBond.stages.1.overrideLabel>
   <!-- EN: psychic bond torn -->

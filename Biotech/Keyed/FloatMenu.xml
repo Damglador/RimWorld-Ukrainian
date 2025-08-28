@@ -23,7 +23,7 @@
   <!-- EN: Cannot permanently disassemble {0} -->
   <CannotDisassembleMech>Неможливо назавжди розібрати {lookup: {0}; Case; 3}</CannotDisassembleMech>
   <!-- EN: Must be overseer -->
-  <MustBeOverseer>Потрібен наглядач</MustBeOverseer>
+  <MustBeOverseer>Має бути власником</MustBeOverseer>
   <!-- EN: Extract -->
   <Extract>Вилучити</Extract>
   <!-- EN: Out of command range -->
@@ -91,7 +91,7 @@
   <!-- EN: Cannot breastfeed {BABY_labelShort} -->
   <BabyCareBreastfeedUnable>Неможливо погодувати груддю {BABY_labelShort}</BabyCareBreastfeedUnable>
   <!-- EN: Already breastfeeding {BABY_labelShort} -->
-  <AlreadyBreastfeeding>Already breastfeeding {BABY_labelShort}</AlreadyBreastfeeding>
+  <AlreadyBreastfeeding>Уже годує грудьми {BABY_labelShort}</AlreadyBreastfeeding>
   <!-- EN: No baby-edible food -->
   <NoBabyFood>Немає їжі для малюків</NoBabyFood>
   <!-- EN: play need full -->
@@ -152,7 +152,7 @@
   <!-- EN: Cannot take to safe location -->
   <CannotCarryToSafePlace>Неможливо перенести до безпечного місця</CannotCarryToSafePlace>
   <!-- EN: No safer location than current location -->
-  <NoBetterSafePlace>No safer location than current location</NoBetterSafePlace>
+  <NoBetterSafePlace>Немає безпечнішого місця, ніж поточне місцеперебування</NoBetterSafePlace>
   <!-- EN: Already taking to safe location -->
-  <AlreadyCarryingToSafePlace>Already taking to safe location</AlreadyCarryingToSafePlace>
+  <AlreadyCarryingToSafePlace>Уже доправляється в безпечне місце</AlreadyCarryingToSafePlace>
 </LanguageData>

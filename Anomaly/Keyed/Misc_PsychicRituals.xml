@@ -39,7 +39,7 @@
   <!-- EN: The {0} psychic ritual can be performed again. -->
   <PsychicRitualCanBeCastAgain>Можна знову провести психічний ритуал {0}.</PsychicRitualCanBeCastAgain>
   <!-- EN: No basic anomaly research project selected. -->
-  <NoBasicResearchForPsychicRitual>Не вибрано базове дослідження аномацій.</NoBasicResearchForPsychicRitual>
+  <NoBasicResearchForPsychicRitual>Не вибрано базове дослідження аномалій.</NoBasicResearchForPsychicRitual>
   <!-- EN: Must perform {0} psychic ritual on the surface. -->
   <CantCastOnPocketMap>Ритуал {lookup: {0}; Case; 1} має проводитися на поверхні.</CantCastOnPocketMap>
   <!-- EN: Warning: Performing a ritual on {PAWN_nameDef} will anger {PAWN_possessive} faction ({FACTION_name}) -->

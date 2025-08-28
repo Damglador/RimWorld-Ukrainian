@@ -5,7 +5,7 @@
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
   <FollowFieldwork.headerTip>Слідкувати за господарем на полюванні та при прирученні диких тварин.</FollowFieldwork.headerTip>
   <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
-  <Hunt.headerTip>Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt.</Hunt.headerTip>
+  <Hunt.headerTip>Виділіть тварин для полювання.\n\nЛише мисливці з далекобійною зброєю будуть полювати.</Hunt.headerTip>
   <!-- EN: Release to wild -->
   <ReleaseAnimalToWild.headerTip>Відпустити в дику природу</ReleaseAnimalToWild.headerTip>
   <!-- EN: Slaughter -->

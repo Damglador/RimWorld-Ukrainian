@@ -3,7 +3,7 @@
   <!-- EN: acid spray -->
   <AcidSpray.label>кислотний плювок</AcidSpray.label>
   <!-- EN: Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them. -->
-  <AcidSpray.description>Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them.</AcidSpray.description>
+  <AcidSpray.description>Розпилюйте липку кислотну речовину із залоз на шиї по області навколо цілі. Кислота прилипає до цілей і роз'їдає їх протягом певного часу.</AcidSpray.description>
   <!-- EN: animal warcall -->
   <AnimalWarcall.label>звірячий вий</AnimalWarcall.label>
   <!-- EN: With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours. -->
@@ -15,7 +15,7 @@
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>підживлення кров'ю</Bloodfeed.label>
   <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size. -->
-  <Bloodfeed.description>Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size.</Bloodfeed.description>
+  <Bloodfeed.description>Укусіть ціль, щоб витягти гемоген безпосередньо з її крові. Ціль втратить кров і буде налякана після цього, але в іншому залишиться неушкодженою. Швидкодійний коагулянт запечатає рану, щоб запобігти кровотечі.\n\nМожна застосовувати лише до негемогенних людей. На кількість отриманого гемогену впливає розмір тіла жертви.</Bloodfeed.description>
   <!-- EN: coagulate -->
   <Coagulate.label>коагуляція</Coagulate.label>
   <!-- EN: Use special glands in the wrists to quickly tend someone's wounds. -->
@@ -61,7 +61,7 @@
   <!-- EN: implant genes -->
   <ReimplantXenogerm.label>вживлення генів</ReimplantXenogerm.label>
   <!-- EN: Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected. -->
-  <ReimplantXenogerm.description>Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected.</ReimplantXenogerm.description>
+  <ReimplantXenogerm.description>Імплантує ксеногени користувача всередину охочого суб'єкта за допомогою спеціального органу-ін'єктора. Імплантація генів під час їх відновлення призведе до смерті.</ReimplantXenogerm.description>
   <!-- EN: resurrect -->
   <Resurrect.label>оживлення</Resurrect.label>
   <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->

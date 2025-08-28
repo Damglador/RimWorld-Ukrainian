@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: black -->
-  <Black.label>black</Black.label>
+  <Black.label>чорний</Black.label>
   <!-- EN: blue -->
-  <Blue.label>blue</Blue.label>
+  <Blue.label>блакитний</Blue.label>
   <!-- EN: dark blue -->
-  <DarkBlue.label>dark blue</DarkBlue.label>
+  <DarkBlue.label>темно-синій</DarkBlue.label>
   <!-- EN: dark green -->
-  <DarkGreen.label>dark green</DarkGreen.label>
+  <DarkGreen.label>темно-зелений</DarkGreen.label>
   <!-- EN: dark grey -->
-  <DarkGrey.label>dark grey</DarkGrey.label>
+  <DarkGrey.label>темно-сірий</DarkGrey.label>
   <!-- EN: dark mauve -->
-  <DarkMauve.label>dark mauve</DarkMauve.label>
+  <DarkMauve.label>темно-ліловий</DarkMauve.label>
   <!-- EN: dark olive -->
-  <DarkOlive.label>dark olive</DarkOlive.label>
+  <DarkOlive.label>темно-оливковий</DarkOlive.label>
   <!-- EN: dark orange -->
-  <DarkOrange.label>dark orange</DarkOrange.label>
+  <DarkOrange.label>темно-помаранчевий</DarkOrange.label>
   <!-- EN: dark pink -->
-  <DarkPink.label>dark pink</DarkPink.label>
+  <DarkPink.label>темно-рожевий</DarkPink.label>
   <!-- EN: dark purple -->
-  <DarkPurple.label>dark purple</DarkPurple.label>
+  <DarkPurple.label>темно-фіолетовий</DarkPurple.label>
   <!-- EN: dark red -->
-  <DarkRed.label>dark red</DarkRed.label>
+  <DarkRed.label>темно-червоний</DarkRed.label>
   <!-- EN: dark sapphire -->
-  <DarkSapphire.label>dark sapphire</DarkSapphire.label>
+  <DarkSapphire.label>темно-сапфіровий</DarkSapphire.label>
   <!-- EN: dark teal -->
-  <DarkTeal.label>dark teal</DarkTeal.label>
+  <DarkTeal.label>темно-бірюзовий</DarkTeal.label>
   <!-- EN: green -->
-  <Green.label>green</Green.label>
+  <Green.label>зелений</Green.label>
   <!-- EN: grey -->
-  <Grey.label>grey</Grey.label>
+  <Grey.label>сірий</Grey.label>
   <!-- EN: light blue -->
-  <LightBlue.label>light blue</LightBlue.label>
+  <LightBlue.label>світло-блакитний</LightBlue.label>
   <!-- EN: light green -->
-  <LightGreen.label>light green</LightGreen.label>
+  <LightGreen.label>світло-зелений</LightGreen.label>
   <!-- EN: light grey -->
-  <LightGrey.label>light grey</LightGrey.label>
+  <LightGrey.label>світло-сірий</LightGrey.label>
   <!-- EN: light mauve -->
-  <LightMauve.label>light mauve</LightMauve.label>
+  <LightMauve.label>світло-ліловий</LightMauve.label>
   <!-- EN: light olive -->
-  <LightOlive.label>light olive</LightOlive.label>
+  <LightOlive.label>світло-оливковий</LightOlive.label>
   <!-- EN: light orange -->
-  <LightOrange.label>light orange</LightOrange.label>
+  <LightOrange.label>світло-помаранчевий</LightOrange.label>
   <!-- EN: light pink -->
-  <LightPink.label>light pink</LightPink.label>
+  <LightPink.label>світло-рожевий</LightPink.label>
   <!-- EN: light purple -->
-  <LightPurple.label>light purple</LightPurple.label>
+  <LightPurple.label>світло-фіолетовий</LightPurple.label>
   <!-- EN: light red -->
-  <LightRed.label>light red</LightRed.label>
+  <LightRed.label>світло-червоний</LightRed.label>
   <!-- EN: light sapphire -->
-  <LightSapphire.label>light sapphire</LightSapphire.label>
+  <LightSapphire.label>світло-сапфіровий</LightSapphire.label>
   <!-- EN: light teal -->
-  <LightTeal.label>light teal</LightTeal.label>
+  <LightTeal.label>світло-бірюзовий</LightTeal.label>
   <!-- EN: mauve -->
-  <Mauve.label>mauve</Mauve.label>
+  <Mauve.label>ліловий</Mauve.label>
   <!-- EN: olive -->
-  <Olive.label>olive</Olive.label>
+  <Olive.label>оливковий</Olive.label>
   <!-- EN: orange -->
-  <Orange.label>orange</Orange.label>
+  <Orange.label>помаранчевий</Orange.label>
   <!-- EN: pink -->
-  <Pink.label>pink</Pink.label>
+  <Pink.label>рожевий</Pink.label>
   <!-- EN: purple -->
-  <Purple.label>purple</Purple.label>
+  <Purple.label>фіолетовий</Purple.label>
   <!-- EN: red -->
-  <Red.label>red</Red.label>
+  <Red.label>червоний</Red.label>
   <!-- EN: sapphire -->
-  <Sapphire.label>sapphire</Sapphire.label>
+  <Sapphire.label>сапфіровий</Sapphire.label>
   <!-- EN: teal -->
-  <Teal.label>teal</Teal.label>
+  <Teal.label>бірюзовий</Teal.label>
 </LanguageData>

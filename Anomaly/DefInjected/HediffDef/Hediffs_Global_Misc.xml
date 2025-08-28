@@ -15,7 +15,7 @@
   <!-- EN: bioferrite extracted -->
   <BioferriteExtracted.label>біоферит добуто</BioferriteExtracted.label>
   <!-- EN: Bioferrite has been surgically removed from this entity. It will regenerate, but the process takes days. -->
-  <BioferriteExtracted.description>Біоферит було вилучено хірургічним шляхом з цієї істоти. Він відновиться, але цей процес займе кілька днів.</BioferriteExtracted.description>
+  <BioferriteExtracted.description>Біоферит було вилучено хірургічним шляхом з цієї аномалії. Він відновиться, але цей процес займе кілька днів.</BioferriteExtracted.description>
   <!-- EN: bliss lobotomy -->
   <BlissLobotomy.label>блаженна лоботомія</BlissLobotomy.label>
   <!-- EN: This person has been psychically lobotomized, placing them in a state of bliss but limiting their cognitive function. -->
@@ -151,7 +151,7 @@
   <!-- EN: disruptor flash -->
   <DisruptorFlash.label>імпульс фальшфеєра</DisruptorFlash.label>
   <!-- EN: The initial psychic burst from a disruptor flare has left this creature dazed. -->
-  <DisruptorFlash.description>Імпульс руйнівного фальшфеєра приголомшив цю істоту.</DisruptorFlash.description>
+  <DisruptorFlash.description>Імпульс фальшфеєра дестабілізації приголомшив цю істоту.</DisruptorFlash.description>
   <!-- EN: duplicate sickness -->
   <DuplicateSickness.label>хвороба дублікації</DuplicateSickness.label>
   <!-- EN: Psychic interference between this person and their duplicate is causing slow mental deterioration. As long as multiple copies of this person are alive, the condition will keep getting worse. However, the condition will not be lethal. -->
@@ -235,7 +235,7 @@
   <!-- EN: pain field -->
   <PainField.label>поле болю</PainField.label>
   <!-- EN: A searing pain caused by the presence of a psychically active entity nearby. The effect intensifies when the entity is more active. -->
-  <PainField.description>Пекучий біль, викликаний присутністю психічно активного суб'єкта поблизу. Ефект посилюється, коли суб'єкт більш активний.</PainField.description>
+  <PainField.description>Пекучий біль, викликаний присутністю психічно активної аномалії поблизу. Ефект посилюється, коли аномалія більш активна.</PainField.description>
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>заспокійливий імпульс</PleasurePulse.label>
   <!-- EN: This person has been impacted by a psychic pulse of pleasurable sensations and emotions. They feel unnaturally happy, distracting them from their work. -->
@@ -267,7 +267,7 @@
   <!-- EN: revenant hypnosis -->
   <RevenantHypnosis.label>гіпноз ревенанта</RevenantHypnosis.label>
   <!-- EN: This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or fire. -->
-  <RevenantHypnosis.description>Ця людина загіпнотизована Ревенантом і тепер пов'язана з нею. Вони бурмочуть про кошмарних істот, тоді як їхні не моргаючі очі дивиляться на невидимих жахів.\n\nПісля гіпнотизації жертви Ревенант впадає у сплячку десь на тій же карті як і його жертва.\n\n Вбивство цієї аномалії призведе до зникнення гіпнозу к жертв. Прихованого Ревенанта можна буде розкрити пси-фальшфеєрами, вибухівкою, ЕМІ, піною або вогнем.</RevenantHypnosis.description>
+  <RevenantHypnosis.description>Ця людина загіпнотизована ревенантом і тепер пов'язана з нею. Вони бурмочуть про кошмарних істот, тоді як їхні не моргаючі очі дивиляться на невидимих жахів.\n\nПісля гіпнотизації жертви ревенант впадає у сплячку десь на тій же карті як і його жертва.\n\n Вбивство цієї аномалії призведе до зникнення гіпнозу к жертв. Прихованого ревенанта можна буде розкрити фальшфеєрами дестабілізації, вибухівкою, ЕМІ, піною або вогнем.</RevenantHypnosis.description>
   <!-- EN: shard holder -->
   <ShardHolder.label>носій уламка</ShardHolder.label>
   <!-- EN: This creature will drop a shard when defeated. This text is visible in dev mode only. -->

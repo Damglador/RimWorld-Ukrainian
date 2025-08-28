@@ -26,22 +26,22 @@
     <li>runnerIndef(childCount==1,priority=1)->a child</li>
   -->
   <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
-    <li>questName->Saving [runnerIndef]</li>
-    <li>questName->The Salvation of [runnerIndef]</li>
-    <li>questName->Helping [runnerIndef]</li>
-    <li>questName->Accepting [runnerIndef]</li>
-    <li>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</li>
-    <li>questName->[runnerIndef] on the Run</li>
-    <li>questName->[runnerIndef] Seeks a Home</li>
-    <li>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</li>
-    <li>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</li>
+    <li>questName->Збереження [runnerIndef]</li>
+    <li>questName->Порятунок [runnerIndef]</li>
+    <li>questName->Допомога [runnerIndef]</li>
+    <li>questName->Прийняти [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] полюють на [runnerIndef]</li>
+    <li>questName->[runnerIndef] на втіках</li>
+    <li>questName->[runnerIndef] прагне дому</li>
+    <li>questName->[runnerIndef] Гонимий [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] та [enemyFaction_pawnsPlural]</li>
     <li>runnerIndef->[joiner_titleIndef]</li>
     <li>runnerIndef->[joiner_nameIndef]</li>
-    <li>runnerIndef->a Refugee</li>
-    <li>runnerIndef(childCount==1,priority=1)->a child</li>
+    <li>runnerIndef->Біженець</li>
+    <li>runnerIndef(childCount==1,priority=1)->дитина</li>
   </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} chasing [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL} переслідують [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
   <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
 </LanguageData>

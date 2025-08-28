@@ -35,11 +35,11 @@
   <!-- EN: hacking speed -->
   <HackingSpeed.label>швидкість зламу</HackingSpeed.label>
   <!-- EN: How fast this person can hack into computer terminals. -->
-  <HackingSpeed.description>How fast this person can hack into computer terminals.</HackingSpeed.description>
+  <HackingSpeed.description>Як швидко ця людина може зламати комп'ютерні термінали.</HackingSpeed.description>
   <!-- EN: hacking stealth -->
   <HackingStealth.label>hacking stealth</HackingStealth.label>
   <!-- EN: How much hacking progress can be made on average before this person is temporarily locked out of a computer system. Only certain systems are capable of detecting hacking. -->
-  <HackingStealth.description>How much hacking progress can be made on average before this person is temporarily locked out of a computer system. Only certain systems are capable of detecting hacking.</HackingStealth.description>
+  <HackingStealth.description>Скільки в середньому можна просунутися в хакерській діяльності, перш ніж ця людина буде тимчасово заблокована в комп'ютерній системі. Тільки певні системи здатні виявляти хакерські атаки.</HackingStealth.description>
   <!-- EN: hunting stealth -->
   <HuntingStealth.label>скритність на полюванні</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->

@@ -10,8 +10,8 @@
   <AlertMechanoidThreatDesc>Меха-вулик сканує простір, намагаючись визначити ваше місцезнаходження. Коли він вас знайде, то відправить до вас велику кількість ворожих механоїдів.\n\nТікайте з поточної мапи, поки можна!</AlertMechanoidThreatDesc>
   <!-- EN: Incoming mechanoids -->
   <AlertMechanoidThreatCritical>Механоїди-переслідувачі</AlertMechanoidThreatCritical>
-  <!-- EN: A mechhive has discovered your location. It will continue to send hostile mechanoids until you flee this location. -->
-  <AlertMechanoidThreatCriticalDesc>Меха-вулик знайшов ваше місцезнаходження. Він буде відправляти до вас ворожих механоїдів, поки ви не втечете звідси.</AlertMechanoidThreatCriticalDesc>
+  <!-- EN: A mechhive has discovered your location. It will send multiple waves of hostile mechanoids.\n\nFlee the map before mechanoids arrive! -->
+  <AlertMechanoidThreatCriticalDesc>A mechhive has discovered your location. It will send multiple waves of hostile mechanoids.\n\nFlee the map before mechanoids arrive!</AlertMechanoidThreatCriticalDesc>
   <!-- Mechhive -->
   <!-- EN: Stabilizers remaining -->
   <StabilizersRemainingAlertLabel>Стабілізаторів залишилося</StabilizersRemainingAlertLabel>

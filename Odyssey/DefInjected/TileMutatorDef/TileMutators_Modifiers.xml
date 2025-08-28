@@ -44,8 +44,8 @@
   <ObsidianDeposits.description>В цій області є поклади вулканічного обсидіану, з яких можна добувати обсидіанове скло.</ObsidianDeposits.description>
   <!-- EN: plant grove -->
   <PlantGrove.label>рослинний достаток</PlantGrove.label>
-  <!-- EN: This area contains a large number of {0}. -->
-  <PlantGrove.description>В цій області дуже розрослася така рослина, як {0}.</PlantGrove.description>
+  <!-- EN: This area contains a large number of {0}s. -->
+  <PlantGrove.description>This area contains a large number of {0}s.</PlantGrove.description>
   <!-- EN: decreased plant life -->
   <PlantLife_Decreased.label>менше рослин</PlantLife_Decreased.label>
   <!-- EN: Plant life is less abundant here. -->

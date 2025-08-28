@@ -61,7 +61,7 @@
   <!-- EN: Non-{ADJECTIVE} surroundings -->
   <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>не {ADJECTIVE} стиль оточення</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>
   <!-- EN: My surroundings are not at all {ADJECTIVE}. I enjoy the diversity. -->
-  <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>Оточення навколо мене не зовсім відповідає моїм переконанням. Я насолоджуюся різноманіттям.</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>Оточення не {ADJECTIVE}. Я насолоджуюся різноманіттям.</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>
   <!-- EN: diverse thoughts -->
   <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>різноманітність думки</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>
   <!-- EN: My truth is clear, yet some of those around me are so foolish they can't see it. I don't like being subjected to their idiocy. -->
@@ -111,7 +111,7 @@
   <!-- EN: Non-{ADJECTIVE} surroundings -->
   <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>Оточення не в стилі {ADJECTIVE}</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>
   <!-- EN: My surroundings are not at all {ADJECTIVE}. I'm very happy to be part of this diverse community. -->
-  <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>Оточення навколо мене не зовсім відповідає моїм переконанням. Я дуже {PAWN_gender ? радий : рада} бути частиною цієї різноманітної спільноти.</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>Оточення не {ADJECTIVE}. Я дуже {0_gender ? радий : рада} бути частиною цієї різноманітної спільноти.</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>
   <!-- EN: diverse thoughts -->
   <IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>різноманітність думки</IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>
   <!-- EN: My truth is so obvious, yet some of those around me are so deluded. It's horrible. -->
@@ -161,7 +161,7 @@
   <!-- EN: Non-{ADJECTIVE} surroundings -->
   <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>Оточення не в стилі {ADJECTIVE}</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>
   <!-- EN: My surroundings are not at all {ADJECTIVE}. I am happy to be a part of a diverse community. -->
-  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>Оточення навколо мене не зовсім відповідає моїм переконанням. Я дуже {PAWN_gender ? радий : рада} бути частиною цієї різноманітної спільноти.</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>Оточення не {ADJECTIVE}. Я {0_gender ? радий : рада} бути частиною цієї різноманітної спільноти.</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>
   <!-- EN: {ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>Оточення в стилі {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>
   <!-- EN: I am surrounded by constructions which match the style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES} -->

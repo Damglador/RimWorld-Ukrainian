@@ -276,7 +276,7 @@
   <!-- EN: {0} until enemies arrive -->
   <CaravanDetectedRaidCountdown>{0} до прибуття ворогів</CaravanDetectedRaidCountdown>
   <!-- EN: Enemies have learned of your location. They will arrive in {0}. -->
-  <CaravanDetectedRaidCountdownTip>Enemies have learned of your location. They will arrive in {0}.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>Вороги дізналися про ваше місцезнаходження. Вони прибудуть в {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Кімната</Room>
   <!-- EN: Beauty here -->
@@ -284,13 +284,13 @@
   <!-- EN: no power -->
   <NoPower>Живлення відсутнє</NoPower>
   <!-- EN: not in {0} -->
-  <NotInRoomRole>not in {0}</NotInRoomRole>
+  <NotInRoomRole>не в {0}</NotInRoomRole>
   <!-- EN: Work speed -->
   <WorkSpeedPenalty>Штраф до швидкості роботи</WorkSpeedPenalty>
   <!-- EN: Disabled -->
   <DisabledCommand>Неможливо</DisabledCommand>
   <!-- EN: Deactivated -->
-  <Deactivated>Deactivated</Deactivated>
+  <Deactivated>Деактивовано</Deactivated>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Готово до запуску.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
@@ -298,13 +298,13 @@
   <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>не підключено до порту заправки</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllLaunchablesInGroupHaveAnyFuel>no fuel</NotAllLaunchablesInGroupHaveAnyFuel>
+  <NotAllLaunchablesInGroupHaveAnyFuel>немає пального</NotAllLaunchablesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <LaunchableInGroupHasSomethingLeftToLoad>loading in progress</LaunchableInGroupHasSomethingLeftToLoad>
+  <LaunchableInGroupHasSomethingLeftToLoad>триває завантаження</LaunchableInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>За межами максимального діапазону</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: No path to {LAYER_label} -->
-  <TransportPodDestinationNoPath>No path to {LAYER_label}</TransportPodDestinationNoPath>
+  <TransportPodDestinationNoPath>Немає шляху до {LAYER_label}</TransportPodDestinationNoPath>
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Недостатньо палива</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
@@ -352,7 +352,7 @@
   <!-- EN: Replaces -->
   <Replaces>Замінює</Replaces>
   <!-- EN: missing {0} -->
-  <MissingPartWithLabel>missing {0}</MissingPartWithLabel>
+  <MissingPartWithLabel>потрібно {0}</MissingPartWithLabel>
   <!-- EN: {0}x any of -->
   <NumAnyOf>{0}x будь-якого з</NumAnyOf>
   <!-- EN: {0} of {1} -->
@@ -376,13 +376,13 @@
   <!-- EN: Multiplier from ridden animals -->
   <MultiplierFromRiddenAnimals>Множник від їздових тварин</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier from bonuses -->
-  <MultiplierFromMoveSpeedBonus>Multiplier from bonuses</MultiplierFromMoveSpeedBonus>
+  <MultiplierFromMoveSpeedBonus>Множник від бонусів</MultiplierFromMoveSpeedBonus>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Множник ваги, що переноситься: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
   <RideableAnimalTip>Це їздова тварина. Люди в каравані вибиратимуть для їзди найшвидших доступних тварин, покращуючи загальну швидкість каравану.</RideableAnimalTip>
   <!-- EN: This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members. -->
-  <CaravanBonusTip>This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members.</CaravanBonusTip>
+  <CaravanBonusTip>Ця людина надає бонус до швидкості каравану. Збільшення швидкості є середнім бонусом усіх членів каравану.</CaravanBonusTip>
   <!-- EN: This caravan can't move because it carries too much. -->
   <EncumberedCaravanTilesPerDayTip>Цей караван не може рухатися, оскільки несе забагато вантажу.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
@@ -484,13 +484,13 @@
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>Днів до детонації: {0}</DetonationCountdown>
   <!-- EN: Large explosion if damaged. -->
-  <ExplosionOnDamageWarning>Large explosion if damaged.</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>При пошкодженні відбудеться великий вибух.</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>Кластер механоїдів</MechCluster>
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Розплодиться через {0}</SpawningNextPawnIn>
   <!-- EN: {0} gestation completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} gestation completes in {1}.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>{0} збірка завершується в {1}.</MechAssemblyCompleteIn>
   <!-- EN: Will gestate -->
   <MechAssemblyNextType>Зростить</MechAssemblyNextType>
   <!-- EN: produced -->
@@ -580,7 +580,7 @@
   <!-- EN: size -->
   <Size>розмір</Size>
   <!-- EN: Total planning area -->
-  <TotalPlanningArea>Total planning area</TotalPlanningArea>
+  <TotalPlanningArea>Загальна площа планування</TotalPlanningArea>
   <!-- EN: cost -->
   <Cost>вартість</Cost>
   <!-- EN: Stunned by EMP -->
@@ -600,7 +600,7 @@
   <!-- EN: Activate -->
   <Activate>Активувати</Activate>
   <!-- EN: Deactivate -->
-  <Deactivate>Deactivate</Deactivate>
+  <Deactivate>Деактивувати</Deactivate>
   <!-- EN: Activation -->
   <Activation>Активація</Activation>
   <!-- EN: complete -->
@@ -628,23 +628,23 @@
   <!-- EN: Crawling to bed. -->
   <ReportStringCrawlingToBed>Повзе до ліжка.</ReportStringCrawlingToBed>
   <!-- EN: flying -->
-  <Flying>flying</Flying>
+  <Flying>політ</Flying>
   <!-- EN: Prevent cutting -->
-  <PreventCutting>Prevent cutting</PreventCutting>
+  <PreventCutting>Запобігання порізам</PreventCutting>
   <!-- EN: When on, colonists won't cut this plant. -->
-  <PreventCuttingDesc>When on, colonists won't cut this plant.</PreventCuttingDesc>
+  <PreventCuttingDesc>Коли опція увімкнена, колоністи не будуть зрізати цю рослину.</PreventCuttingDesc>
   <!-- EN: Resulting from trait -->
-  <ComesFromTrait>Resulting from trait</ComesFromTrait>
+  <ComesFromTrait>Викликано рисою</ComesFromTrait>
   <!-- EN: Resulting from condition -->
-  <ComesFromHediff>Resulting from condition</ComesFromHediff>
+  <ComesFromHediff>Викликано станом</ComesFromHediff>
   <!-- EN: Adds need -->
-  <AddsNeed>Adds need</AddsNeed>
+  <AddsNeed>Додає потребу</AddsNeed>
   <!-- EN: Adds needs -->
-  <AddsNeeds>Adds needs</AddsNeeds>
+  <AddsNeeds>Додає потреби</AddsNeeds>
   <!-- EN: Disables need -->
-  <DisablesNeed>Disables need</DisablesNeed>
+  <DisablesNeed>Прибирає потребу</DisablesNeed>
   <!-- EN: Disables needs -->
-  <DisablesNeeds>Disables needs</DisablesNeeds>
+  <DisablesNeeds>Прибирає потреби</DisablesNeeds>
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
   <UserScanAbility>Ефективність сканування</UserScanAbility>
@@ -830,7 +830,7 @@
   <!-- EN: Cannot use in {0} -->
   <CannotUseReason_PocketMap>Неможливо використати в {0}</CannotUseReason_PocketMap>
   <!-- EN: Range reduced -->
-  <WeatherMaxRangeCap>Range reduced</WeatherMaxRangeCap>
+  <WeatherMaxRangeCap>Дальність зменшена</WeatherMaxRangeCap>
   <!-- Snow -->
   <!-- EN: Snow -->
   <Snow>Сніг</Snow>
@@ -1136,9 +1136,9 @@
   <!-- EN: resting -->
   <PlantResting>відпочиває</PlantResting>
   <!-- EN: temperature growth multiplier {0}% -->
-  <OutOfIdealTemperatureRange>temperature growth multiplier {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>коефіцієнт зростання температури {0}%</OutOfIdealTemperatureRange>
   <!-- EN: out of temperature growth range -->
-  <OutOfIdealTemperatureRangeNotGrowing>out of temperature growth range</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>поза діапазоном зростання температури</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>Можна збирати.</ReadyToHarvest>
   <!-- EN: Mature. -->
@@ -1162,7 +1162,7 @@
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Вмирає на світлі</DyingBecauseExposedToLight>
   <!-- EN: Dying from non-ideal terrain -->
-  <DyingBecauseOfTerrain>Dying from non-ideal terrain</DyingBecauseOfTerrain>
+  <DyingBecauseOfTerrain>Смерть від неідеального ландшафту</DyingBecauseOfTerrain>
   <!-- EN: Cut now -->
   <AutoCutNow>Зрізати</AutoCutNow>
   <!-- EN: harvesting -->
@@ -1179,11 +1179,11 @@
   <!-- EN: Growing zone -->
   <GrowingZone>Зона посіву</GrowingZone>
   <!-- EN: growing -->
-  <GrowingGroup>growing</GrowingGroup>
+  <GrowingGroup>вирощувати</GrowingGroup>
   <!-- EN: Stockpile zone -->
   <Stockpile>Зона складу</Stockpile>
   <!-- EN: stockpile -->
-  <StockpileGroup>stockpile</StockpileGroup>
+  <StockpileGroup>склад</StockpileGroup>
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Зона звалища</DumpingStockpile>
   <!-- EN: Corpse stockpile zone -->
@@ -1250,9 +1250,9 @@
   <!-- EN: Toggle day/night lighting on the planet view. -->
   <UsePlanetDayNightSystemToggleButton>Відображення зон дня і ночі на планеті.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons for settlements belonging to other factions. -->
-  <ShowBasesExpandingIconsToggleButton>Toggle displaying expanding icons for settlements belonging to other factions.</ShowBasesExpandingIconsToggleButton>
+  <ShowBasesExpandingIconsToggleButton>Увімкнути/вимкнути відображення розгорнутих іконок для поселень, що належать до інших фракцій.</ShowBasesExpandingIconsToggleButton>
   <!-- EN: Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps. -->
-  <ShowImportantExpandingIconsToggleButton>Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps.</ShowImportantExpandingIconsToggleButton>
+  <ShowImportantExpandingIconsToggleButton>Увімкніть або вимкніть відображення розгорнутих піктограм для важливих місць, таких як ваша колонія, місця виконання квестів та активні карти.</ShowImportantExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
   <ShowWorldFeaturesToggleButton>Відображення назв форм рельєфу.</ShowWorldFeaturesToggleButton>
   <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
@@ -1436,9 +1436,9 @@
   <!-- EN: No colony -->
   <NoColony>Немає колонії</NoColony>
   <!-- EN: cannot reach any destination -->
-  <NoWandererDestination>cannot reach any destination</NoWandererDestination>
+  <NoWandererDestination>не може досягти жодного пункту призначення</NoWandererDestination>
   <!-- EN: must wait {0}h -->
-  <GameOverCreateNewWanderersWait>must wait {0}h</GameOverCreateNewWanderersWait>
+  <GameOverCreateNewWanderersWait>необхідно зачекати {0} годин</GameOverCreateNewWanderersWait>
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
   <LifespanExpiry>Спливає через:</LifespanExpiry>
@@ -1572,7 +1572,7 @@
   <!-- EN: Nudist -->
   <OutfitNudist>Нудист</OutfitNudist>
   <!-- EN: Spacefarer -->
-  <OutfitSpacefarer>Spacefarer</OutfitSpacefarer>
+  <OutfitSpacefarer>Космонавт</OutfitSpacefarer>
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
   <HibernatableHibernating>Гібернація</HibernatableHibernating>
@@ -1613,9 +1613,9 @@
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_Caravan>{0_age}-{0_gender ? річний : річна} {0_title} на ім'я {0_nameDef} приєднається до вас{0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):\n\n{0} -->
-  <Reward_Items>transport pods with the following resources will arrive (total value {1}):\n\n{0}</Reward_Items>
+  <Reward_Items>транспортні капсули з наступними ресурсами прибудуть (загальна вартість {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):\n\n{0} -->
-  <Reward_Items_Caravan>you will receive (total value {1}):\n\n{0}</Reward_Items_Caravan>
+  <Reward_Items_Caravan>ви отримаєте (загальна вартість {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>відносини з фракцією {0_name} покращаться на {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
@@ -1674,11 +1674,11 @@
   <BiocodedCodedForSomeoneElse>біо-кодовано</BiocodedCodedForSomeoneElse>
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1}. -->
-  <InterceptsProjectilesEvery>Intercepts {0} every {1}.</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Перехоплює {0} кожні {1}.</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0}. -->
-  <InterceptsProjectiles>Intercepts {0}.</InterceptsProjectiles>
+  <InterceptsProjectiles>Перехоплює {0}.</InterceptsProjectiles>
   <!-- EN: ground and aerial projectiles -->
-  <InterceptsProjectiles_BothProjectiles>ground and aerial projectiles</InterceptsProjectiles_BothProjectiles>
+  <InterceptsProjectiles_BothProjectiles>наземні та повітряні снаряди</InterceptsProjectiles_BothProjectiles>
   <!-- EN: ground projectiles -->
   <InterceptsProjectiles_GroundProjectiles>снаряди з настильною траєкторією</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
@@ -1752,10 +1752,10 @@
   <DragPawnsToRolesInfoController>Перетягуйте або користуйтеся кнопками.</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>Раб. Людина, що належить іншій людині або людям.</RitualBeginSlaveDesc>
-  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>{0_labelShort} спить, але {0_pronoun} прокинеться, якщо {0_possessive} запросити до ритуалу.</RitualBeginSleepingDesc>
-  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
-  <RitualBeginSleepingWarning>Деякі з вибраних учасників сплять. Вони прокинуться, як тільки ви почнете ритуал.</RitualBeginSleepingWarning>
+  <!-- EN: {0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>{0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate.</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the event. -->
+  <RitualBeginSleepingWarning>Some of the selected participants are sleeping. They will wake up once you start the event.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
   <RitualRoleRequiresSocialRole>З цим найкраще впорається колоніст із роллю {0}.\n\nЯкщо вибрати колоніста без цієї ролі - ви не отримаєте наступні бонуси</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
@@ -1962,7 +1962,7 @@
   <!-- EN: About to explode -->
   <AboutToExplode>Зараз вибухне</AboutToExplode>
   <!-- EN: No fuel to eject -->
-  <RefuelableNoFuelToEject>No fuel to eject</RefuelableNoFuelToEject>
+  <RefuelableNoFuelToEject>Немає палива для викиду</RefuelableNoFuelToEject>
   <!-- EN: New Anomaly expansion available now! -->
   <MainScreen_AnomalyAvailableNow>Доступне нове розширення аномалії!</MainScreen_AnomalyAvailableNow>
   <!-- EN: Disabled by scenario -->
@@ -1970,29 +1970,29 @@
   <!-- EN: blocked by roof -->
   <BlockedByRoof>перекрито дахом</BlockedByRoof>
   <!-- EN: Blocked by terrain (requires {0_label} terrain support) -->
-  <BlockedByTerrain>Blocked by terrain (requires {0_label} terrain support)</BlockedByTerrain>
+  <BlockedByTerrain>Заблоковано рельєфом (потрібна підтримка {0_label})</BlockedByTerrain>
   <!-- Craters -->
   <!-- EN: Fill in -->
   <DesignatorFillIn>Засипати</DesignatorFillIn>
   <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
-  <DesignatorFillInDesc>Designate this crater to be filled in. A colonist assigned to construction will fill it in.</DesignatorFillInDesc>
+  <DesignatorFillInDesc>Позначте цей кратер для засипання. Колоніст, призначений для будівництва, засипле його.</DesignatorFillInDesc>
   <!-- Hacking -->
   <!-- EN: Hack progress -->
   <HackProgress>Прогрес зламу</HackProgress>
   <!-- EN: hacking speed -->
   <HackingSpeed>швидкість зламу</HackingSpeed>
   <!-- EN: {0}'s -->
-  <HackingLastUser>{0}'s</HackingLastUser>
+  <HackingLastUser>{0}</HackingLastUser>
   <!-- EN: hacked -->
-  <Hacked>hacked</Hacked>
+  <Hacked>зламано</Hacked>
   <!-- EN: Terminals hacked -->
-  <TerminalsHacked>Terminals hacked</TerminalsHacked>
+  <TerminalsHacked>Термінали зламані</TerminalsHacked>
   <!-- EN: Intellectual needed -->
   <IntellectualSkillPrerequisite>Мінімальний інтелект</IntellectualSkillPrerequisite>
   <!-- EN: Auto hack -->
-  <AutoHack>Auto hack</AutoHack>
+  <AutoHack>Автоматичний злом</AutoHack>
   <!-- EN: When enabled, researchers will automatically hack this. -->
-  <AutoHackDesc>When enabled, researchers will automatically hack this.</AutoHackDesc>
+  <AutoHackDesc>Коли ця функція увімкнена, дослідники автоматично зламають це.</AutoHackDesc>
   <!-- World -->
   <!-- EN: View {LAYER_label} -->
   <WorldSelectLayer>Перемкнутися на {lookup: {LAYER_label}; Case; 3}</WorldSelectLayer>
@@ -2001,19 +2001,19 @@
   <!-- EN: Find a colony, caravan, or quest location on the world map. -->
   <WorldJumpToDesc>Знайти розташування колонії, каравану чи доручення на мапі світу.</WorldJumpToDesc>
   <!-- EN: Nothing to jump to. -->
-  <NothingToJumpTo>Nothing to jump to.</NothingToJumpTo>
+  <NothingToJumpTo>Нічого, до чого можна було б перейти.</NothingToJumpTo>
   <!-- EN: cannot function in {0} -->
-  <CannotFunctionOnLayer>cannot function in {0}</CannotFunctionOnLayer>
+  <CannotFunctionOnLayer>не може функціонувати в {0}</CannotFunctionOnLayer>
   <!-- EN: New settlement -->
-  <NewSettlement>New settlement</NewSettlement>
+  <NewSettlement>Нове поселення</NewSettlement>
   <!-- EN: Settled -->
-  <Settled>Settled</Settled>
+  <Settled>Оселилися</Settled>
   <!-- EN: Abandoned -->
-  <Abandoned>Abandoned</Abandoned>
+  <Abandoned>Покинутий</Abandoned>
   <!-- EN: Cannot perform {GERUND} {LAYER} -->
-  <CannotPerformPlanetLayer>Cannot perform {GERUND} {LAYER}</CannotPerformPlanetLayer>
+  <CannotPerformPlanetLayer>Неможливо виконати {GERUND} {LAYER}</CannotPerformPlanetLayer>
   <!-- EN: This will not affect you {GERUND} {LAYER}. -->
-  <ThisWillNotAffectLayer>This will not affect you {GERUND} {LAYER}.</ThisWillNotAffectLayer>
+  <ThisWillNotAffectLayer>Це не вплине на вас {GERUND} {LAYER}.</ThisWillNotAffectLayer>
   <!-- Pocket maps -->
   <!-- EN: Enter {0} -->
   <EnterPortal>Зайти в {0}</EnterPortal>
@@ -2033,27 +2033,29 @@
   <!-- EN: Shield energy -->
   <ShieldEnergy>Заряд щита</ShieldEnergy>
   <!-- EN: Shield cooldown -->
-  <ShieldTimeToRecovery>Shield cooldown</ShieldTimeToRecovery>
+  <ShieldTimeToRecovery>Час відновлення щита</ShieldTimeToRecovery>
   <!-- EN: Shield duration -->
-  <ShieldDuration>Shield duration</ShieldDuration>
+  <ShieldDuration>Тривалість щита</ShieldDuration>
   <!-- EN: On cooldown -->
-  <ShieldOnCooldown>On cooldown</ShieldOnCooldown>
+  <ShieldOnCooldown>На перезарядці</ShieldOnCooldown>
   <!-- EN: Below minimum energy -->
   <ShieldBelowMinHitpoints>Менше мінімального заряду</ShieldBelowMinHitpoints>
   <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP.</ProjectileInterceptorTip>
+  <ProjectileInterceptorTip>Проєкційний щит, який намагатиметься зупинити вхідні снаряди або осколки. Він миттєво вимикається при попаданні ЕМІ.</ProjectileInterceptorTip>
   <!-- EN: max {0} -->
-  <MaxOf>max {0}</MaxOf>
+  <MaxOf>максимум {0}</MaxOf>
   <!-- EN: Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}. -->
-  <CannotUseDueToHediff>Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}.</CannotUseDueToHediff>
+  <CannotUseDueToHediff>Не можливо використати {TARGETABLE_label}: {TARGET_nameDef} вже має {2}.</CannotUseDueToHediff>
   <!-- Scanner -->
   <!-- EN: Blocked by roof -->
-  <CannotUseScannerRoofed>Blocked by roof</CannotUseScannerRoofed>
+  <CannotUseScannerRoofed>Заблоковано дахом</CannotUseScannerRoofed>
   <!-- EN: Biome does not contain drillable resources -->
-  <CannotUseScannerNoBedrock>Biome does not contain drillable resources</CannotUseScannerNoBedrock>
+  <CannotUseScannerNoBedrock>Біом не містить ресурсів, придатних для буріння</CannotUseScannerNoBedrock>
   <!-- Quests -->
   <!-- EN: Cannot accept this quest {GERUND} {LAYER}. -->
-  <CannotAcceptQuestFromLayer>Cannot accept this quest {GERUND} {LAYER}.</CannotAcceptQuestFromLayer>
+  <CannotAcceptQuestFromLayer>Неможливо прийняти цей квест {GERUND} {LAYER}.</CannotAcceptQuestFromLayer>
   <!-- EN: Cannot accept this quest without a permanent colony. -->
-  <CannotAcceptQuestNoMap>Cannot accept this quest without a permanent colony.</CannotAcceptQuestNoMap>
+  <CannotAcceptQuestNoMap>Не можна прийняти це доручення без постійної колонії.</CannotAcceptQuestNoMap>
+  <!-- EN: {0} of {1} -->
+  <GuildTradeShipName>{0} of {1}</GuildTradeShipName>
 </LanguageData>

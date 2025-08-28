@@ -27,13 +27,13 @@
   <Antialiasing>Згладжування</Antialiasing>
   <!-- Gameplay -->
   <!-- EN: Remember draw styles -->
-  <RememberDrawStyle>Remember draw styles</RememberDrawStyle>
+  <RememberDrawStyle>Запам'ятати стилі оформлення</RememberDrawStyle>
   <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
-  <RememberDrawStyle_Tooltip>When enabled, draw styles won't reset to the default draw style when placing new buildings or zones.</RememberDrawStyle_Tooltip>
+  <RememberDrawStyle_Tooltip>Якщо ця опція увімкнена, стилі оформлення не будуть скидатися до стандартних при розміщенні нових будівель або зон.</RememberDrawStyle_Tooltip>
   <!-- EN: Zoom switches world map layers -->
-  <ZoomSwitchLayer>Zoom switches world map layers</ZoomSwitchLayer>
+  <ZoomSwitchLayer>Зум перемикає шари карти світу</ZoomSwitchLayer>
   <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
-  <ZoomSwitchLayer_Tooltip>When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again.</ZoomSwitchLayer_Tooltip>
+  <ZoomSwitchLayer_Tooltip>Якщо ця функція увімкнена, зменшення масштабу на карті світу призведе до переходу в орбітальний режим перегляду. Збільшення масштабу знову покаже планету.</ZoomSwitchLayer_Tooltip>
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Прокручування курсором країв екрану</EdgeScreenScroll>
   <!-- EN: Zoom to mouse -->
@@ -140,6 +140,10 @@
   <SmoothCameraJumps>Плавні переміщення камери</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
   <SmoothCameraJumpsDesc>Якщо увімкнено, камера буде швидко, але плавно переміщатися під час переходу до місця призначення. Якщо вимкнено, камера "стрибатиме" миттєво.</SmoothCameraJumpsDesc>
+  <!-- EN: Gravship cutscenes -->
+  <GravshipCutscenes>Gravship cutscenes</GravshipCutscenes>
+  <!-- EN: When disabled, gravships will take off and land instantly. -->
+  <GravshipCutscenesDesc>When disabled, gravships will take off and land instantly.</GravshipCutscenesDesc>
   <!-- Resolution -->
   <!-- EN: Resolution -->
   <Resolution>Роздільна здатність екрану</Resolution>

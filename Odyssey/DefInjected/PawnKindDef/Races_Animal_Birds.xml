@@ -10,8 +10,12 @@
   <Heron.label>чапля</Heron.label>
   <!-- EN: macaw -->
   <Macaw.label>папуга ара</Macaw.label>
+  <!-- EN: peafowl -->
+  <Peacock.label>peafowl</Peacock.label>
+  <!-- EN: peahen -->
+  <Peacock.labelFemale>peahen</Peacock.labelFemale>
   <!-- EN: peacock -->
-  <Peacock.label>павич</Peacock.label>
+  <Peacock.labelMale>peacock</Peacock.labelMale>
   <!-- EN: penguin -->
   <Penguin.label>пінгвін</Penguin.label>
   <!-- EN: quail -->

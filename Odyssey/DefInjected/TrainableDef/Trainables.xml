@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- EN: attack target -->
   <AttackTarget.label>атакувати ціль</AttackTarget.label>
-  <!-- EN: Command the animal to attack a specific target that its master can see. -->
-  <AttackTarget.description>Наказує тварині атакувати конкретну ціль, яку бачить її хазяїн.</AttackTarget.description>
+  <!-- EN: Command the animal to attack a specific target. -->
+  <AttackTarget.description>Command the animal to attack a specific target.</AttackTarget.description>
   <!-- EN: comfort -->
   <Comfort.label>комфорт</Comfort.label>
   <!-- EN: The animal will be more emotionally supportive. It will nuzzle more often, and make your colonists happier when it does so. -->

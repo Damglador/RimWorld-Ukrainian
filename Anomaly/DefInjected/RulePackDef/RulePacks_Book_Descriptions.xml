@@ -274,11 +274,11 @@
   -->
   <Description_Tome.rulePack.rulesStrings>
     <li>desc->[inThisBook], [author] [experiencesWithMonsters]. [specificHorrorStory] [writingQualitySentence].</li>
-    <li>inThisBook->In this [writingQualityAdjective] [bookTypeSingle]</li>
-    <li>inThisBook->In these [writingQualityAdjective] [bookTypePlural]</li>
-    <li>bookTypeSingle->account</li>
-    <li>bookTypeSingle->almanac</li>
-    <li>bookTypeSingle->analysis</li>
+    <li>inThisBook->У цьому [writingQualityAdjective] [bookTypeSingle]</li>
+    <li>inThisBook->У цих [writingQualityAdjective] [bookTypePlural]</li>
+    <li>bookTypeSingle->звіті</li>
+    <li>bookTypeSingle->альманаху</li>
+    <li>bookTypeSingle->аналізі</li>
     <li>bookTypeSingle->article</li>
     <li>bookTypeSingle->book</li>
     <li>bookTypeSingle->commentary</li>
@@ -319,83 +319,83 @@
     <li>bookTypePlural->lamentations</li>
     <li>bookTypePlural->annals</li>
     <li>bookTypePlural->revelations</li>
-    <li>author(p=3)->the author</li>
+    <li>author(p=3)->автор</li>
     <li>author(p=3)->[anAuthorDesc] [PersonJob]</li>
-    <li>author->[anAuthorDesc] researcher</li>
-    <li>author->[anAuthorDesc] spiritualist</li>
-    <li>author->[anAuthorDesc] occultist</li>
-    <li>author->[anAuthorDesc] cultist</li>
-    <li>author->[anAuthorDesc] cult member</li>
-    <li>author->[anAuthorDesc] cult escapee</li>
-    <li>author->[anAuthorDesc] antique dealer</li>
-    <li>author->[anAuthorDesc] gravedigger</li>
-    <li>author->[anAuthorDesc] void researcher</li>
-    <li>author->[anAuthorDesc] wanderer</li>
-    <li>author->[anAuthorDesc] skeptic</li>
-    <li>author->[anAuthorDesc] scholar</li>
-    <li>author->[anAuthorDesc] hunter</li>
-    <li>author->[anAuthorDesc] investigator</li>
-    <li>author->[anAuthorDesc] elder</li>
-    <li>author->[anAuthorDesc] believer</li>
-    <li>author->[anAuthorDesc] harbinger</li>
-    <li>author->[anAuthorDesc] heir</li>
-    <li>author->[anAuthorDesc] noble</li>
-    <li>author->[anAuthorDesc] translator</li>
-    <li>author->[anAuthorDesc] monk</li>
-    <li>author->[anAuthorDesc] doppelgänger</li>
-    <li>author->[anAuthorDesc] author</li>
-    <li>author->[anAuthorDesc] agent</li>
-    <li>author->[anAuthorDesc] hero</li>
-    <li>author->[anAuthorDesc] author</li>
-    <li>anAuthorDesc(p=2)->a</li>
-    <li>anAuthorDesc->a young</li>
-    <li>anAuthorDesc->an old</li>
-    <li>anAuthorDesc->a terrified</li>
-    <li>anAuthorDesc->a sorrowful</li>
-    <li>anAuthorDesc->an elderly</li>
-    <li>anAuthorDesc->a wise</li>
-    <li>anAuthorDesc->a headstrong</li>
-    <li>anAuthorDesc->a foolish</li>
-    <li>anAuthorDesc->an innocent</li>
-    <li>anAuthorDesc->a disturbed</li>
-    <li>anAuthorDesc->an eldritch</li>
-    <li>anAuthorDesc->an outrageous</li>
-    <li>anAuthorDesc->an archetypal</li>
-    <li>anAuthorDesc->a boring</li>
-    <li>anAuthorDesc->a crazed</li>
-    <li>anAuthorDesc->an immoral</li>
-    <li>anAuthorDesc->a moral</li>
-    <li>anAuthorDesc->an amoral</li>
-    <li>anAuthorDesc->a shadowy</li>
-    <li>tellsAStoryOf->tells a story of</li>
-    <li>tellsAStoryOf->reveals</li>
-    <li>tellsAStoryOf->discusses</li>
-    <li>tellsAStoryOf->describes</li>
-    <li>tellsAStoryOf->details</li>
-    <li>tellsAStoryOf->elaborates on</li>
-    <li>tellsAStoryOf->goes into detail about</li>
-    <li>tellsAStoryOf->narrates</li>
-    <li>tellsAStoryOf->recounts </li>
-    <li>tellsAStoryOf->reports</li>
-    <li>tellsAStoryOf->chronicles </li>
-    <li>tellsAStoryOf->depicts</li>
-    <li>tellsAStoryOf->unfolds</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] experiences [ANYPAWN_pronoun] shared with [entities]</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] explorations into a secret cult with a base under a remote [TerrainFeature]</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] the hunt for a mysterious golden cube</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] deep meditations guided by a highthrall from an archist cult</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] the collapse of [ANYPAWN_possessive] life under the psychic influence of something called Horax</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] a remote archaeological dig where the researchers went violently insane one by one</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] a tribe that was somehow transformed to serve the dark god of a bloody pleasure cult</li>
-    <li>experiencesWithMonsters->attempts to describe a tribe with a tradition of mutilation rituals performed in firelight using rusty blades</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] a teacher whose student would speak deathly truths that she could not possibly know</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] a scientist who attempts to use ancient archotechnological means to reanimate his dead wife</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] an outlander exploratory expedition that survived rains of blood and a sky that attempted to crush them to death with inky blackness</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] a team investigating an ancient pit in the ground full of terrifying fleshy creatures</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] a tribal shaman's attempt to find a way to stop nightly attacks on his village by reanimated dead [Animal]s</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] a tribal myth of an ancient god of rage whose influence touches all people, and the heroes who sealed it away inside a tiny stone prison</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] brutal experiments on a captured [entity]</li>
-    <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] recurring visions where [vision]</li>
+    <li>author->[anAuthorDesc] дослідник</li>
+    <li>author->[anAuthorDesc] спіритуаліст</li>
+    <li>author->[anAuthorDesc] окультист</li>
+    <li>author->[anAuthorDesc] культист</li>
+    <li>author->[anAuthorDesc] член культу</li>
+    <li>author->[anAuthorDesc] колишній член культу</li>
+    <li>author->[anAuthorDesc] торговець антикваріатом</li>
+    <li>author->[anAuthorDesc] гробокопач</li>
+    <li>author->[anAuthorDesc] дослідник порожнечі</li>
+    <li>author->[anAuthorDesc] мандрівник</li>
+    <li>author->[anAuthorDesc] скептик</li>
+    <li>author->[anAuthorDesc] вчений</li>
+    <li>author->[anAuthorDesc] мисливець</li>
+    <li>author->[anAuthorDesc] слідчий</li>
+    <li>author->[anAuthorDesc] старійшина</li>
+    <li>author->[anAuthorDesc] вірянин</li>
+    <li>author->[anAuthorDesc] провісник</li>
+    <li>author->[anAuthorDesc] спадкоємець</li>
+    <li>author->[anAuthorDesc] аристократ</li>
+    <li>author->[anAuthorDesc] перекладач</li>
+    <li>author->[anAuthorDesc] монах</li>
+    <li>author->[anAuthorDesc] двійник</li>
+    <li>author->[anAuthorDesc] письменник</li>
+    <li>author->[anAuthorDesc] агент</li>
+    <li>author->[anAuthorDesc] герой</li>
+    <li>author->[anAuthorDesc] письменник</li>
+    <li>anAuthorDesc(p=2)-></li>
+    <li>anAuthorDesc->молодий</li>
+    <li>anAuthorDesc->старий</li>
+    <li>anAuthorDesc->переляканий</li>
+    <li>anAuthorDesc->скорботний</li>
+    <li>anAuthorDesc->літній</li>
+    <li>anAuthorDesc->мудрий</li>
+    <li>anAuthorDesc->свавільний</li>
+    <li>anAuthorDesc->дурний</li>
+    <li>anAuthorDesc->невинний</li>
+    <li>anAuthorDesc->стривожений</li>
+    <li>anAuthorDesc->моторошний</li>
+    <li>anAuthorDesc->обурливий</li>
+    <li>anAuthorDesc->типовий</li>
+    <li>anAuthorDesc->нудний</li>
+    <li>anAuthorDesc->божевільний</li>
+    <li>anAuthorDesc->розпусний</li>
+    <li>anAuthorDesc->моральний</li>
+    <li>anAuthorDesc->аморальний</li>
+    <li>anAuthorDesc->невиразний</li>
+    <li>tellsAStoryOf->розповідає історію</li>
+    <li>tellsAStoryOf->виявляє невідоме</li>
+    <li>tellsAStoryOf->обговорює</li>
+    <li>tellsAStoryOf->описує</li>
+    <li>tellsAStoryOf->розкриває деталі</li>
+    <li>tellsAStoryOf->пояснює</li>
+    <li>tellsAStoryOf->докладно розповідає</li>
+    <li>tellsAStoryOf->оповідає</li>
+    <li>tellsAStoryOf->переказує</li>
+    <li>tellsAStoryOf->повідомляє</li>
+    <li>tellsAStoryOf->відзначає</li>
+    <li>tellsAStoryOf->зображує</li>
+    <li>tellsAStoryOf->розкриває подробиці</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про свій досвід з [entities]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про дослідження таємного культу з базою під віддаленою [TerrainFeatureFemale]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про полювання на таємничий золотий куб</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про глибокі медитації під проводом вищого раба з культу архістів</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про крах [ANYPAWN_possessive] життя під психічним впливом чогось, що називається Горакс</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про віддалені археологічні розкопки, де дослідники один за одним люто божеволіли</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про плем'я, яке якимось чином перетворили на слуг темного бога кривавого культу насолоди</li>
+    <li>experiencesWithMonsters->намагається описати плем'я з традицією ритуальних калічень, що виконуються при світлі вогню іржавими лезами</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про вчителя, чия учениця виголошувала смертельні істини, яких вона ніяк не могла знати</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про вченого, який намагався скористатися давніми архотехнологічними засобами, щоб воскресити свою померлу дружину</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про експедицію чужинців-дослідників, яка пережила дощі з крові та небо, що намагалося розчавити їх до смерті чорнильною темрявою</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про команду, що досліджує старовинну яму в землі, повну моторошних м’ясистих створінь</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про спробу племінного шамана знайти спосіб зупинити нічні напади на його село з боку оживлених мертвих {lookup: [Animal]; Rules; 7}</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про племінний міф про давнього бога люті, чий вплив відчували усі люди, і героїв, які замкнули його в крихітній кам’яній в’язниці</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про жорстокі експерименти над полоненим [entity]</li>
+    <li>experiencesWithMonsters->[tellsAStoryOf] про повторювані видіння, де [vision]</li>
     <li>vision->dark figures reached into [ANYPAWN_possessive] mind and took [ANYPAWN_possessive] memories</li>
     <li>vision->[ANYPAWN_pronoun] is being chased by [ANYPAWN_objective]self, and could not escape no matter how far [ANYPAWN_pronoun] traveled</li>
     <li>vision->[ANYPAWN_pronoun] is torn apart by a [entity]</li>
@@ -412,7 +412,7 @@
     <li>entity_incident->[ANYPAWN_pronoun] lost [ANYPAWN_possessive] [BodyPart] in an attack by a [entity]</li>
     <li>entity_incident->[ANYPAWN_pronoun] gazed upon a [entity]</li>
     <li>specificHorrorStory->At one point, the author recounts dark rituals where victims were forced to mutilate themselves with broken glass.</li>
-    <li>specificHorrorStory->At one point, the protagonist stumbles upon a ritual where he witnesses bloody figures chanting eerie incantations while self-mutilating with shards of obsidian.</li>
+    <li>specificHorrorStory->В один момент головний герой натрапляє на ритуал, під час якого він стає свідком кривавих фігур, які співають моторошні заклинання, одночасно калічачи себе осколками обсидіану.</li>
     <li>specificHorrorStory->The book includes many illustrations attempting to depict something it refers to as "the black ocean". This seems to be a metaphor for a psychic plane dominated by a horrifying but seductive psychic hyperintelligence.</li>
     <li>specificHorrorStory->It repeatedly alludes to a multi-plane nature of reality - the idea that there are more dimensions than the ones we see, so an object or entity could be right beside you but outside your ability to perceive.</li>
     <li>specificHorrorStory->It spends a long time attempting to describe a hyperintelligent entity called "Horax" that exists in an adjacent plane of reality.</li>
@@ -436,7 +436,7 @@
     <li>entities->beasts made of bloody flesh</li>
     <li>entities->dark shapes that hide in plain sight</li>
     <li>entities->hunters that steal souls</li>
-    <li>entity->demon</li>
+    <li>entity->демон</li>
     <li>entity->walking corpse</li>
     <li>entity->pain-seeking monster</li>
     <li>entity->creature made of meat and exposed bone</li>

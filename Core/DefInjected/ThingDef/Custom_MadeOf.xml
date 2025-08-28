@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+    <!-- EN: cloth -->
+    <Cloth.stuffProps.stuffAdjective>з тканини</Cloth.stuffProps.stuffAdjective>
+    <!-- EN: devilstrand -->
+    <DevilstrandCloth.stuffProps.stuffAdjective>з дияволокна</DevilstrandCloth.stuffProps.stuffAdjective>
     <!-- EN: hyperweave -->
     <Hyperweave.stuffProps.stuffAdjective>з гіпертканини</Hyperweave.stuffProps.stuffAdjective>
     <!-- EN: jade -->

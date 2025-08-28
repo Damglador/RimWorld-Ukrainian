@@ -79,7 +79,7 @@
   <!-- EN: {0_nameDef} died without any treatment. -->
   <MessageWandererLeftToDie>{0_nameDef} {0_gender ? помер : померла}, бо не {0_gender ? отримав : отримала} допомогу.</MessageWandererLeftToDie>
   <!-- EN: {0_nameDef} was left to die. -->
-  <MessageWandererLeftBehind>{0_nameDef} was left to die.</MessageWandererLeftBehind>
+  <MessageWandererLeftBehind>{0_nameDef} залишили помирати.</MessageWandererLeftBehind>
   <!-- EN: {0_nameDef} was recruited. -->
   <MessageWandererRecruited>{0_nameDef} {0_gender ? завербований : завербована}.</MessageWandererRecruited>
   <!-- EN: {0_nameDef} left healthy. -->

@@ -74,7 +74,7 @@
     <li>turnedViolent->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } turned violently against you.</li>
     <li>decidedToLeave->[othersWillNotAccept], and {PAWNSALIVECOUNT_multiple ? have : has } decided to leave.</li>
     <li>whoAskedToStay->who asked to stay with you</li>
-    <li>oneOfThe->one of the desperate [faction_pawnsPlural] who asked to stay with you</li>
+    <li>oneOfThe->один із відчайдушних [faction_pawnsPlural], який попросив залишитися з вами</li>
     <li>questOver->Доручення «[resolvedQuestName]» закінчилося.</li>
     <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe] has died.</li>
     <li>lodgerDiedMemoryThoughtLetterLabel->[lodgersLabel] died: Anger</li>

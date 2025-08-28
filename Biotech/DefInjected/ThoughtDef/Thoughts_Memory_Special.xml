@@ -17,9 +17,9 @@
   <!-- EN: I lost my child. -->
   <Miscarried.stages.miscarried.description>Я втратила свою дитину.</Miscarried.stages.miscarried.description>
   <!-- EN: {0} miscarried -->
-  <PartnerMiscarried.stages.miscarried.label>{0} miscarried</PartnerMiscarried.stages.miscarried.label>
+  <PartnerMiscarried.stages.miscarried.label>{0} викидень</PartnerMiscarried.stages.miscarried.label>
   <!-- EN: My child's story ended before it started. -->
-  <PartnerMiscarried.stages.miscarried.description>My child's story ended before it started.</PartnerMiscarried.stages.miscarried.description>
+  <PartnerMiscarried.stages.miscarried.description>Історія моєї дитини закінчилася ще до її початку.</PartnerMiscarried.stages.miscarried.description>
   <!-- EN: pregnancy ended -->
   <PregnancyEnded.stages.pregnancy_ended.label>вагітність закінчилася</PregnancyEnded.stages.pregnancy_ended.label>
   <!-- EN: I'm relieved I'm not pregnant any more. -->

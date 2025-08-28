@@ -75,17 +75,17 @@
   -->
   <Hospitality_Joiners.questDescriptionRules.rulesStrings>
     <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
-    <li>lodgersDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
+    <li>lodgersDef(lodgersCount>=2)->{lookup: [asker_faction_pawnsPlural]; Case; 4}</li>
     <li>joinerEnding(priority=1)-></li>
     <li>joinerEnding->You'll be able to direct [lodgersDef] the same way you direct your own colonists.[specialNeedsExplanation]</li>
     <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-> You'll need to satisfy any special royal needs the [lodgersLabelPlural] may have.</li>
     <li>specialNeedsExplanation-></li>
     <li>theirHisHer(lodgersCount==1)->[lodgers0_possessive]</li>
-    <li>theirHisHer(lodgersCount>=2)->their</li>
+    <li>theirHisHer(lodgersCount>=2)->їх</li>
     <li>lodgersPronoun(lodgersCount==1)->[lodgers0_pronoun]</li>
-    <li>lodgersPronoun(lodgersCount>=2)->they</li>
-    <li>lodgersWasWere(lodgersCount==1)->was</li>
-    <li>lodgersWasWere(lodgersCount>=2)->were</li>
+    <li>lodgersPronoun(lodgersCount>=2)->вони</li>
+    <li>lodgersWasVere(lodgersCount==1)->був</li>
+    <li>lodgersWasWere(lodgersCount>=2)->були</li>
     <li>appreciateAppreciates(lodgersCount==1)->цінує</li>
     <li>appreciateAppreciates(lodgersCount>=2)->цінують</li>
     <li>goodwillForMood(goodwillRewardForMood==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] [appreciateAppreciates] якісне житло. Ви отримаєте прихильність [asker_faction_name], якщо будете підтримувати [theirHisHer] рівень настрою вище 50%.</li>

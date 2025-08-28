@@ -27,17 +27,17 @@
   <!-- EN: no anomaly buildings allowed -->
   <RoomRequirementNoAnomalyBuildings>аномальні споруди заборонені</RoomRequirementNoAnomalyBuildings>
   <!-- EN: Entity codex -->
-  <EntityCodex>Бестіарій істот</EntityCodex>
+  <EntityCodex>Бестіарій аномалій</EntityCodex>
   <!-- EN: View all discovered entities. Discover new entities to advance the monolith and reveal new research projects. -->
-  <EntityCodexGizmoTip>Переглянути всі виявлені істоти. Відкривайте нові сутності, щоб розвивати моноліт і відкривати нові дослідницькі проєкти.</EntityCodexGizmoTip>
+  <EntityCodexGizmoTip>Переглянути всі виявлені аномалії. Відкривайте нові аномалії, щоб розвивати моноліт і відкривати нові дослідницькі проєкти.</EntityCodexGizmoTip>
   <!-- EN: Research unlocks -->
   <ResearchUnlocks>Розблоковує дослідження</ResearchUnlocks>
   <!-- EN: This page lists all known entities which are related to the dark void. Discover new entities using the “void provocation” psychic ritual. Discovering new entities reveals new research projects, and allows you to advance the void monolith. -->
-  <EntityCodexDesc>На цій сторінці перераховані всі відомі істоти, що пов’язані з темною порожнечею. Відкривайте нових істот за допомогою психічного ритуалу «провокація порожнечі». Відкриття нових істот відкриває нові дослідницькі проєкти та дозволяє розвивати моноліт порожнечі.</EntityCodexDesc>
+  <EntityCodexDesc>На цій сторінці перераховані всі відомі про аномалії, що пов’язані з темною порожнечею. Відкривайте нові аномалії за допомогою психічного ритуалу «провокація порожнечі». Відкриття нових аномалій відкриває нові дослідницькі проєкти та дозволяє розвивати моноліт порожнечі.</EntityCodexDesc>
   <!-- EN: Undiscovered entity -->
-  <UndiscoveredEntity>Не виявлені істоти</UndiscoveredEntity>
+  <UndiscoveredEntity>Не виявлені аномалії</UndiscoveredEntity>
   <!-- EN: You have not discovered this entity. -->
-  <UndiscoveredEntityDesc>Ви ще не виявили цю сутність.</UndiscoveredEntityDesc>
+  <UndiscoveredEntityDesc>Ви ще не виявили цю аномалію.</UndiscoveredEntityDesc>
   <!-- EN: View entity codex -->
-  <ViewEntityCodex>Переглянути бестіарій істот</ViewEntityCodex>
+  <ViewEntityCodex>Переглянути бестіарій аномалій</ViewEntityCodex>
 </LanguageData>
