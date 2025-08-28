@@ -58,16 +58,16 @@
     <li>meetAdjective->темний</li>
     <li>meetAdjective->темночервоний</li>
     <li>meetAdjective->червоний</li>
-    <li>meetAdjective->scab</li>
-    <li>meetAdjective->hemic</li>
-    <li>meetAdjective->sanguine</li>
+    <li>meetAdjective->струп</li>
+    <li>meetAdjective->гемічний</li>
+    <li>meetAdjective->сангвінік</li>
     <li>meetNoun->зустріч</li>
-    <li>meetNoun->host</li>
-    <li>meetNoun->gathering</li>
-    <li>meetNoun->reunion</li>
-    <li>meetNoun->assembly</li>
-    <li>meetNoun->conclave</li>
-    <li>meetNoun->congress</li>
-    <li>meetNoun->parley</li>
+    <li>meetNoun->носій</li>
+    <li>meetNoun->збір</li>
+    <li>meetNoun->возз'єднання</li>
+    <li>meetNoun->збірка</li>
+    <li>meetNoun->таємна нарада</li>
+    <li>meetNoun->конгрес</li>
+    <li>meetNoun->переговори</li>
   </SanguophageMeetingHost.questNameRules.rulesStrings>
 </LanguageData>

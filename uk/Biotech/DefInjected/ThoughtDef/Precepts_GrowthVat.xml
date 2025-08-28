@@ -15,7 +15,7 @@
   <!-- EN: child not in growth vat -->
   <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>дитина не в інкубаторі</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>
   <!-- EN: I'm happy to see my kids be kids. Their childhood is too precious to be wasted in a vat. -->
-  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>I'm happy to see my kids be kids. Their childhood is too precious to be wasted in a vat.</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
+  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>Я {PAWN_gender ? радий : рада}, що мої діти можуть бути дітьми. Їхнє дитинство надто цінне, щоб проводити його в інкубаторі.</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
   <!-- EN: growth vat -->
   <GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>наявний інкубатор</GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>
   <!-- EN: I hate the thought of that awful growth vat being in our colony. -->

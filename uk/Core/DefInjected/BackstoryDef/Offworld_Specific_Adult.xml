@@ -49,13 +49,13 @@
   <!-- EN: boss -->
   <MafiaBoss17.titleShort>бос</MafiaBoss17.titleShort>
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
-  <PsychiatricPatient94.description>[PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills.</PsychiatricPatient94.description>
+  <PsychiatricPatient94.description>[PAWN_nameDef] {PAWN_gender ? провів : провела} більшість [PAWN_possessive] дорослого життя в психлікарні. [PAWN_possessive] батьківщина мала слабкі уявлення про психічні хвороби, тож про [PAWN] дбали більше  як про тварину, ніж особистість.\n\nТим не менш, [PAWN_pronoun] зрештою {PAWN_gender ? одужав : одужала} та {PAWN_gender ? відпущений : відпущена}, [PAWN_possessive] досвід знизив багато повсякденних навичок.</PsychiatricPatient94.description>
   <!-- EN: psychiatric patient -->
   <PsychiatricPatient94.title>пацієнт психлікарні</PsychiatricPatient94.title>
   <!-- EN: patient -->
   <PsychiatricPatient94.titleShort>пацієнт</PsychiatricPatient94.titleShort>
   <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
-  <Sheriff52.description>[PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout.</Sheriff52.description>
+  <Sheriff52.description>[PAWN_nameDef] {PAWN_gender ? був : була} силовиком в ізольованому промисловому містечку. [PAWN_pronoun] {PAWN_gender ? стикався : стикалася} з дрібними злочинами, вирішенням суперечок та, час від часу, п'яною стріляниною в барах.</Sheriff52.description>
   <!-- EN: sheriff -->
   <Sheriff52.title>шериф</Sheriff52.title>
   <!-- EN: sheriff -->
@@ -67,7 +67,7 @@
   <!-- EN: tactician -->
   <SpaceTactician28.titleShort>тактик</SpaceTactician28.titleShort>
   <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
-  <StarshipJanitor33.description>While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids.</StarshipJanitor33.description>
+  <StarshipJanitor33.description>Поки інші пасажири проводили роки міжзоряного перельоту в криокапсулах, [PAWN_nameDef] доводилося прокидатися для інспекції, контролю навігаційних систем та змащування механоїдів оливою.</StarshipJanitor33.description>
   <!-- EN: starship janitor -->
   <StarshipJanitor33.title>наглядач зорельота</StarshipJanitor33.title>
   <!-- EN: janitor -->

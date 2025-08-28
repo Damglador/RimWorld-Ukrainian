@@ -19,9 +19,9 @@
   <!-- EN: Doing something. -->
   <CastAbilityOnWorldTile.reportString>щось робить</CastAbilityOnWorldTile.reportString>
   <!-- EN: Doing something. -->
-  <CastAbilityTouch.reportString>щось робить</CastAbilityTouch.reportString>
+  <CastAbilityTouch.reportString>Щось робить.</CastAbilityTouch.reportString>
   <!-- EN: Doing something. -->
-  <CastJump.reportString>щось робить</CastJump.reportString>
+  <CastJump.reportString>Щось робить.</CastJump.reportString>
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>прибирає сніг</ClearSnow.reportString>
   <!-- EN: delivering TargetA. -->
@@ -155,11 +155,11 @@
   <!-- EN: using neurotrainer. -->
   <UseNeurotrainer.reportString>використовує нейро-тренажер.</UseNeurotrainer.reportString>
   <!-- EN: Doing something. -->
-  <UseVerbOnThing.reportString>щось робить</UseVerbOnThing.reportString>
+  <UseVerbOnThing.reportString>Щось робить.</UseVerbOnThing.reportString>
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStatic.reportString>щось робить</UseVerbOnThingStatic.reportString>
+  <UseVerbOnThingStatic.reportString>Щось робить.</UseVerbOnThingStatic.reportString>
   <!-- EN: Doing something. -->
-  <UseVerbOnThingStaticReserve.reportString>щось робить.</UseVerbOnThingStaticReserve.reportString>
+  <UseVerbOnThingStaticReserve.reportString>Щось робить.</UseVerbOnThingStaticReserve.reportString>
   <!-- EN: vomiting. -->
   <Vomit.reportString>блює</Vomit.reportString>
   <!-- EN: standing. -->

@@ -51,10 +51,6 @@
   <NoFuelInShuttle>В шатлі немає палива.</NoFuelInShuttle>
   <!-- EN: Shuttle is already fully fueled -->
   <ShuttleFullyFueled>Шатл вже повністю заправлено.</ShuttleFullyFueled>
-  <!-- EN: Seal entrance... -->
-  <SealHatch>Запечатати вхід...</SealHatch>
-  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
-  <SealHatchDesc>Оберіть колоніста, що назовсім запечатає вхід. Всі предмети та люди, що залишилися внизу, буде втрачено назавжди.</SealHatchDesc>
   <!-- EN: Activate -->
   <GravshipShieldOrderActivation>Активувати</GravshipShieldOrderActivation>
   <!-- EN: Deactivate -->

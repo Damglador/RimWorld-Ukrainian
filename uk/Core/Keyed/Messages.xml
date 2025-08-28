@@ -723,8 +723,8 @@
   <MessageHackerLockedOutPermanently>Хакер {HACKER_nameDef} був помічений. {HACKER_pronoun} доступ був заблокований перманентно.</MessageHackerLockedOutPermanently>
   <!-- EN: {0_labelShort} can be hacked again. -->
   <MessageHackableUnlocked>{0_labelShort} знову можна зламувати.</MessageHackableUnlocked>
-  <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>Неможливо викликати шатл</CannotCallShuttle>
+  <!-- EN: Shuttle cannot land here -->
+  <ShuttleCannotLand>Shuttle cannot land here</ShuttleCannotLand>
   <!-- EN: The shuttle has arrived. -->
   <MessageShuttleArrived>Шатл прибув до місця призначення.</MessageShuttleArrived>
   <!-- EN: Warning: {THING_labelCap} will not function in this biome -->

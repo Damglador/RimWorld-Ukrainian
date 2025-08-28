@@ -45,20 +45,28 @@
   <FictionPrimer>Про всесвіт RimWorld</FictionPrimer>
   <!-- EN: Ludeon blog -->
   <LudeonBlog>Блог Ludeon</LudeonBlog>
-  <!-- EN: Forums -->
-  <Forums>Форуми</Forums>
+  <!-- EN: Subreddit -->
+  <Subreddit>Subreddit</Subreddit>
   <!-- EN: Official wiki -->
   <OfficialWiki>Офіційна Вікі</OfficialWiki>
-  <!-- EN: Tynan's twitter -->
-  <TynansTwitter>Твіттер Тайнена</TynansTwitter>
+  <!-- EN: Tynan's X -->
+  <TynansX>Tynan's X</TynansX>
   <!-- EN: Tynan's design book -->
   <TynansDesignBook>Дизайнерська книга Тайнена</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Допомогти перекласти RimWorld</HelpTranslate>
-  <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Купити саундтрек</BuySoundtrack>
   <!-- EN: Create world -->
   <CreateWorld>Створити світ</CreateWorld>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>Купити саундтрек</BuySoundtrack>
+  <!-- EN: RimWorld Soundtrack -->
+  <BuySoundtrack_Classic>RimWorld Soundtrack</BuySoundtrack_Classic>
+  <!-- EN: RimWorld - Royalty Soundtrack -->
+  <BuySoundtrack_Royalty>RimWorld - Royalty Soundtrack</BuySoundtrack_Royalty>
+  <!-- EN: RimWorld - Anomaly Soundtrack -->
+  <BuySoundtrack_Anomaly>RimWorld - Anomaly Soundtrack</BuySoundtrack_Anomaly>
+  <!-- EN: RimWorld - Odyssey Soundtrack -->
+  <BuySoundtrack_Odyssey>RimWorld - Odyssey Soundtrack</BuySoundtrack_Odyssey>
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>Ця модифікація створена на основі офіційного перекладу, над яким, здебільшого, працювали перелічені далі добровольці:\n\n{0}</TranslationThanks>

@@ -17,10 +17,10 @@
     <li>questName->[gameCondition_label] for Pay</li>
   -->
   <ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
-    <li>questName->[asker_nameDef]'s [gameCondition_label]</li>
+    <li>questName->[gameCondition_label] від [asker_nameDef]</li>
     <li>questName->[gameCondition_indefinite] for [asker_nameDef]</li>
     <li>questName->Paid [gameCondition_label]</li>
-    <li>questName->[gameCondition_label] for Pay</li>
+    <li>questName->[gameCondition_label] за плату</li>
   </ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true)->An orbiting research ship wants to test a new type of insect pheromone. If you agree, they'll sweep [map_definite] with the pheromone, provoking (*Threat)an infestation of [hivesCount] hives(/Threat).[helpersParagraph]</li>

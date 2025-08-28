@@ -8,6 +8,10 @@
   <StatsReport_Clothed>одягнений</StatsReport_Clothed>
   <!-- EN: unclothed -->
   <StatsReport_Unclothed>невдягнений</StatsReport_Unclothed>
+  <!-- EN: in space -->
+  <StatsReport_InSpace>in space</StatsReport_InSpace>
+  <!-- EN: planetside -->
+  <StatsReport_NotInSpace>planetside</StatsReport_NotInSpace>
   <!-- EN: Age rate multiplier -->
   <StatsReport_AgeRateMultiplier>Множник швидкості старіння</StatsReport_AgeRateMultiplier>
   <!-- EN: A multiplier on how quickly this person ages biologically based on their current age. -->

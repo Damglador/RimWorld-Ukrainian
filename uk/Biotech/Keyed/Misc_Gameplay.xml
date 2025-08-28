@@ -25,14 +25,14 @@
   <!-- EN: {0} mechs -->
   <CaravanMechsCount>{0} механоїдів</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
-  <BossWithApparel>{BOSS} with {APPAREL}</BossWithApparel>
+  <BossWithApparel>{BOSS} з {lookup: {APPAREL}; Case; 4}</BossWithApparel>
   <!-- EN: Resulting from gene -->
-  <ComesFromGene>Resulting from gene</ComesFromGene>
+  <ComesFromGene>Викликано рисою</ComesFromGene>
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>видалення {lookup: {0}; Case; 3}.</ReportRemovingMechlink>
   <!-- EN: from {TEACHER_labelShort} -->
-  <ReportTakingLessonFrom>from {TEACHER_labelShort}</ReportTakingLessonFrom>
+  <ReportTakingLessonFrom>з {TEACHER_labelShort}</ReportTakingLessonFrom>
   <!-- Areas -->
   <!-- EN: Pollution clear -->
   <PollutionClear>Забруднення відсутні</PollutionClear>
@@ -100,7 +100,7 @@
   <!-- EN: Summon {0} threat -->
   <Summon>Викликати {lookup: {0}; Case; 3}</Summon>
   <!-- EN: Mechanoids disabled -->
-  <MechsDisabled>Mechanoids disabled</MechsDisabled>
+  <MechsDisabled>Механоїди вимкнені</MechsDisabled>
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>Немає доступного {lookup: {0}; Case; 3}</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
@@ -149,7 +149,7 @@
   <!-- EN: {PAWN_nameDef} is deathresting. -->
   <IsDeathresting>{PAWN_nameDef} у стані летаргічного сну.</IsDeathresting>
   <!-- EN: cannot deathrest -->
-  <CannotDeathrest>cannot deathrest</CannotDeathrest>
+  <CannotDeathrest>летаргічний сон неможливий</CannotDeathrest>
   <!-- EN: Start deathrest -->
   <StartDeathrest>Розпочати летаргічний сон</StartDeathrest>
   <!-- EN: Safely completing deathrest takes {MINDURATION}, but {PAWN_nameDef} has only been deathresting for {CURDURATION}.\n\nWaking {PAWN_nameDef} now would interrupt {PAWN_possessive} deathrest, throwing {PAWN_possessive} metabolism out of balance and making {PAWN_objective} sick for days to come.\n\nAre you sure you wish to wake {PAWN_objective}? -->
@@ -391,7 +391,7 @@
   <!-- EN: Extracting genes from {PAWN_nameDef}. -->
   <ExtractingXenogermFrom>Вилучення генів з {PAWN_nameDef}.</ExtractingXenogermFrom>
   <!-- EN: Extraction paused: No power (interrupt in {TIME}) -->
-  <ExtractionPausedNoPower>Extraction paused: No power (interrupt in {TIME})</ExtractionPausedNoPower>
+  <ExtractionPausedNoPower>Пауза: Відсутнє живлення (цикл перерветься через {TIME})</ExtractionPausedNoPower>
   <!-- EN: Last ingested {CHEMICAL_label} {DURATION} ago. -->
   <LastIngestedDurationAgo>Останнє вживання {lookup: {CHEMICAL_label}; Case; 3} {DURATION} тому.</LastIngestedDurationAgo>
   <!-- EN: {NAME} xenogerm -->
@@ -531,7 +531,7 @@
   <!-- EN: Insert a person into the growth vat. They will age 20 times as fast as normal. -->
   <InsertPersonGrowthVatDesc>Помістіть людину в інкубатор. Вони старітимуть у 20 разів швидше, ніж зазвичай.</InsertPersonGrowthVatDesc>
   <!-- EN: Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health. -->
-  <InsertEmbryoGrowthVatDesc>Implant an embryo into the growth vat. After gestating for {0} a fully formed baby will be produced by the vat, hopefully in good health.</InsertEmbryoGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>Імплантуйте ембріон в інкубатор. Після 18-денної вагітності в чані народиться повністю сформована дитина, сподіваємось, у доброму здоров'ї.</InsertEmbryoGrowthVatDesc>
   <!-- EN: Insert embryo -->
   <ImplantEmbryo>Помістити ембріон</ImplantEmbryo>
   <!-- EN: Cannot insert embryo -->

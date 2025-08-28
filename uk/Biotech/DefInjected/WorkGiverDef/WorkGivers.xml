@@ -25,13 +25,13 @@
   <!-- EN: get mother to breastfeed -->
   <CarryToBreastfeed.verb>спонукати матір годувати грудьми</CarryToBreastfeed.verb>
   <!-- EN: carry to gene extractor -->
-  <CarryToGeneExtractor.label>carry to gene extractor</CarryToGeneExtractor.label>
+  <CarryToGeneExtractor.label>нести до екстрактора генів</CarryToGeneExtractor.label>
   <!-- EN: extracting genes from -->
   <CarryToGeneExtractor.gerund>вилучити гени, використовуючи</CarryToGeneExtractor.gerund>
   <!-- EN: extract genes -->
   <CarryToGeneExtractor.verb>вилучити гени, використовуючи</CarryToGeneExtractor.verb>
   <!-- EN: carry to growth vat -->
-  <CarryToGrowthVat.label>carry to growth vat</CarryToGrowthVat.label>
+  <CarryToGrowthVat.label>нести до інкубатора</CarryToGrowthVat.label>
   <!-- EN: growing -->
   <CarryToGrowthVat.gerund>вирощувати</CarryToGrowthVat.gerund>
   <!-- EN: grow -->

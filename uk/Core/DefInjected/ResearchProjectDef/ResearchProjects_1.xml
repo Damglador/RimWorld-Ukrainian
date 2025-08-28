@@ -13,8 +13,8 @@
     <li>subject_gerund->brewing beer</li>
   -->
   <Brewing.generalRules.rulesStrings>
-    <li>subject->brewing</li>
-    <li>subject_story->brewed a unique stout that became famous across the system</li>
+    <li>subject->пивоваріння</li>
+    <li>subject_story->варив унікальний стаут, що став відомим по всій системі</li>
     <li>subject_story->retired to run a public house on an animal world</li>
     <li>subject_story->specialized in climate-controlled fermentation techniques</li>
     <li>subject_gerund->constructing breweries</li>
@@ -128,8 +128,8 @@
     <li>subject_gerund->producing drugs</li>
   -->
   <DrugProduction.generalRules.rulesStrings>
-    <li>subject->drug production</li>
-    <li>subject->drug synthesis</li>
+    <li>виготовлення наркотиків</li>
+    <li>синтез наркотиків</li>
     <li>subject_story->worked in an asteroid lab on the edge of populated space</li>
     <li>subject_story->learned how to craft drugs from recycled chemicals, leading to many years spent in prison</li>
     <li>subject_story->worked as a chemist, but slipped into peddling illegal drugs on the side</li>
@@ -148,7 +148,7 @@
     <li>subject_gerund->synthesizing go-juice</li>
   -->
   <GoJuiceProduction.generalRules.rulesStrings>
-    <li>subject->go-juice production</li>
+    <li>виготовлення Go-соку</li>
     <li>subject_story->was expelled for taking go-juice during team sports matches</li>
     <li>subject_story->found go-juice massively increased productivity in mines and lumberyards</li>
     <li>subject_story->never went on a mission without go-juice or juggernaut in a pocket</li>

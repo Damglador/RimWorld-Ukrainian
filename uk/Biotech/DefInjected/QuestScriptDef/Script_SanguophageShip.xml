@@ -45,21 +45,21 @@
   -->
   <SanguophageShip.questNameRules.rulesStrings>
     <li>questName->[shipAdjective] [shipNoun]</li>
-    <li>shipAdjective->sanguophage</li>
-    <li>shipAdjective->bloodthirsty</li>
-    <li>shipAdjective->blood</li>
-    <li>shipAdjective->shadow</li>
-    <li>shipAdjective->dark</li>
-    <li>shipAdjective->crimson</li>
-    <li>shipAdjective->red</li>
-    <li>shipAdjective->scab</li>
-    <li>shipAdjective->hemic</li>
-    <li>shipAdjective->sanguine</li>
-    <li>shipNoun->ship</li>
+    <li>shipAdjective->сангвофаг</li>
+    <li>shipAdjective->кровожерливий</li>
+    <li>shipAdjective->кров</li>
+    <li>shipAdjective->тінь</li>
+    <li>shipAdjective->темрява</li>
+    <li>shipAdjective->гемоген</li>
+    <li>shipAdjective->червоний</li>
+    <li>shipAdjective->струп</li>
+    <li>shipAdjective->гемічний</li>
+    <li>shipAdjective->сангвінік</li>
+    <li>shipNoun->корабель</li>
     <li>shipNoun->шатл</li>
-    <li>shipNoun->craft</li>
-    <li>shipNoun->hulk</li>
-    <li>shipNoun->crash</li>
-    <li>shipNoun->wreck</li>
+    <li>shipNoun->ремесло</li>
+    <li>shipNoun->розбиття</li>
+    <li>shipNoun->катастрофа</li>
+    <li>shipNoun->крах</li>
   </SanguophageShip.questNameRules.rulesStrings>
 </LanguageData>

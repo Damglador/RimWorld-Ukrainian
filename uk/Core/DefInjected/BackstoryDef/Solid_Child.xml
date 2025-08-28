@@ -660,12 +660,12 @@
   <GangMember83.title>член банди</GangMember83.title>
   <!-- EN: ganger -->
   <GangMember83.titleShort>дитя банди</GangMember83.titleShort>
-  <!-- EN: The son of a genetically-engineered "perfect mate" on a glitterworld, [PAWN_nameDef] was much more shy, withdrawn and nervous than [PAWN_possessive] parents. [PAWN_pronoun] kept mostly to [PAWN_objective]self, studying science and medicine and taking on gardening as a hobby. \n\nIn [PAWN_possessive] teens, [PAWN_pronoun] ran away from home, seeking a quieter life. -->
-  <GlitterworldKid85.description>The son of a genetically-engineered "perfect mate" on a glitterworld, [PAWN_nameDef] was much more shy, withdrawn and nervous than [PAWN_possessive] parents. [PAWN_pronoun] kept mostly to [PAWN_objective]self, studying science and medicine and taking on gardening as a hobby. \n\nIn [PAWN_possessive] teens, [PAWN_pronoun] ran away from home, seeking a quieter life.</GlitterworldKid85.description>
+  <!-- EN: The daughter of a glitterworld influencer and his genetically-engineered 'perfect mate', [PAWN_nameDef] grew up learning to rub shoulders with the cream of the crop - though [PAWN_pronoun] always preferred [PAWN_possessive] personal space, reading books and tinkering with tech. -->
+  <GlitterworldKid85.description>The daughter of a glitterworld influencer and his genetically-engineered 'perfect mate', [PAWN_nameDef] grew up learning to rub shoulders with the cream of the crop - though [PAWN_pronoun] always preferred [PAWN_possessive] personal space, reading books and tinkering with tech.</GlitterworldKid85.description>
   <!-- EN: glitterworld kid -->
   <GlitterworldKid85.title>дитя блискосвіту</GlitterworldKid85.title>
-  <!-- EN: glit kid -->
-  <GlitterworldKid85.titleShort>дитя блискосвіту</GlitterworldKid85.titleShort>
+  <!-- EN: glitterkid -->
+  <GlitterworldKid85.titleShort>glitterkid</GlitterworldKid85.titleShort>
   <!-- EN: [PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture. -->
   <GlitterworldNerd20.description>[PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture.</GlitterworldNerd20.description>
   <!-- EN: glitterworld nerd -->

@@ -324,6 +324,12 @@
   <FillFermentingBarrel.gerund>наповнити</FillFermentingBarrel.gerund>
   <!-- EN: fill -->
   <FillFermentingBarrel.verb>наповнювати</FillFermentingBarrel.verb>
+  <!-- EN: fill in -->
+  <FillIn.label>fill in</FillIn.label>
+  <!-- EN: filling in -->
+  <FillIn.gerund>filling in</FillIn.gerund>
+  <!-- EN: fill -->
+  <FillIn.verb>fill</FillIn.verb>
   <!-- EN: fix broken-down buildings -->
   <FixBrokenDownBuilding.label>ремонтувати виведенні з ладу споруди</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->

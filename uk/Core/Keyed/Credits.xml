@@ -22,13 +22,12 @@
   <Credits_TitleTester>Тестери спільноти</Credits_TitleTester>
   <!-- EN: Mods -->
   <Credits_TitleMods>Моди</Credits_TitleMods>
-  <!-- EN: {0} language -->
-  <Credits_TitleLanguage>{0} мова</Credits_TitleLanguage>
+  <!-- EN: {0} ({1}) language -->
+  <Credits_TitleLanguage>{0} ({1}) language</Credits_TitleLanguage>
   <!-- EN: Anomaly localization -->
   <Credits_Localization_Anomaly>Переклад доповнення Аномалія</Credits_Localization_Anomaly>
   <!-- EN: Odyssey localization -->
   <Credits_Localization_Odyssey>Локалізація Одіссеї</Credits_Localization_Odyssey>
-  <!-- text_todo -->
   <!-- EN: Lead Localization Project Manager -->
   <Credits_LeadLocalizationProjectManager>Провідний менеджер проєкту локалізації</Credits_LeadLocalizationProjectManager>
   <!-- EN: Localization Project Manager -->
@@ -51,17 +50,16 @@
   <Credits_Russian>російська</Credits_Russian>
   <!-- EN: Dutch -->
   <Credits_Dutch>Голландська</Credits_Dutch>
-  <!-- text_todo -->
   <!-- EN: Turkish -->
   <Credits_Turkish>Турецька</Credits_Turkish>
-  <!-- text_todo -->
   <!-- EN: Ukrainian -->
   <Credits_Ukrainian>Українська</Credits_Ukrainian>
-  <!-- text_todo -->
   <!-- EN: Simplified Chinese -->
   <Credits_ChineseSimplified>Спрощена китайська</Credits_ChineseSimplified>
   <!-- EN: Traditional Chinese -->
   <Credits_ChineseTraditional>Традиційна Китайська</Credits_ChineseTraditional>
+  <!-- EN: and many other gracious volunteers! -->
+  <AndOtherVolunteers>and many other gracious volunteers!</AndOtherVolunteers>
   <!-- Credits - Currently unused -->
   <!-- EN: Test lead -->
   <Credit_TestLead>Ведучій тестер</Credit_TestLead>

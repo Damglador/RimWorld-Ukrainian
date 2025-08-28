@@ -315,7 +315,7 @@
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Взяти {lookup: {1_labelShort}; Case; 3}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
-  <PickUpCount>Взяти {lookup: {1_labelShort}; Case; 3} ({0} од.)</PickUpCount>
+  <PickUpCount>Взяти {lookup: {1_labelShort}; Case; 3} ({{0}} од.)</PickUpCount>
   <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUpSome>Неможливо взяти {lookup: {1_labelShort}; Case; 3}</CannotPickUpSome>
   <!-- EN: {0} {1} allowed -->
@@ -331,7 +331,7 @@
   <!-- EN: Load {1_labelShort} onto pack animal... -->
   <GiveToPackAnimalSome>Завантажити {lookup: {1_labelShort}; Case; 3} на в’ючних тварин...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Завантажити {lookup: {1_labelShort}; Case; 3} ({0} од.) на в’ючних тварин</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Завантажити {lookup: {1_labelShort}; Case; 3} ({{0}} од.) на в’ючних тварин</GiveToPackAnimalCount>
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Неможливо завантажити {lookup: {1_label}; Case; 3} в караван</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
@@ -343,7 +343,7 @@
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>Завантажити {lookup: {1_label}; Case; 3} в караван...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
-  <LoadIntoCaravanCount>Завантажити {lookup: {1_label}; Case; 3} ({0} од.)</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>Завантажити {lookup: {1_label}; Case; 3} ({{0}} од.)</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>занадто важко</OverweightLower>
   <!-- EN: Cannot carry {1_labelShort} and leave the area -->

@@ -196,8 +196,8 @@
     <li>platform->station</li>
     <li>platAdj_mas->астероїдний</li>
     <li>platform->station</li>
-    <li>platform->base</li>
+    <li>platform->база</li>
     <li>platAdj_mas->кометний</li>
-    <li>platform->ring</li>
+    <li>platform->кільце</li>
   </NamerSettlementTradersGuild.rulePack.rulesStrings>
 </LanguageData>

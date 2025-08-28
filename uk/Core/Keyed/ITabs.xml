@@ -340,7 +340,7 @@
   <InMentalStateCountLower>у стані нервового зриву</InMentalStateCountLower>
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>Вивантажити {lookup: {0}; Case; 3} ({{0}} од)</RemoveSliderText>
+  <RemoveSliderText>Вивантажити {lookup: {0}; Case; 3} ({{0}} од.)</RemoveSliderText>
   <!-- EN: Contained items -->
   <ContainedItems>Вміст</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->

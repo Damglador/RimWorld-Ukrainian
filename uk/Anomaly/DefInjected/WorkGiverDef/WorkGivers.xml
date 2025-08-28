@@ -36,12 +36,6 @@
   <ExtractBioferrite.gerund>вилучання з</ExtractBioferrite.gerund>
   <!-- EN: extract from -->
   <ExtractBioferrite.verb>вилучати з</ExtractBioferrite.verb>
-  <!-- EN: fill in -->
-  <FillIn.label>наповнювати</FillIn.label>
-  <!-- EN: filling in -->
-  <FillIn.gerund>засипати</FillIn.gerund>
-  <!-- EN: fill -->
-  <FillIn.verb>наповнити</FillIn.verb>
   <!-- EN: interrogate identity -->
   <InterrogatePrisoner.label>допитувати</InterrogatePrisoner.label>
   <!-- EN: interrogating -->
