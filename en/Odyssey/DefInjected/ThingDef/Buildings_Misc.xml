@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: drop pod -->
+  <ActiveDropPodAncient.label>drop pod</ActiveDropPodAncient.label>
   <!-- EN: ancient blast door -->
   <AncientBlastDoor.label>ancient blast door</AncientBlastDoor.label>
   <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
@@ -12,8 +14,8 @@
   <AncientBlastDoor.comps.CompHackable.notHackedInspectString>Hack to open.</AncientBlastDoor.comps.CompHackable.notHackedInspectString>
   <!-- EN: ancient explosives crate -->
   <AncientExplosivesCrate.label>ancient explosives crate</AncientExplosivesCrate.label>
-  <!-- EN: A container of ancient mining charges. It will explode if damaged.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientExplosivesCrate.description>A container of ancient mining charges. It will explode if damaged.\n\nThe explosion is powerful enough to penetrate through walls.</AncientExplosivesCrate.description>
+  <!-- EN: A container of ancient mining charges. It will explode if damaged. -->
+  <AncientExplosivesCrate.description>A container of ancient mining charges. It will explode if damaged.</AncientExplosivesCrate.description>
   <!-- EN: fortified wall -->
   <AncientFortifiedWall.label>fortified wall</AncientFortifiedWall.label>
   <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
@@ -52,14 +54,26 @@
   <AncientHatch.comps.CompHackable.hackedMessage>{HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}.</AncientHatch.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to open. -->
   <AncientHatch.comps.CompHackable.notHackedInspectString>Hack to open.</AncientHatch.comps.CompHackable.notHackedInspectString>
+  <!-- EN: Sealed -->
+  <AncientHatch.comps.CompSealable.cannotEnterLabel>Sealed</AncientHatch.comps.CompSealable.cannotEnterLabel>
+  <!-- EN: Cannot seal -->
+  <AncientHatch.comps.CompSealable.cannotSealLabel>Cannot seal</AncientHatch.comps.CompSealable.cannotSealLabel>
+  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
+  <AncientHatch.comps.CompSealable.confirmSealText>Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue?</AncientHatch.comps.CompSealable.confirmSealText>
+  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
+  <AncientHatch.comps.CompSealable.sealCommandDesc>Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever.</AncientHatch.comps.CompSealable.sealCommandDesc>
+  <!-- EN: Seal entrance -->
+  <AncientHatch.comps.CompSealable.sealCommandLabel>Seal entrance</AncientHatch.comps.CompSealable.sealCommandLabel>
+  <!-- EN: Permanently sealed. -->
+  <AncientHatch.comps.CompSealable.sealedInspectString>Permanently sealed.</AncientHatch.comps.CompSealable.sealedInspectString>
   <!-- EN: ancient stockpile exit -->
   <AncientHatchExit.label>ancient stockpile exit</AncientHatchExit.label>
   <!-- EN: A ladder which links to the surface hatch above. -->
   <AncientHatchExit.description>A ladder which links to the surface hatch above.</AncientHatchExit.description>
   <!-- EN: ancient mining charge -->
   <AncientMiningCharge.label>ancient mining charge</AncientMiningCharge.label>
-  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientMiningCharge.description>An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.\n\nThe explosion is powerful enough to penetrate through walls.</AncientMiningCharge.description>
+  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate. -->
+  <AncientMiningCharge.description>An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.</AncientMiningCharge.description>
   <!-- EN: ancient security terminal -->
   <AncientSecurityTerminal.label>ancient security terminal</AncientSecurityTerminal.label>
   <!-- EN: An ancient terminal. Hack it to disable nearby security systems. -->

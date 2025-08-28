@@ -140,6 +140,10 @@
   <SmoothCameraJumps>Smooth camera jumps</SmoothCameraJumps>
   <!-- EN: When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly. -->
   <SmoothCameraJumpsDesc>When enabled, the camera will quickly pan when focusing on a new location. When disabled, the camera will jump instantly.</SmoothCameraJumpsDesc>
+  <!-- EN: Gravship cutscenes -->
+  <GravshipCutscenes>Gravship cutscenes</GravshipCutscenes>
+  <!-- EN: When disabled, gravships will take off and land instantly. -->
+  <GravshipCutscenesDesc>When disabled, gravships will take off and land instantly.</GravshipCutscenesDesc>
   <!-- Resolution -->
   <!-- EN: Resolution -->
   <Resolution>Resolution</Resolution>

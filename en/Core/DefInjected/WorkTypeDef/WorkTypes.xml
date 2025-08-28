@@ -110,8 +110,8 @@
   <Hauling.pawnLabel>Hauler</Hauling.pawnLabel>
   <!-- EN: Haul -->
   <Hauling.verb>Haul</Hauling.verb>
-  <!-- EN: Kill animals which are designated to be hunted and fish in fishing zones. -->
-  <Hunting.description>Kill animals which are designated to be hunted and fish in fishing zones.</Hunting.description>
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>Kill animals which are designated to be hunted.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>hunting</Hunting.gerundLabel>
   <!-- EN: hunt -->

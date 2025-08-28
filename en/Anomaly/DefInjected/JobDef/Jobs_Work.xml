@@ -2,8 +2,6 @@
 <LanguageData>
   <!-- EN: suppressing TargetC. -->
   <ActivitySuppression.reportString>suppressing TargetC.</ActivitySuppression.reportString>
-  <!-- EN: filling in TargetA. -->
-  <FillIn.reportString>filling in TargetA.</FillIn.reportString>
   <!-- EN: interrogating TargetA. -->
   <PrisonerInterrogateIdentity.reportString>interrogating TargetA.</PrisonerInterrogateIdentity.reportString>
 </LanguageData>

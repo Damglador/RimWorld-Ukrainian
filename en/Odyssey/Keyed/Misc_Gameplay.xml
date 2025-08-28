@@ -107,6 +107,14 @@
   <MustBeOutside>must be outside</MustBeOutside>
   <!-- EN: blocked by substructure -->
   <BlockedBySubstructure>blocked by substructure</BlockedBySubstructure>
+  <!-- EN: {PAWN_nameDef} cannot board {1} -->
+  <FailedToBoardGravship>{PAWN_nameDef} cannot board {1}</FailedToBoardGravship>
+  <!-- EN: {PAWN_nameDef} cannot exit {1} -->
+  <FailedToLeaveGravship>{PAWN_nameDef} cannot exit {1}</FailedToLeaveGravship>
+  <!-- EN: View range -->
+  <ViewRange>View range</ViewRange>
+  <!-- EN: View the gravship’s current range on the world map. -->
+  <ViewRangeDesc>View the gravship’s current range on the world map.</ViewRangeDesc>
   <!-- Map generation -->
   <!-- EN: Landmark -->
   <Landmark>Landmark</Landmark>
@@ -267,6 +275,8 @@
   <WeaponTraits>Traits</WeaponTraits>
   <!-- EN: Unique weapon -->
   <UniqueWeapon>Unique weapon</UniqueWeapon>
+  <!-- EN: Reforming a caravan will abandon your gravship. Are you sure you want to continue?\n\nTo leave with your gravship, select the gravship's pilot console, then select 'launch'. -->
+  <ConfirmLoseGravship>Reforming a caravan will abandon your gravship. Are you sure you want to continue?\n\nTo leave with your gravship, select the gravship's pilot console, then select 'launch'.</ConfirmLoseGravship>
   <!-- EN: Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'. -->
   <ConfirmLoseShuttle>Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'.</ConfirmLoseShuttle>
   <!-- EN: Discover a quest -->
@@ -280,8 +290,8 @@
   <!-- Special Trainables -->
   <!-- EN: Attack -->
   <AnimalAttackTarget>Attack</AnimalAttackTarget>
-  <!-- EN: Command this animal to attack a specific target that its master can see. -->
-  <AnimalAttackTargetDesc>Command this animal to attack a specific target that its master can see.</AnimalAttackTargetDesc>
+  <!-- EN: Command this animal to attack a specific target. -->
+  <AnimalAttackTargetDesc>Command this animal to attack a specific target.</AnimalAttackTargetDesc>
   <!-- EN: Animals attack target -->
   <AnimalsAttackTarget>Animals attack target</AnimalsAttackTarget>
   <!-- EN: Direct all mastered animals to attack a specific target. -->
@@ -304,14 +314,6 @@
   <ForageEnabled>Allow foraging</ForageEnabled>
   <!-- EN: Allow digging -->
   <DigEnabled>Allow digging</DigEnabled>
-  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <ConfirmSealHatch>Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue?</ConfirmSealHatch>
-  <!-- EN: Cannot seal -->
-  <CannotChooseSealer>Cannot seal</CannotChooseSealer>
-  <!-- EN: Sealed -->
-  <Sealed>Sealed</Sealed>
-  <!-- EN: Permanently sealed. -->
-  <HatchSealed>Permanently sealed.</HatchSealed>
   <!-- EN: Unlocked. -->
   <HatchUnlocked>Unlocked.</HatchUnlocked>
   <!-- EN: A short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. It shuts down instantly if hit by an EMP. -->

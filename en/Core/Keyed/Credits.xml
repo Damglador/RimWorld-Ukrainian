@@ -22,13 +22,12 @@
   <Credits_TitleTester>Volunteer testers</Credits_TitleTester>
   <!-- EN: Mods -->
   <Credits_TitleMods>Mods</Credits_TitleMods>
-  <!-- EN: {0} language -->
-  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
+  <!-- EN: {0} ({1}) language -->
+  <Credits_TitleLanguage>{0} ({1}) language</Credits_TitleLanguage>
   <!-- EN: Anomaly localization -->
   <Credits_Localization_Anomaly>Anomaly localization</Credits_Localization_Anomaly>
   <!-- EN: Odyssey localization -->
   <Credits_Localization_Odyssey>Odyssey localization</Credits_Localization_Odyssey>
-  <!-- text_todo -->
   <!-- EN: Lead Localization Project Manager -->
   <Credits_LeadLocalizationProjectManager>Lead Localization Project Manager</Credits_LeadLocalizationProjectManager>
   <!-- EN: Localization Project Manager -->
@@ -51,17 +50,16 @@
   <Credits_Russian>Russian</Credits_Russian>
   <!-- EN: Dutch -->
   <Credits_Dutch>Dutch</Credits_Dutch>
-  <!-- text_todo -->
   <!-- EN: Turkish -->
   <Credits_Turkish>Turkish</Credits_Turkish>
-  <!-- text_todo -->
   <!-- EN: Ukrainian -->
   <Credits_Ukrainian>Ukrainian</Credits_Ukrainian>
-  <!-- text_todo -->
   <!-- EN: Simplified Chinese -->
   <Credits_ChineseSimplified>Simplified Chinese</Credits_ChineseSimplified>
   <!-- EN: Traditional Chinese -->
   <Credits_ChineseTraditional>Traditional Chinese</Credits_ChineseTraditional>
+  <!-- EN: and many other gracious volunteers! -->
+  <AndOtherVolunteers>and many other gracious volunteers!</AndOtherVolunteers>
   <!-- Credits - Currently unused -->
   <!-- EN: Test lead -->
   <Credit_TestLead>Test lead</Credit_TestLead>

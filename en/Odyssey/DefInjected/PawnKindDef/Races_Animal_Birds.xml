@@ -10,8 +10,12 @@
   <Heron.label>heron</Heron.label>
   <!-- EN: macaw -->
   <Macaw.label>macaw</Macaw.label>
+  <!-- EN: peafowl -->
+  <Peacock.label>peafowl</Peacock.label>
+  <!-- EN: peahen -->
+  <Peacock.labelFemale>peahen</Peacock.labelFemale>
   <!-- EN: peacock -->
-  <Peacock.label>peacock</Peacock.label>
+  <Peacock.labelMale>peacock</Peacock.labelMale>
   <!-- EN: penguin -->
   <Penguin.label>penguin</Penguin.label>
   <!-- EN: quail -->

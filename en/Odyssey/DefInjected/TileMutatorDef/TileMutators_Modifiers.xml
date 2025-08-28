@@ -44,8 +44,8 @@
   <ObsidianDeposits.description>This area has deposits of volcanic obsidian, which can be mined for obsidian glass.</ObsidianDeposits.description>
   <!-- EN: plant grove -->
   <PlantGrove.label>plant grove</PlantGrove.label>
-  <!-- EN: This area contains a large number of {0}. -->
-  <PlantGrove.description>This area contains a large number of {0}.</PlantGrove.description>
+  <!-- EN: This area contains a large number of {0}s. -->
+  <PlantGrove.description>This area contains a large number of {0}s.</PlantGrove.description>
   <!-- EN: decreased plant life -->
   <PlantLife_Decreased.label>decreased plant life</PlantLife_Decreased.label>
   <!-- EN: Plant life is less abundant here. -->

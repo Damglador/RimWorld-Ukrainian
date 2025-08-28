@@ -42,6 +42,8 @@
   <ExtractTree.reportString>extracting TargetA.</ExtractTree.reportString>
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>feeding TargetA to TargetB.</FeedPatient.reportString>
+  <!-- EN: filling in TargetA. -->
+  <FillIn.reportString>filling in TargetA.</FillIn.reportString>
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>building TargetA.</FinishFrame.reportString>
   <!-- EN: replacing broken components in TargetA. -->

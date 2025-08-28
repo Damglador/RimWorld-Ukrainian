@@ -16,6 +16,8 @@
   <GotoShip.reportString>going to ship.</GotoShip.reportString>
   <!-- EN: inspecting TargetA. -->
   <InspectGravEngine.reportString>inspecting TargetA.</InspectGravEngine.reportString>
+  <!-- EN: leaving ship. -->
+  <LeaveShip.reportString>leaving ship.</LeaveShip.reportString>
   <!-- EN: operating TargetA. -->
   <PilotConsole.reportString>operating TargetA.</PilotConsole.reportString>
   <!-- EN: putting TargetA on TargetB. -->

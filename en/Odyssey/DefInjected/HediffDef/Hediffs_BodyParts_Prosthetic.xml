@@ -16,4 +16,10 @@
   <SentienceCatalyst.description>Special mechanites have enhanced the neural pathways of this animal, allowing for training that would not otherwise be possible.</SentienceCatalyst.description>
   <!-- EN: sentience catalyst -->
   <SentienceCatalyst.labelNoun>sentience catalyst</SentienceCatalyst.labelNoun>
+  <!-- EN: vacskin gland -->
+  <VacskinGland.label>vacskin gland</VacskinGland.label>
+  <!-- EN: An installed vacskin gland. Releases a waxy substance that forms an insulating barrier on the skin, preventing vacuum burns but restricting movement. The gland also regulates blood oxygen levels, allowing longer survival in the vacuum of space. -->
+  <VacskinGland.description>An installed vacskin gland. Releases a waxy substance that forms an insulating barrier on the skin, preventing vacuum burns but restricting movement. The gland also regulates blood oxygen levels, allowing longer survival in the vacuum of space.</VacskinGland.description>
+  <!-- EN: a vacskin gland -->
+  <VacskinGland.labelNoun>a vacskin gland</VacskinGland.labelNoun>
 </LanguageData>

@@ -116,6 +116,11 @@
   <LetterLabelSurveyScannerArrived>Surveying scanner</LetterLabelSurveyScannerArrived>
   <!-- EN: Protect the scanner until it's finished surveying the area. This will take {DURATION}. -->
   <LetterSurveyScannerArrived>Protect the scanner until it's finished surveying the area. This will take {DURATION}.</LetterSurveyScannerArrived>
+  <!-- Psilocaps -->
+  <!-- EN: Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration! -->
+  <LetterInspirationBeginPsilocap>Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration!</LetterInspirationBeginPsilocap>
+  <!-- EN: This happened due to ingesting psilocaps. -->
+  <MentalBreakReason_Psilocap>This happened due to ingesting psilocaps.</MentalBreakReason_Psilocap>
   <!-- EN: Insect lair -->
   <EnteredMegahiveLabel>Insect lair</EnteredMegahiveLabel>
   <!-- EN: {PAWN_nameDef} has arrived in the depths of a massive underground insect lair. The air is heavy with the stench of insect secretions. -->

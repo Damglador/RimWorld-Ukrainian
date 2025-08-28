@@ -36,12 +36,6 @@
   <ExtractBioferrite.gerund>extracting from</ExtractBioferrite.gerund>
   <!-- EN: extract from -->
   <ExtractBioferrite.verb>extract from</ExtractBioferrite.verb>
-  <!-- EN: fill in -->
-  <FillIn.label>fill in</FillIn.label>
-  <!-- EN: filling in -->
-  <FillIn.gerund>filling in</FillIn.gerund>
-  <!-- EN: fill -->
-  <FillIn.verb>fill</FillIn.verb>
   <!-- EN: interrogate identity -->
   <InterrogatePrisoner.label>interrogate identity</InterrogatePrisoner.label>
   <!-- EN: interrogating -->

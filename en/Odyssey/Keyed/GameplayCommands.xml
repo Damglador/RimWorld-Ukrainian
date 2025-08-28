@@ -51,10 +51,6 @@
   <NoFuelInShuttle>No fuel in shuttle.</NoFuelInShuttle>
   <!-- EN: Shuttle is already fully fueled -->
   <ShuttleFullyFueled>Shuttle is already fully fueled</ShuttleFullyFueled>
-  <!-- EN: Seal entrance... -->
-  <SealHatch>Seal entrance...</SealHatch>
-  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
-  <SealHatchDesc>Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever.</SealHatchDesc>
   <!-- EN: Activate -->
   <GravshipShieldOrderActivation>Activate</GravshipShieldOrderActivation>
   <!-- EN: Deactivate -->
