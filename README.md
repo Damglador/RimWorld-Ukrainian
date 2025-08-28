@@ -4,7 +4,7 @@ Repository of Ukrainian localization for RimWorld.
 ## Як долучитися?
 
 1. Основним джерелом перекладів є
-  [проект](https://crowdin.com/project/rimworld-ukr) на платформі CrowdIn.
+  [проєкт](https://crowdin.com/project/rimworld-ukr) на платформі CrowdIn.
   Усі нові переклади варто робити спершу там, задля уникнення розбіжностей
   між перекладами у цьому репозиторі та на CrowdIn. Завантажити переклади з
   CrowdIn у цей репозиторій можна за допомогою скрипта:
