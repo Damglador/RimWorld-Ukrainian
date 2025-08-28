@@ -11,6 +11,8 @@ MOD_DIR=Mod
 
 # Завантажити переклад з Crowdin (потрібен CROWDIN_PERSONAL_TOKEN менеджера проєкту)
 crowdin download
+# Домішати переклади не з Crowdin
+cp -r CustomTranslations/* uk/
 
 # Дати файли моду
 mkdir -p Mod/CrowdinFiles && cp -r uk/* "$MOD_DIR"/CrowdinFiles
