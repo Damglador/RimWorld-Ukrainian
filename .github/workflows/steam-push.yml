@@ -10,7 +10,11 @@ jobs:
     - name: Download repository
       uses: actions/checkout@v3
     - name: Build
-      run: mkdir -p Mod/CrowdinFiles && cp -r uk/* Mod/CrowdinFiles && Mod/build.sh && rm -rf Mod/CrowdinFiles
+      run: |
+        mkdir -p Mod/CrowdinFiles && \
+        cp -r uk/* Mod/CrowdinFiles && \
+        Mod/build.sh && \
+        rm -rf Mod/CrowdinFiles
     - name: steam-workshop-update
       uses: hmlendea/steam-workshop-update@v1.2.0
       with:
