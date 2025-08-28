@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 cd "$(dirname "$0")" || exit
 
 export CROWDIN_PROJECT_ID=295257
