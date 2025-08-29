@@ -72,9 +72,17 @@ fi
 for lang in "${LANGN[@]}"; do
 	[ -z "$lang" ] && log "lang is empty" && continue # for some reason it can be empty
 	for dlc in "$GAMEDIR"/Data/*/; do
-		[ ! -f "$dlc"/Languages/"$lang.tar" ] && log "No file «$lang.tar» in "$dlc"/Languages" && continue
-		log "Extracting files from $dlc/$lang.tar"
-		mkdir -p "$DEST"/"$lang"/"$(basename "$dlc")"/
-		tar -xf "$dlc"/Languages/"$lang.tar" -C "$DEST"/"$lang"/"$(basename "$dlc")"/
+		if [ -f "$dlc/Languages/$lang.tar" ]; then
+			log "Extracting files from $dlc/$lang.tar"
+			mkdir -p "$DEST/$lang/$(basename "$dlc")/"
+			tar -xf "$dlc/Languages/$lang.tar" -C "$DEST/$lang/$(basename "$dlc")/"
+		elif [ -d "$dlc/Languages/$lang" ]; then
+			log "Copying files from $dlc/Languages/$lang"
+			mkdir -p "$DEST/$lang/$(basename "$dlc")/"
+			log "Copying to $DEST/$lang/$(basename "$dlc")/"
+			cp -r "$dlc/Languages/$lang/"* "$DEST/$lang/$(basename "$dlc")/"
+		else 
+			log "No file «$lang.tar» or directory «$lang» in $dlc/Languages"
+		fi
 	done
 done
