@@ -55,7 +55,7 @@ done
 
 
 
-if [ -z "$LANGN" ]; then
+if [ -z "${LANGN[*]}" ]; then
 	log "You have to specify language name, with --lang \"Ukrainian (Українська)\""
 	exit 1
 fi
@@ -70,6 +70,7 @@ if [ ! -d "$GAMEDIR/Data" ]; then
 fi
 
 for lang in "${LANGN[@]}"; do
+	[ -z "$lang" ] && log "lang is empty" && continue # for some reason it can be empty
 	for dlc in "$GAMEDIR"/Data/*/; do
 		[ ! -f "$dlc"/Languages/"$lang.tar" ] && log "No file «$lang.tar» in "$dlc"/Languages" && continue
 		log "Extracting files from $dlc/$lang.tar"
