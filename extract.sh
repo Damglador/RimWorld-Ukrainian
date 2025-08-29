@@ -10,8 +10,8 @@ log() {
 	printf "%s\n" "$@"
 }
 
-for arg in "$@"; do
-	case "$arg" in
+while true; do
+	case "$1" in
 		--lang)
 			LANGN+=("$2")
 			log "Searching for language «$2»"
@@ -47,6 +47,7 @@ for arg in "$@"; do
 	--all	- видобути всі мови"
 			shift;;
 		*)
+			[ -z "$1" ] && break
 			LANGN+=("$1")
 			shift;;
 	esac
