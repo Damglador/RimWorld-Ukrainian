@@ -352,6 +352,12 @@
     <li>situationFunVerb->writing a story about a [friendNameSingular] who hunts [enemyNamePlural]</li>
     <li>situationFunVerb->pretending to fight [enemyNamePlural]</li>
     <li>situationFunVerb->telling stories about [enemyNamePlural]</li>
+    <li>situationLearningVerb->watching others [taskWork]</li>
+    <li>situationLearningVerb->learning about [taskWork]</li>
+    <li>situationLearningVerb->learning about [topicLearning]</li>
+    <li>situationLearningVerb->studying [topicLearning]</li>
+    <li>situationLearningVerb->reading about [topicLearning]</li>
+    <li>situationLearningVerb->doing meaningful work</li>
     <li>situationBadGen->getting attacked by [enemyNamePlural]</li>
     <li>situationBadGen->getting kidnapped by [enemyNamePlural]</li>
     <li>situationBadGen->getting hunted by a [enemyNameSingular]</li>

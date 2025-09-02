@@ -32,6 +32,9 @@ conf = {
         "situationFun->": [
             ["situationFunVerb->"],
         ],
+        "situationLearning->": [
+            ["situationLearningVerb->"]
+        ],
         "situationBad->": [
             ["situationBadGen->"],
         ],
