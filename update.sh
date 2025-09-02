@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 export CROWDIN_PROJECT_ID=295257
 [ -z "$CROWDIN_PERSONAL_TOKEN" ] && export CROWDIN_PERSONAL_TOKEN=$(pass crowdin/api/rimworld)
 
-MOD_DIR=Mod
+MOD_DIR=Utils/Mod
 
 # Завантажити переклад з Crowdin (потрібен CROWDIN_PERSONAL_TOKEN менеджера проєкту)
 crowdin download
@@ -15,7 +15,7 @@ crowdin download
 cp -r CustomTranslations/* uk/
 
 # Дати файли моду
-mkdir -p Mod/CrowdinFiles && cp -r uk/* "$MOD_DIR"/CrowdinFiles
+mkdir -p "$MOD_DIR/CrowdinFiles" && cp -r uk/* "$MOD_DIR/CrowdinFiles"
 
 # Commit updated translation to git
 echo "[update.sh] Committing updated translation"
