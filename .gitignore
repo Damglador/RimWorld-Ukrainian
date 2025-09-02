@@ -1,18 +1,18 @@
 .vscode
 .idea
 
-Mod/Core
-Mod/Royalty
-Mod/Ideology
-Mod/Biotech
-Mod/Anomaly
-Mod/Odyssey
-Mod/CrowdinFiles/*
-
 en/**/CustomDef
 
 Extract
 language
-SteamMod
 
-Mod/Mod/Languages/Ukrainian (Crowdin)/LanguageInfo.xml
+Utils/convert-todo
+Utils/SteamMod
+Utils/Mod/Mod/Languages/Ukrainian (Crowdin)/LanguageInfo.xml
+Utils/Mod/Core
+Utils/Mod/Royalty
+Utils/Mod/Ideology
+Utils/Mod/Biotech
+Utils/Mod/Anomaly
+Utils/Mod/Odyssey
+Utils/Mod/CrowdinFiles/*
