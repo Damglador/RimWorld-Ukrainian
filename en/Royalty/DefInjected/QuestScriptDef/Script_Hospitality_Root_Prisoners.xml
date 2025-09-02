@@ -5,13 +5,13 @@
     <li>lodgersLabelPlural->prisoners</li>
   -->
   <Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabelPlural->prisoners</li>
     <li>lodgersLabel(lodgers0_gender==Male)->prisoner</li>
     <li>lodgersLabel(lodgers0_gender==Female)->prisoner</li>
     <li>lodgersLabelGen(lodgers0_gender==Male)->prisoner</li>
     <li>lodgersLabelGen(lodgers0_gender==Female)->prisoner</li>
     <li>lodgersLabelAcc(lodgers0_gender==Male)->prisoner</li>
     <li>lodgersLabelAcc(lodgers0_gender==Female)->prisoner</li>
-    <li>lodgersLabelPlural->prisoners</li>
     <li>lodgersLabelPluralGen->prisoners</li>
     <li>lodgersLabelPluralAcc->prisoners</li>
   </Hospitality_Prisoners.questDescriptionAndNameRules.rulesStrings>

@@ -327,5 +327,68 @@
     <li>enemyNameSingular->sanguophage</li>
     <li>enemyNameSingular->woman with no eyes</li>
     <li>enemyNameSingular->man with a hook for a hand</li>
+    <li>nounFutureGen->the next few weeks</li>
+    <li>nounFutureGen->the coming months</li>
+    <li>nounFutureGen->the next year</li>
+    <li>nounFutureGen->the future</li>
+    <li>situationFunVerb->exploring the wilderness with [friendNamePlural]</li>
+    <li>situationFunVerb->playing [Game]</li>
+    <li>situationFunVerb->playing [Game] with friends</li>
+    <li>situationFunVerb->playing with a [friendNameSingular]</li>
+    <li>situationFunVerb->chatting with a [friendNameSingular]</li>
+    <li>situationFunVerb->gossiping about [friendNamePlural]</li>
+    <li>situationFunVerb->making friends</li>
+    <li>situationFunVerb->being outside in the sun</li>
+    <li>situationFunVerb->watching the night sky for meteorites</li>
+    <li>situationFunVerb->talking on the radio about [topicLearning]</li>
+    <li>situationFunVerb->chatting on the radio with outsiders</li>
+    <li>situationFunVerb->drawing pictures of [friendNamePlural] on the floor</li>
+    <li>situationFunVerb->daydreaming about [topicLearning]</li>
+    <li>situationFunVerb->nature running</li>
+    <li>situationFunVerb->having adventures with [friendNamePlural]</li>
+    <li>situationFunVerb->finding hidden treasure</li>
+    <li>situationFunVerb->drawing pictures of [enemyNamePlural]</li>
+    <li>situationFunVerb->drawing pictures of a [friendNameSingular]</li>
+    <li>situationFunVerb->writing a story about a [friendNameSingular] who hunts [enemyNamePlural]</li>
+    <li>situationFunVerb->pretending to fight [enemyNamePlural]</li>
+    <li>situationFunVerb->telling stories about [enemyNamePlural]</li>
+    <li>situationBadGen->getting attacked by [enemyNamePlural]</li>
+    <li>situationBadGen->getting kidnapped by [enemyNamePlural]</li>
+    <li>situationBadGen->getting hunted by a [enemyNameSingular]</li>
+    <li>situationBadGen->being chased by a [enemyNameSingular]</li>
+    <li>situationBadGen->inhaling tox gas</li>
+    <li>situationBadGen->catching lung rot</li>
+    <li>situationBadGen->catching the plague</li>
+    <li>situationBadGen->getting food poisoning</li>
+    <li>situationBadGen->seeing loved ones die</li>
+    <li>situationBadGen->eating without a table</li>
+    <li>taskWorkIns->cooking meals</li>
+    <li>taskWorkIns->training animals</li>
+    <li>taskWorkIns->caring for sick people</li>
+    <li>taskWorkIns->helping [friendNamePlural]</li>
+    <li>taskWorkIns->hunting muffalo</li>
+    <li>taskWorkIns->growing food</li>
+    <li>taskWorkIns->tailoring clothes</li>
+    <li>enemyNamePluralIns->raiders</li>
+    <li>enemyNamePluralIns->[AdjectiveBadass] raiders</li>
+    <li>enemyNamePluralIns->mysterious strangers</li>
+    <li>enemyNamePluralIns->[AdjectiveBadass] insects</li>
+    <li>enemyNamePluralIns->manhunting boomalopes</li>
+    <li>enemyNamePluralIns->secretive blood drinkers</li>
+    <li>enemyNamePluralIns->machine gods</li>
+    <li>enemyNamePluralIns->feral mechanoids</li>
+    <li>enemyNamePluralIns->psychic beings with terrible powers</li>
+    <li>friendNamePluralIns->friends</li>
+    <li>friendNamePluralDat->friends</li>
+    <li>friendNamePluralIns->loved ones</li>
+    <li>friendNamePluralDat->loved ones</li>
+    <li>friendNamePluralIns->[friendAdj] animals</li>
+    <li>friendNamePluralDat->[friendAdj] animals</li>
+    <li>friendNamePluralIns->[friendAdj] mechanoids</li>
+    <li>friendNamePluralDat->[friendAdj] mechanoids</li>
+    <li>friendNamePluralIns->[friendAdj] kids</li>
+    <li>friendNamePluralDat->[friendAdj] kids</li>
+    <li>friendNamePluralIns->imaginary friends</li>
+    <li>friendNamePluralDat->imaginary friends</li>
   </GrowthMomentFlavor.rulePack.rulesStrings>
 </LanguageData>

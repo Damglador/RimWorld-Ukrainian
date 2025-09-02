@@ -125,13 +125,13 @@
     <li>lodgersLabelPlural->refugees</li>
   -->
   <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabelPlural->refugees</li>
     <li>lodgersLabel(lodgers0_gender==Male)->refugee</li>
     <li>lodgersLabel(lodgers0_gender==Female)->refugee</li>
     <li>lodgersLabelGen(lodgers0_gender==Male)->refugee</li>
     <li>lodgersLabelGen(lodgers0_gender==Female)->refugee</li>
     <li>lodgersLabelAcc(lodgers0_gender==Male)->refugee</li>
     <li>lodgersLabelAcc(lodgers0_gender==Female)->refugee</li>
-    <li>lodgersLabelPlural->refugees</li>
     <li>lodgersLabelPluralGen->refugees</li>
     <li>lodgersLabelPluralAcc->refugees</li>
   </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
@@ -310,13 +310,13 @@
     <li>lodgersLabelPlural->refugees</li>
   -->
   <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabelPlural->refugees</li>
     <li>lodgersLabel(lodgers0_gender==Male)->refugee</li>
     <li>lodgersLabel(lodgers0_gender==Female)->refugee</li>
     <li>lodgersLabelGen(lodgers0_gender==Male)->refugee</li>
     <li>lodgersLabelGen(lodgers0_gender==Female)->refugee</li>
     <li>lodgersLabelAcc(lodgers0_gender==Male)->refugee</li>
     <li>lodgersLabelAcc(lodgers0_gender==Female)->refugee</li>
-    <li>lodgersLabelPlural->refugees</li>
     <li>lodgersLabelPluralGen->refugees</li>
     <li>lodgersLabelPluralAcc->refugees</li>
   </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
