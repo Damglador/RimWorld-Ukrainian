@@ -1,0 +1,10 @@
+[project]
+name = "li-expand"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "lxml>=6.0.1",
+    "pathlib>=1.0.1",
+]
