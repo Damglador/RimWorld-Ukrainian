@@ -8,6 +8,8 @@ from pathlib import Path
 from config import conf
 
 def main():
+    # One day I'll make proper arg parsing
+    # For now you can only give 1 dir/file at a time
     path = Path(sys.argv[1])
     if path.is_file():
         print("Файл")
@@ -66,13 +68,12 @@ def format(input: Path, output: Path):
     
     replacements = {
         r"&gt;": ">",
+        # lxml for some reason uses '' there, while the original is with ""
+        # so a that's cheap workaround to avoid diffs between files
         r"'1.0' encoding='UTF-8'": '"1.0" encoding="UTF-8"',
-        #r"&lt;/rulesStrings": "</rulesStrings",
-        #r"&lt;rulesStrings": "<rulesStrings",
     }
 
     for pattern, repl in replacements.items():
-        #print(f"Replacing {pattern:<20} with {repl}")
         text = re.sub(pattern, repl, text, flags=re.MULTILINE)
 
     with open(output, "w", encoding="utf-8") as f:
