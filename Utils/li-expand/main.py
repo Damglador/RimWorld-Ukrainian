@@ -60,37 +60,6 @@ def expandv2(root):
 # addnext would probably cause a lot of problems
 # append should only cause problems when an update to the file already does
 
-
-
-def process(input: Path, output: Path):
-    tree = ET.parse(input, ET.XMLParser(remove_blank_text=True))
-    root = tree.getroot()
-    if input.name in conf:
-        for source, additions in conf[input.name]["expands"].items():
-            expand(
-                root, 
-                additions,
-                source,
-            )
-    
-    
-    tree.write(output, encoding="utf-8", xml_declaration=True, pretty_print=True)
-    format(output, output)
-
-def expand(root, additions: list[str], source: str, replace=False):
-    lis = root.xpath(f'.//li[starts-with(string(.), "{source}")]')
-    for li in lis:
-        for addition in additions:
-            new_li = ET.Element("li")
-            new_li.text = re.sub(source, addition, li.text)
-            if not li.getparent().xpath(f'.//li[text()="{new_li.text}"]'):
-                li.addnext(new_li)
-
-def list_lis(root, source):
-    lis = root.xpath(f'.//li[starts-with(string(.), "{source}")]')
-    for li in lis:
-        print(ET.tostring(li, encoding="unicode"))
-
 def format(input: Path, output: Path):
     with open(input, encoding="utf-8") as f:
         text = f.read()
