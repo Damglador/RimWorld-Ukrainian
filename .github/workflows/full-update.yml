@@ -21,16 +21,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Build mod
         run: | 
-          mkdir -p Mod/CrowdinFiles
-          cp -r uk/* Mod/CrowdinFiles
-          cp -r CustomTranslations/* Mod/CrowdinFiles
-          Mod/build.sh
-          rm -rf Mod/CrowdinFiles
+          mkdir -p Utils/Mod/CrowdinFiles
+          cp -r uk/* Utils/Mod/CrowdinFiles
+          cp -r CustomTranslations/* Utils/Mod/CrowdinFiles
+          Utils/Mod/build.sh
+          rm -rf Utils/Mod/CrowdinFiles
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: mod-files
-          path: Mod/*
+          path: Utils/Mod/*
 
   Update_Workshop:
     needs: Build
@@ -40,13 +40,13 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: mod-files
-          path: Mod/
+          path: Utils/Mod/
       - name: Update the mod on Steam
         uses: hmlendea/steam-workshop-update@v1.2.0
         with:
           appid: 294100 # The game's Steam App ID
           itemid: 3531401512 # The mod's Steam Workshop Item ID
-          path: Mod/ # Relative path to your mod's folder, starting from the repository root
+          path: Utils/Mod/ # Relative path to your mod's folder, starting from the repository root
         env:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }} # The Steam account username
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }} # The Steam account password
