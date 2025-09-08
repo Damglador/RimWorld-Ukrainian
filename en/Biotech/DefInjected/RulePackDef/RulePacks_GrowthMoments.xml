@@ -331,27 +331,6 @@
     <li>nounFutureGen->the coming months</li>
     <li>nounFutureGen->the next year</li>
     <li>nounFutureGen->the future</li>
-    <li>situationFunVerb->exploring the wilderness with [friendNamePlural]</li>
-    <li>situationFunVerb->playing [Game]</li>
-    <li>situationFunVerb->playing [Game] with friends</li>
-    <li>situationFunVerb->playing with a [friendNameSingular]</li>
-    <li>situationFunVerb->chatting with a [friendNameSingular]</li>
-    <li>situationFunVerb->gossiping about [friendNamePlural]</li>
-    <li>situationFunVerb->making friends</li>
-    <li>situationFunVerb->being outside in the sun</li>
-    <li>situationFunVerb->watching the night sky for meteorites</li>
-    <li>situationFunVerb->talking on the radio about [topicLearning]</li>
-    <li>situationFunVerb->chatting on the radio with outsiders</li>
-    <li>situationFunVerb->drawing pictures of [friendNamePlural] on the floor</li>
-    <li>situationFunVerb->daydreaming about [topicLearning]</li>
-    <li>situationFunVerb->nature running</li>
-    <li>situationFunVerb->having adventures with [friendNamePlural]</li>
-    <li>situationFunVerb->finding hidden treasure</li>
-    <li>situationFunVerb->drawing pictures of [enemyNamePlural]</li>
-    <li>situationFunVerb->drawing pictures of a [friendNameSingular]</li>
-    <li>situationFunVerb->writing a story about a [friendNameSingular] who hunts [enemyNamePlural]</li>
-    <li>situationFunVerb->pretending to fight [enemyNamePlural]</li>
-    <li>situationFunVerb->telling stories about [enemyNamePlural]</li>
     <li>situationLearningVerb->watching others [taskWork]</li>
     <li>situationLearningVerb->learning about [taskWork]</li>
     <li>situationLearningVerb->learning about [topicLearning]</li>

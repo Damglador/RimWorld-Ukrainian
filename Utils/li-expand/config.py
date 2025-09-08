@@ -29,9 +29,6 @@ conf = {
         "nounFuture->": [
             ["nounFutureGen->"],
         ],
-        "situationFun->": [
-            ["situationFunVerb->"],
-        ],
         "situationLearning->": [
             ["situationLearningVerb->"]
         ],
