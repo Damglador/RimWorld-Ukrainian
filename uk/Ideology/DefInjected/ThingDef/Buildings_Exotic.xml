@@ -5,5 +5,5 @@
   <!-- EN: An ancient ultratech spacedrone. -->
   <Spacedrone.description>Старовинний високотехнологічний фон.</Spacedrone.description>
   <!-- EN: Hack to access computer. -->
-  <Spacedrone.comps.CompHackable.notHackedInspectString>Hack to access computer.</Spacedrone.comps.CompHackable.notHackedInspectString>
+  <Spacedrone.comps.CompHackable.notHackedInspectString>Взлам доступу до комп'ютера.</Spacedrone.comps.CompHackable.notHackedInspectString>
 </LanguageData>

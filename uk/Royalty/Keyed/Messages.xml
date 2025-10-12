@@ -10,21 +10,21 @@
   <!-- EN: Area must be walkable. -->
   <ShuttleCannotLand_Unwalkable>Територія повинна мати прохід.</ShuttleCannotLand_Unwalkable>
   <!-- EN: Terrain does not support {0}. -->
-  <ShuttleCannotLand_Unaffordable>Terrain does not support {0}.</ShuttleCannotLand_Unaffordable>
+  <ShuttleCannotLand_Unaffordable>Місцевість не витримає {0}.</ShuttleCannotLand_Unaffordable>
   <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
-  <MessageBestowerWaiting>Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony.</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Виберіть {BESTOWER_definite} і натисніть "Почати церемонію вручення", щоб розпочати церемонію.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>Неможливо дістатися до представника імперії!</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->
   <MessageBestowingTargetIsBusy>{0} зайнятий.</MessageBestowingTargetIsBusy>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
-  <MessageBestowingSpotUnreachable>Емісар роздратований втручанню в церемонію і вирішує піти.</MessageBestowingSpotUnreachable>
+  <MessageBestowingSpotUnreachable>Емісар роздратований втручанням в церемонію і вирішує піти.</MessageBestowingSpotUnreachable>
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
   <MessageBestowingDanger>Емісар йде через небезпечні для життя умови.</MessageBestowingDanger>
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
   <MessageBestowingDangerTemperature>Емісар уходить через небезпечну для життя температуру.</MessageBestowingDangerTemperature>
   <!-- EN: The bestower is leaving due to dangerous gases in the area. -->
-  <MessageBestowingDangerGas>The bestower is leaving due to dangerous gases in the area.</MessageBestowingDangerGas>
+  <MessageBestowingDangerGas>Представник йде через небезпечні гази в цій місцині.</MessageBestowingDangerGas>
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>Церемонію вручення титулу було перервано.</MessageBestowingInterrupted>
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->

@@ -68,22 +68,22 @@
     <li>nameAnimal->[NameAnimalUnisex]</li>
     <li>nameAnimal->[NameAnimalMale]</li>
     <li>nameAnimal->[NameAnimalFemale]</li>
-    <li>noun->oath</li>
-    <li>noun->promise</li>
-    <li>noun->death</li>
-    <li>noun->pain</li>
-    <li>noun->blood</li>
-    <li>noun->doom</li>
-    <li>noun->murder</li>
-    <li>noun->justice</li>
-    <li>noun->fear</li>
-    <li>noun->terror</li>
-    <li>noun->chaos</li>
-    <li>noun->order</li>
-    <li>noun->war</li>
-    <li>noun->silence</li>
-    <li>noun->debt</li>
-    <li>verber->keeper</li>
+    <li>noun->клятва</li>
+    <li>noun->обіцянка</li>
+    <li>noun->смерть</li>
+    <li>noun->біль</li>
+    <li>noun->кров</li>
+    <li>noun->приреченість</li>
+    <li>noun->вбивство</li>
+    <li>noun->справедливість</li>
+    <li>noun->страх</li>
+    <li>noun->жах</li>
+    <li>noun->хаос</li>
+    <li>noun->порядок</li>
+    <li>noun->війна</li>
+    <li>noun->смерть</li>
+    <li>noun->борг</li>
+    <li>verber->охоронець</li>
     <li>verber->bringer</li>
     <li>verber->sender</li>
     <li>verber->giver</li>

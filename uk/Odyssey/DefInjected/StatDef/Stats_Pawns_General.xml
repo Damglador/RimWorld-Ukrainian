@@ -13,7 +13,7 @@
   <!-- EN: How well this person can pilot a vehicle. -->
   <PilotingAbility.description>Вміння людини керувати машинами.</PilotingAbility.description>
   <!-- EN: vacuum resistance -->
-  <VacuumResistance.label>спротив до вакууму</VacuumResistance.label>
+  <VacuumResistance.label>стійкість до вакууму</VacuumResistance.label>
   <!-- EN: How resistant this creature is to the negative effects of the vacuum of space. -->
   <VacuumResistance.description>Витривалість істоти до негативних ефектів космічного вакууму.</VacuumResistance.description>
 </LanguageData>

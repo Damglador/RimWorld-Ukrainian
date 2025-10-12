@@ -17,7 +17,7 @@
   <!-- EN: lady -->
   <MedievalLordling19.titleShortFemale>леді</MedievalLordling19.titleShortFemale>
   <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
-  <MedievalSlave49.description>{PAWN_nameDef} {PAWN_gender ? виріс : виросла} штовхаючи візки та копаючи ями у середньовічному світі. Проста ручна праця — найдавніший {PAWN_possessive} супутник, разом із батогом господаря.\n\n{PAWN_pronoun} не {PAWN_gender ? вмів : вміла} читати до дев'яти років.</MedievalSlave49.description>
+  <MedievalSlave49.description>[PAWN_nameDef] {PAWN_gender ? виріс : виросла} штовхаючи візки та копаючи ями у середньовічному світі. Проста ручна праця — найдавніший [PAWN_possessive] супутник, разом із батогом господаря.\n\n[PAWN_pronoun] не {PAWN_gender ? вмів : вміла} читати до дев'яти років.</MedievalSlave49.description>
   <!-- EN: medieval slave -->
   <MedievalSlave49.title>середньовічний раб</MedievalSlave49.title>
   <!-- EN: slave -->

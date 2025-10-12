@@ -29,19 +29,19 @@
   -->
   <Mission_BanditCamp.questNameRules.rulesStrings>
     <li>questName->[questNameInner]</li>
-    <li>questName->[asker_nameDef]'s [questNameInner]</li>
+    <li>questName->[questNameInner] [asker_nameDef]</li>
     <li>questNameInner->[aerial] [attack]</li>
     <li>questNameInner->[target] [attack]</li>
     <li>questNameInner->[attack] [work]</li>
-    <li>target->camp</li>
-    <li>target->base</li>
-    <li>target->fort</li>
-    <li>aerial->aerial</li>
-    <li>aerial->air</li>
+    <li>target->табір</li>
+    <li>target->база</li>
+    <li>target->форт</li>
+    <li>aerial->повітряний</li>
+    <li>aerial->повітря</li>
     <li>attack->шатл</li>
     <li>attack->атакує</li>
     <li>attack->напад</li>
-    <li>work->work</li>
-    <li>work->job</li>
+    <li>work->робота</li>
+    <li>work->рота</li>
   </Mission_BanditCamp.questNameRules.rulesStrings>
 </LanguageData>

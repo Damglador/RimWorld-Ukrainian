@@ -43,7 +43,7 @@
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>несе {lookup: {TargetA}; Case; 3} для {lookup: {TargetB}; Case; 2}.</FeedPatient.reportString>
   <!-- EN: filling in TargetA. -->
-  <FillIn.reportString>filling in TargetA.</FillIn.reportString>
+  <FillIn.reportString>засипає {lookup: {TargetA}; Case; 3}.</FillIn.reportString>
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>будує {lookup: {TargetA}; Case; 3}</FinishFrame.reportString>
   <!-- EN: replacing broken components in TargetA. -->

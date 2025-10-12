@@ -1753,7 +1753,7 @@
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>Раб. Людина, що належить іншій людині або людям.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>{0_labelShort} is sleeping. If included in the event, {0_pronoun} will wake up to participate.</RitualBeginSleepingDesc>
+  <RitualBeginSleepingDesc>{0_labelShort} спить. Якщо буде додано до події, {0_pronoun} прокинеться, щоб взяти участь.</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the event. -->
   <RitualBeginSleepingWarning>Some of the selected participants are sleeping. They will wake up once you start the event.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->

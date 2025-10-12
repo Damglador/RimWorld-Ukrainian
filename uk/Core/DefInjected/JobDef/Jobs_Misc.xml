@@ -95,11 +95,11 @@
   <!-- EN: activating TargetA. -->
   <InteractThing.reportString>активує {lookup: {TargetA}; Case; 3}</InteractThing.reportString>
   <!-- EN: lying down. -->
-  <LayDown.reportString>лягає</LayDown.reportString>
+  <LayDown.reportString>лежить.</LayDown.reportString>
   <!-- EN: lying down. -->
-  <LayDownAwake.reportString>лягає</LayDownAwake.reportString>
+  <LayDownAwake.reportString>лежить.</LayDownAwake.reportString>
   <!-- EN: lying down. -->
-  <LayDownResting.reportString>лягає</LayDownResting.reportString>
+  <LayDownResting.reportString>лежить.</LayDownResting.reportString>
   <!-- EN: lovin'. -->
   <Lovin.reportString>займається коханням</Lovin.reportString>
   <!-- EN: operating turret. -->

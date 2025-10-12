@@ -23,11 +23,11 @@
   <!-- EN: Mods -->
   <Credits_TitleMods>Моди</Credits_TitleMods>
   <!-- EN: {0} ({1}) language -->
-  <Credits_TitleLanguage>{0} ({1}) language</Credits_TitleLanguage>
+  <Credits_TitleLanguage>{0} ({1}) мова</Credits_TitleLanguage>
   <!-- EN: Anomaly localization -->
   <Credits_Localization_Anomaly>Переклад доповнення Аномалія</Credits_Localization_Anomaly>
   <!-- EN: Odyssey localization -->
-  <Credits_Localization_Odyssey>Локалізація Одіссеї</Credits_Localization_Odyssey>
+  <Credits_Localization_Odyssey>Переклад доповнення Одіссея</Credits_Localization_Odyssey>
   <!-- EN: Lead Localization Project Manager -->
   <Credits_LeadLocalizationProjectManager>Провідний менеджер проєкту локалізації</Credits_LeadLocalizationProjectManager>
   <!-- EN: Localization Project Manager -->
@@ -49,7 +49,7 @@
   <!-- EN: Russian -->
   <Credits_Russian>російська</Credits_Russian>
   <!-- EN: Dutch -->
-  <Credits_Dutch>Голландська</Credits_Dutch>
+  <Credits_Dutch>Нідерландська</Credits_Dutch>
   <!-- EN: Turkish -->
   <Credits_Turkish>Турецька</Credits_Turkish>
   <!-- EN: Ukrainian -->
@@ -59,7 +59,7 @@
   <!-- EN: Traditional Chinese -->
   <Credits_ChineseTraditional>Традиційна Китайська</Credits_ChineseTraditional>
   <!-- EN: and many other gracious volunteers! -->
-  <AndOtherVolunteers>and many other gracious volunteers!</AndOtherVolunteers>
+  <AndOtherVolunteers>і багато інших милостивих добровольців!</AndOtherVolunteers>
   <!-- Credits - Currently unused -->
   <!-- EN: Test lead -->
   <Credit_TestLead>Ведучій тестер</Credit_TestLead>

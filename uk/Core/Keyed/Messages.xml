@@ -35,7 +35,7 @@
   <!-- EN: {0} from {1} are leaving the map because of dangerous conditions. -->
   <MessageVisitorsDangerousConditions>{0} з {1} залишають карту через небезпечні умови.</MessageVisitorsDangerousConditions>
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>{0}, {0_gender ? який : яку : яке} {1_gender ? носив : носила} {1_nameFull}, {0_gender ? зіпсувався : зіпсувалась : зіпсувалось} нанівець.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0}, {0_gender ? який : яку : яке} {1_gender ? носив : носила} {1_nameFull}, {0_gender ? зіпсувався : зіпсувалась : зіпсувалось} повністю.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
   <MessageDeterioratedAway>{0} розкладається на складі.</MessageDeterioratedAway>
   <!-- EN: {0} has begun. -->

@@ -3,7 +3,7 @@
   <!-- EN: gravcore -->
   <Gravcore.label>гравядро</Gravcore.label>
   <!-- EN: An ultratech device that generates an unstructured graviton field. It is useless by itself, but it can be used to construct gravtech buildings. -->
-  <Gravcore.description>An ultratech device that generates an unstructured graviton field. It is useless by itself, but it can be used to construct gravtech buildings.</Gravcore.description>
+  <Gravcore.description>Ультратехнологічний пристрій, що генерує неконтрольоване поле гравітації. Не має користі сам по собі, але може бути використаним для створення гравітаційних споруд.</Gravcore.description>
   <!-- EN: gravlite panel -->
   <GravlitePanel.label>гравлайтова панель</GravlitePanel.label>
   <!-- EN: A sheet of advanced polymer used in the construction of gravships. It's lightweight and has a high graviton conductance, making it ideal for gravtech structures.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids. -->

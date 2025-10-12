@@ -167,45 +167,45 @@
   <GrowthMomentFlavor.rulePack.rulesStrings>
     <li>r_root->[firstSentence] [secondSentence]</li>
     <li>firstSentence(tierSection==4)->[PAWN_pronoun] демонструє відмінний [nounGrowth] та має [adjGood] [nounAttitudeGood] на [nounFuture].</li>
-    <li>firstSentence(tierSection==4)->[PAWN_pronoun] отримує декілька нових пристрастей завдяки [situationLearning].</li>
-    <li>firstSentence(tierSection==4)->[situationLearning], [PAWN_pronoun] отримує декілька нових пристрастей.</li>
+    <li>firstSentence(tierSection==4)->[situationLearningVerb], [PAWN_pronoun] розвиває нові пристрасті.</li>
+    <li>firstSentence(tierSection==4)->[situationLearningVerb], [PAWN_pronoun] отримує декілька нових пристрастей.</li>
     <li>firstSentence(tierSection==4)->За минулий рік, [PAWN_pronoun] демонструє відмінний [nounGrowth].</li>
     <li>secondSentence(tierSection==4)->[PAWN_nameDef] хоче частіше [situationLearning] та [situationFun].</li>
     <li>secondSentence(tierSection==4)->[PAWN_nameDef] подобається [situationLearning], але більше за все [PAWN_pronoun] любить [situationFun].</li>
     <li>secondSentence(tierSection==4)->[PAWN_nameDef] подобається [situationLearning] та мріяти, як [PAWN_pronoun] [situationAspirational].</li>
-    <li>secondSentence(tierSection==4)->[PAWN_nameDef] сподівається, що завдяки [situationLearning], [PAWN_pronoun] зможе досягти [situationAspirational].</li>
-    <li>firstSentence(tierSection==3)->Останнім часом [PAWN_pronoun] проявляє [adjGood] [nounAttitudeGood] на [nounFuture].</li>
-    <li>firstSentence(tierSection==3)->[PAWN_pronoun] відчуває [nounAttitudeGood] на [nounFuture].</li>
-    <li>firstSentence(tierSection==3)->[PAWN_pronoun] проявляє інтерес до деяких активностей, включаючи [situationLearning].</li>
+    <li>secondSentence(tierSection==4)->[PAWN_nameDef] сподівається, що [situationLearningVerb], [PAWN_pronoun] зможе [situationAspirationalVerb].</li>
+    <li>firstSentence(tierSection==3)->Останнім часом [PAWN_pronoun] проявляє [adjGood] [nounAttitudeGood] щодо [nounFutureGen].</li>
+    <li>firstSentence(tierSection==3)->[PAWN_pronoun] відчуває [nounAttitudeGood] щодо [nounFutureGen].</li>
+    <li>firstSentence(tierSection==3)->[PAWN_pronoun] проявляє інтерес до деяких активностей, особливо де {PAWN_gender ? він : вона} [situationLearningVerb].</li>
     <li>firstSentence(tierSection==3)->[PAWN_pronoun] показує впевнений [nounGrowth].</li>
-    <li>secondSentence(tierSection==3)->[PAWN_nameDef] {PAWN_gender ? вдячний : вдячна}, що [PAWN_pronoun] рідко відчуває [feelingBad] і зацікавлений у тому, щоб проводити більше часу [situationFun].</li>
+    <li>secondSentence(tierSection==3)->[PAWN_nameDef] {PAWN_gender ? вдячний : вдячна}, що [PAWN_pronoun] рідко відчуває [feelingBad] і зацікавлений у тому, щоб проводити більше часу [situationFunVerb].</li>
     <li>secondSentence(tierSection==3)->[PAWN_nameDef] подобається [situationLearning], але [PAWN_pronoun] більше любить [situationFun].</li>
-    <li>secondSentence(tierSection==3)->Коли [PAWN_nameDef] стане старшим, [PAWN_pronoun] хоче проводити [PAWN_possessive] час [taskWork].</li>
+    <li>secondSentence(tierSection==3)->Коли [PAWN_nameDef] стане {PAWN_gender ? старшим : старшою}, [PAWN_pronoun] хоче проводити свій час за [taskWorkIns].</li>
     <li>secondSentence(tierSection==3)->Більше за все, [PAWN_nameDef] любить [situationFun].</li>
     <li>firstSentence(tierSection==2)->[PAWN_pronoun] демонструє [nounGrowth] та хоче і далі [situationLearning].</li>
     <li>firstSentence(tierSection==2)->[PAWN_pronoun] має деякий [nounAttitudeGood] щодо подальшого навчання.</li>
-    <li>firstSentence(tierSection==2)->З нетерпінням чекаючи [nounFuture], [PAWN_pronoun] хоче провести час [situationLearning].</li>
-    <li>firstSentence(tierSection==2)->[PAWN_pronoun] розвинув нове захоплення завдяки [situationLearning].</li>
+    <li>firstSentence(tierSection==2)->Не дочекається [nounFutureGen], [PAWN_pronoun] хоче провести час [situationLearningVerb].</li>
+    <li>firstSentence(tierSection==2)->[PAWN_pronoun] любить [situationLearning], тому розвиває нове захоплення.</li>
     <li>secondSentence(tierSection==2)->[PAWN_nameDef] подобається [situationFun].</li>
-    <li>secondSentence(tierSection==2)->[PAWN_nameDef] сподівається проводити більше часу, [situationFun].</li>
+    <li>secondSentence(tierSection==2)->[PAWN_nameDef] сподівається проводити більше часу, [situationFunVerb].</li>
     <li>secondSentence(tierSection==2)->[PAWN_nameDef] вважає, що [taskWork] - це нудно.</li>
-    <li>secondSentence(tierSection==2)-> Зокрема, [PAWN_nameDef] хоче зосередитися на [situationLearning].</li>
+    <li>secondSentence(tierSection==2)-> Зокрема, [PAWN_nameDef] хоче зосередитися на такій діяльності, як - [situationLearning].</li>
     <li>firstSentence(tierSection==1)->[PAWN_pronoun] демонструє невеликий [nounGrowth] та має низькі очікування на [nounFuture].</li>
     <li>firstSentence(tierSection==1)->Маючи певний оптимізм на [nounFuture], [PAWN_pronoun] демонструє невеликий [nounGrowth].</li>
-    <li>firstSentence(tierSection==1)->[PAWN_pronoun] сподівається на покращення, протягом [nounFuture].</li>
+    <li>firstSentence(tierSection==1)->[PAWN_pronoun] сподівається на покращення у [nounFutureLoc].</li>
     <li>firstSentence(tierSection==1)->[PAWN_pronoun] демонструє невеликий [nounGrowth] та вважає, що [situationLearning] - це нудно.</li>
     <li>secondSentence(tierSection==1)->[PAWN_nameDef] хоче частіше [situationFun], але дуже переймається, через [situationBad].</li>
     <li>secondSentence(tierSection==1)->[PAWN_nameDef] часто відчуває [feelingBad] під час [situationFun].</li>
-    <li>secondSentence(tierSection==1)->[PAWN_nameDef] має дивний страх, що через [situationFun] [PAWN_pronoun] закінчить [situationBad].</li>
-    <li>secondSentence(tierSection==1)->[PAWN_nameDef] має регулярні нічні жахи про [situationBad].</li>
-    <li>firstSentence(tierSection==0)->[PAWN_pronoun] часто хоче [situationLearning], але [PAWN_pronoun] рідко має можливість це зробити.</li>
+    <li>secondSentence(tierSection==1)->[PAWN_nameDef] має дивний страх, що [situationFun] призводить до [situationBadGen].</li>
+    <li>secondSentence(tierSection==1)->[PAWN_nameDef] постійно переслідують нічні кошмари щодо [situationBadGen].</li>
+    <li>firstSentence(tierSection==0)->[PAWN_pronoun] часто хоче [situationLearning], але {PAWN_gender ? йому : їй} рідко випадає можливість це робити.</li>
     <li>firstSentence(tierSection==0)->[PAWN_pronoun] не показує [nounGrowth].</li>
     <li>firstSentence(tierSection==0)->[PAWN_pronoun] не отримує жодних пристрастей та має низький [nounAttitudeGood] на [nounFuture].</li>
     <li>firstSentence(tierSection==0)->[PAWN_pronoun] виявляє мало інтересу до навчання і особливо не любить [situationLearning].</li>
     <li>secondSentence(tierSection==0)->[PAWN_nameDef] цікаво тільки [situationFun].</li>
-    <li>secondSentence(tierSection==0)->[PAWN_nameDef] постійно стримується страхом до [situationBad].</li>
-    <li>secondSentence(tierSection==0)->[PAWN_nameDef] живе в страху бути важко {PAWN_gender ? пораненим : пораненою} в результаті [situationBad].</li>
-    <li>secondSentence(tierSection==0)->[PAWN_nameDef] має повторюваний кошмар, в якому [PAWN_pronoun] знаходиться в [situationFun], що призводить до [situationBad].</li>
+    <li>secondSentence(tierSection==0)->[PAWN_nameDef] постійно стримується страхом до [situationBadGen].</li>
+    <li>secondSentence(tierSection==0)->[PAWN_nameDef] живе в страху бути важко {PAWN_gender ? пораненим : пораненою} в результаті [situationBadGen].</li>
+    <li>secondSentence(tierSection==0)->[PAWN_nameDef] має повторюваний кошмар, в якому [PAWN_pronoun] буде [situationFun], що призведе до [situationBadGen].</li>
     <li>adjGood->чудовий</li>
     <li>adjGood->ненаситний</li>
     <li>adjGood->інтенсивний</li>
@@ -217,63 +217,63 @@
     <li>adjGood->нескінченний</li>
     <li>adjGood->чистий</li>
     <li>adjGood->вражаючий</li>
-    <li>feelingBad->самітним</li>
-    <li>feelingBad->наляканим</li>
-    <li>feelingBad->провини</li>
-    <li>feelingBad->сильно нудним</li>
-    <li>feelingBad->нудним</li>
+    <li>feelingBad->{PAWN_gender ? самітним : самітною}</li>
+    <li>feelingBad->{PAWN_gender ? наляканим : наляканою}</li>
+    <li>feelingBad->{PAWN_gender ? провинним : провинною}</li>
+    <li>feelingBad->сильний дискомфорт</li>
+    <li>feelingBad->нудьгу</li>
     <li>nounAttitudeGood->ентузіазм</li>
-    <li>nounAttitudeGood->захоплення</li>
+    <li>nounAttitudeGood->запал</li>
     <li>nounAttitudeGood->оптимізм</li>
     <li>nounFuture->найближчі кілька тижнів</li>
     <li>nounFuture->найближчі місяці</li>
     <li>nounFuture->наступний рік</li>
     <li>nounFuture->майбутнє</li>
-    <li>nounGrowth->особистісне зростання</li>
+    <li>nounGrowth->особистісний ріст</li>
     <li>nounGrowth->особистий розвиток</li>
-    <li>situationFun->дослідження дикої природи з [friendNamePlural]</li>
+    <li>situationFun->робити дослідження дикої природи з [friendNamePluralIns]</li>
     <li>situationFun->грати [Game]</li>
     <li>situationFun->грати [Game] з друзями</li>
     <li>situationFun->грати з [friendNameSingular]</li>
-    <li>situationFun->спілкування з [friendNameSingular]</li>
+    <li>situationFun->спілкуватись з [friendNameSingular]</li>
     <li>situationFun->пліткувати про [friendNamePlural]</li>
     <li>situationFun->заводити друзів</li>
     <li>situationFun->перебувати на сонці</li>
     <li>situationFun->спостерігати за нічним небом у пошуках метеоритів</li>
     <li>situationFun->розмовляти по радіо про [topicLearning]</li>
     <li>situationFun->спілкуватись по радіо з незнайомцями</li>
-    <li>situationFun->малювати картинки [friendNamePlural] на підлозі</li>
+    <li>situationFun->малювати [friendNamePlural] на підлозі</li>
     <li>situationFun->мріяти про [topicLearning]</li>
     <li>situationFun->бігати на природі</li>
-    <li>situationFun->має пригоди з [friendNamePlural]</li>
+    <li>situationFun->мати пригоди з [friendNamePluralIns]</li>
     <li>situationFun->шукати прихований скарб</li>
-    <li>situationFun->малювати картинки [enemyNamePlural]</li>
-    <li>situationFun->малювати картинки [friendNameSingular]</li>
+    <li>situationFun->малювати [enemyNamePlural]</li>
+    <li>situationFun->малювати [friendNameSingular]</li>
     <li>situationFun->писати історію про [friendNameSingular], який полює на [enemyNamePlural]</li>
-    <li>situationFun->прикидається, що бореться з [enemyNamePlural]</li>
-    <li>situationFun->розповідає історії про [enemyNamePlural]</li>
-    <li>situationLearning->спостерігати за іншими [taskWork]</li>
+    <li>situationFun->прикидатися, що бореться з [enemyNamePluralIns]</li>
+    <li>situationFun->розповідати історії про [enemyNamePlural]</li>
+    <li>situationLearning->спостерігати, як треба [taskWork]</li>
     <li>situationLearning->навчатись [taskWork]</li>
     <li>situationLearning->дізнаватись про [topicLearning]</li>
     <li>situationLearning->вивчати [topicLearning]</li>
     <li>situationLearning->читати про [topicLearning]</li>
     <li>situationLearning->виконувати значущу роботу</li>
     <li>situationAspirational->змінює світ на краще</li>
-    <li>situationAspirational->стане дуже багатим</li>
+    <li>situationAspirational->стане дуже {PAWN_gender ? багатим : багатою}</li>
     <li>situationAspirational->рятує світ</li>
-    <li>situationAspirational->допомагати іншим</li>
-    <li>situationAspirational->стає дуже відомим</li>
+    <li>situationAspirational->допомагає іншим</li>
+    <li>situationAspirational->стає дуже {PAWN_gender ? відомим : відомою}</li>
     <li>situationAspirational->покидає планету</li>
-    <li>situationBad->нападу [enemyNamePlural]</li>
-    <li>situationBad->бути викраденим [enemyNamePlural]</li>
-    <li>situationBad->бути впольованим [enemyNameSingular]</li>
-    <li>situationBad->бути переслідуваним [enemyNameSingular]</li>
-    <li>situationBad->вдихатиме токсичний газ</li>
+    <li>situationBad->напад [enemyNamePlural]</li>
+    <li>situationBad->викрадення [enemyNamePlural]</li>
+    <li>situationBad->полювання на {PAWN_gender ? нього : неї} [enemyNameSingular]</li>
+    <li>situationBad->переслідування [enemyNameSingular]</li>
+    <li>situationBad->вдихання токсичного газу</li>
     <li>situationBad->зараження легеневої гнилі</li>
     <li>situationBad->зараження чумою</li>
-    <li>situationBad->отримати харчове отруєння</li>
-    <li>situationBad->побачити, як помирають близькі люди</li>
-    <li>situationBad->вживання їжі без столу</li>
+    <li>situationBad->харчового отруєння</li>
+    <li>situationBad->те, щоб {PAWN_gender ? він : вона} побачити, як гинуть {PAWN_gender ? його : її} близькі</li>
+    <li>situationBad->споживання їжі не за столом</li>
     <li>topicLearning->всесвіт</li>
     <li>topicLearning->науку</li>
     <li>topicLearning->різні культури</li>
@@ -285,47 +285,95 @@
     <li>topicLearning->генну інженерію</li>
     <li>topicLearning->ракетобудування</li>
     <li>topicLearning->видобуток руди</li>
-    <li>taskWork->приготування їжі</li>
-    <li>taskWork->тренування тварин</li>
+    <li>taskWork->готувати їжу</li>
+    <li>taskWork->тренувати тварин</li>
     <li>taskWork->доглядати за хворими людьми</li>
     <li>taskWork->допомагати [friendNamePlural]</li>
-    <li>taskWork->полювання на муффало</li>
-    <li>taskWork->вирощування продуктів харчування</li>
-    <li>taskWork->пошиттям одягу</li>
-    <li>friendNamePlural->друзі</li>
-    <li>friendNamePlural->близькі люди</li>
-    <li>friendNamePlural->[friendAdj]і тварини</li>
-    <li>friendNamePlural->[friendAdj]і механоїди</li>
-    <li>friendNamePlural->[friendAdj]і діти</li>
-    <li>friendNamePlural->уявні друзі</li>
-    <li>friendNameSingular->друг</li>
-    <li>friendNameSingular->собака</li>
-    <li>friendNameSingular->[friendAdj]ий кіт</li>
-    <li>friendNameSingular->дитина</li>
-    <li>friendNameSingular->[friendAdj]а дитина</li>
-    <li>friendNameSingular->член сім'ї</li>
-    <li>Добродушн</li>
-    <li>Корисн</li>
-    <li>Привітн</li>
-    <li>Бешкетн</li>
-    <li>Весел</li>
-    <li>enemyNamePlural->рейдери</li>
-    <li>enemyNamePlural->[AdjectiveBadass] рейдери</li>
-    <li>enemyNamePlural->таємничі незнайомці</li>
-    <li>enemyNamePlural->[AdjectiveBadass] комахи</li>
-    <li>enemyNamePlural->полюючі на людей бумалопи</li>
-    <li>enemyNamePlural->таємничі кровопивці</li>
-    <li>enemyNamePlural->боги-машини</li>
-    <li>enemyNamePlural->дикі механоїди</li>
-    <li>enemyNamePlural->психічні істоти з жахливими силами</li>
+    <li>taskWork->полювати на муффало</li>
+    <li>taskWork->вирощувати продукти харчування</li>
+    <li>taskWork->шити одяг</li>
+    <li>friendNamePlural->друзів</li>
+    <li>friendNamePlural->близьких людей</li>
+    <li>friendNamePlural->[friendAdj]их тварин</li>
+    <li>friendNamePlural->[friendAdj]их механоїдів</li>
+    <li>friendNamePlural->[friendAdj]их дітей</li>
+    <li>friendNamePlural->уявних друзів</li>
+    <li>friendNameSingular->друга</li>
+    <li>friendNameSingular->собаку</li>
+    <li>friendNameSingular->[friendAdj]ого кота</li>
+    <li>friendNameSingular->дитину</li>
+    <li>friendNameSingular->[friendAdj]у дитину</li>
+    <li>friendNameSingular->члена сім'ї</li>
+    <li>friendAdj->добродушн</li>
+    <li>friendAdj->корисн</li>
+    <li>friendAdj->привітн</li>
+    <li>friendAdj->бешкетн</li>
+    <li>friendAdj->весел</li>
+    <li>enemyNamePlural->рейдерів</li>
+    <li>enemyNamePlural->[AdjectiveBadass] рейдерів</li>
+    <li>enemyNamePlural->таємничих незнайомців</li>
+    <li>enemyNamePlural->[AdjectiveBadass] комах</li>
+    <li>enemyNamePlural->бумалопи, які полюють на людей</li>
+    <li>enemyNamePlural->таємничих кровопивць</li>
+    <li>enemyNamePlural->богів-машин</li>
+    <li>enemyNamePlural->диких механоїдів</li>
+    <li>enemyNamePlural->психічних істот з жахливими силами</li>
     <li>enemyNameSingular->[AdjectiveBadass] [Enemy]</li>
     <li>enemyNameSingular->[AdjectiveBadass] [AnimalBadass]</li>
     <li>enemyNameSingular->[AnimalBadass]</li>
     <li>enemyNameSingular->[Mechanoid]</li>
-    <li>enemyNameSingular->[AdjectiveBadass] сміттяр</li>
-    <li>enemyNameSingular->незнайомець</li>
-    <li>enemyNameSingular->сангвофаг</li>
-    <li>enemyNameSingular->жінка без очей</li>
-    <li>enemyNameSingular->чоловік з гаком замість руки</li>
+    <li>enemyNameSingular->[AdjectiveBadass] сміттярем</li>
+    <li>enemyNameSingular->незнайомцем</li>
+    <li>enemyNameSingular->сангвофагом</li>
+    <li>enemyNameSingular->жінкою без очей</li>
+    <li>enemyNameSingular->чоловіком з гаком замість руки</li>
+    <li>nounFutureGen->найближчих кілька тижнів</li>
+    <li>nounFutureGen->найближчих місяців</li>
+    <li>nounFutureGen->наступного року</li>
+    <li>nounFutureGen->майбутнього</li>
+    <li>situationLearningVerb->спостерігаючи за [taskWorkIns]</li>
+    <li>situationLearningVerb->навчаючись [taskWorkIns]</li>
+    <li>situationLearningVerb->дізнаючись про [topicLearning]</li>
+    <li>situationLearningVerb->вивчаючи [topicLearning]</li>
+    <li>situationLearningVerb->читаючи про [topicLearning]</li>
+    <li>situationLearningVerb->виконуючи значущу роботу</li>
+    <li>situationBadGen->нападу [nemyNamePluralIns]</li>
+    <li>situationBadGen->викрадення [nemyNamePluralIns]</li>
+    <li>situationBadGen->полюючого на {PAWN_gender ? нього : неї} [enemyNameSingular]</li>
+    <li>situationBadGen->переслідування [enemyNameSingular]</li>
+    <li>situationBadGen->вдихання токсичного газу</li>
+    <li>situationBadGen->зараження легеневою гниллю</li>
+    <li>situationBadGen->зараження чумою</li>
+    <li>situationBadGen->харчового отруєння</li>
+    <li>situationBadGen->того, що {PAWN_gender ? він : вона} побачить, як гинуть {PAWN_gender ? його : її} близькі</li>
+    <li>situationBadGen->споживання їжі не за столом</li>
+    <li>taskWorkIns->готуванням їжі</li>
+    <li>taskWorkIns->тренуванням тварин</li>
+    <li>taskWorkIns->доглядом за хворими людьми</li>
+    <li>taskWorkIns->допомогою [friendNamePlural]</li>
+    <li>taskWorkIns->полюванням на муффало</li>
+    <li>taskWorkIns->вирощуванням продуктів харчування</li>
+    <li>taskWorkIns->шиттям одягу</li>
+    <li>enemyNamePluralIns->рейдерами</li>
+    <li>enemyNamePluralIns->[AdjectiveBadass] рейдерами</li>
+    <li>enemyNamePluralIns->таємничими незнайомцями</li>
+    <li>enemyNamePluralIns->[AdjectiveBadass] комахами</li>
+    <li>enemyNamePluralIns->бумалопами, які полюють на людей</li>
+    <li>enemyNamePluralIns->таємничими кровопивцями</li>
+    <li>enemyNamePluralIns->богами-машин</li>
+    <li>enemyNamePluralIns->дикими механоїдами</li>
+    <li>enemyNamePluralIns->психічними істотами з жахливими силами</li>
+    <li>friendNamePluralIns->друзями</li>
+    <li>friendNamePluralDat->друзям</li>
+    <li>friendNamePluralIns->близькими людьми</li>
+    <li>friendNamePluralDat->близьким людям</li>
+    <li>friendNamePluralIns->[friendAdj]ими тваринами</li>
+    <li>friendNamePluralDat->[friendAdj]им тваринами</li>
+    <li>friendNamePluralIns->[friendAdj]ими механоїдами</li>
+    <li>friendNamePluralDat->[friendAdj]им механоїдами</li>
+    <li>friendNamePluralIns->[friendAdj]ими дітьми</li>
+    <li>friendNamePluralDat->[friendAdj]им дітям</li>
+    <li>friendNamePluralIns->уявними друзями</li>
+    <li>friendNamePluralDat->уявним друзям</li>
   </GrowthMomentFlavor.rulePack.rulesStrings>
 </LanguageData>

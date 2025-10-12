@@ -123,9 +123,9 @@
   <!-- EN: bank genepack -->
   <HaulToGeneBank.label>зберегти генопак</HaulToGeneBank.label>
   <!-- EN: banking -->
-  <HaulToGeneBank.gerund>зберігати, використовуючи</HaulToGeneBank.gerund>
+  <HaulToGeneBank.gerund>зберегти</HaulToGeneBank.gerund>
   <!-- EN: bank -->
-  <HaulToGeneBank.verb>зберегти, використовуючи</HaulToGeneBank.verb>
+  <HaulToGeneBank.verb>зберегти</HaulToGeneBank.verb>
   <!-- EN: carry to growth vat -->
   <HaulToGrowthVat.label>нести до інкубатора</HaulToGrowthVat.label>
   <!-- EN: filling -->

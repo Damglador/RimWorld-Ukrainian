@@ -35,7 +35,7 @@
   <!-- EN: Need miner -->
   <NeedMiner>Потрібен гірник</NeedMiner>
   <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
-  <NeedMinerDesc>Ви відмітили гірські породи для видобутку, проте нікого не назначили шахтарем.\n\nПризначте колоніста на роботу «Шахтар» у вкладці «Праця».</NeedMinerDesc>
+  <NeedMinerDesc>Ви відмітили гірські породи для видобутку, проте нікого не назначили гірником.\n\nПризначте колоніста на роботу «Гірник» у вкладці «Праця».</NeedMinerDesc>
   <!-- EN: Need warden -->
   <NeedWarden>Потрібен наглядач</NeedWarden>
   <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
@@ -79,11 +79,11 @@
   <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>Ці колоністи виснажені та потребують відпочинку:\n\n{0}\nДайте їм перепочити. Їм знадобляться ліжка, які відмічені, як для колоністів. Також, переконайтесь, що вони не в бойовому режимі.</ExhaustionDesc>
   <!-- EN: Need food hopper -->
-  <NeedFoodHopper>Потрібна лійка</NeedFoodHopper>
+  <NeedFoodHopper>Потрібен харчовий бункер</NeedFoodHopper>
   <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
-  <NeedFoodHopperDesc>Ви маєте дозатор поживних речовин без лійки поряд.\n\nАби дозатор працював, він має витягувати матеріал із сусідньої лійки, яка заповнена сирою їжею.\n\nЗбудуйте лійку, що прилягає до дозатора.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>У вас є дозатор поживної пасти без бункера поруч із ним.\n\nДля роботи дозатори пасти повинні черпати їжу з прилеглого бункера, наповненого сирою їжею.\n\nПобудуйте бункер поряд із дозатором.</NeedFoodHopperDesc>
   <!-- EN: Need meal source -->
-  <NeedMealSource>Потрібна приготовлена їжа</NeedMealSource>
+  <NeedMealSource>Потрібно джерело їжі</NeedMealSource>
   <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
   <NeedMealSourceDesc>У вас немає способу термічно обробити сирі продукти й приготувати нормальну їжу.\n\nПобудуйте плиту, багаття чи дозатор поживної пасти.\n\n(Колоністи не можуть користуватися спорудами, що розміщені у в'язниці)</NeedMealSourceDesc>
   <!-- EN: Need recreation variety -->

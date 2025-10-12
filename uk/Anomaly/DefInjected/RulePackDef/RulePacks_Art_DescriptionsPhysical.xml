@@ -257,7 +257,7 @@
     <li>voidDesc->Hundreds of tiny abstract figure-like objects swarm over a large distorted globe.</li>
   -->
   <ArtDescription_VoidSculpture.rulePack.rulesStrings>
-    <li>r_art_description->This [voidStrange] sculpture [voidVerbphrase]. [voidDesc]</li>
+    <li>r_art_description->Ця [voidStrange] скульптура [voidVerbphrase]. [voidDesc]</li>
     <li>voidStrange->strange</li>
     <li>voidStrange->disturbing</li>
     <li>voidStrange->unsettling</li>

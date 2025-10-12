@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
-  <Castaway57.description>[PAWN_nameDef] {PAWN_gender ? один : одна} {PAWN_gender ? вижив : вижила} при падінні корабля в безлюдному тваринному світі. Багато років For many до [PAWN_possessive] порятунку [PAWN_pronoun] {PAWN_gender ? намагався : намагалась} жити з того, що вдавалося знайти.\n\n[PAWN_possessive] {PAWN_gender ? відточив : відточили} навички виживання, але стільки часу наодинці серйозно погіршили [PAWN_possessive] здатність до спілкування.</Castaway57.description>
+  <Castaway57.description>{PAWN_nameDef} {PAWN_gender ? був єдиним : була єдиною}, хто вижив після падіння корабля на безлюдній, населеній тваринами, планеті. Протягом багатьох років, поки {PAWN_possessive} не врятували, {PAWN_objective} довелося використовувати все, що зможе для виживання.\n\n{PAWN_nameDef} сильно {PAWN_gender ? відточив : відточила} навички виживання, проте {PAWN_gender ? його : її} соціальні навички погіршилися.</Castaway57.description>
   <!-- EN: castaway -->
   <Castaway57.title>покинутий</Castaway57.title>
   <!-- EN: castaway -->

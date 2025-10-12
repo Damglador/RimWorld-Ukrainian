@@ -171,7 +171,7 @@
   <!-- EN: Research at -->
   <Research.verb>Дослідити</Research.verb>
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
-  <Smithing.description>Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor.</Smithing.description>
+  <Smithing.description>Створює зброю та інструменти з сировини, працюючи ковалем або на верстатах. Також ремонтуйте механоїдів, якщо колоніст є механітором.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>ремісник</Smithing.gerundLabel>
   <!-- EN: smith -->

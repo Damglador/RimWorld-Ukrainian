@@ -5,5 +5,5 @@
   <!-- EN: Terror-inducing buildings affect anyone within a 5-cell radius. -->
   <IdeoligionTips.TerrorRadius>Сіючі страх споруди впливають на будь-кого в межах 5-клітинного радіусу.</IdeoligionTips.TerrorRadius>
   <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. -->
-  <IdeoligionTips.SleepAcceleratorNaps>Sleep accelerators increase colonists' sleep quality, but also increase hunger rate.</IdeoligionTips.SleepAcceleratorNaps>
+  <IdeoligionTips.SleepAcceleratorNaps>Прискорювачі сну покращують якість сну колоністів, але також збільшують швидкість голодування.</IdeoligionTips.SleepAcceleratorNaps>
 </LanguageData>

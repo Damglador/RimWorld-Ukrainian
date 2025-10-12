@@ -2,7 +2,7 @@
 <LanguageData>
   <!-- Grav engine/substructrues -->
   <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. Build a grav anchor to prevent this map from being destroyed. -->
-  <ConfirmGravEngineLaunch>Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. Build a grav anchor to prevent this map from being destroyed.</ConfirmGravEngineLaunch>
+  <ConfirmGravEngineLaunch>Ви дійсно хочете запустити корабель?\n\nВаша поточна мапа, а також усі предмети, що не розміщене на субструктурі гравкорабля, будуть втрачені назавжди. Процес запуску деструктивний: це означає, що ви не зможете повернутися. Побудуйте гравякір, щоб запобігти знищенню цієї карти.</ConfirmGravEngineLaunch>
   <!-- EN: Warning -->
   <GravEngineWarning>Увага</GravEngineWarning>
   <!-- EN: The following people will be left behind -->
@@ -28,17 +28,17 @@
   <!-- EN: That name isn't valid. -->
   <PlayerGravshipNameIsInvalid>Ця назва неприйнятна.</PlayerGravshipNameIsInvalid>
   <!-- EN: Force visitors to leave -->
-  <GravshipForceVisitorsToLeaveLabel>Force visitors to leave</GravshipForceVisitorsToLeaveLabel>
+  <GravshipForceVisitorsToLeaveLabel>Змусити відвідувачів піти</GravshipForceVisitorsToLeaveLabel>
   <!-- EN: Wait for all visitors to leave the gravship before launching. This won’t affect enemies, prisoners, or downed visitors. -->
-  <GravshipForceVisitorsToLeaveTooltip>Wait for all visitors to leave the gravship before launching. This won’t affect enemies, prisoners, or downed visitors.</GravshipForceVisitorsToLeaveTooltip>
+  <GravshipForceVisitorsToLeaveTooltip>Перед запуском зачекайте, поки всі відвідувачі покинуть гравітаційний корабель. Це не вплине на ворогів, полонених або поранених відвідувачів.</GravshipForceVisitorsToLeaveTooltip>
   <!-- EN: Board colony animals -->
-  <GravshipBoardColonyAnimalsLabel>Board colony animals</GravshipBoardColonyAnimalsLabel>
+  <GravshipBoardColonyAnimalsLabel>Забрати приручених тварин</GravshipBoardColonyAnimalsLabel>
   <!-- EN: Order all colony animals to board the gravship. The gravship won’t launch until they are aboard. -->
-  <GravshipBoardColonyAnimalsTooltip>Order all colony animals to board the gravship. The gravship won’t launch until they are aboard.</GravshipBoardColonyAnimalsTooltip>
+  <GravshipBoardColonyAnimalsTooltip>Накажіть усім прирученим тваринам сісти на борт гравкорабля. Корабель не злетить, поки вони не будуть на борту.</GravshipBoardColonyAnimalsTooltip>
   <!-- EN: Board colony mechanoids -->
-  <GravshipBoardColonyMechsLabel>Board colony mechanoids</GravshipBoardColonyMechsLabel>
+  <GravshipBoardColonyMechsLabel>Забрати дружніх механоїдів</GravshipBoardColonyMechsLabel>
   <!-- EN: Order all colony mechanoids to board the gravship. The gravship won’t launch until they are aboard. -->
-  <GravshipBoardColonyMechsTooltip>Order all colony mechanoids to board the gravship. The gravship won’t launch until they are aboard.</GravshipBoardColonyMechsTooltip>
+  <GravshipBoardColonyMechsTooltip>Накажіть усім дружнім механоїдам сісти на борт гравкорабля. Корабель не злетить, поки вони не будуть на борту.</GravshipBoardColonyMechsTooltip>
   <!-- EN: {0} are hostile. If you land here they will attack you. -->
   <ConfirmLandOnHostileFactionBase>{0} ворожі до вас. Якщо ви приземлитеся тут, вони нападуть на вас.</ConfirmLandOnHostileFactionBase>
   <!-- EN: Landing here will be seen as an aggressive act by {0}. They will become hostile and attack. -->
