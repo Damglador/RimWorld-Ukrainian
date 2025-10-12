@@ -17,7 +17,7 @@
   <!-- EN: basic gravtech -->
   <BasicGravtech.label>базова гравтехніка</BasicGravtech.label>
   <!-- EN: Build a gravship and use it to travel the planet. Without a grav anchor, launching a gravship will abandon your current map. -->
-  <BasicGravtech.description>Build a gravship and use it to travel the planet. Without a grav anchor, launching a gravship will abandon your current map.</BasicGravtech.description>
+  <BasicGravtech.description>Побудуйте граворабель і використовуйте його для подорожей по планеті. Без гравякоря запуск гравітаційного корабля призведе до втрати поточної карти.</BasicGravtech.description>
   <!-- EN:
     <li>subject->gravship</li>
     <li>subject_story->flew a gravship for a tourism company</li>

@@ -77,9 +77,9 @@
   <!-- EN: An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason. -->
   <AncientPostbox.description>An ancient postbox, smashed and deteriorated to uselessness. It seems to have been moved here long ago for some unknown reason.</AncientPostbox.description>
   <!-- EN: ancient razor wire -->
-  <AncientRazorWire.label>ancient razor wire</AncientRazorWire.label>
+  <AncientRazorWire.label>старовинний колючий дріт</AncientRazorWire.label>
   <!-- EN: A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger. -->
-  <AncientRazorWire.description>A piece of ancient razor wire. It has been deteriorating for many years and no longer poses any danger.</AncientRazorWire.description>
+  <AncientRazorWire.description>Шматок старовинного колючого дроту. Він вже багато років іржавіє і більше не становить небезпеки.</AncientRazorWire.description>
   <!-- EN: ancient car -->
   <AncientRustedCar.label>ancient car</AncientRustedCar.label>
   <!-- EN: An ancient, broken car. Everything that isn't rusted away was looted long ago. -->

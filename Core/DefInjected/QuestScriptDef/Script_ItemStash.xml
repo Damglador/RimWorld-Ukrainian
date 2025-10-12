@@ -22,7 +22,7 @@
     <li>treasure->Supplies</li>
   -->
   <OpportunitySite_ItemStash.questNameRules.rulesStrings>
-    <li>questName(priority=1)->[stash] [treasure] [asker_nameDef]</li>
+    <li>questName(priority=1)->[stash] [treasure] від [asker_nameDef]</li>
     <li>questName->[stash] [treasure]</li>
     <li>stash->Схованка</li>
     <li>stash->Схрон</li>
@@ -37,5 +37,5 @@
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>Завдання більше не актуальне: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>Перехоплені повідомлення вказують на те, що хтось інший вже виявив та розграбував цю схованку. Завдання "[resolvedQuestName]" більше не актуальне.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>Перехоплені повідомлення вказують на те, що хтось інший вже виявив та розграбував цю схованку. Завдання «[resolvedQuestName]» більше не актуальне.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
 </LanguageData>

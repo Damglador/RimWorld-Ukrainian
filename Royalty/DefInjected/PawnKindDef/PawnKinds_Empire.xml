@@ -31,7 +31,7 @@
   <!-- EN: consul -->
   <Empire_Royal_Consul.label>консул</Empire_Royal_Consul.label>
   <!-- EN: archon -->
-  <Empire_Royal_Count.label>archon</Empire_Royal_Count.label>
+  <Empire_Royal_Count.label>архонт</Empire_Royal_Count.label>
   <!-- EN: dominus -->
   <Empire_Royal_Duke.label>dominus</Empire_Royal_Duke.label>
   <!-- EN: knight -->
@@ -45,7 +45,7 @@
   <!-- EN: stellarch -->
   <Empire_Royal_Stellarch.label>стелларх</Empire_Royal_Stellarch.label>
   <!-- EN: novice -->
-  <Empire_Royal_Yeoman.label>novice</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.label>неофіт</Empire_Royal_Yeoman.label>
   <!-- EN: slave -->
   <Slave_Empire.label>раб</Slave_Empire.label>
 </LanguageData>

@@ -18,8 +18,8 @@
   -->
   <ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
     <li>questName->[gameCondition_label] від [asker_nameDef]</li>
-    <li>questName->[gameCondition_indefinite] for [asker_nameDef]</li>
-    <li>questName->Paid [gameCondition_label]</li>
+    <li>questName->[gameCondition_indefinite] для [asker_nameDef]</li>
+    <li>questName->Оплата [gameCondition_label]</li>
     <li>questName->[gameCondition_label] за плату</li>
   </ThreatReward_GameCondition_ItemPod.questNameRules.rulesStrings>
   <!-- EN:
@@ -49,13 +49,13 @@
     <li>insects->hives</li>
   -->
   <ThreatReward_Infestation_ItemPod.questNameRules.rulesStrings>
-    <li>questName->Pods and [insects]</li>
-    <li>questName->[asker_nameDef]'s [insects]</li>
-    <li>questName->The [itemPodsTotalMarketValue_money] [insects]</li>
+    <li>questName->Оплата [gameCondition_label]</li>
+    <li>questName->[insects] [asker_nameDef]</li>
+    <li>questName->[itemPodsTotalMarketValue_money] [insects]</li>
     <li>questName(asker_royalInCurrentFaction==True)->Spectacle of [insects]</li>
-    <li>questName(p=0.3)->Podswarm</li>
-    <li>insects->insects</li>
-    <li>insects->bugs</li>
+    <li>questName(p=0.3)->Рій капсул</li>
+    <li>insects->комахи</li>
+    <li>insects->жуки</li>
     <li>insects->hives</li>
   </ThreatReward_Infestation_ItemPod.questNameRules.rulesStrings>
   <!-- EN:
@@ -165,5 +165,5 @@
     <li>questName->[site/site_label] за оплату</li>
   </ThreatReward_SiteThreat_ItemPod.questNameRules.rulesStrings>
   <!-- EN: [defaultSiteAppearedLetterText]\n\nThis site was set up as a response to your insulting signals. -->
-  <ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>[defaultSiteAppearedLetterText]\n\nThis site was set up as a response to your insulting signals.</ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>
+  <ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>[defaultSiteAppearedLetterText]\n\nЦей табір було створено у відповідь на ваші агресивні сигнали.</ThreatReward_SiteThreat_ItemPod.LetterTextSiteAppeared.value.slateRef>
 </LanguageData>

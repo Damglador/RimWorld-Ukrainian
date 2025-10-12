@@ -327,7 +327,7 @@
   <!-- EN: fill in -->
   <FillIn.label>fill in</FillIn.label>
   <!-- EN: filling in -->
-  <FillIn.gerund>filling in</FillIn.gerund>
+  <FillIn.gerund>засипати</FillIn.gerund>
   <!-- EN: fill -->
   <FillIn.verb>fill</FillIn.verb>
   <!-- EN: fix broken-down buildings -->
@@ -493,7 +493,7 @@
   <!-- EN: rope -->
   <RebalanceAnimalsInPens.verb>вести</RebalanceAnimalsInPens.verb>
   <!-- EN: refuel buildings -->
-  <Refuel.label>refuel buildings</Refuel.label>
+  <Refuel.label>заправляти споруди</Refuel.label>
   <!-- EN: refueling -->
   <Refuel.gerund>заправити</Refuel.gerund>
   <!-- EN: refuel -->

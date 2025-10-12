@@ -112,9 +112,9 @@
   <!-- EN: {PAWN_nameDef} cannot exit {1} -->
   <FailedToLeaveGravship>{PAWN_nameDef} cannot exit {1}</FailedToLeaveGravship>
   <!-- EN: View range -->
-  <ViewRange>View range</ViewRange>
+  <ViewRange>Огляд діапазону</ViewRange>
   <!-- EN: View the gravship’s current range on the world map. -->
-  <ViewRangeDesc>View the gravship’s current range on the world map.</ViewRangeDesc>
+  <ViewRangeDesc>Перегляд поточного діапазону польоту гравкорабля на карті світу.</ViewRangeDesc>
   <!-- Map generation -->
   <!-- EN: Landmark -->
   <Landmark>Орієнтир</Landmark>

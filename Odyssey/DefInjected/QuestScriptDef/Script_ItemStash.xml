@@ -19,16 +19,16 @@
     <li>treasure->Supplies</li>
   -->
   <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
-    <li>questName->[stash] в [treasure]</li>
+    <li>questName->[stash] [treasure]</li>
     <li>stash->Сховок</li>
     <li>stash->Запас</li>
     <li>stash->Колекція</li>
     <li>stash->Сарай</li>
-    <li>treasure->Скарб</li>
-    <li>treasure->Цінності</li>
-    <li>treasure->Багатство</li>
-    <li>treasure->Товари</li>
-    <li>treasure->Припаси</li>
+    <li>treasure->скарбів</li>
+    <li>treasure->цінностей</li>
+    <li>treasure->багатств</li>
+    <li>treasure->товарів</li>
+    <li>treasure->припасів</li>
   </OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->loot stashes</li>

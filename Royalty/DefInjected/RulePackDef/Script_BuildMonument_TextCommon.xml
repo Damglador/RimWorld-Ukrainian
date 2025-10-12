@@ -94,14 +94,14 @@
     <li>constAdj->extravagant</li>
     <li>constAdj->foreboding</li>
     <li>constAdj->frightening</li>
-    <li>constAdj->dreadful</li>
-    <li>constAdj->fearful</li>
-    <li>constAdj->awesome</li>
-    <li>constAdj->prophetic</li>
-    <li>constAdj->harrowing</li>
-    <li>constAdj->glittering</li>
-    <li>constAdj->shining</li>
-    <li>constAdj->amazing</li>
+    <li>constAdj->лячна</li>
+    <li>constAdj->боязка</li>
+    <li>constAdj->дивовижна</li>
+    <li>constAdj->пророча</li>
+    <li>constAdj->нестерпна</li>
+    <li>constAdj->блискуча</li>
+    <li>constAdj->видатна</li>
+    <li>constAdj->приголомшлива</li>
     <li>construction(p=3)->construction</li>
     <li>construction(p=2)->structure</li>
     <li>construction(p=2)->building</li>

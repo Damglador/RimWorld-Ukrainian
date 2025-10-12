@@ -23,7 +23,7 @@
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>{USER_labelShort} {USER_gender ? використав : використала} пси-тренажер для вивчення "{lookup: {1}; Case; 3}".</AbilityNeurotrainerUsed>
   <!-- EN: requires psylink -->
-  <PsycastNeurotrainerNoPsylink>requires psylink</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerNoPsylink>відсутній пси-зв'язок</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
   <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} вже знає "{lookup: {1}; Case; 3}".</PsycastNeurotrainerAbilityAlreadyLearned>
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
@@ -99,7 +99,7 @@
   <!-- EN: Bestowing Ceremony -->
   <RitualBestowingCeremony>Церемонія вручення титулу</RitualBestowingCeremony>
   <!-- EN: No suitable location near bestower -->
-  <BestowingSpotUnavailable>No suitable location near bestower</BestowingSpotUnavailable>
+  <BestowingSpotUnavailable>Відсутнє відповідне місце біля представника</BestowingSpotUnavailable>
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Загальна кількість медитацій сьогодні: {0} (множник прогресу {1})</TotalMeditationToday>
   <!-- EN: progress {0} -->
@@ -151,7 +151,7 @@
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Не вистачає необхідного вантажу!</ShuttleRequiredItemsNotSatisfied>
   <!-- EN: Cannot load {0_labelShort} -->
-  <CannotLoadIntoShuttle>Cannot load {0_labelShort}</CannotLoadIntoShuttle>
+  <CannotLoadIntoShuttle>Не виходить завантажити {0_labelShort}</CannotLoadIntoShuttle>
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>немає нейро-напруги для скидання.</AbilityNoEntropyToDump>
   <!-- EN: level {0} -->

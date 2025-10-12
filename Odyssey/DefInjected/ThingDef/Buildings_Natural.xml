@@ -37,13 +37,13 @@
   <!-- EN: The entrance to a cave network. It is possible to climb down into the caves below. -->
   <InsectLairEntrance.description>Вхід до розгалуженої мережі печер. Через нього можна увійти до печер унизу.</InsectLairEntrance.description>
   <!-- EN: Cannot collapse -->
-  <InsectLairEntrance.comps.CompSealable.cannotSealLabel>Cannot collapse</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
+  <InsectLairEntrance.comps.CompSealable.cannotSealLabel>Не може обвалитися</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
   <!-- EN: Collapsing the cave entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <InsectLairEntrance.comps.CompSealable.confirmSealText>Collapsing the cave entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue?</InsectLairEntrance.comps.CompSealable.confirmSealText>
+  <InsectLairEntrance.comps.CompSealable.confirmSealText>Обвал входу до печери є незворотним. Будь-хто чи будь-що під землею буде втрачено назавжди.{0}\n\nВпевнені що хочете продовжити?</InsectLairEntrance.comps.CompSealable.confirmSealText>
   <!-- EN: Choose a colonist to permanently collapse the entrance. Anything or anyone left below will be lost forever. -->
-  <InsectLairEntrance.comps.CompSealable.sealCommandDesc>Choose a colonist to permanently collapse the entrance. Anything or anyone left below will be lost forever.</InsectLairEntrance.comps.CompSealable.sealCommandDesc>
+  <InsectLairEntrance.comps.CompSealable.sealCommandDesc>Оберіть колоніста, щоб обвалити вхід. Будь-хто чи будь-що під землею буде втрачено назавжди.</InsectLairEntrance.comps.CompSealable.sealCommandDesc>
   <!-- EN: Collapse cave entrance -->
-  <InsectLairEntrance.comps.CompSealable.sealCommandLabel>Collapse cave entrance</InsectLairEntrance.comps.CompSealable.sealCommandLabel>
+  <InsectLairEntrance.comps.CompSealable.sealCommandLabel>Обвал входу до печери</InsectLairEntrance.comps.CompSealable.sealCommandLabel>
   <!-- EN: life support unit -->
   <LifeSupportUnit.label>апарат підтримки життєдіяльності</LifeSupportUnit.label>
   <!-- EN: A unit connected to the orbital platform's larger life support network. It keeps rooms heated and pressurized. -->

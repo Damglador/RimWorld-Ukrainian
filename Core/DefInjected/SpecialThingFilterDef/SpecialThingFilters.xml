@@ -21,7 +21,7 @@
   <!-- EN: Allow books which teach construction skills. -->
   <AllowBookConstruction.description>Дозволити книги, які навчають будівництву.</AllowBookConstruction.description>
   <!-- EN: cooking -->
-  <AllowBookCooking.label>готування</AllowBookCooking.label>
+  <AllowBookCooking.label>кулінарія</AllowBookCooking.label>
   <!-- EN: Allow books which teach cooking skills. -->
   <AllowBookCooking.description>Дозволити книги, які навчають готуванню.</AllowBookCooking.description>
   <!-- EN: crafting -->

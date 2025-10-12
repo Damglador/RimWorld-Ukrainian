@@ -17,7 +17,7 @@
   <!-- EN: Analyze... -->
   <NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Аналіз...</NanostructuringChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the nano structuring chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>By studying the nano structuring chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>Досліджуючи наноструктурний чип, {PAWN_labelShort} отримує необхідні знання для реалізації дослідницьких проєктів: {RESEARCH}.\n\nТепер ваші дослідники можуть використовувати столи для дослідження, щоб почати вивчати, як застосовувати цю технологію на практиці.</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Nano structuring chip studied: {RESEARCH} unlocked -->
   <NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Наноструктурний чип досліджено: {RESEARCH} розблоковано</NanostructuringChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
@@ -35,7 +35,7 @@
   <!-- EN: Analyze... -->
   <PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Аналіз...</PowerfocusChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the powerfocus chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>By studying the powerfocus chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>Досліджуючи чип концентрації енергії, {PAWN_labelShort} отримує необхідні знання для реалізації дослідницьких проєктів: {RESEARCH}.\n\nТепер ваші дослідники можуть використовувати столи для дослідження, щоб почати вивчати, як застосовувати цю технологію на практиці.</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Powerfocus chip studied: {RESEARCH} unlocked -->
   <PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Чип концентрації енергії досліджено: {RESEARCH} розблоковано</PowerfocusChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
@@ -61,7 +61,7 @@
   <!-- EN: Analyze... -->
   <SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>Аналіз...</SignalChip.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the signal chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>By studying the signal chip, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology.</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>Досліджуючи сигнальний чип, {PAWN_labelShort} отримує необхідні знання для реалізації дослідницьких проєктів: {RESEARCH}.\n\nТепер ваші дослідники можуть використовувати столи для дослідження, щоб почати вивчати, як застосовувати цю технологію на практиці.</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Signal chip studied: {RESEARCH} unlocked -->
   <SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Сигнальний чип досліджено: {RESEARCH} розблоковано</SignalChip.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->

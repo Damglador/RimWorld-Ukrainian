@@ -55,7 +55,7 @@
   <!-- EN: organ farm -->
   <OrganFarm67.titleShort>донор</OrganFarm67.titleShort>
   <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
-  <Pyromaniac18.description>З раннього віку [PAWN_nameDef] мав нездорову одержимість вогнем. [PAWN_pronoun] підпалював сміття і, зачарований полум’ям, обпікав [PAWN_objective]self.\n\nОдного разу, граючись сірниками, [PAWN_pronoun] випадково спалив [PAWN_possessive] дім.</Pyromaniac18.description>
+  <Pyromaniac18.description>З раннього віку [PAWN_nameDef] {PAWN_gender ? мав : мала } нездорову одержимість вогнем. [PAWN_pronoun] {PAWN_gender ? підпалював : підпалювала } сміття і, {PAWN_gender ? зачарований : зачарована } полум’ям, {PAWN_gender ? обпікав : обпікала } себе.\n\nОдного разу, граючись сірниками, [PAWN_pronoun] випадково {PAWN_gender ? спалив : спалила } свій дім.</Pyromaniac18.description>
   <!-- EN: pyromaniac -->
   <Pyromaniac18.title>піроман</Pyromaniac18.title>
   <!-- EN: pyro -->
@@ -73,7 +73,7 @@
   <!-- EN: patient -->
   <SicklyChild55.titleShort>пацієнт</SicklyChild55.titleShort>
   <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
-  <StoryWriter67.description>У дитинстві [PAWN_nameDef] був залежний від читання. Цілими днями [PAWN_pronoun] просиджував у бібліотеці з книжкою в руках. Коли її закрили через скорочення бюджету, [PAWN_nameDef] був у розпачі. [PAWN_pronoun] вирішив замінити втрату, почавши писати власні історії.</StoryWriter67.description>
+  <StoryWriter67.description>У дитинстві [PAWN_nameDef] {PAWN_gender ? був залежний : була залежною }  від читання. Цілими днями [PAWN_pronoun] {PAWN_gender ? просиджував : просиджувала } у бібліотеці з книжкою в руках. Коли [PAWN_possessive] закрили через скорочення бюджету, [PAWN_nameDef] {PAWN_gender ? був : була } у розпачі. [PAWN_pronoun] {PAWN_gender ? вирішив : вирішила } замінити втрату, почавши писати власні історії.</StoryWriter67.description>
   <!-- EN: story writer -->
   <StoryWriter67.title>письменник</StoryWriter67.title>
   <!-- EN: writer -->

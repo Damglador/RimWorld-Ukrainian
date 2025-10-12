@@ -72,13 +72,13 @@
     <li>subject_gerund->crafting noble apparel</li>
   -->
   <NobleApparel.generalRules.rulesStrings>
-    <li>subject->formal apparel</li>
-    <li>subject->noble apparel</li>
+    <li>subject->формальне вбрання</li>
+    <li>subject->благородне вбрання</li>
     <li>subject_story->crafted formal corsetry for urbworld student graduations</li>
     <li>subject_story->was employed by a noble house to shape its top hats</li>
     <li>subject_story->invented a new style of beret that was all the rage for an entire season</li>
     <li>subject_gerund->tailoring for the nobility</li>
-    <li>subject_gerund->crafting noble apparel</li>
+    <li>subject_gerund->створення королівського вбрання</li>
   </NobleApparel.generalRules.rulesStrings>
   <!-- EN: royal apparel -->
   <RoyalApparel.label>королівський одяг</RoyalApparel.label>
@@ -97,7 +97,7 @@
     <li>subject_story->worked for an entire year to create royal robes for a coronation</li>
     <li>subject_story->studied the heraldric requirements of different noble groups to ensure any outfits were appropriate</li>
     <li>subject_story->was raised to the Imperial nobility and commissioned their own robes and coronet</li>
-    <li>subject_gerund->tailoring for monarchs</li>
-    <li>subject_gerund->crafting royal apparel</li>
+    <li>subject_gerund->шиття для монархів</li>
+    <li>subject_gerund->створення королівського одягу</li>
   </RoyalApparel.generalRules.rulesStrings>
 </LanguageData>

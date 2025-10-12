@@ -244,7 +244,7 @@
     <li>pawn_adj->dead</li>
     <li>pawn_adj->dying</li>
     <li>pawn_adj->injured</li>
-    <li>pawn_adj->sleeping</li>
+    <li>pawn_adj->сплячий</li>
     <li>pawn_adj->standing</li>
     <li>pawn_adj->sitting</li>
     <li>pawn_adj->crazy</li>

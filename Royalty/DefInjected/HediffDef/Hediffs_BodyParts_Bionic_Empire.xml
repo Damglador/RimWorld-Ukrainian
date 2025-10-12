@@ -3,7 +3,7 @@
   <!-- EN: aesthetic nose -->
   <AestheticNose.label>естетичний ніс</AestheticNose.label>
   <!-- EN: An installed aesthetic nose. Can be shaped to the user's desired form, matching prevalent beauty standards and enhancing physical impressions. -->
-  <AestheticNose.description>An installed aesthetic nose. Can be shaped to the user's desired form, matching prevalent beauty standards and enhancing physical impressions.</AestheticNose.description>
+  <AestheticNose.description>Встановлений естетичний ніс. Може бути сформований відповідно до бажаної форми користувача, що відповідає поширеним стандартам краси та покращує фізичне враження.</AestheticNose.description>
   <!-- EN: an aesthetic nose -->
   <AestheticNose.labelNoun>естетичний ніс</AestheticNose.labelNoun>
   <!-- EN: aesthetic shaper -->
@@ -33,7 +33,7 @@
   <!-- EN: coagulator -->
   <Coagulator.label>коагулятор</Coagulator.label>
   <!-- EN: An installed coagulator implant. Releases coagulating factors in response to blood loss, reducing bleeding rates significantly. -->
-  <Coagulator.description>An installed coagulator implant. Releases coagulating factors in response to blood loss, reducing bleeding rates significantly.</Coagulator.description>
+  <Coagulator.description>Встановлений імплантат коагулятора. Прискорює згортання крові, значно знижуючи силу кровотечі.</Coagulator.description>
   <!-- EN: a coagulator -->
   <Coagulator.labelNoun>коагулятор</Coagulator.labelNoun>
   <!-- EN: sterilizing stomach -->
@@ -45,7 +45,7 @@
   <!-- EN: gastro-analyzer -->
   <GastroAnalyzer.label>гастроаналізатор</GastroAnalyzer.label>
   <!-- EN: An installed gastro-analyzer. Enhances the sense of smell, with a focus towards food-related smells. A multi-layered ultrafine absorption mesh detects compounds in the air. A microprocessor formats the readings into an olfactory nerve signal to send to the brain through a nerve-link interface. The result is that the user can smell foods with a depth, richness, and precision unknown among unenhanced humans, allowing them to cook more effectively. The whole unit is small enough to be installed in the nose without affecting the user's appearance. -->
-  <GastroAnalyzer.description>An installed gastro-analyzer. Enhances the sense of smell, with a focus towards food-related smells. A multi-layered ultrafine absorption mesh detects compounds in the air. A microprocessor formats the readings into an olfactory nerve signal to send to the brain through a nerve-link interface. The result is that the user can smell foods with a depth, richness, and precision unknown among unenhanced humans, allowing them to cook more effectively. The whole unit is small enough to be installed in the nose without affecting the user's appearance.</GastroAnalyzer.description>
+  <GastroAnalyzer.description>Встановлений гастроаналізатор. Дозволяє краще зосередитись на запахах, пов’язаних із їжею. Багатошарова ультратонка поглинальна сітка виявляє сполуки в повітрі, мікропроцесор форматує показники в сигнал нюхового нерва, який надсилається в мозок через інтерфейс нервового зв’язку. Результатом є те, що користувач може відчувати запах їжі з глибиною, насиченістю та точністю, неможливою для невдосконалених людей, що дозволяє їм готувати більш ефективно. Весь пристрій досить малий, щоб його можна було встановити в носі, не змінюючи зовнішній вигляд користувача.</GastroAnalyzer.description>
   <!-- EN: a gastro-analyzer -->
   <GastroAnalyzer.labelNoun>гастроаналізатор</GastroAnalyzer.labelNoun>
   <!-- EN: healing enhancer -->

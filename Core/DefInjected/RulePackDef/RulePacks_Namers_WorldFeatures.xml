@@ -53,11 +53,11 @@
     <li>terrain_word->cove</li>
   -->
   <NamerBay.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->gulf of [narrative_name]</li>
+    <li>r_name(p=0.2)->затока [narrative_name]</li>
     <li>terrain_word(p=6)->bay</li>
     <li>terrain_word->bight</li>
     <li>terrain_word->gulf</li>
-    <li>terrain_word->anchorage</li>
+    <li>terrain_word->якірна ярість</li>
     <li>terrain_word->cove</li>
   </NamerBay.rulePack.rulesStrings>
   <!-- EN:

@@ -191,7 +191,7 @@
   <!-- EN: sun -->
   <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>сонце</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: sweat -->
-  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>пото</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>
+  <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>пітніти</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: bake -->
   <MaxTemp_LargeIncrease.symbolPack.prefixSymbols.4.symbol>пекти</MaxTemp_LargeIncrease.symbolPack.prefixSymbols.4.symbol>
   <!-- EN: heat weakness -->
@@ -199,11 +199,11 @@
   <!-- EN: Carriers of this gene are slightly less comfortable in warm temperatures. -->
   <MaxTemp_SmallDecrease.description>Носії цього гена трохи менш комфортно почувають себе в умовах високих температур.</MaxTemp_SmallDecrease.description>
   <!-- EN: cool -->
-  <MaxTemp_SmallDecrease.labelShortAdj>студне</MaxTemp_SmallDecrease.labelShortAdj>
+  <MaxTemp_SmallDecrease.labelShortAdj>прохолода</MaxTemp_SmallDecrease.labelShortAdj>
   <!-- EN: cold -->
-  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>холодо</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>
+  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>холодно</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: cool -->
-  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>студне</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
+  <MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>прохолода</MaxTemp_SmallDecrease.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: heat tolerant -->
   <MaxTemp_SmallIncrease.label>звичність до тепла</MaxTemp_SmallIncrease.label>
   <!-- EN: Carriers of this gene are slightly more comfortable in warm temperatures. -->

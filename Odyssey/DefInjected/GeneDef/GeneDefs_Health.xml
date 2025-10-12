@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: low gravity adapted -->
-  <MoveSpeed_Space.label>low gravity adapted</MoveSpeed_Space.label>
+  <MoveSpeed_Space.label>пристосування до низької гравітації</MoveSpeed_Space.label>
   <!-- EN: Carriers of this gene move and work more easily in low-gravity environments. However, they're slower and less efficient when planetside. -->
-  <MoveSpeed_Space.description>Carriers of this gene move and work more easily in low-gravity environments. However, they're slower and less efficient when planetside.</MoveSpeed_Space.description>
+  <MoveSpeed_Space.description>Носії цього гену можуть краще рухатися й працювати в середовищах з низькою гравітацією. Однак вони повільніше й менш ефективні на поверхні планети.</MoveSpeed_Space.description>
   <!-- EN: low-gravity -->
-  <MoveSpeed_Space.labelShortAdj>low-gravity</MoveSpeed_Space.labelShortAdj>
+  <MoveSpeed_Space.labelShortAdj>низька-гравітація</MoveSpeed_Space.labelShortAdj>
   <!-- EN: vacuum resistant -->
-  <VacuumResistance_Partial.label>спротив до вакууму</VacuumResistance_Partial.label>
+  <VacuumResistance_Partial.label>стійкість до вакууму</VacuumResistance_Partial.label>
   <!-- EN: Carriers of this gene have skin that releases a waxy substance when air pressure is low, preventing vacuum burns and allowing them to survive longer when exposed to vacuum. -->
   <VacuumResistance_Partial.description>Носії цього гена мають шкіру, що при низькому тиску повітря покривається воскоподібною субстанцією, запобігаючи опікам вакууму і допомагаючи довше вижити в умовах вакууму.</VacuumResistance_Partial.description>
   <!-- EN: vacuum-resistant -->
-  <VacuumResistance_Partial.labelShortAdj>спротив до вакууму</VacuumResistance_Partial.labelShortAdj>
+  <VacuumResistance_Partial.labelShortAdj>стійкість до вакууму</VacuumResistance_Partial.labelShortAdj>
   <!-- EN: breathless -->
   <VacuumResistance_Total.label>бездиханність</VacuumResistance_Total.label>
   <!-- EN: Carriers of this gene can store concentrated oxygen in their bodies. Their cells consume much less oxygen, meaning they rarely need to breathe. These adaptations make them immune to the harmful effects of space, as well as environmental toxins, tox gas, acidic smog, and rot stink. -->
