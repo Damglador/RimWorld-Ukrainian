@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN:
     <li>r_name(p=2)->[empire] of [ofThing]</li>
     <li>r_name(p=2)->The [empire] of [ofThing]</li>
@@ -25,51 +24,48 @@
     <li>ofThing->the Spirit</li>
   -->
   <NamerFactionEmpire.rulePack.rulesStrings>
-    <li>r_name->[empireAny] [ofThing]</li>
-    <li>r_name(p=0.5)->Врятований [empire]</li>
-    <li>r_name(p=0.5)->Роздроблений [empire]</li>
-    <li>r_name(p=0.5)->Розбитий [empire]</li>
-    <li>r_name(p=0.5)->Занепалий [empire]</li>
-    <li>r_name(p=0.5)->[Color] [empire]</li>
-    <li>r_name(p=0.3)->Врятована [empireFem]</li>
-    <li>r_name(p=0.3)->Роздроблена [empireFem]</li>
-    <li>r_name(p=0.3)->Розбита [empireFem]</li>
-    <li>r_name(p=0.3)->Занепала [empireFem]</li>
-    <li>r_name(p=0.3)->[ColorFem] [empireFem]</li>
-    <li>empireAny->[Color] [empire]</li>
-    <li>empireAny->[empireFem] [empireFem]</li>
-    <li>empireFem->Імперія</li>
-    <li>empireFem->Нація</li>
-    <li>empireFem->Гегемонія</li>
+    <li>r_name(p=2)->[empire] [ofThing]</li>
+    <li>r_name(p=2)->[empire_fem] [ofThing]</li>
+    <li>r_name->[empire] Виходу</li>
+    <li>r_name->[empire] Біженців</li>
+    <li>r_name->Зламаний [empire]</li>
+    <li>r_name->Розбита [empire_fem]</li>
+    <li>r_name->Занепала [empire_fem]</li>
+    <li>r_name->[Color] [empire]</li>
+    <li>empire_fem(p=4)->Імперія</li>
+    <li>empire_fem->Співдружність</li>
     <li>empire->Імперіум</li>
     <li>empire->Домініон</li>
+    <li>empire->Протекторат</li>
     <li>ofThing(p=4)->[WordImperial]</li>
     <li>ofThing->Сонця</li>
-    <li>ofThing->Луни</li>
+    <li>ofThing->Місяця</li>
+    <li>ofThing->Всесвіту</li>
+    <li>ofThing->Бога</li>
+    <li>ofThing->Досконалості</li>
+    <li>ofThing->Вічності</li>
+    <li>ofThing->Духу</li>
   </NamerFactionEmpire.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   -->
   <NamerPersonSophian.rulePack.rulesStrings>
-    <li>r_name->[ImperialNameFirstMale] [ImperialNameLastMale]</li>
-    <li>r_name(p=0.05)->[WordImperial] [WordImperial]</li>
-    <li>r_name(p=0.1)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   </NamerPersonSophian.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   -->
   <NamerPersonSophianFemale.rulePack.rulesStrings>
-    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLastFemale]</li>
-    <li>r_name(p=0.05)->[WordImperial] [WordImperial]</li>
-    <li>r_name(p=0.1)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
+    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
   </NamerPersonSophianFemale.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>r_name->[townname_wordgen]</li>
     <li>r_name->[townname_fixed]</li>
@@ -101,8 +97,8 @@
     <li>r_name->[townname_fixed]</li>
     <li>townname_wordgen->[WordImperial]</li>
     <li>townname_wordgen->[WordImperial][townend]</li>
-    <li>townend(p=3)->юм</li>
-    <li>townend(p=3)->йор</li>
+    <li>townend(p=3)->іум</li>
+    <li>townend(p=3)->іор</li>
     <li>townend(p=3)->поліс</li>
     <li>townend->нор</li>
     <li>townend->лан</li>
@@ -110,17 +106,16 @@
     <li>townend->лікс</li>
     <li>townend->лін</li>
     <li>townend->ліан</li>
-    <li>townend->хрун</li>
-    <li>townend->кхор</li>
+    <li>townend->фрум</li>
+    <li>townend->фор</li>
     <li>townend->теор</li>
-    <li>townend->опл</li>
-    <li>townend->оптіум</li>
+    <li>townend->опле</li>
+    <li>townend->опіум</li>
     <li>townend->ор</li>
-    <li>townend->аєтор</li>
-    <li>townend->аюм</li>
-    <li>townend->атеюм</li>
+    <li>townend->етор</li>
+    <li>townend->еум</li>
+    <li>townend->етіум</li>
     <li>townend->ам</li>
-    <li>townend->aeum</li>
+    <li>townend->еум</li>
   </NamerSettlementEmpire.rulePack.rulesStrings>
-  
 </LanguageData>

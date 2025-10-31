@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: water and marsh -->
+  <TerrainTagWater>вода та болото</TerrainTagWater>
+  <!-- EN: river -->
+  <TerrainTagRiver>річка</TerrainTagRiver>
+  <!-- EN: ocean -->
+  <TerrainTagOcean>океан</TerrainTagOcean>
+  <!-- EN: ice -->
+  <TerrainTagIce>лід</TerrainTagIce>
+  <!-- EN: fine floor -->
+  <TerrainTagFineFloor>гарна підлога</TerrainTagFineFloor>
+  <!-- EN: soil -->
+  <TerrainTagSoil>ґрунт</TerrainTagSoil>
+  <!-- EN: road -->
+  <TerrainTagRoad>дорога</TerrainTagRoad>
+  <!-- EN: floor -->
+  <TerrainTagFloor>підлога</TerrainTagFloor>
+  <!-- EN: substructure -->
+  <TerrainTagSubstructure>субструктура</TerrainTagSubstructure>
+  <!-- EN: insect -->
+  <TerrainTagInsect>комаха</TerrainTagInsect>
+</LanguageData>

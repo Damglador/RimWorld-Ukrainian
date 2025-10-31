@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN: apocriton -->
-  <Apocriton.label>апокрітон</Apocriton.label>
+  <Apocriton.label>апокритон</Apocriton.label>
   <!-- EN: left sight sensor -->
   <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>лівий оптичний сенсор</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
@@ -27,7 +26,6 @@
   <Apocriton.corePart.parts.rear_right_leg.customLabel>задня права нога</Apocriton.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right foot -->
   <Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>задня права ступня</Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
-  
   <!-- EN: scorcher -->
   <Scorcher.label>обпалювач</Scorcher.label>
   <!-- EN: left sight sensor -->
@@ -54,5 +52,4 @@
   <Scorcher.corePart.parts.rear_right_leg.customLabel>задня права нога</Scorcher.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right foot -->
   <Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>задня права ступня</Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
-  
 </LanguageData>

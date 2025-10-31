@@ -1,16 +1,128 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageInfo>
   <friendlyNameNative>Українська</friendlyNameNative>
   <friendlyNameEnglish>Ukrainian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <credits>
     <li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Evan</creditee>
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Evan</creditee>
     </li>
     <li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Raschert0</creditee>
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Raschert0</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>AkinaTor713</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Inadequado</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Borcha</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Pavlo «FanGremlin» T.</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>JornoBianchi</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>CapNag</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>LANA66613</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Дмитро Киричук</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Vsevolod «Damglador» Stopchanskyi</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Obstty</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Demianchuk «demycat» Vladyslav</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Viktor «MartianDill»</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>ruwlan</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Emir_Saadat</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>revengergodx</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>AleksFU</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Serhii Deianov</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>anti.jaoi</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Sergava</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Dmytro «AlleonoriCat» Ostapiuk</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Olexiy</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>NYBACHOK</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>rezur</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Lodr222</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Chezheek</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Asdera</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Incendium</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Dangeroff</creditee>
     </li>
   </credits>
 </LanguageInfo>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN:
     <li>desc->This [writingQualityAdjective] [bookType] [follows] a [PersonJob] as [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]</li>
     <li>desc->In this [writingQualityAdjective] [bookType], the [author] [tellsAStoryOf] [ANYPAWN_possessive] [storySource]. [writingQualitySentence]. [maybe_date]</li>
@@ -209,7 +208,7 @@
     <li>bookType->epic poem</li>
   -->
   <Description_Novel.rulePack.rulesStrings>
-    <li>desc->This [writingQualityAdjective] [bookType] [follows] a [PersonJob] as [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]</li>
+    <li>desc->В цій [writingQualityAdjective] [bookType] [follows] за [PersonJob] як [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]</li>
     <li>desc->In this [writingQualityAdjective] [bookType], the [author] [tellsAStoryOf] [ANYPAWN_possessive] [storySource]. [writingQualitySentence]. [maybe_date]</li>
     <li>follows->follows</li>
     <li>follows->covers</li>
@@ -350,7 +349,7 @@
     <li>writingQualityAdjective(quality==5)->smart and insightful</li>
     <li>writingQualityAdjective(quality==4)->thoughtful and eloquent</li>
     <li>writingQualityAdjective(quality==3)->well-written</li>
-    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==2)->посередня</li>
     <li>writingQualityAdjective(quality==1)->poorly-written</li>
     <li>writingQualityAdjective(quality==0)->nearly-incoherent</li>
     <li>writingQualitySentence(quality[greater_than]4)->It is [excellentDesc] [excellentExtra]</li>
@@ -415,7 +414,6 @@
     <li>bookType->biography</li>
     <li>bookType->epic poem</li>
   </Description_Novel.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>subject->[subject_primary]</li>
     <li>desc(p=3)->[maybe_intro][schematic_desc].</li>
@@ -1268,7 +1266,7 @@
     <li>negative_adjective->rudimentary</li>
     <li>negative_adjective->simplistic</li>
     <li>negative_adjective->primitive</li>
-    <li>negative_adjective->mediocre</li>
+    <li>negative_adjective->посередній</li>
     <li>negative_adjective->inaccurate</li>
     <li>negative_adjective->deficient</li>
     <li>appearance(p=3)->[phys_desc]</li>
@@ -1607,7 +1605,7 @@
     <li>physical_adjective->greasy</li>
     <li>physical_adjective->warm</li>
     <li>physical_adjective->lumpen</li>
-    <li>physical_adjective->wooden</li>
+    <li>physical_adjective->дерев'яний</li>
     <li>physical_adjective->prickly</li>
     <li>physical_adjective->singed</li>
     <li>physical_adjective->smooth</li>
@@ -1686,7 +1684,6 @@
     <li>date_form->on the [date]</li>
     <li>date_form->in [date_season]</li>
   </Description_Schematic.rulePack.rulesStrings>
-  
   <!-- EN:
     <li>subject->[subject_primary]</li>
     <li>desc->[discussion].\n\n[anecdote]. [production].\n\n[quality_statement].</li>
@@ -2397,5 +2394,4 @@
     <li>warworld->Cimbria XII</li>
     <li>warworld->Barkitos</li>
   </Description_SkillBook.rulePack.rulesStrings>
-  
 </LanguageData>

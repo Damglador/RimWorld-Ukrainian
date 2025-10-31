@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- ThingDef/Items_Resource_Stuff_Leather.xml -->
+  <!-- EN: thrumbomane -->
+  <Leather_AlphaThrumbo.stuffProps.stuffAdjective>трумбогривовий</Leather_AlphaThrumbo.stuffProps.stuffAdjective>
+  <!-- EN: armadillo leather -->
+  <Leather_Armadillo.stuffProps.stuffAdjective>зі шкіри броненосця</Leather_Armadillo.stuffProps.stuffAdjective>
+  <!-- EN: hippo leather -->
+  <Leather_Hippo.stuffProps.stuffAdjective>зі шкіри бегемота</Leather_Hippo.stuffProps.stuffAdjective>
+  <!-- EN: mastodon leather -->
+  <Leather_Mastodon.stuffProps.stuffAdjective>зі шкіри мастодонта</Leather_Mastodon.stuffProps.stuffAdjective>
+  <!-- EN: mink fur -->
+  <Leather_Mink.stuffProps.stuffAdjective>з хутра норки</Leather_Mink.stuffProps.stuffAdjective>
+  <!-- EN: sealskin -->
+  <Leather_Sealskin.stuffProps.stuffAdjective>з шкіри морського котика</Leather_Sealskin.stuffProps.stuffAdjective>
+  
+  <!-- ThingDef/Items_Resource_Stuff_Leather.xml -->
+  <!-- EN: obsidian -->
+  <Obsidian.stuffProps.stuffAdjective>з обсидіану</Obsidian.stuffProps.stuffAdjective>
+  
+  <!-- ThingDef/Items_Resource_AnimalProduct.xml -->
+  <!-- EN: mastodon wool -->
+  <WoolMastodon.stuffProps.stuffAdjective>з вовни мастодонта</WoolMastodon.stuffProps.stuffAdjective>
+  <!-- EN: muskox wool -->
+  <WoolMuskox.stuffProps.stuffAdjective>з вовни вівцебика</WoolMuskox.stuffProps.stuffAdjective>
+</LanguageData>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
   <!-- EN: bloodfeeding -->
   <Bloodfeeding.label>кровопоклонники</Bloodfeeding.label>
   <!-- EN: Drinking blood is sacred. Bloodfeeders should be worshipped. -->
@@ -37,9 +36,9 @@
     <li>founderJoin(tag=meme_Bloodfeeding)     ->[place_job] на ім'я [founderName] був атакований [foeSoldiers] [foeLeader]. [founderName] убив його, за допомогою [place_personalWeapon] та випив його кров, отримуючи силу [deity0_name].</li>
     <li>victory(tag=meme_Bloodfeeding)         ->[founderName] вів групу [memberNamePlural] до [place_powerCenter], та пив кров [foeLeader], та палив його плоть. [deity0_name] зробив [founderName] новим [foeLeader], за те що [founderName] доказав свою силу.</li>
     <li>setup(tag=meme_Bloodfeeding)           ->[founderName] шукав контролю над гіперінтелектуальним архотеком. Але його сила була надто великою, тому вона трансформувала [founderName].</li>
-    <li>story(uses=1,tag=meme_Bloodfeeding)    ->[founderName] дав своїм послідовникам дар голоду, щоб вони пізнали справжню силу..</li>
+    <li>story(uses=1,tag=meme_Bloodfeeding)    ->[founderName] дав своїм послідовникам дар голоду, щоб вони пізнали справжню силу.</li>
     <li>lessonIntro(tag=meme_Bloodfeeding)     ->Коли я вперше випив крові, все стало зрозуміло. я побачив, що</li>
-    <li>lesson(tag=meme_Bloodfeeding)          ->є тільки два типи людей - слабкі і сильні</li>
+    <li>lesson(tag=meme_Bloodfeeding)          ->є тільки два типи людей - слабкі та сильні</li>
     <li>lessonReinforcement(tag=meme_Bloodfeeding) ->Пити кров — бути сильним.</li>
     <li>archistBasis(tag=meme_Bloodfeeding)    ->Архотехнічні боги-машини подарували людині Голод, щоб людина могла їх краще пізнати.</li>
     <li>archistFact(tag=meme_Bloodfeeding)     ->Оскільки свідомість архотека розширюється, він повинен вирощувати свій субстрат, вживаючи есенцію інших машин.</li>
@@ -47,9 +46,9 @@
     <li>animistBasis(tag=meme_Bloodfeeding)    ->[bloodDrinkingAnimalPlu] знають силу, яка приходить від кровопивства. Немає більшої сили, ніж та, що з людської крові.</li>
     <li>animistFact(tag=meme_Bloodfeeding)     ->Ми можемо заволодіти силою людини, споживаючи її кров.</li>
     <li>bloodDrinkingAnimalPlu->летючі миші</li>
-    <li>bloodDrinkingAnimalPlu->п'явки</li>
-    <li>bloodDrinkingAnimalPlu->мурени</li>
-    <li>bloodDrinkingAnimalPlu->криваві кобри</li>
+    <li>bloodDrinkingAnimal->п'явки</li>
+    <li>bloodDrinkingAnimal->мурени</li>
+    <li>bloodDrinkingAnimal->криваві кобри</li>
   </Bloodfeeding.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->blood</li>
@@ -68,20 +67,19 @@
     <li>memeMoralist->sanguinarian</li>
   -->
   <Bloodfeeding.generalRules.rulesStrings>
-    <li>memeAdjective_masc->кривавий</li>
-    <li>memeAdjective_masc->кровожерливий</li>
-    <li>memeAdjective_fem->кривава</li>
-    <li>memeAdjective_fem->кровожерлива</li>
-    <li>memeAdjective_neutral->криваве</li>
-    <li>memeAdjective_neutral->кровожерливе</li>
-    <li>memeAdjective_plural->криваві</li>
-    <li>memeAdjective_plural->кровожерливі</li>
+    <li>memeAdjective->кров</li>
+    <li>memeAdjective->кровожерливість</li>
     <li>memeCreed->крипта</li>
-    <li>memeCreed->печера</li>
-    <li>memeCreed->шабаш</li>
-    <li>memeHyphenPrefix->гемо-</li>
-    <li>memeConcept->крові</li>
-    <li>memeConcept->голоду</li>
+    <li>memeCreed->лігво</li>
+    <li>memeCreed->збіговисько</li>
+    <li>memeHyphenPrefix->гемо</li>
+    <li>memeConcept->кров</li>
+    <li>memeConcept->голод</li>
+    <li>memeLeaderNoun->древній</li>
+    <li>memeLeaderNoun->господар</li>
+    <li>memeLeaderNoun->кровопивця</li>
+    <li>memeMoralist->сенешаль</li>
+    <li>memeMoralist->сангвінік</li>
+    <li>memeMoralist->кровожерливий</li>
   </Bloodfeeding.generalRules.rulesStrings>
-  
 </LanguageData>
