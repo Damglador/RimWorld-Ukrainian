@@ -122,6 +122,10 @@
     </li>
     <li Class="CreditRecord_Role">
         <roleKey>Credit_Translator</roleKey>
+        <creditee>Бо́гдан «DeVesalius» Юліан</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
         <creditee>Dangeroff</creditee>
     </li>
   </credits>
