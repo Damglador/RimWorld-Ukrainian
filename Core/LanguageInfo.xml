@@ -58,7 +58,7 @@
     </li>
     <li Class="CreditRecord_Role">
         <roleKey>Credit_Translator</roleKey>
-        <creditee>Viktor «MartianDill»</creditee>
+        <creditee>Viktor «MartianDill» L.</creditee>
     </li>
     <li Class="CreditRecord_Role">
         <roleKey>Credit_Translator</roleKey>
@@ -119,6 +119,10 @@
     <li Class="CreditRecord_Role">
         <roleKey>Credit_Translator</roleKey>
         <creditee>Incendium</creditee>
+    </li>
+    <li Class="CreditRecord_Role">
+        <roleKey>Credit_Translator</roleKey>
+        <creditee>Бо́гдан «DeVesalius» Юліан</creditee>
     </li>
     <li Class="CreditRecord_Role">
         <roleKey>Credit_Translator</roleKey>
