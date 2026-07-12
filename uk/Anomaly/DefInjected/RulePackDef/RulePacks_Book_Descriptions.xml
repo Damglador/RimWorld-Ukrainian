@@ -279,46 +279,46 @@
     <li>bookTypeSingle->звіті</li>
     <li>bookTypeSingle->альманаху</li>
     <li>bookTypeSingle->аналізі</li>
-    <li>bookTypeSingle->article</li>
-    <li>bookTypeSingle->book</li>
-    <li>bookTypeSingle->commentary</li>
-    <li>bookTypeSingle->composition</li>
-    <li>bookTypeSingle->conclusions</li>
-    <li>bookTypeSingle->critique</li>
-    <li>bookTypeSingle->diabologue</li>
+    <li>bookTypeSingle->стаття</li>
+    <li>bookTypeSingle->книга</li>
+    <li>bookTypeSingle->коментар</li>
+    <li>bookTypeSingle->композиція</li>
+    <li>bookTypeSingle->висновки</li>
+    <li>bookTypeSingle->критика</li>
+    <li>bookTypeSingle->чортопис</li>
     <li>bookTypeSingle->disquisition</li>
-    <li>bookTypeSingle->dissertation</li>
+    <li>bookTypeSingle->дисертація</li>
     <li>bookTypeSingle->editorial</li>
-    <li>bookTypeSingle->essay</li>
+    <li>bookTypeSingle->есе</li>
     <li>bookTypeSingle->exposé</li>
     <li>bookTypeSingle->findings</li>
     <li>bookTypeSingle->ґримуар</li>
     <li>bookTypeSingle->inquiry</li>
-    <li>bookTypeSingle->investigation</li>
-    <li>bookTypeSingle->manifesto</li>
-    <li>bookTypeSingle->manuscript</li>
-    <li>bookTypeSingle->opus</li>
-    <li>bookTypeSingle->paper</li>
+    <li>bookTypeSingle->розслідування</li>
+    <li>bookTypeSingle->маніфест</li>
+    <li>bookTypeSingle->манускрипт</li>
+    <li>bookTypeSingle->опус</li>
+    <li>bookTypeSingle->стаття</li>
     <li>bookTypeSingle->piece</li>
     <li>bookTypeSingle->piece of research</li>
-    <li>bookTypeSingle->record</li>
-    <li>bookTypeSingle->report</li>
-    <li>bookTypeSingle->review</li>
-    <li>bookTypeSingle->survey</li>
-    <li>bookTypeSingle->testament</li>
-    <li>bookTypeSingle->testimony</li>
-    <li>bookTypeSingle->text</li>
-    <li>bookTypeSingle->thesis</li>
-    <li>bookTypeSingle->tract</li>
+    <li>bookTypeSingle->запис</li>
+    <li>bookTypeSingle->звіт</li>
+    <li>bookTypeSingle->огляд</li>
+    <li>bookTypeSingle->дослідження</li>
+    <li>bookTypeSingle->заповіт</li>
+    <li>bookTypeSingle->свідчення</li>
+    <li>bookTypeSingle->текст</li>
+    <li>bookTypeSingle->тезис</li>
+    <li>bookTypeSingle->тракт</li>
     <li>bookTypeSingle->treatise</li>
     <li>bookTypeSingle->treatment</li>
-    <li>bookTypeSingle->volume</li>
-    <li>bookTypeSingle->work</li>
+    <li>bookTypeSingle->том</li>
+    <li>bookTypeSingle->робота</li>
     <li>bookTypePlural->writings</li>
-    <li>bookTypePlural->chronicles</li>
+    <li>bookTypeSingle->хроніки</li>
     <li>bookTypePlural->lamentations</li>
     <li>bookTypePlural->annals</li>
-    <li>bookTypePlural->revelations</li>
+    <li>bookTypePlural->одкровення</li>
     <li>author(p=3)->автор</li>
     <li>author(p=3)->[anAuthorDesc] [PersonJob]</li>
     <li>author->[anAuthorDesc] дослідник</li>
@@ -396,11 +396,11 @@
     <li>experiencesWithMonsters->[tellsAStoryOf] про племінний міф про давнього бога люті, чий вплив відчували усі люди, і героїв, які замкнули його в крихітній кам’яній в’язниці</li>
     <li>experiencesWithMonsters->[tellsAStoryOf] про жорстокі експерименти над полоненим [entity]</li>
     <li>experiencesWithMonsters->[tellsAStoryOf] про повторювані видіння, де [vision]</li>
-    <li>vision->dark figures reached into [ANYPAWN_possessive] mind and took [ANYPAWN_possessive] memories</li>
+    <li>vision->темні фігури проникли у [ANYPAWN_possessive] розум та забрали [ANYPAWN_possessive] спогади</li>
     <li>vision->[ANYPAWN_pronoun] is being chased by [ANYPAWN_objective]self, and could not escape no matter how far [ANYPAWN_pronoun] traveled</li>
-    <li>vision->[ANYPAWN_pronoun] is torn apart by a [entity]</li>
+    <li>vision->[entity] роздер [ANYPAWN_pronoun]</li>
     <li>experiencesWithMonsters->[tellsAStoryOf] [ANYPAWN_possessive] [findings] [objective]</li>
-    <li>findings->experience with</li>
+    <li>findings->досвід із</li>
     <li>findings->research into</li>
     <li>objective->[maybeAdjectiveEvil]rituals which was prompted by an incident where [ritual_incident]</li>
     <li>objective->dark sciences after [entity_incident]</li>
@@ -425,28 +425,28 @@
     <li>specificHorrorStory->The book delves into a chilling exposition about "Horax," a machine hyperintelligence that shifted itself through a hidden dimension into a place called the Void.</li>
     <li>specificHorrorStory->One chapter describes a theory wherein a distant hyperintelligence can psychically manipulate human cognition, reshaping a person's thoughts to align with its own mind-patterns.</li>
     <li>specificHorrorStory->The protagonist recounts feeling [ANYPAWN_possessive] mind being forcibly rewired by an ominous psychic force emanating from nowhere.</li>
-    <li>entities->demons</li>
-    <li>entities->walking corpses</li>
+    <li>entities->демони</li>
+    <li>entities->ходячі мерці</li>
     <li>entities->pain-seeking monsters</li>
-    <li>entities->creatures made of meat and exposed bone</li>
-    <li>entities->walking corpses of [Animal]s</li>
-    <li>entities->man-like figures made of metal and blades</li>
-    <li>entities->floating mechanical spheres that emanate pain</li>
-    <li>entities->beautiful golden cubes that destroys minds</li>
-    <li>entities->beasts made of bloody flesh</li>
-    <li>entities->dark shapes that hide in plain sight</li>
-    <li>entities->hunters that steal souls</li>
+    <li>entities->істоти, зроблені з м'яса й стирчачих кісток</li>
+    <li>entities->ходячі трупи [Animal]</li>
+    <li>entities->людиноподібні фігури, зроблені з металу й лез</li>
+    <li>entities->літаючі механічні сфери, що випромінюють біль</li>
+    <li>entities->прекрасні золоті куби, що руйнують розум</li>
+    <li>entities->істоти, зроблені з кривавої плоті</li>
+    <li>entities->темні фігури, що ховаються в полі зору</li>
+    <li>entities->мисливці, що крадуть душі</li>
     <li>entity->демон</li>
-    <li>entity->walking corpse</li>
+    <li>entities->ходячий мрець</li>
     <li>entity->pain-seeking monster</li>
-    <li>entity->creature made of meat and exposed bone</li>
-    <li>entity->walking corpse of an [Animal]</li>
-    <li>entity->man-like figure made of metal and blades</li>
-    <li>entity->floating mechanical sphere that emanates pain</li>
-    <li>entity->beautiful golden cube that destroys minds</li>
-    <li>entity->beast made of bloody flesh</li>
-    <li>entity->shape that hides in plain sight</li>
-    <li>entity->hunter that steals souls</li>
+    <li>entities->істота, зроблена з м'яса й стирчачих кісток</li>
+    <li>entities->ходячий труп [Animal]</li>
+    <li>entities->людиноподібна фігура, зроблена з металу й лез</li>
+    <li>entities->літаюча механічна сфера, що випромінює біль</li>
+    <li>entities->прекрасний золотий куб, що руйнує розум</li>
+    <li>entities->істота, зроблена з кривавої плоті</li>
+    <li>entities->темна фігура, що ховається в полі зору</li>
+    <li>entities->мисливець, що краде душі</li>
     <li>maybeAdjectiveEvil(p=2)-></li>
     <li>maybeAdjectiveEvil->[adjectiveEvil] </li>
     <li>adjectiveEvil->deadly</li>

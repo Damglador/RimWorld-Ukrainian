@@ -16,15 +16,15 @@
     <li>memeConcept->rage</li>
   -->
   <Inhuman.generalRules.rulesStrings>
-    <li>memeAdjective->inhuman</li>
-    <li>безлюдяний</li>
-    <li>машинний</li>
-    <li>темний</li>
-    <li>нелюдяність</li>
-    <li>темрява</li>
-    <li>порожнеча</li>
-    <li>істоти</li>
-    <li>лють</li>
+    <li>memeAdjective->нелюдський</li>
+    <li>memeAdjective->негуманний</li>
+    <li>memeAdjective->машинний</li>
+    <li>memeAdjective->темний</li>
+    <li>memeConcept->нелюдяність</li>
+    <li>memeConcept->темрява</li>
+    <li>memeConcept->порожнеча</li>
+    <li>memeConcept->істоти</li>
+    <li>memeConcept->лють</li>
   </Inhuman.generalRules.rulesStrings>
   <!-- EN: ritualist -->
   <Ritualist.label>ритуалісти</Ritualist.label>
@@ -37,7 +37,7 @@
   -->
   <Ritualist.generalRules.rulesStrings>
     <li>ритуальний</li>
-    <li>ритуал</li>
-    <li>ритуаліст</li>
+    <li>memeAdjective->ритуал</li>
+    <li>memeAdjective->ритуаліст</li>
   </Ritualist.generalRules.rulesStrings>
 </LanguageData>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: advanced psychic rituals -->
-  <AdvancedPsychicRituals.label>просунуті психічні ритуали</AdvancedPsychicRituals.label>
+  <AdvancedPsychicRituals.label>просунуті екстрасенсорні ритуали</AdvancedPsychicRituals.label>
   <!-- EN: Perform advanced psychic rituals. -->
-  <AdvancedPsychicRituals.description>Можливість проводити просунуті психічні ритуали.</AdvancedPsychicRituals.description>
+  <AdvancedPsychicRituals.description>Можливість проводити просунуті екстрасенсорні ритуали.</AdvancedPsychicRituals.description>
   <!-- EN:
     <li>subject->advanced psychic rituals</li>
     <li>subject_story->was brought into a cult circle</li>
@@ -13,17 +13,17 @@
     <li>subject_gerund->performing advanced psychic rituals</li>
   -->
   <AdvancedPsychicRituals.generalRules.rulesStrings>
-    <li>subject->просунуті психічні ритуали</li>
-    <li>subject_story->був принесений у культове коло</li>
-    <li>subject_story->зустрів вигнаного майстра культу, який із задоволенням вихвалявся своїми секретами</li>
-    <li>subject_story->deepened [ANYPAWN_possessive] understanding of ritual sacrifice</li>
-    <li>subject_story->was appointed professor of psychic history at the University of Ix</li>
-    <li>subject_gerund->performing advanced psychic rituals</li>
+    <li>subject->просунуті екстрасенсорні ритуали</li>
+    <li>subject_story->був приведений у культове коло</li>
+    <li>subject_story->натрапив на вигнаного майстра культу, який із задоволенням хизувався своїми таємницями</li>
+    <li>subject_story->Поглибилося [ANYPAWN_possessive] розуміння ритуального жертвопринесення</li>
+    <li>subject_story->Призначено професором екстрасенсорної історії в Університеті Ікса</li>
+    <li>subject_gerund->Проводьте просунуті екстрасенсорні ритуали</li>
   </AdvancedPsychicRituals.generalRules.rulesStrings>
   <!-- EN: atmospheric heater -->
-  <AtmosphericHeater.label>нагрівач атмосфери</AtmosphericHeater.label>
+  <AtmosphericHeater.label>обігрівач атмосфери</AtmosphericHeater.label>
   <!-- EN: Build bioferrite-powered heaters that produce enough heat to warm an entire region. -->
-  <AtmosphericHeater.description>Можливість створювати біоферитовий нагрівач, що виділяє достатньо тепла, щоб нагріти цю місцевість.</AtmosphericHeater.description>
+  <AtmosphericHeater.description>Побудуйте обігрівачі на біофериті, що виділяють достатньо тепла, аби прогріти цілий регіон.</AtmosphericHeater.description>
   <!-- EN:
     <li>subject->bioferrite heating</li>
     <li>subject_story->upgraded archaic geothermal plants</li>
@@ -34,18 +34,18 @@
     <li>subject_gerund->constructing bioferrite-fueled heaters</li>
   -->
   <AtmosphericHeater.generalRules.rulesStrings>
-    <li>subject->біоферитовий нагрівач</li>
-    <li>subject_story->upgraded archaic geothermal plants</li>
-    <li>subject_story->studied the heat output of biometals</li>
-    <li>subject_story->researched the impossible capacity of archotech energy storage</li>
-    <li>subject_story->examined the hypocaust systems on densely occupied iceworlds</li>
-    <li>subject_gerund->heating with bioferrite</li>
-    <li>subject_gerund->constructing bioferrite-fueled heaters</li>
+    <li>subject->опалення на біофериті</li>
+    <li>subject_story->модернізовані стародавні геотермальні електростанції</li>
+    <li>subject_story->Досліджено тепловиділення біометалів</li>
+    <li>subject_story->Досліджено неймовірну місткість архотех-накопичувачів енергії</li>
+    <li>subject_story->досліджено системи підлогового опалення на густозаселених крижаних світах</li>
+    <li>subject_gerund->опалення за допомогою біофериту</li>
+    <li>subject_gerund->спорудження обігрівачів на біоферитному паливі</li>
   </AtmosphericHeater.generalRules.rulesStrings>
   <!-- EN: void provocation -->
   <BasicPsychicRituals.label>провокація порожнечі</BasicPsychicRituals.label>
   <!-- EN: Build a psychic ritual spot and perform psychic rituals. Use the void provocation ritual to discover new entities. -->
-  <BasicPsychicRituals.description>Можливість побудувати місце для психічних ритуалів і виконувати там психічні ритуали. Використовуйте ритуал провокації порожнечі, щоб відкрити нових істот.</BasicPsychicRituals.description>
+  <BasicPsychicRituals.description>Побудуйте місце для екстрасенсорних ритуалів і проводьте екстрасенсорні ритуали. Використайте ритуал “Провокація порожнечі”, щоб відкрити нові сутності.</BasicPsychicRituals.description>
   <!-- EN:
     <li>subject->psychic rituals</li>
     <li>subject_story->studied the rituals of Horax cultists</li>
@@ -58,20 +58,20 @@
     <li>subject_gerund->provoking void entities</li>
   -->
   <BasicPsychicRituals.generalRules.rulesStrings>
-    <li>subject->psychic rituals</li>
-    <li>subject_story->studied the rituals of Horax cultists</li>
-    <li>subject_story->reconstructed primitive altars</li>
-    <li>subject_story->established the basics of psychic communication</li>
-    <li>subject_story->watched a failed void provocation ritual on a deathworld</li>
-    <li>subject_story->communed with an archotech shard atop a desert pillar</li>
-    <li>subject_gerund->conducting psychic rituals</li>
-    <li>subject_gerund->establishing ritual spots</li>
-    <li>subject_gerund->provoking void entities</li>
+    <li>subject->екстрасенсорні ритуали</li>
+    <li>subject_story->досліджено ритуали культистів Горакса</li>
+    <li>subject_story->відновлено примітивні вівтарі</li>
+    <li>subject_story->закладено основи екстрасенсорного спілкування</li>
+    <li>subject_story->спостережено невдалий ритуал провокації порожнечі на світі смерті</li>
+    <li>subject_story->встановлено контакт із архотек-уламком на вершині пустельного стовпа</li>
+    <li>subject_gerund->проведення екстрасенсорних ритуалів</li>
+    <li>subject_gerund->облаштування місць для ритуалів</li>
+    <li>subject_gerund->провокування сутностей порожнечі</li>
   </BasicPsychicRituals.generalRules.rulesStrings>
   <!-- EN: bioferrite extraction -->
-  <BioferriteExtraction.label>біоферитовий екстрактор</BioferriteExtraction.label>
+  <BioferriteExtraction.label>видобуток біофериту</BioferriteExtraction.label>
   <!-- EN: Extract bioferrite directly from captured entities. Use it to craft weapons and apparel at a crafting spot or bioferrite shaper. -->
-  <BioferriteExtraction.description>Видобувайте біоферит безпосередньо з захоплених аномалій. Використовуйте його для виготовлення зброї та одягу на верстаку або на біоферитному формувачі.</BioferriteExtraction.description>
+  <BioferriteExtraction.description>Видобувайте біоферит безпосередньо із захоплених сутностей. Використовуйте його для виготовлення зброї та одягу на місці для виготовлення або у формувачі біофериту.</BioferriteExtraction.description>
   <!-- EN:
     <li>subject->bioferrite extraction</li>
     <li>subject_story->extracted an organic compound from a rapidly mutating flesh sample</li>
@@ -81,17 +81,17 @@
     <li>subject_gerund->extracting bioferrite</li>
   -->
   <BioferriteExtraction.generalRules.rulesStrings>
-    <li>subject->біоферитовий екстрактор</li>
-    <li>subject_story->extracted an organic compound from a rapidly mutating flesh sample</li>
-    <li>subject_story->stripped and boiled the flesh of a harbinger tree</li>
-    <li>subject_story->investigated reports of an archotech phenomenon</li>
-    <li>subject_story->discovered a novel organic metal</li>
-    <li>subject_gerund->extracting bioferrite</li>
+    <li>subject->видобуток біофериту</li>
+    <li>subject_story->видобуто органічну сполуку зі зразка плоті, що швидко мутує</li>
+    <li>subject_story->обдерто й виварено плоть дерева-провісника</li>
+    <li>subject_story->вивчено повідомлення про архотек-явище</li>
+    <li>subject_story->відкрито новий органічний метал</li>
+    <li>subject_gerund->видобування біофериту</li>
   </BioferriteExtraction.generalRules.rulesStrings>
   <!-- EN: bioferrite generator -->
-  <BioferriteGenerator.label>біоферитовий генератор</BioferriteGenerator.label>
+  <BioferriteGenerator.label>генератор біофериту</BioferriteGenerator.label>
   <!-- EN: Build power generators that burn bioferrite as a fuel. -->
-  <BioferriteGenerator.description>Можливість будувати генератор, що використовує біоферит як паливо.</BioferriteGenerator.description>
+  <BioferriteGenerator.description>Побудуйте електрогенератори, що спалюють біоферит як паливо.</BioferriteGenerator.description>
   <!-- EN:
     <li>subject->bioferrite power generation</li>
     <li>subject_story->was trained in the use of innovative power sources</li>
@@ -103,19 +103,19 @@
     <li>subject_gerund->powering generators using bioferrite</li>
   -->
   <BioferriteGenerator.generalRules.rulesStrings>
-    <li>subject->bioferrite power generation</li>
-    <li>subject_story->was trained in the use of innovative power sources</li>
-    <li>subject_story->explored the use of metal- and fibre-based fuels</li>
-    <li>subject_story->discovered a love of fire and things that burn</li>
-    <li>subject_story->worked as a technician, maintaining orbital energy systems</li>
-    <li>subject_story->rendered the wildlife of a system down for fuel</li>
-    <li>subject_gerund->constructing bioferrite-powered generators</li>
-    <li>subject_gerund->powering generators using bioferrite</li>
+    <li>subject->виробництво електроенергії на біофериті</li>
+    <li>subject_story->пройдено навчання використанню інноваційних джерел енергії</li>
+    <li>subject_story->досліджено використання палива на основі металів і волокон</li>
+    <li>subject_story->відкрито любов до вогню та всього, що горить</li>
+    <li>subject_story->працював техніком, обслуговуючи орбітальні енергетичні системи</li>
+    <li>subject_story->переробляв дику фауну зоряної системи на паливо</li>
+    <li>subject_gerund->спорудження генераторів на біофериті</li>
+    <li>subject_gerund->живлення генераторів біоферитом</li>
   </BioferriteGenerator.generalRules.rulesStrings>
   <!-- EN: bioferrite harvester -->
-  <BioferriteHarvesting.label>поглинач біофериту</BioferriteHarvesting.label>
+  <BioferriteHarvesting.label>збирач біофериту</BioferriteHarvesting.label>
   <!-- EN: Build bioferrite harvesters that automatically extract bioferrite from captured entities. Produces more bioferrite than manual extraction. -->
-  <BioferriteHarvesting.description>Побудуйте поглиначі біофериту, щоб автоматично видобувати біоферит із захоплених аномалій. Виробляє більше біофериту, ніж ручне видобування.</BioferriteHarvesting.description>
+  <BioferriteHarvesting.description>Побудуйте збирачі біофериту, що автоматично видобувають біоферит із захоплених сутностей. Виробляють більше біофериту, ніж ручний видобуток.</BioferriteHarvesting.description>
   <!-- EN:
     <li>subject->bioferrite</li>
     <li>subject_story->investigated an exotic metal-like fibrous substance</li>
@@ -126,16 +126,16 @@
   -->
   <BioferriteHarvesting.generalRules.rulesStrings>
     <li>subject->біоферит</li>
-    <li>subject_story->investigated an exotic metal-like fibrous substance</li>
-    <li>subject_story->vivisected a ghoulish corpse</li>
-    <li>subject_story->discovered a cache of organic metals</li>
-    <li>subject_story->observed strange metal-infested wildlife</li>
-    <li>subject_gerund->harvesting bioferrite</li>
+    <li>subject_story->досліджено екзотичну волокнисту речовину, схожу на метал</li>
+    <li>subject_story->зроблено розтин моторошного трупа</li>
+    <li>subject_story->виявлено схованку органічних металів</li>
+    <li>subject_story->спостережено дивну фауну, заражену металом</li>
+    <li>subject_gerund->збирання біофериту</li>
   </BioferriteHarvesting.generalRules.rulesStrings>
   <!-- EN: bioferrite weaponry -->
-  <BioferriteIgnition.label>біоферитова зброя</BioferriteIgnition.label>
+  <BioferriteIgnition.label>біоферитна зброя</BioferriteIgnition.label>
   <!-- EN: Create advanced weapons that use bioferrite as a fuel source. -->
-  <BioferriteIgnition.description>Просунута зброя, що використовує біоферит як паливо.</BioferriteIgnition.description>
+  <BioferriteIgnition.description>Створюйте просунуту зброю, що використовує біоферит як паливо.</BioferriteIgnition.description>
   <!-- EN:
     <li>subject->bioferrite combustion</li>
     <li>subject->bioferrite weaponry</li>
@@ -146,18 +146,18 @@
     <li>subject_gerund->building bioferrite-based weapons</li>
   -->
   <BioferriteIgnition.generalRules.rulesStrings>
-    <li>subject->bioferrite combustion</li>
-    <li>subject->bioferrite weaponry</li>
-    <li>subject_story->працював на видобувній установці на архотехнічному астероїді</li>
-    <li>subject_story->researched the combustion points of exotic materials</li>
-    <li>subject_story->joined the research arm of a milword weapons corp</li>
-    <li>subject_story->cleared biomines in an archotech desert</li>
-    <li>subject_gerund->building bioferrite-based weapons</li>
+    <li>subject->спалювання біофериту</li>
+    <li>subject->біоферитна зброя</li>
+    <li>subject_story->працював на видобувній платформі на архотек-астероїді</li>
+    <li>subject_story->досліджено температури займання екзотичних матеріалів</li>
+    <li>subject_story->приєднався до дослідницького підрозділу зброярської корпорації з військового світу</li>
+    <li>subject_story->розміновував біоміни в архотек-пустелі</li>
+    <li>subject_gerund->створення біоферитної зброї</li>
   </BioferriteIgnition.generalRules.rulesStrings>
   <!-- EN: bioferrite shaping -->
-  <BioferriteShaping.label>обробка біофериту</BioferriteShaping.label>
+  <BioferriteShaping.label>формування біофериту</BioferriteShaping.label>
   <!-- EN: Shape and re-form bioferrite into useful tools, weapons, flooring, and more. -->
-  <BioferriteShaping.description>Можливість створювати з біофериту інструмент, зброю, покриття тощо.</BioferriteShaping.description>
+  <BioferriteShaping.description>Формуйте й переформовуйте біоферит у корисні інструменти, зброю, підлогу та багато іншого.</BioferriteShaping.description>
   <!-- EN:
     <li>subject->bioferrite shaping</li>
     <li>subject_story->learned unique techniques for molding and sculpting</li>
@@ -168,18 +168,18 @@
     <li>subject_gerund->shaping bioferrite</li>
   -->
   <BioferriteShaping.generalRules.rulesStrings>
-    <li>subject->bioferrite shaping</li>
-    <li>subject_story->learned unique techniques for molding and sculpting</li>
-    <li>subject_story->trained in heat-shaping</li>
-    <li>subject_story->worked in an exotic materials foundry</li>
-    <li>subject_story->aided an archotech materials scientist </li>
-    <li>subject_story->studied the formation of archotech artefacts</li>
-    <li>subject_gerund->shaping bioferrite</li>
+    <li>subject->формування біофериту</li>
+    <li>subject_story->вивчено унікальні техніки формування та скульптурування</li>
+    <li>subject_story->пройдено навчання з термоформування</li>
+    <li>subject_story->працював на ливарні екзотичних матеріалів</li>
+    <li>subject_story->допомагав архотек-науковцю з матеріалознавства </li>
+    <li>subject_story->досліджено формування архотек-артефактів</li>
+    <li>subject_gerund->формування біофериту</li>
   </BioferriteShaping.generalRules.rulesStrings>
   <!-- EN: bliss lobotomy -->
-  <BlissLobotomy.label>лоботомія</BlissLobotomy.label>
+  <BlissLobotomy.label>лоботомія блаженства</BlissLobotomy.label>
   <!-- EN: Perform a surgery that lobotomizes a person, making them happier while rendering them incapable of intellectual and skilled labor. -->
-  <BlissLobotomy.description>Можливість проводити лоботомію людям, роблячи їх щасливішими, водночас роблячи нездатними до інтелектуальної та кваліфікованої праці.</BlissLobotomy.description>
+  <BlissLobotomy.description>Проведіть операцію, що лоботомізує людину, роблячи її щасливішою, але позбавляючи здатності до інтелектуальної та кваліфікованої праці.</BlissLobotomy.description>
   <!-- EN:
     <li>subject->lobotomy</li>
     <li>subject_story->was eventually lobotomized for thought-crimes against the state</li>
@@ -189,17 +189,17 @@
     <li>subject_gerund->excising brain tissue</li>
   -->
   <BlissLobotomy.generalRules.rulesStrings>
-    <li>subject->lobotomy</li>
-    <li>subject_story->was eventually lobotomized for thought-crimes against the state</li>
-    <li>subject_story->rehabilitated the few survivors of the Eldof experiment</li>
-    <li>subject_story->took an apprenticeship as a brain surgeon and barber</li>
-    <li>subject_gerund->performing lobotomies</li>
-    <li>subject_gerund->excising brain tissue</li>
+    <li>лоботомія</li>
+    <li>subject_story->зрештою був лоботомізований за думкозлочини проти держави</li>
+    <li>subject_story->реабілітовано кількох уцілілих учасників експерименту «Елдоф»</li>
+    <li>subject_story->пройшов учнівство в нейрохірурга та цирульника</li>
+    <li>subject_gerund->проведення лоботомій</li>
+    <li>subject_gerund->видалення тканини мозку</li>
   </BlissLobotomy.generalRules.rulesStrings>
   <!-- EN: blood rain -->
   <BloodRain.label>кривавий дощ</BloodRain.label>
   <!-- EN: Perform a psychic ritual which causes blood-like psychofluid to fall from the sky. Anyone caught outside will soon be driven into a berserk rage. -->
-  <BloodRain.description>Можливість проводити ритуал, що призводить до дощу зі схожої на кров речовини. Будь-хто, хто буде під цим дощем впадуть у шалену лють.</BloodRain.description>
+  <BloodRain.description>Проведіть екстрасенсорний ритуал, який спричиняє падіння з неба кровоподібної психорідини. Усі, хто опиниться надворі, незабаром впадуть у скажену лють.</BloodRain.description>
   <!-- EN:
     <li>subject->blood rain</li>
     <li>subject_story->investigated ancient deist myths about organic precipitation</li>
@@ -210,16 +210,16 @@
   -->
   <BloodRain.generalRules.rulesStrings>
     <li>subject->кривавий дощ</li>
-    <li>subject_story->investigated ancient deist myths about organic precipitation</li>
-    <li>subject_story->studied the neural pathways of anger sufferers</li>
-    <li>subject_story->sampled psychofluid flows on the transcendent world of Ix</li>
-    <li>subject_story->was exposed to a psychofluid shower and filled with unmanageable rage</li>
-    <li>subject_gerund->causing it to rain blood</li>
+    <li>subject_story->iдосліджено давні деїстські міфи про органічні опади</li>
+    <li>subject_story->досліджено нейронні шляхи людей, що страждають від нападів гніву</li>
+    <li>subject_story->відібрано зразки потоків психорідини на трансцендентному світі Ікс</li>
+    <li>subject_story->зазнав впливу зливи психорідини й переповнився некерованою люттю</li>
+    <li>subject_gerund->спричиняючи кривавий дощ</li>
   </BloodRain.generalRules.rulesStrings>
   <!-- EN: brainwipe -->
-  <Brainwipe.label>промивка мізків</Brainwipe.label>
+  <Brainwipe.label>стирання пам’яті</Brainwipe.label>
   <!-- EN: Perform a psychic ritual which erases much of a person's episodic memories. Traumatic events will be forgotten. Resistant prisoners will become easier to recruit. Allows recruiting unwaveringly loyal prisoners. -->
-  <Brainwipe.description>Можливість проводити ритуал, який стирає велику частину епізодичних спогадів людини. Травматичні події будуть забуті. В'язнів стане легше вербувати. Дозволяє вербувати непохитно відданих в'язнів.</Brainwipe.description>
+  <Brainwipe.description>Проведіть екстрасенсорний ритуал, який стирає значну частину епізодичних спогадів людини. Травматичні події буде забуто. В’язнів із високим опором буде легше завербувати. Дозволяє вербувати непохитно відданих в’язнів.</Brainwipe.description>
   <!-- EN:
     <li>subject->mind erasure</li>
     <li>subject_story->studied stories of episodice amnesia</li>
@@ -230,18 +230,18 @@
     <li>subject_gerund->performing a ritual to erase a subject's mind</li>
   -->
   <Brainwipe.generalRules.rulesStrings>
-    <li>subject->mind erasure</li>
-    <li>subject_story->studied stories of episodice amnesia</li>
-    <li>subject_story->worked in a clinic with brain lesion survivors</li>
-    <li>subject_story->researched the neural pathways of amnesiacs</li>
-    <li>subject_story->managed a brainwashing facility after the Forgotten Wars</li>
-    <li>subject_gerund->wiping a subject's mind</li>
-    <li>subject_gerund->performing a ritual to erase a subject's mind</li>
+    <li>subject->стирання пам’яті</li>
+    <li>subject_story->досліджено історії про епізодичну амнезію</li>
+    <li>subject_story->працював у клініці з людьми, які пережили ураження мозку</li>
+    <li>subject_story->досліджено нейронні шляхи людей з амнезією</li>
+    <li>subject_story->керував закладом промивання мізків після Забутих воєн</li>
+    <li>subject_gerund->стирання пам’яті піддослідного</li>
+    <li>subject_gerund->проводячи ритуал зі стирання пам’яті піддослідного</li>
   </Brainwipe.generalRules.rulesStrings>
   <!-- EN: chronophagy -->
   <Chronophagy.label>хронофагія</Chronophagy.label>
   <!-- EN: Perform a psychic ritual that causes a target to age rapidly. The ritual invoker will become younger in the process. The target will suffer brain damage as a result, which may be lethal for elderly targets. -->
-  <Chronophagy.description>Можливість проводити ритуал, який змушує ціль швидко старіти. При цьому призовник ритуалу стане молодшим. У результаті ціль отримає пошкодження мозку, що може бути смертельним для літніх цілей.</Chronophagy.description>
+  <Chronophagy.description>Проведіть екстрасенсорний ритуал, який змушує ціль стрімко старіти. Ініціатор ритуалу в процесі омолоджується. Унаслідок цього ціль зазнає ушкодження мозку, що може бути смертельним для літніх людей.</Chronophagy.description>
   <!-- EN:
     <li>subject->chronophagy</li>
     <li>subject_story->studied age-related degeneration</li>
@@ -253,19 +253,19 @@
     <li>subject_gerund->performing a chronophagy ritual</li>
   -->
   <Chronophagy.generalRules.rulesStrings>
-    <li>subject->chronophagy</li>
-    <li>subject_story->studied age-related degeneration</li>
-    <li>subject_story->destructively replicated healthy structures from one organism to another</li>
-    <li>subject_story->theorized about the various rituals that imbued archotech can enable</li>
-    <li>subject_story->observed wealthy longevity treatments in glitterworld clinics</li>
-    <li>subject_gerund->stealing youth</li>
-    <li>subject_gerund->invoking chronophagy</li>
-    <li>subject_gerund->performing a chronophagy ritual</li>
+    <li>хронофагія</li>
+    <li>subject_story->досліджено вікову дегенерацію</li>
+    <li>subject_story->руйнівним способом відтворено здорові структури одного організму в іншому</li>
+    <li>subject_story->висунуто теорії про різноманітні ритуали, які може уможливити наділений силою архотек</li>
+    <li>subject_story->спостережено дорогі процедури продовження життя в клініках блискосвітів</li>
+    <li>subject_gerund->викрадення молодості</li>
+    <li>subject_gerund->викликання хронофагії</li>
+    <li>subject_gerund->проведення ритуалу хронофагії</li>
   </Chronophagy.generalRules.rulesStrings>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust.label>пил несмертя</DeadlifeDust.label>
+  <DeadlifeDust.label>пил нежиття</DeadlifeDust.label>
   <!-- EN: Craft devices that produce clouds of microscopic archites. The archites can reanimate corpses to produce deadly shamblers that will only attack your enemies. -->
-  <DeadlifeDust.description>Можливість створювати пристрої, що випускають мікроскопічних архітів. Архіти можуть реанімувати трупи, перетворюючи їх на смертоносних волокунів, які будуть атакувати ваших ворогів.</DeadlifeDust.description>
+  <DeadlifeDust.description>Виготовляйте пристрої, що створюють хмари мікроскопічних архітів. Архіти можуть оживляти трупи, створюючи смертоносних ходаків, які нападатимуть лише на ваших ворогів.</DeadlifeDust.description>
   <!-- EN:
     <li>subject->deadlife dust</li>
     <li>subject_story->synthesized an aerosol-dispersal system for nanobots</li>
@@ -276,18 +276,18 @@
     <li>subject_gerund->distributing archites to create shamblers</li>
   -->
   <DeadlifeDust.generalRules.rulesStrings>
-    <li>subject->пил несмертя</li>
-    <li>subject_story->synthesized an aerosol-dispersal system for nanobots</li>
-    <li>subject_story->used atomic centrifuges to separate out different grades of archite</li>
-    <li>subject_story->watched a deadly shambler assault on an Urbworld vidclip</li>
-    <li>subject_story->developed an archite control device with autotuned IFF systems</li>
-    <li>subject_gerund->створення пилу несмертя</li>
-    <li>subject_gerund->distributing archites to create shamblers</li>
+    <li>subject->пил нежиття</li>
+    <li>subject_story->синтезовано систему аерозольного розпилення наноботів</li>
+    <li>subject_story->використано атомні центрифуги, щоб відокремити різні сорти архітів</li>
+    <li>subject_story->переглянуто відеокліп із живосвіту про смертоносний напад ходаків</li>
+    <li>subject_story->Розроблено пристрій керування архітами з самоналаштовуваними IFF-системами</li>
+    <li>subject_gerund->Виготовляйте пил нежиття</li>
+    <li>subject_gerund->Розподіляйте архіти, щоб створювати ходаків</li>
   </DeadlifeDust.generalRules.rulesStrings>
   <!-- EN: death refusal -->
   <DeathRefusal.label>відмова від смерті</DeathRefusal.label>
   <!-- EN: Perform a psychic ritual which grants death refusal to an individual, allowing them to self-resurrect once after dying. -->
-  <DeathRefusal.description>Можливість проводити ритуал, який дає людині стан відмови від смерті, дозволяючи їй самовоскреснути один раз після смерті.</DeathRefusal.description>
+  <DeathRefusal.description>Проведіть екстрасенсорний ритуал, який дарує одній людині відмову від смерті, дозволяючи їй один раз самостійно воскреснути після загибелі.</DeathRefusal.description>
   <!-- EN:
     <li>subject->death refusal invocation</li>
     <li>subject_story->investigated tales of impossible survival</li>
@@ -298,18 +298,18 @@
     <li>subject_gerund->performing a ritual to rebuke death</li>
   -->
   <DeathRefusal.generalRules.rulesStrings>
-    <li>subject->death refusal invocation</li>
-    <li>subject_story->investigated tales of impossible survival</li>
-    <li>subject_story->observed the last moments of the many casualties of Last Battle VII</li>
-    <li>subject_story->participated in the attempted resurrection of the ur-prophet of Axhor</li>
-    <li>subject_story->gathered evidence of death refusal in the libraries of a coreworld</li>
-    <li>subject_gerund->fending off death</li>
-    <li>subject_gerund->performing a ritual to rebuke death</li>
+    <li>subject->закликання відмови від смерті</li>
+    <li>subject_story->Досліджено оповіді про неможливе виживання</li>
+    <li>subject_story->Спостережено останні миті численних загиблих під час Останньої битви VII</li>
+    <li>subject_story->Взято участь у спробі воскресити прапророка Аксхора</li>
+    <li>subject_story->Зібрано докази відмови від смерті в бібліотеках одного осердосвіту</li>
+    <li>subject_gerund->відбиваючись від смерті</li>
+    <li>subject_gerund->проводячи ритуал, щоб відкинути смерть</li>
   </DeathRefusal.generalRules.rulesStrings>
   <!-- EN: disruptor flares -->
-  <DisruptorFlares.label>фальшфеєр дестабілізації</DisruptorFlares.label>
+  <DisruptorFlares.label>дезорганізувальні фальшфеєри</DisruptorFlares.label>
   <!-- EN: Build bioferrite-based flare packs that reveal invisible creatures and light up an area. -->
-  <DisruptorFlares.description>Створення фальшфеєрів на основі біофериту, які можуть викривати невидимих істот у радіусі дії.</DisruptorFlares.description>
+  <DisruptorFlares.description>Побудуйте біоферитові набори фальшфеєрів, що виявляють невидимих істот і освітлюють місцевість.</DisruptorFlares.description>
   <!-- EN:
     <li>subject->bioferrite flares</li>
     <li>subject->short-term lighting</li>
@@ -323,17 +323,17 @@
   <DisruptorFlares.generalRules.rulesStrings>
     <li>subject->біоферитові фальшфеєри</li>
     <li>subject->короткочасне освітлення</li>
-    <li>subject_story->досліджував невидимий електромагнітний спектр</li>
-    <li>subject_story->виключив зорові центри піддослідних</li>
-    <li>subject_story->досліджував біолюмінесцентні методи нічної фауни</li>
-    <li>subject_story->звузив електромагнітний спектр вивільнення енергії архіту</li>
-    <li>subject_gerund->тимчасове підвищення видимості</li>
-    <li>subject_gerund->виготовлення біоферитових фальшфеєрів</li>
+    <li>subject_story->Досліджено невидиму частину електромагнітного спектра</li>
+    <li>subject_story->відключено зорові центри піддослідних</li>
+    <li>subject_story->Досліджено методи біолюмінесценції фауни нічносвіту</li>
+    <li>subject_story->Звужено електромагнітний спектр вивільнення архітної енергії</li>
+    <li>subject_gerund->тимчасово підвищуючи видимість</li>
+    <li>subject_gerund->виготовляючи біоферитові фальшфеєри</li>
   </DisruptorFlares.generalRules.rulesStrings>
   <!-- EN: electroharvester -->
-  <Electroharvester.label>поглинач енергії</Electroharvester.label>
+  <Electroharvester.label>електрозбирач</Electroharvester.label>
   <!-- EN: Build a generator that draws electricity from contained entities. This process aggravates entities, making them harder to contain. -->
-  <Electroharvester.description>Створення генератора, який поглинає електроенергію від утримуваних істот. Цей процес дратує істот, ускладнюючи їх утримання.</Electroharvester.description>
+  <Electroharvester.description>Побудуйте генератор, що видобуває електроенергію з утримуваних істот. Цей процес дратує істот, ускладнюючи їх утримання.</Electroharvester.description>
   <!-- EN:
     <li>subject->entity-derived power generation</li>
     <li>subject_story->researched ion pumps in cell membranes</li>
@@ -509,7 +509,7 @@
     <li>subject_gerund->synthesizing metalblood serums</li>
   -->
   <MetalbloodSerum.generalRules.rulesStrings>
-    <li>subject->metalblood serums</li>
+    <li>subject->сироватка металевої крові</li>
     <li>subject_story->researched reactive liquids for use in milworld armor</li>
     <li>subject_story->was an early pioneer of blood-replacement technologies</li>
     <li>subject_story->discovered a metalblood dispenser on a desolate deadworld</li>

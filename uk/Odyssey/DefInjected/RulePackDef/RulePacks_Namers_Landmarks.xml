@@ -240,11 +240,11 @@
   -->
   <NamerLandmark_FrozenRuins.rulePack.rulesStrings>
     <li>r_name(p=0.4)->[ruin_adjective_mas] [narrative_name_mas]</li>
-    <li>ruin_adjective->ruined</li>
-    <li>ruin_adjective->frozen</li>
-    <li>terrain_word(p=2)->frozen ruins</li>
+    <li>ruin_adjective->зруйновано</li>
+    <li>ruin_adjective->заморожено</li>
+    <li>terrain_word(p=2)->заморожені руїни</li>
     <li>ruin_adjective_mas->зруйнований</li>
-    <li>terrain_word->city</li>
+    <li>terrain_word->місто</li>
   </NamerLandmark_FrozenRuins.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.4)->Fort [narrative_name]</li>
@@ -474,23 +474,23 @@
     <li>r_name(p=0.2)->[mistake], що зробив [NamePerson]</li>
     <li>r_name(p=0.2)->[large_mas] [terrain_word_mas]</li>
     <li>r_name(p=0.1)->[dread] [terrain_word]</li>
-    <li>r_name(p=0.05)->The [terrain_word]</li>
-    <li>terrain_word(p=3)->scar</li>
-    <li>r_name(p=0.1)->[dread_mas] [terrain_word_mas]</li>
-    <li>terrain_word->sundering</li>
-    <li>terrain_word->wound</li>
-    <li>terrain_word->fault</li>
-    <li>terrain_word->howl</li>
-    <li>terrain_word_mas(p=3)->шрам</li>
-    <li>terrain_word_mas->розлом</li>
-    <li>terrain_word_mas->розрив</li>
-    <li>terrain_word_fem->рана</li>
-    <li>terrain_word_fem->тріщина</li>
-    <li>terrain_word_neu->виття</li>
+    <li>r_name(p=0.05)->[terrain_word]</li>
+    <li>terrain_word(p=3)->шрам</li>
+    <li>terrain_word->розлом</li>
+    <li>terrain_word->розділення</li>
+    <li>terrain_word->рана</li>
+    <li>terrain_word->тріщина</li>
+    <li>terrain_word->виття</li>
     <li>mistake->помилка</li>
     <li>mistake->дурість</li>
     <li>mistake->омана</li>
     <li>mistake->вада</li>
+    <li>large->великий</li>
+    <li>large->грандіозний</li>
+    <li>dread->страшний</li>
+    <li>dread->похмурий</li>
+    <li>dread->мерзенний</li>
+    <li>dread->темний</li>
   </NamerLandmark_TerraformingScar.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.05)->[NamePerson]'s poison</li>

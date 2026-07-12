@@ -23,23 +23,23 @@
   -->
   <DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
     <li>damage_source->[source] [attacked]</li>
-    <li>source->something from within the [dark]</li>
-    <li>source->something in the [dark]</li>
-    <li>source->a creature in the [dark]</li>
-    <li>source->an invisible creature</li>
-    <li>source->a shadowy creature</li>
-    <li>source->an invisible foe within the [dark]</li>
-    <li>dark->darkness</li>
-    <li>dark->unnatural darkness</li>
-    <li>dark->inky blackness</li>
-    <li>dark->shadows</li>
-    <li>attacked->attacked</li>
-    <li>attacked->struck</li>
-    <li>attacked->hit</li>
-    <li>damaged_present->wounding</li>
-    <li>damaged_present->injuring</li>
-    <li>destroyed_present->removing</li>
-    <li>destroyed_present->crippling</li>
-    <li>destroyed_present->severing</li>
+    <li>source->щось з [dark]</li>
+    <li>source->щось у [dark]</li>
+    <li>source->створіння у [dark]</li>
+    <li>source->невидиме створіння</li>
+    <li>source->тіньове створіння</li>
+    <li>source->невидимий ворог у [dark]</li>
+    <li>dark->темряві</li>
+    <li>dark->неприродній темряві</li>
+    <li>dark->чорнильній темряві</li>
+    <li>dark->тінях</li>
+    <li>attacked->атакувало</li>
+    <li>attacked->напало</li>
+    <li>attacked->вдарило</li>
+    <li>damaged_present->поранило</li>
+    <li>damaged_present->травмувало</li>
+    <li>destroyed_present->прибрало</li>
+    <li>destroyed_present->покалічило</li>
+    <li>destroyed_present->відірвало</li>
   </DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
 </LanguageData>

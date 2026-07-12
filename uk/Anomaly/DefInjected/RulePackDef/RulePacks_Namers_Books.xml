@@ -261,7 +261,7 @@
     <li>adjectiveEvil->Snake</li>
     <li>nounEvilAny->[nounEvilCountable]</li>
     <li>nounEvilAny->[nounEvilUncountable]</li>
-    <li>nounEvilUncountable->Fleshmass</li>
+    <li>nounEvilUncountable->М'ясна маса</li>
     <li>nounEvilUncountable->Bioferrite</li>
     <li>nounEvilUncountable->Deadlife</li>
     <li>nounEvilUncountable->Archotech</li>

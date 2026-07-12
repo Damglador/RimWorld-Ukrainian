@@ -52,25 +52,25 @@
     <li>r_name->[spaceNoun] ([ConceptBadass])</li>
     <li>r_name(p=2)->[spaceNoun] [NamePerson]а</li>
     <li>r_name(p=2)->[spaceCollectiveNoun] [NamePerson]</li>
-    <li>r_name(p=2)->[NamePerson]'s [spaceAdj] [spaceCollectiveNoun]</li>
-    <li>spaceAdj->Orbital</li>
-    <li>spaceAdj->Cosmic</li>
-    <li>spaceAdj->Astral</li>
-    <li>spaceAdj->Solar</li>
-    <li>spaceAdj->Celestial</li>
-    <li>spaceNoun->Star</li>
-    <li>spaceNoun->Moon</li>
-    <li>spaceNoun->Comet</li>
+    <li>r_name(p=2)->[spaceAdj] [spaceCollectiveNoun] [NamePerson]</li>
+    <li>spaceAdj->Орбітальні</li>
+    <li>spaceAdj->Космічні</li>
+    <li>spaceAdj->Астральні</li>
+    <li>spaceAdj->Сонячні</li>
+    <li>spaceAdj->Небесні</li>
+    <li>spaceNoun->Зоря</li>
+    <li>spaceNoun->Місяць</li>
+    <li>spaceNoun->Комета</li>
     <li>spaceNoun->Астероїд</li>
-    <li>spaceNoun->Eclipse</li>
-    <li>spaceCollectiveNoun->Armada</li>
-    <li>spaceCollectiveNoun->Fleet</li>
-    <li>spaceCollectiveNoun->Flotilla</li>
-    <li>spaceCollectiveNoun->Fleet</li>
-    <li>spaceCollectiveNoun->Corsairs</li>
-    <li>spaceCollectiveNoun->Pirates</li>
-    <li>spaceCollectiveNoun->Marauders</li>
-    <li>spaceCollectiveNoun->Reapers</li>
+    <li>spaceNoun->Затемнення</li>
+    <li>spaceCollectiveNoun->Армада</li>
+    <li>spaceCollectiveNoun->Флот</li>
+    <li>spaceCollectiveNoun->Флотилія</li>
+    <li>spaceCollectiveNoun->Флот</li>
+    <li>spaceCollectiveNoun->Корсари</li>
+    <li>spaceCollectiveNoun->Пірати</li>
+    <li>spaceCollectiveNoun->Мародери</li>
+    <li>spaceCollectiveNoun->Жнеці</li>
   </NamerFactionSalvagers.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->[tradeAdj] [tradeNoun]</li>
@@ -101,30 +101,30 @@
   -->
   <NamerFactionTradersGuild.rulePack.rulesStrings>
     <li>r_name->[tradeAdj] [tradeNoun]</li>
-    <li>tradeAdj->merchant's</li>
-    <li>tradeAdj->orbital</li>
-    <li>tradeAdj->trade</li>
-    <li>tradeAdj->spacer's</li>
-    <li>tradeAdj_neu->торгівельне</li>
-    <li>tradeAdj->cosmic</li>
-    <li>tradeAdj->skyflight</li>
-    <li>tradeAdj_neu->орбітальне</li>
-    <li>tradeAdj->exo</li>
-    <li>tradeNoun->guild</li>
-    <li>tradeAdj_neu->торгове</li>
+    <li>tradeAdj->торговця</li>
+    <li>tradeAdj->орбітальний</li>
+    <li>tradeAdj->торгівельний</li>
+    <li>tradeAdj->астронавське</li>
+    <li>tradeAdj->космічний</li>
+    <li>tradeAdj->просторове</li>
+    <li>tradeAdj->небольотний</li>
+    <li>tradeAdj->порожнечорожденний</li>
+    <li>tradeAdj->екзо</li>
+    <li>tradeNoun->гільдія</li>
+    <li>tradeNoun->консорціум</li>
     <li>tradeNoun->синдикат</li>
-    <li>tradeNoun->alliance</li>
-    <li>tradeAdj_neu->астронавтське</li>
-    <li>tradeNoun->coalition</li>
-    <li>tradeNoun->federation</li>
-    <li>tradeAdj_neu->просторове</li>
-    <li>tradeNoun->corporation</li>
-    <li>tradeNoun->company</li>
-    <li>tradeAdj_neu->космічне</li>
-    <li>tradeNoun->exchange</li>
-    <li>tradeNoun->bazaar</li>
-    <li>tradeAdj_neu->небесне</li>
-    <li>tradeNoun->nexus</li>
+    <li>tradeNoun->альянс</li>
+    <li>tradeNoun->картель</li>
+    <li>tradeNoun->коаліція</li>
+    <li>tradeNoun->федерація</li>
+    <li>tradeNoun->конгломерат</li>
+    <li>tradeNoun->корпорація</li>
+    <li>tradeNoun->компанія</li>
+    <li>tradeNoun->мережа</li>
+    <li>tradeNoun->обмін</li>
+    <li>tradeNoun->базар</li>
+    <li>tradeNoun->емпорій</li>
+    <li>tradeNoun->нексус</li>
   </NamerFactionTradersGuild.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->[platAdj] [platform]</li>
@@ -165,39 +165,39 @@
   -->
   <NamerSettlementTradersGuild.rulePack.rulesStrings>
     <li>r_name->[platAdj_mas] [platform_mas]</li>
-    <li>platAdj->starlight</li>
-    <li>platAdj->sunshine</li>
     <li>platAdj_mas->зоряносвітлий</li>
-    <li>platAdj->stardust</li>
-    <li>platAdj->orion</li>
     <li>platAdj_mas->сонечносяйвий</li>
-    <li>platAdj->galaxy</li>
-    <li>platAdj->cosmos</li>
-    <li>platAdj_mas->туманний</li>
-    <li>platAdj->астероїд</li>
-    <li>platAdj->comet</li>
+    <li>platAdj_mas->зоряносвітлий</li>
     <li>platAdj_mas->зорянопиловий</li>
-    <li>platAdj->quasar</li>
-    <li>platAdj->pulsar</li>
-    <li>platAdj->meteor</li>
-    <li>platAdj->zenith</li>
-    <li>platAdj->lunar</li>
-    <li>platAdj_mas->горизонтовий</li>
-    <li>platAdj->celestial</li>
-    <li>platAdj->moonbeam</li>
+    <li>platAdj->Оріон</li>
+    <li>platAdj->горизонт</li>
+    <li>platAdj->галактика</li>
+    <li>platAdj->простір</li>
+    <li>platAdj->порожнеча</li>
+    <li>platAdj->астероїд</li>
+    <li>platAdj->комета</li>
+    <li>platAdj->затемнення</li>
+    <li>platAdj->квазар</li>
+    <li>platAdj->пульсар</li>
+    <li>platAdj->метеор</li>
+    <li>platAdj->зеніт</li>
+    <li>platAdj->місячний</li>
+    <li>platAdj->сонячний</li>
+    <li>platAdj->небесний</li>
+    <li>platAdj->місяцепроменевий</li>
     <li>platAdj_mas->галактичний</li>
-    <li>platAdj->starfield</li>
-    <li>platAdj->cosmic</li>
+    <li>platAdj->зорепольовий</li>
+    <li>platAdj->просторовий</li>
     <li>platAdj_mas->космічний</li>
-    <li>platAdj->aurora</li>
-    <li>platAdj->luminary</li>
-    <li>platAdj_mas->пустотний</li>
-    <li>platform->platform</li>
-    <li>platform->station</li>
-    <li>platAdj_mas->астероїдний</li>
-    <li>platform->station</li>
+    <li>platAdj->сяйво</li>
+    <li>platAdj->світила</li>
+    <li>platAdj->коронний</li>
+    <li>platform->платформа</li>
+    <li>platform->станція</li>
+    <li>platform->хаб</li>
+    <li>platform->станція</li>
     <li>platform->база</li>
-    <li>platAdj_mas->кометний</li>
+    <li>platform->док</li>
     <li>platform->кільце</li>
   </NamerSettlementTradersGuild.rulePack.rulesStrings>
 </LanguageData>

@@ -107,7 +107,7 @@
     <li>r_name(p=0.5)->[storyname]</li>
     <li>r_name(p=0.5)->[ship_prefix] [AdjectiveBadass_mas] [bird]</li>
     <li>r_name(p=0.5)->[ship_prefix_mas] [AdjectiveFriendly_mas] [ship_word_mas]</li>
-    <li>ship_prefix(p=2)->the</li>
+    <li>ship_prefix(p=2)-></li>
     <li>ship_prefix(p=2)-></li>
     <li>r_name(p=0.5)->[ship_prefix_mas] [flying_adjective_mas] [AnimalBadass_mas]</li>
     <li>narrative_name->[AdjectiveLarge] [thing_badass]</li>
@@ -115,18 +115,18 @@
     <li>narrative_name->[thing_badass]</li>
     <li>r_name(p=0.5)->[storyname]</li>
     <li>r_name(p=0.2)->[Color_mas] [greekmyth_noun_mas]</li>
-    <li>thing_badass->triumph</li>
+    <li>thing_badass->тріумф</li>
     <li>r_name(p=0.2)->[ship_prefix] [greekmyth_noun]</li>
     <li>ship_prefix(p=2)-></li>
     <li>ship_prefix(p=2)-></li>
     <li>narrative_name->[AdjectiveNatural_mas] [thing_badass_mas]</li>
-    <li>thing_badass->vengeance</li>
-    <li>thing_badass->anguish</li>
-    <li>thing_badass->misery</li>
+    <li>thing_badass->помста</li>
+    <li>thing_badass->туга</li>
+    <li>thing_badass->страждання</li>
     <li>narrative_name->[AdjectiveLarge_mas] [thing_badass_mas]</li>
-    <li>thing_badass->terror</li>
-    <li>thing_badass->chaos</li>
-    <li>thing_badass->anarchy</li>
+    <li>thing_badass->терор</li>
+    <li>thing_badass->хаос</li>
+    <li>thing_badass->анархія</li>
     <li>narrative_name->[Direction] [thing_badass_plural]</li>
     <li>narrative_name->[thing_badass]</li>
     <li>thing_badass->[AnimalBadass]</li>
@@ -188,8 +188,8 @@
     <li>bird->боривітер</li>
     <li>bird->стерв'ятник</li>
     <li>flying_adjective_mas(p=2)->летючий</li>
-    <li>ship_word->junker</li>
-    <li>ship_word->trireme</li>
-    <li>ship_word->zephyr</li>
+    <li>ship_word->юнкер</li>
+    <li>ship_word->трієра</li>
+    <li>ship_word->Зефір</li>
   </NamerGravship.rulePack.rulesStrings>
 </LanguageData>

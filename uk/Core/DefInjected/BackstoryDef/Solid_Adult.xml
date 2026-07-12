@@ -1,109 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: [PAWN_nameDef] graduated from the Star Academy with honors and distinguished [PAWN_objective]self as an ace fighter pilot in three campaigns against more advanced aggressor cultures.\n\nHowever, after one vicious battle, [PAWN_pronoun] found [PAWN_objective]self stranded and [PAWN_possessive] carrier ship destroyed. With nowhere to go, [PAWN_pronoun] entered [PAWN_possessive] escape pod and prayed. -->
-  <AceFighterPilot54.description>[PAWN_nameDef] graduated from the Star Academy with honors and distinguished [PAWN_objective]self as an ace fighter pilot in three campaigns against more advanced aggressor cultures.\n\nHowever, after one vicious battle, [PAWN_pronoun] found [PAWN_objective]self stranded and [PAWN_possessive] carrier ship destroyed. With nowhere to go, [PAWN_pronoun] entered [PAWN_possessive] escape pod and prayed.</AceFighterPilot54.description>
+  <AceFighterPilot54.description>{PAWN_nameDef} з відзнакою {PAWN_gender ? закінчив : закінчила} Академію Зоряного Флоту та {PAWN_gender ? проявив : проявила} себе як ас-винищувач у трьох військових кампаніях проти більш розвиненої цивілізації.\n\nПід час однієї з жорстоких битв флагман та {PAWN_possessive} корабель було підбито. {PAWN_gender ? опинився: опинилась} без змоги зв'язатись зі своїми. Тож було прийнято рішення скористатись рятувальною капсулою та молитись.</AceFighterPilot54.description>
   <!-- EN: ace fighter pilot -->
   <AceFighterPilot54.title>ас-винищувач</AceFighterPilot54.title>
   <!-- EN: ace -->
   <AceFighterPilot54.titleShort>Ас</AceFighterPilot54.titleShort>
   <!-- EN: Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing [PAWN_pronoun] felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on. -->
-  <AcolyteOfStars6.description>Ever the dreamer, [PAWN_nameDef] traveled across the universe to find the thing [PAWN_pronoun] felt was calling to him.\n\n[PAWN_pronoun] became poorer and poorer, but used every means possible to carry on.</AcolyteOfStars6.description>
+  <AcolyteOfStars6.description>{PAWN_gender ? Одвічний мрійник : Одвічна мрійниця} {PAWN_nameDef}, {PAWN_gender ? мандрував : мандрувала} всесвітом, у пошуках чогось що {PAWN_objective} вабило до себе{PAWN_possessive}.\n\n незважаючи на постійні злидні і все менші статки {PAWN_pronoun} {PAWN_gender ? не здавався і шукав : не здавалась і шукала } нові шляхи продовження пошуків.</AcolyteOfStars6.description>
   <!-- EN: acolyte of stars -->
   <AcolyteOfStars6.title>вічний мрійник</AcolyteOfStars6.title>
   <!-- EN: priest -->
   <AcolyteOfStars6.titleShort>мрійник</AcolyteOfStars6.titleShort>
   <!-- EN: After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions. -->
-  <AddictionCounsel60.description>After recovering from a joywire addiction, [PAWN_nameDef] adopted a non-violent way of life and vowed to help others.\n\nTravelling between communities, [PAWN_pronoun] used medicine, arts, and crafts to aid others who struggled with their own addictions.</AddictionCounsel60.description>
+  <AddictionCounsel60.description>Позбувшись залежності від Чіпу Щастя {PAWN_nameDef} {PAWN_gender ? прийняв : прийняла} шлях без насилля і {PAWN_gender ? поклявся : поклялась} допомагати іншим. \n\n\Подорожуючи між громадами, {PAWN_pronoun} використовує медицину, мистецтво та ремесла, щоб допомогти тим, хто готовий боротися з власними залежностями.</AddictionCounsel60.description>
   <!-- EN: counselor -->
   <AddictionCounsel60.title>радник</AddictionCounsel60.title>
   <!-- EN: counselor -->
   <AddictionCounsel60.titleShort>консультант</AddictionCounsel60.titleShort>
   <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-  <Adventurer19.description>[PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most.</Adventurer19.description>
+  <Adventurer19.description>Жага пригод провела [PAWN_objective] шляхами численних планет. {PAWN_gender? Він: Вона} {PAWN_gender? бачив: бачила} яскраве світло блискосвітів та похмурі відлюдини отруєних, розшматованих війною планет, у пошуках новизни та яскравих вражень.\n\n[PAWN_nameDef] {PAWN_gender? працював: працювала} так мало, як це було можливо, йдучи на компроміс із сумлінням заради швидких грошей. Куховарити [PAWN_nameDef] {PAWN_gender? ненавидів: ненавиділа} понад усе.</Adventurer19.description>
   <!-- EN: adventurer -->
   <Adventurer19.title>космічний мандрівник</Adventurer19.title>
   <!-- EN: adventurer -->
   <Adventurer19.titleShort>мандрівник</Adventurer19.titleShort>
   <!-- EN: A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword. -->
-  <AdventurousWeirdo55.description>A creative but strange individual, [PAWN_nameDef] dedicated [PAWN_possessive] life to [PAWN_possessive] twin passions of medieval world history and high technology.\n\n[PAWN_pronoun] was fascinated by the idea of becoming a 'skyknight' with glittering armor and a giant sword.</AdventurousWeirdo55.description>
+  <AdventurousWeirdo55.description>Творча, але дивакувата особа, [PAWN_nameDef] {PAWN_gender ? присвятив : присвятила} життя двом протилежностям: історії середньовіччя та високим технологіям.\n\nТакож {PAWN_gender ? мріяв : мріяла} стати «небесним лицарем» в осяйному обладунку та з гігантським мечем.</AdventurousWeirdo55.description>
   <!-- EN: adventurous weirdo -->
   <AdventurousWeirdo55.title>авантюрний дивак</AdventurousWeirdo55.title>
   <!-- EN: weirdo -->
   <AdventurousWeirdo55.titleShort>дивак</AdventurousWeirdo55.titleShort>
   <!-- EN: [PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues. -->
-  <AerospaceEngineer44.description>[PAWN_nameDef] was an engineer responsible for the production of aircraft and spaceships. [PAWN_pronoun] focused on improving production lines, and was known for [PAWN_possessive] mastery of technical and research issues.</AerospaceEngineer44.description>
+  <AerospaceEngineer44.description>{PAWN_nameDef} {PAWN_gender ? був : була} інженером, {PAWN_gender ? відповідальним : відповідальною} за виробництво літаків та космічних кораблів. {PAWN_pronoun} переважно {PAWN_gender ? займався: займалась} вдосконаленням виробничих ліній, та {PAWN_gender ? був відомим : була відома} майстерністю в технічних і дослідницьких питаннях.</AerospaceEngineer44.description>
   <!-- EN: aerospace engineer -->
   <AerospaceEngineer44.title>аерокосмічний інженер</AerospaceEngineer44.title>
   <!-- EN: engineer -->
   <AerospaceEngineer44.titleShort>інженер</AerospaceEngineer44.titleShort>
   <!-- EN: [PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing. -->
-  <AIProgrammer22.description>[PAWN_nameDef] enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time [PAWN_pronoun] was there, [PAWN_pronoun] never spoke with another human. [PAWN_pronoun] spent all [PAWN_possessive] time conversing with the AI [PAWN_pronoun] was developing.</AIProgrammer22.description>
+  <AIProgrammer22.description>{PAWN_nameDef} {PAWN_gender? був зарахований: була зарахована} до військового відділу робототехніки, де {PAWN_gender? розробляв: розробляла} розумніший бойовий ШІ.\n\nЗа весь час, що {PAWN_pronoun} {PAWN_gender? був: була} там, {PAWN_pronoun} ніколи не {PAWN_gender? спілкувався: спілкувалась} з іншими людьми. {PAWN_nameDef} {PAWN_gender? витрачав: витрачала} весь свій час на спілкування з розробляємим {PAWN_gender? ним: нею} ШІ,.</AIProgrammer22.description>
   <!-- EN: AI programmer -->
   <AIProgrammer22.title>розробник ШІ</AIProgrammer22.title>
   <!-- EN: programmer -->
   <AIProgrammer22.titleShort>розробник</AIProgrammer22.titleShort>
   <!-- EN: [PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication. -->
-  <AIResearcher94.description>[PAWN_nameDef] was a renowned researcher in artificial intelligence, robotics, and interactive holography. [PAWN_possessive] friendships with the artificial minds [PAWN_pronoun] created gave [PAWN_objective] the confidence to interact with real people, and [PAWN_pronoun] soon excelled at personal communication.</AIResearcher94.description>
+  <AIResearcher94.description>[PAWN_nameDef] був відомим дослідником штучного інтелекту, робототехніки та інтерактивної голографії. Дружба [PAWN_nameDef] із власноруч розробленим штучним розумом підготувала ШІ до довірливого спілкування зі справжніми людьми, а для [PAWN_nameDef] дала поштовх розвитку комунікативних навичок.</AIResearcher94.description>
   <!-- EN: AI researcher -->
   <AIResearcher94.title>дослідник ШІ</AIResearcher94.title>
   <!-- EN: researcher -->
   <AIResearcher94.titleShort>дослідник</AIResearcher94.titleShort>
   <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\n\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence. -->
-  <AlcoholicTrucker93.description>[PAWN_nameDef] was a space trucker working for Arcknight Industries when [PAWN_pronoun] killed [PAWN_possessive] wife and daughter in a crash.\n\n[PAWN_possessive] body was repaired with an experimental nano-genetic therapy. Now [PAWN_possessive] muscles continually regenerate and harden, and every movement tears the tissue anew. [PAWN_pronoun] bears the pain in silence.</AlcoholicTrucker93.description>
+  <AlcoholicTrucker93.description>{PAWN_nameDef} {PAWN_gender ? працював космічним далекобійником : працювала космічною далекобійницею} в Arcknight Industries, коли {PAWN_possessive} {PAWN_gender ? дружина : чоловік} та донька загинули в аварії, яку {PAWN_pronoun} {PAWN_gender ? влаштував : влаштувала}.\n\n{PAWN_possessive} тіло було відновлено за допомогою експериментальної нано-генетичної терапії. Тепер {PAWN_possessive} м'язи рвуться від будь-якого руху, швидко регенерують та твердіють. {PAWN_pronoun} витримує біль мовчки.</AlcoholicTrucker93.description>
   <!-- EN: alcoholic trucker -->
   <AlcoholicTrucker93.title>далекобійник алкоголік</AlcoholicTrucker93.title>
   <!-- EN: alcoholic -->
   <AlcoholicTrucker93.titleShort>алкоголік</AlcoholicTrucker93.titleShort>
   <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
-  <AnarchistRebel77.description>After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down coreworld governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim.</AnarchistRebel77.description>
+  <AnarchistRebel77.description>Після того, як {PAWN_possessive} покинули на спецоперації, {PAWN_nameDef} {PAWN_gender ? поклявся : поклялася} помститися державі. {PAWN_pronoun} {PAWN_gender ? сформував : сформувала} анархістську групу, спрямовану на повалення урядів систем ядра галактики.\n\nПісля великої кількості небезпечних ситуацій на межі провалу та незначної кількості успіхів, {PAWN_nameDef} {PAWN_gender ? втік : втекла} до прикордонних світів.</AnarchistRebel77.description>
   <!-- EN: anarchist rebel -->
   <AnarchistRebel77.title>анархіст-повстанець</AnarchistRebel77.title>
   <!-- EN: anarchist -->
   <AnarchistRebel77.titleShort>анархіст</AnarchistRebel77.titleShort>
   <!-- EN: [PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living. -->
-  <Archaeologist85.description>[PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living.</Archaeologist85.description>
+  <Archaeologist85.description>[PAWN_nameDef] {PAWN_gender ? був замкнений : була замкнена} у нудній повсякденності, однак одного дня {PAWN_gender ? застрибнув : застрибнула} на космічний корабель, з метою побачити всесвіт та вивчати археологію.\n\n[PAWN_pronoun] {PAWN_gender ? навчився : навчилася} виживати та навіть розрізняти людей, попри те, що розуміє мертвих краще, ніж живих.</Archaeologist85.description>
   <!-- EN: archaeologist -->
   <Archaeologist85.title>археолог</Archaeologist85.title>
   <!-- EN: explorer -->
   <Archaeologist85.titleShort>дослідник</Archaeologist85.titleShort>
   <!-- EN: [PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee. -->
-  <ArchotechSpy75.description>[PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee.</ArchotechSpy75.description>
+  <ArchotechSpy75.description>{PAWN_nameDef} {PAWN_gender ? досліджував: досліджувала} інтелект раси архотек. 
+/n/n Вивчаючи невідомий об'єкт з орбіти, {PAWN_pronoun} {PAWN_gender ? потрапив : потрапила} під його вплив, вважаючи зо об'єкт спілкується з {PAWN_nameDef} напряму. Згодом, колеги застукали {PAWN_nameDef} за передачею секретних даних в бік темної сфери, псля чого {PAWN_nameDef} {PAWN_gender ? був вимушений : була вимушена} втекти.</ArchotechSpy75.description>
   <!-- EN: archotech researcher -->
   <ArchotechSpy75.title>дослідник архотехнологій</ArchotechSpy75.title>
   <!-- EN: researcher -->
   <ArchotechSpy75.titleShort>дослідник</ArchotechSpy75.titleShort>
   <!-- EN: [PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training. -->
-  <ArmyCook0.description>[PAWN_nameDef] joined the army as a worker and spent most of [PAWN_possessive] time cooking and repairing. While [PAWN_pronoun] was stationed on a dangerous planet, [PAWN_pronoun] underwent basic shooting and survival training.</ArmyCook0.description>
+  <ArmyCook0.description>[PAWN_nameDef] {PAWN_gender? вступив: вступила} до лав армії як {PAWN_gender? працівник: працівниця} і {PAWN_gender? проводив: проводила} більшу частину свого часу за готуванням їжі та ремонтом. Під час дислокації на небезпечній планеті [PAWN_pronoun] {PAWN_gender? пройшов: пройшла} базовий курс стрільби та виживання.</ArmyCook0.description>
   <!-- EN: army cook -->
   <ArmyCook0.title>армійський кухар</ArmyCook0.title>
   <!-- EN: cook -->
   <ArmyCook0.titleShort>кухар</ArmyCook0.titleShort>
   <!-- EN: [PAWN_nameDef] did scientific research for a planetary army. [PAWN_pronoun] studied war scenarios and designed weapon systems to help win battles with a minimum of fuss. -->
-  <ArmyScientist35.description>[PAWN_nameDef] did scientific research for a planetary army. [PAWN_pronoun] studied war scenarios and designed weapon systems to help win battles with a minimum of fuss.</ArmyScientist35.description>
+  <ArmyScientist35.description>[PAWN_nameDef] {PAWN_gender? займався: займалася} науковими дослідженнями для планетарної армії. [PAWN_pronoun] {PAWN_gender? вивчав: вивчала} сценарії ведення війни та {PAWN_gender? розробляв: розробляла} системи озброєння, щоб допомагати перемагати в битвах із мінімальною метушнею.</ArmyScientist35.description>
   <!-- EN: army scientist -->
   <ArmyScientist35.title>армійський науковець</ArmyScientist35.title>
   <!-- EN: scientist -->
   <ArmyScientist35.titleShort>науковець</ArmyScientist35.titleShort>
   <!-- EN: [PAWN_nameDef] served in [PAWN_possessive] country's military, commanding small units as a non-commissioned officer.\n\n[PAWN_pronoun] excelled creating tactically sound plans despite difficult circumstances. -->
-  <ArmySergeant16.description>[PAWN_nameDef] served in [PAWN_possessive] country's military, commanding small units as a non-commissioned officer.\n\n[PAWN_pronoun] excelled creating tactically sound plans despite difficult circumstances.</ArmySergeant16.description>
+  <ArmySergeant16.description>[PAWN_nameDef] {PAWN_gender? служив: служила} у війську своєї країни, командуючи малими підрозділами як сержант.\n\n[PAWN_pronoun] {PAWN_gender? відзначився: відзначилася} створенням тактично грамотних планів попри складні обставини.</ArmySergeant16.description>
   <!-- EN: army sergeant -->
   <ArmySergeant16.title>сержант армії</ArmySergeant16.title>
   <!-- EN: sergeant -->
   <ArmySergeant16.titleShort>сержант</ArmySergeant16.titleShort>
   <!-- EN: [PAWN_nameDef] practiced aromatherapy, using essences extracted from home-grown plants. -->
-  <Aromatherapist80.description>[PAWN_nameDef] practiced aromatherapy, using essences extracted from home-grown plants.</Aromatherapist80.description>
+  <Aromatherapist80.description>[PAWN_nameDef] {PAWN_gender? займався: займалася} ароматерапією, використовуючи есенції, виготовлені з вирощених вдома рослин.</Aromatherapist80.description>
   <!-- EN: aromatherapist -->
   <Aromatherapist80.title>ароматерапевт</Aromatherapist80.title>
   <!-- EN: therapist -->
   <Aromatherapist80.titleShort>терапевт</Aromatherapist80.titleShort>
   <!-- EN: [PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] traveled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive. -->
-  <ArtifactHunter48.description>[PAWN_nameDef] became depressed and lost interest in life. [PAWN_pronoun] traveled from planet to planet, searching for psychic artifacts amid mechanoid ruins in the hope that they would cure the pain in [PAWN_possessive] soul.\n\nA steady trigger finger and careful planning kept [PAWN_nameDef] alive.</ArtifactHunter48.description>
+  <ArtifactHunter48.description>[PAWN_nameDef] {PAWN_gender? впав: впала} у депресію та {PAWN_gender? втратив: втратила} інтерес до життя. [PAWN_pronoun] {PAWN_gender? мандрував: мандрувала} з планети на планету, розшукуючи психічні артефакти серед руїн механоїдів у надії, що вони вилікують біль у {PAWN_gender? його: її} душі.\n\nA тверда рука на спусковому гачку та ретельне планування допомогли [PAWN_nameDef] вижити.</ArtifactHunter48.description>
   <!-- EN: artifact hunter -->
   <ArtifactHunter48.title>мисливець на артефакти</ArtifactHunter48.title>
   <!-- EN: artifacter -->
   <ArtifactHunter48.titleShort>археолог</ArtifactHunter48.titleShort>
   <!-- EN: Fuelled by the thrill of discovery and [PAWN_possessive] own megalomania, [PAWN_nameDef] set out to invent new devices and improve existing ones, breaking laws and customs as necessary.\n\n[PAWN_pronoun] formed a crew to gather materials for [PAWN_possessive] work - and to deal with outsiders who might interfere. -->
-  <ArtificerRampant95.description>Fuelled by the thrill of discovery and [PAWN_possessive] own megalomania, [PAWN_nameDef] set out to invent new devices and improve existing ones, breaking laws and customs as necessary.\n\n[PAWN_pronoun] formed a crew to gather materials for [PAWN_possessive] work - and to deal with outsiders who might interfere.</ArtificerRampant95.description>
+  <ArtificerRampant95.description>Керований азартом відкриттів та власною мегаломанією, [PAWN_nameDef] {PAWN_gender? взявся: взялася} за винайдення нових пристроїв та вдосконалення наявних, за потреби порушуючи закони та звичаї.\n\n[PAWN_pronoun] {PAWN_gender? зібрав: зібрала} команду для пошуку матеріалів для своєї роботи — і для розправи з чужинцями, які могли б завадити.</ArtificerRampant95.description>
   <!-- EN: artificer rampant -->
   <ArtificerRampant95.title>кримінальний винахідник</ArtificerRampant95.title>
   <!-- EN: artificer -->
@@ -115,175 +116,175 @@
   <!-- EN: artist -->
   <ArtStudent79.titleShort>митець</ArtStudent79.titleShort>
   <!-- EN: [PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again. -->
-  <Assassin7.description>[PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again.</Assassin7.description>
+  <Assassin7.description>[PAWN_nameDef] {PAWN_gender? пройшов: пройшла} спеціальну підготовку як оперативник для виконання особливо ризикованих убивств. {PAWN_gender? Його: Її} майстерність у володінні гвинтівкою була неперевершеною.\n\nЗрештою [PAWN_pronoun] {PAWN_gender? став: стала} жертвою зради свого керівництва, коли ціль дізналася про замовлення і запропонувала фінансувати їхні майбутні проєкти. [PAWN_nameDef] {PAWN_gender? заприсягся: заприсяглася} більше ніколи нікому не довіряти.</Assassin7.description>
   <!-- EN: assassin -->
   <Assassin7.title>найманий вбивця</Assassin7.title>
   <!-- EN: assassin -->
   <Assassin7.titleShort>вбивця</Assassin7.titleShort>
   <!-- EN: [PAWN_nameDef] was an infantryman. When [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet. -->
-  <AWOLSoldier49.description>[PAWN_nameDef] was an infantryman. When [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet.</AWOLSoldier49.description>
+  <AWOLSoldier49.description>[PAWN_nameDef] {PAWN_gender? був піхотинцем: була піхотницею}. Коли [PAWN_pronoun] {PAWN_gender? дізнався: дізналася} про своє призначення на війну Ксенноа-Зартца, [PAWN_pronoun] {PAWN_gender? вирішив: вирішила}, що не хоче бути {PAWN_gender? солдатом: солдаткою}. [PAWN_pronoun] {PAWN_gender? зумів: зуміла} втекти на військовому космольоті.</AWOLSoldier49.description>
   <!-- EN: AWOL soldier -->
   <AWOLSoldier49.title>піхотинець-дезертир</AWOLSoldier49.title>
   <!-- EN: soldier -->
   <AWOLSoldier49.titleShort>дезертир</AWOLSoldier49.titleShort>
   <!-- EN: [PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side. -->
-  <BanditLeader74.description>[PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side.</BanditLeader74.description>
+  <BanditLeader74.description>[PAWN_nameDef] {PAWN_gender? піднявся: піднялася} щаблями кримінальної організації, зрештою очоливши один із найвіддаленіших осередків бандитів. {PAWN_gender? Його: Її} пес Рест ніколи не відходив від свого {PAWN_gender? господаря: господині}.</BanditLeader74.description>
   <!-- EN: bandit leader -->
   <BanditLeader74.title>ватажок бандитів</BanditLeader74.title>
   <!-- EN: bandit -->
   <BanditLeader74.titleShort>бандит</BanditLeader74.titleShort>
   <!-- EN: [PAWN_nameDef] became the most physically intimidating of the slaves, spending [PAWN_possessive] little free time obsessively sculpting [PAWN_possessive] body. [PAWN_possessive] efforts eventually paid off when the lord offered [PAWN_objective] a job as a personal bodyguard.\n\nLater, when [PAWN_pronoun] plotted to use [PAWN_possessive] position to kill the lord and free the slaves, [PAWN_pronoun] was discovered and barely escaped with [PAWN_possessive] life. -->
-  <BanishedSoldier85.description>[PAWN_nameDef] became the most physically intimidating of the slaves, spending [PAWN_possessive] little free time obsessively sculpting [PAWN_possessive] body. [PAWN_possessive] efforts eventually paid off when the lord offered [PAWN_objective] a job as a personal bodyguard.\n\nLater, when [PAWN_pronoun] plotted to use [PAWN_possessive] position to kill the lord and free the slaves, [PAWN_pronoun] was discovered and barely escaped with [PAWN_possessive] life.</BanishedSoldier85.description>
+  <BanishedSoldier85.description>[PAWN_nameDef] {PAWN_gender? став найміцнішим: стала найміцнішою} серед рабів, витрачаючи обмаль вільного часу на фанатичну роботу над своїм тілом. Ці зусилля зрештою виправдалися, коли лорд запропонував {PAWN_gender? йому: їй} посаду особистого охоронця.\n\nПізніше, коли [PAWN_pronoun] {PAWN_gender? замислив: замислила} використати своє становище, щоб убити лорда і звільнити рабів, змова була розкрита, а [PAWN_pronoun] {PAWN_gender? ледь врятувався: ледь врятувалася}.</BanishedSoldier85.description>
   <!-- EN: banished soldier -->
   <BanishedSoldier85.title>гнаний тілоохоронець</BanishedSoldier85.title>
   <!-- EN: outlaw -->
   <BanishedSoldier85.titleShort>втікач</BanishedSoldier85.titleShort>
   <!-- EN: [PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service. -->
-  <BattlefieldTech52.description>[PAWN_nameDef] had received firearms training, but [PAWN_possessive] work was focused on technical adaptation and manipulation of combat mechanoids on the battlefield.\n\n[PAWN_pronoun] developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged [PAWN_objective] from service.</BattlefieldTech52.description>
+  <BattlefieldTech52.description>[PAWN_nameDef] {PAWN_gender? пройшов: пройшла} вогневу підготовку, але {PAWN_gender? його: її} робота була зосереджена на технічній адаптації та керуванні бойовими механоїдами на полі бою.\n\nУ [PAWN_possessive] {PAWN_gender? розвинувся: розвинувся} ПТСР після того, як [PAWN_pronoun] ледь {PAWN_gender? вцілів: вціліла} під час атаки примітивними запалювальними бомбами на пшеничному полі. Армія {PAWN_gender? комісувала його: комісувала її} за станом здоров'я.</BattlefieldTech52.description>
   <!-- EN: battlefield tech -->
   <BattlefieldTech52.title>польовий механік</BattlefieldTech52.title>
   <!-- EN: technician -->
   <BattlefieldTech52.titleShort>механік</BattlefieldTech52.titleShort>
   <!-- EN: [PAWN_nameDef] was a tech-obsessed mercenary in an early fusion-era system.\n\n[PAWN_pronoun] was unusually obsessed with gathering the right gear, and often customized [PAWN_possessive] own equipment with original modifications. -->
-  <BattleMechanic27.description>[PAWN_nameDef] was a tech-obsessed mercenary in an early fusion-era system.\n\n[PAWN_pronoun] was unusually obsessed with gathering the right gear, and often customized [PAWN_possessive] own equipment with original modifications.</BattleMechanic27.description>
+  <BattleMechanic27.description>[PAWN_nameDef] {PAWN_gender? був схибленим: була схибленою} на технологіях {PAWN_gender? найманцем: найманицею} у зоряній системі ранньої ери термоядерного синтезу.\n\n[PAWN_pronoun] {PAWN_gender? був незвичайно одержимий: була незвичайно одержима} пошуком найкращого спорядження і часто {PAWN_gender? вдосконалював: вдосконалювала} власну екіпіровку авторськими модифікаціями.</BattleMechanic27.description>
   <!-- EN: battle mechanic -->
   <BattleMechanic27.title>бойовий технік</BattleMechanic27.title>
   <!-- EN: mechanic -->
   <BattleMechanic27.titleShort>технік</BattleMechanic27.titleShort>
   <!-- EN: [PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill. -->
-  <BeastSlayer67.description>[PAWN_nameDef] traveled between planets, following news of animal attacks. [PAWN_pronoun] would camp on the planet for weeks, learning about [PAWN_possessive] prey before striking. [PAWN_pronoun] most enjoyed hunting thrumbos.\n\nPreferring to work alone, [PAWN_nameDef] enjoyed the thrill of the hunt, and the meat from the kill.</BeastSlayer67.description>
+  <BeastSlayer67.description>[PAWN_nameDef] {PAWN_gender? подорожував: подорожувала} між планетами, стежачи за новинами про напади тварин. [PAWN_pronoun] {PAWN_gender? міг тижнями жити: могла тижнями жити} у таборі на планеті, вивчаючи свою здобич перед нанесенням удару. Найбільше {PAWN_gender? йому подобалося полювати: їй подобалося полювати} на трумбо.\n\nНадаючи перевагу роботі наодинці, [PAWN_nameDef] {PAWN_gender? насолоджувався: насолоджувалася} азартом полювання та м'ясом убитої дичини.</BeastSlayer67.description>
   <!-- EN: beast slayer -->
   <BeastSlayer67.title>мисливець на звірів</BeastSlayer67.title>
   <!-- EN: slayer -->
   <BeastSlayer67.titleShort>мисливець</BeastSlayer67.titleShort>
   <!-- EN: Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however. -->
-  <BehaviourResearch74.description>Captured as a feral child, [PAWN_nameDef] was forced into the ways of modern society. [PAWN_pronoun] quickly adapted and became a behavioural researcher, eventually owning a private facility.\n\n[PAWN_pronoun] specialized in canines, but learned a great deal about all animals. [PAWN_pronoun] never had interest in plants, however.</BehaviourResearch74.description>
+  <BehaviourResearch74.description>[PAWN_nameDef], {PAWN_gender? знайдений диким: знайдена дикою} серед природи, {PAWN_gender? був змушений пристосуватися: була змушена пристосуватися} до життя в сучасному суспільстві. [PAWN_pronoun] швидко {PAWN_gender? адаптувався: адаптувалася} і {PAWN_gender? став дослідником: стала дослідницею} поведінки, зрештою відкривши власну приватну лабораторію.\n\n[PAWN_pronoun] {PAWN_gender? спеціалізувався: спеціалізувалася} на псових, але {PAWN_gender? дізнався: дізналася} багато нового про всіх тварин. Проте рослини [PAWN_pronoun] ніколи не {PAWN_gender? цікавили: цікавили}.</BehaviourResearch74.description>
   <!-- EN: behaviour research -->
   <BehaviourResearch74.title>дослідник поведінки</BehaviourResearch74.title>
   <!-- EN: scientist -->
   <BehaviourResearch74.titleShort>науковець</BehaviourResearch74.titleShort>
   <!-- EN: As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
-  <Blacksmith7.description>As a blacksmith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either.</Blacksmith7.description>
+  <Blacksmith7.description>Працюючи ковалем у середньовічному світі, [PAWN_nameDef] {PAWN_gender? здобув: здобула} славу завдяки високій якості своїх виробів. [PAWN_pronoun] також {PAWN_gender? непогано вправлявся: непогано вправлялася} з мечами, які {PAWN_gender? сам кував: сама кувала}.</Blacksmith7.description>
   <!-- EN: blacksmith -->
   <Blacksmith7.title>коваль</Blacksmith7.title>
   <!-- EN: blacksmith -->
   <Blacksmith7.titleShort>коваль</Blacksmith7.titleShort>
   <!-- EN: As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals. -->
-  <BlacksmithShooter21.description>As a young blacksmith, [PAWN_nameDef]'s family shop was raided by the police. [PAWN_pronoun] shot two officers before they knocked [PAWN_objective] out and arrested him.\n\nSentenced to life in prison, [PAWN_nameDef] learned about traveling and raiding from other criminals.</BlacksmithShooter21.description>
+  <BlacksmithShooter21.description>Коли [PAWN_nameDef] {PAWN_gender? був молодим ковалем: була молодою ковалькою}, у сімейну майстерню увірвалася поліція. [PAWN_pronoun] {PAWN_gender? застрелив: застрелила} двох офіцерів, перш ніж {PAWN_gender? його: її} вибили з ніг та заарештували.\n\n{PAWN_gender? Засуджений: Засуджена} до довічного ув'язнення, [PAWN_nameDef] {PAWN_gender? дізнався: дізналася} про мандри та набіги від інших злочинців.</BlacksmithShooter21.description>
   <!-- EN: blacksmith shooter -->
   <BlacksmithShooter21.title>коваль-стрілець</BlacksmithShooter21.title>
   <!-- EN: gunsmith -->
   <BlacksmithShooter21.titleShort>зброяр</BlacksmithShooter21.titleShort>
   <!-- EN: [PAWN_nameDef] was sold to the Corestars Entertainment Company and used as meat in one of the company's system-wide broadcast shows.\n \n[PAWN_possessive] manipulative nature made [PAWN_objective] quite a nightmare, even to the audience. [PAWN_pronoun] was kicked out and exiled to a planet full of deadly animals, criminals and armed camera-drones. -->
-  <BloodgameSurvivor6.description>[PAWN_nameDef] was sold to the Corestars Entertainment Company and used as meat in one of the company's system-wide broadcast shows.\n \n[PAWN_possessive] manipulative nature made [PAWN_objective] quite a nightmare, even to the audience. [PAWN_pronoun] was kicked out and exiled to a planet full of deadly animals, criminals and armed camera-drones.</BloodgameSurvivor6.description>
+  <BloodgameSurvivor6.description>[PAWN_nameDef] {PAWN_gender? був проданий: була продана} розважальній компанії «Corestars» і {PAWN_gender? використовувався: використовувалася} як розхідний матеріал в одному з телешоу, що транслювалося на всю систему.\n\nЧерез свою маніпулятивну натуру [PAWN_pronoun] {PAWN_gender? став справжнім кошмаром: стала справжнім кошмаром} навіть для глядачів. Зрештою {PAWN_gender? його: її} вигнали та заслали на планету, що кишіла смертоносними тваринами, злочинцями та озброєними дронами-камерами.</BloodgameSurvivor6.description>
   <!-- EN: bloodgame survivor -->
   <BloodgameSurvivor6.title>вцілілий в кривавій грі</BloodgameSurvivor6.title>
   <!-- EN: bloodgamer -->
   <BloodgameSurvivor6.titleShort>кривавий гравець</BloodgameSurvivor6.titleShort>
   <!-- EN: After studying at a famous college, [PAWN_nameDef]'s weak personality eventually snapped under the strain of angry administrators and whining patients. [PAWN_pronoun] went on a secret murder spree, killing many of those under [PAWN_possessive] care.\n\nAfter a pursuit, [PAWN_pronoun] managed to escape [PAWN_possessive] planet and travel to a new world. -->
-  <BloodyDentist9.description>After studying at a famous college, [PAWN_nameDef]'s weak personality eventually snapped under the strain of angry administrators and whining patients. [PAWN_pronoun] went on a secret murder spree, killing many of those under [PAWN_possessive] care.\n\nAfter a pursuit, [PAWN_pronoun] managed to escape [PAWN_possessive] planet and travel to a new world.</BloodyDentist9.description>
+  <BloodyDentist9.description>Після навчання у відомому коледжі слабкий характер [PAWN_nameDef] зрештою не витримав тиску з боку розлючених адміністраторів та скиглення пацієнтів. [PAWN_pronoun] {PAWN_gender? почав таємну серію вбивств: почала таємну серію вбивств}, позбавивши життя багатьох із тих, хто перебував під {PAWN_gender? його: її} наглядом.\n\nПісля переслідування [PAWN_pronoun] {PAWN_gender? зумів утекти: зуміла утекти} зі своєї планети та вирушити до нового світу.</BloodyDentist9.description>
   <!-- EN: bloody dentist -->
   <BloodyDentist9.title>кривавий стоматолог</BloodyDentist9.title>
   <!-- EN: dentist -->
   <BloodyDentist9.titleShort>стоматолог</BloodyDentist9.titleShort>
   <!-- EN: [PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, [PAWN_pronoun] had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective]. -->
-  <BloodyWanderer28.description>[PAWN_nameDef] was a wanderer, traveling from town to town, taking odd jobs and stealing to live.\n\nOne day, [PAWN_pronoun] had a mental break and went on a long rampage, destroying several towns and killing many. [PAWN_pronoun] eventually calmed, but [PAWN_possessive] bloodlust never left [PAWN_objective].</BloodyWanderer28.description>
+  <BloodyWanderer28.description>[PAWN_nameDef] {PAWN_gender? був мандрівником: була мандрівницею}, що {PAWN_gender? вештався: вешталася} від міста до міста, беручись за випадкові підробітки та крадучи, щоб вижити.\n\nОдного дня у [PAWN_possessive] {PAWN_gender? стався нервовий зрив: стався нервовий зрив}, і [PAWN_pronoun] {PAWN_gender? влаштував: влаштувала} тривалу криваву бійню, зруйнувавши кілька міст і вбивши багатьох людей. Зрештою [PAWN_pronoun] {PAWN_gender? заспокоївся: заспокоїлася}, але жага до крові ніколи не {PAWN_gender? покидала його: покидала її}.</BloodyWanderer28.description>
   <!-- EN: bloody wanderer -->
   <BloodyWanderer28.title>кривавий мандрівник</BloodyWanderer28.title>
   <!-- EN: wanderer -->
   <BloodyWanderer28.titleShort>мандрівник</BloodyWanderer28.titleShort>
   <!-- EN: [PAWN_nameDef] was a self-employed bounty hunter. [PAWN_pronoun] spent [PAWN_possessive] days hunting space pirates and collecting cash bounties. -->
-  <BountyHunter17.description>[PAWN_nameDef] was a self-employed bounty hunter. [PAWN_pronoun] spent [PAWN_possessive] days hunting space pirates and collecting cash bounties.</BountyHunter17.description>
+  <BountyHunter17.description>[PAWN_nameDef] {PAWN_gender? був мисливцем: була мисливицею} за головами, що {PAWN_gender? працював сам: працювала сама} на себе. [PAWN_pronoun] {PAWN_gender? проводив: проводила} свої дні, полюючи на космічних піратів та збираючи винагороди за їхні голови.</BountyHunter17.description>
   <!-- EN: bounty hunter -->
   <BountyHunter17.title>мисливець за головами</BountyHunter17.title>
   <!-- EN: hunter -->
   <BountyHunter17.titleShort>мисливець</BountyHunter17.titleShort>
   <!-- EN: [PAWN_nameDef] was a bounty hunter on a massive glitterworld. [PAWN_pronoun] worked sensitive assignments for extremely wealthy clients, and was known for quiet execution and total discretion. -->
-  <BountyHunter41.description>[PAWN_nameDef] was a bounty hunter on a massive glitterworld. [PAWN_pronoun] worked sensitive assignments for extremely wealthy clients, and was known for quiet execution and total discretion.</BountyHunter41.description>
+  <BountyHunter41.description>[PAWN_nameDef] {PAWN_gender? був мисливцем: була мисливицею} за головами у величезному блискосвіті. [PAWN_pronoun] {PAWN_gender? виконував: виконувала} делікатні доручення для надзвичайно заможних клієнтів і {PAWN_gender? славився: славилася} тихим виконанням роботи та повною конфіденційністю.</BountyHunter41.description>
   <!-- EN: bounty hunter -->
   <BountyHunter41.title>мисливець з блискосвіту</BountyHunter41.title>
   <!-- EN: hunter -->
   <BountyHunter41.titleShort>мисливець</BountyHunter41.titleShort>
   <!-- EN: When the civil war ended, [PAWN_nameDef] had to find a new way to use [PAWN_possessive] fighting skills. [PAWN_pronoun] decided to hunt down war criminals and soon realized that [PAWN_pronoun] enjoyed capturing bad guys by any means necessary. -->
-  <BountyHunter93.description>When the civil war ended, [PAWN_nameDef] had to find a new way to use [PAWN_possessive] fighting skills. [PAWN_pronoun] decided to hunt down war criminals and soon realized that [PAWN_pronoun] enjoyed capturing bad guys by any means necessary.</BountyHunter93.description>
+  <BountyHunter93.description>Коли громадянська війна закінчилася, [PAWN_nameDef] {PAWN_gender? мусив знайти: мусила знайти} новий спосіб застосувати свої бойові навички. [PAWN_pronoun] {PAWN_gender? вирішив полювати: вирішила полювати} на військових злочинців і невдовзі {PAWN_gender? усвідомив: усвідомила}, що {PAWN_gender? йому подобається ловити: їй подобається ловити} поганців будь-якими методами.</BountyHunter93.description>
   <!-- EN: bounty hunter -->
   <BountyHunter93.title>військовий мисливець</BountyHunter93.title>
   <!-- EN: hunter -->
   <BountyHunter93.titleShort>мисливець</BountyHunter93.titleShort>
   <!-- EN: [PAWN_nameDef] flew with a band of brigands [PAWN_pronoun] called friends. [PAWN_pronoun] even had a ship of [PAWN_possessive] own - The Dung Mucker 2000. -->
-  <Brigand68.description>[PAWN_nameDef] flew with a band of brigands [PAWN_pronoun] called friends. [PAWN_pronoun] even had a ship of [PAWN_possessive] own - The Dung Mucker 2000.</Brigand68.description>
+  <Brigand68.description>[PAWN_nameDef] {PAWN_gender? літав: літала} з бандою розбійників, яких [PAWN_pronoun] {PAWN_gender? називав: називала} друзями. У {PAWN_gender? нього: неї} навіть був власний корабель — «Гноєчерп 2000».</Brigand68.description>
   <!-- EN: brigand -->
   <Brigand68.title>розбійник</Brigand68.title>
   <!-- EN: brigand -->
   <Brigand68.titleShort>розбійник</Brigand68.titleShort>
   <!-- EN: [PAWN_nameDef]'s peaceful life was cut short when [PAWN_possessive] country was brutally invaded.\n\n[PAWN_nameDef] was drafted into service as soon as [PAWN_pronoun] was of legal age, and quickly showed an aptitude for rifles. [PAWN_pronoun] spent months living in the forests picking off soldiers who dared cross the border. -->
-  <BushSniper94.description>[PAWN_nameDef]'s peaceful life was cut short when [PAWN_possessive] country was brutally invaded.\n\n[PAWN_nameDef] was drafted into service as soon as [PAWN_pronoun] was of legal age, and quickly showed an aptitude for rifles. [PAWN_pronoun] spent months living in the forests picking off soldiers who dared cross the border.</BushSniper94.description>
+  <BushSniper94.description>Мирне життя [PAWN_nameDef] обірвалося, коли в {PAWN_gender? його: її} країну жорстоко вдерлися загарбники.\n\n[PAWN_nameDef] {PAWN_gender? був призваний: була призвана} на службу, щойно {PAWN_gender? досяг: досягла} повноліття, і швидко {PAWN_gender? виявив хист: виявила хист} до стрільби з гвинтівки. [PAWN_pronoun] місяцями {PAWN_gender? жив: жила} у лісах, винищуючи солдатів, які наважувалися перетнути кордон.</BushSniper94.description>
   <!-- EN: bush sniper -->
   <BushSniper94.title>лісовий снайпер</BushSniper94.title>
   <!-- EN: sniper -->
   <BushSniper94.titleShort>снайпер</BushSniper94.titleShort>
   <!-- EN: Staying one step ahead of the law, [PAWN_nameDef] became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, [PAWN_nameDef]'s good fortune continued while [PAWN_possessive] competition suffered a series of unfortunate and unexplained accidents. -->
-  <BusinessGangster58.description>Staying one step ahead of the law, [PAWN_nameDef] became a legitimate businessman and silenced anyone who dared say otherwise. As proprietor of brothels, speakeasies and eateries, [PAWN_nameDef]'s good fortune continued while [PAWN_possessive] competition suffered a series of unfortunate and unexplained accidents.</BusinessGangster58.description>
+  <BusinessGangster58.description>Завжди залишаючись на крок попереду закону, [PAWN_nameDef] {PAWN_gender? став законним бізнесменом: стала законною бізнесвумен} і змушував замовкнути кожного, хто наважувався стверджувати зворотне. Як {PAWN_gender? власник: власниця} борделів, підпільних барів та забігайлівок, [PAWN_nameDef] {PAWN_gender? процвітав: процвітала}, тоді як конкурентів спіткала низка прикрих і несподіваних нещасних випадків.</BusinessGangster58.description>
   <!-- EN: business gangster -->
   <BusinessGangster58.title>бізнес гангстер</BusinessGangster58.title>
   <!-- EN: gangster -->
   <BusinessGangster58.titleShort>гангстер</BusinessGangster58.titleShort>
   <!-- EN: [PAWN_nameDef] was the leader of a caravan. [PAWN_pronoun] was responsible for the safety of [PAWN_possessive] caravan and was the head negotiator in countless trade deals.\n\n[PAWN_pronoun] and [PAWN_possessive] people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen. -->
-  <Caravaneer53.description>[PAWN_nameDef] was the leader of a caravan. [PAWN_pronoun] was responsible for the safety of [PAWN_possessive] caravan and was the head negotiator in countless trade deals.\n\n[PAWN_pronoun] and [PAWN_possessive] people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen.</Caravaneer53.description>
+  <Caravaneer53.description>[PAWN_nameDef] {PAWN_gender? був лідером: була лідеркою} каравану. [PAWN_pronoun] {PAWN_gender? відповідав: відповідала} за безпеку своєї групи та {PAWN_gender? виступав головним переговорником: виступала головною переговорницею} у незліченних торгових угодах.\n\n[PAWN_pronoun] та {PAWN_gender? його: її} люди процвітали, але багатство зробило їх мішенню для розбійників. Їм часто доводилося братися до зброї, щоб відбиватися від бандитів та грабіжників.</Caravaneer53.description>
   <!-- EN: caravaneer -->
   <Caravaneer53.title>лідер каравану</Caravaneer53.title>
   <!-- EN: caravaneer -->
   <Caravaneer53.titleShort>караванник</Caravaneer53.titleShort>
   <!-- EN: [PAWN_nameDef] was brought up by cargo hands on a long-haul ore transport ship. [PAWN_pronoun] perfected [PAWN_possessive] skills at trading and manipulation of people while running weapons between systems. -->
-  <CargoPilot58.description>[PAWN_nameDef] was brought up by cargo hands on a long-haul ore transport ship. [PAWN_pronoun] perfected [PAWN_possessive] skills at trading and manipulation of people while running weapons between systems.</CargoPilot58.description>
+  <CargoPilot58.description>[PAWN_nameDef] {PAWN_gender? виріс: виросла} серед вантажників на транспортному судні, що займалося далекими перевезеннями руди. [PAWN_pronoun] {PAWN_gender? вдосконалив: вдосконалила} свої навички торгівлі та маніпулювання людьми, поки {PAWN_gender? займався: займалася} контрабандою зброї між зоряними системами.</CargoPilot58.description>
   <!-- EN: cargo pilot -->
   <CargoPilot58.title>пілот вантажного корабля</CargoPilot58.title>
   <!-- EN: pilot -->
   <CargoPilot58.titleShort>пілот</CargoPilot58.titleShort>
   <!-- EN: [PAWN_nameDef] was fascinated with cryptosleep, and spent [PAWN_possessive] life learning about the mysterious technology.\n\nWorking as an assembler on a midworld, [PAWN_nameDef] built an experimental prototype casket from discarded parts. Unfortunately, while [PAWN_pronoun] was searching for the final component, [PAWN_possessive] home was leveled by a bomb. -->
-  <CasketBuilder52.description>[PAWN_nameDef] was fascinated with cryptosleep, and spent [PAWN_possessive] life learning about the mysterious technology.\n\nWorking as an assembler on a midworld, [PAWN_nameDef] built an experimental prototype casket from discarded parts. Unfortunately, while [PAWN_pronoun] was searching for the final component, [PAWN_possessive] home was leveled by a bomb.</CasketBuilder52.description>
+  <CasketBuilder52.description>[PAWN_nameDef] {PAWN_gender? був зачарований: була зачарована} криптосном і {PAWN_gender? присвятив: присвятила} своє життя вивченню цієї таємничої технології.\n\nПрацюючи складальником у середньосвіті, [PAWN_nameDef] {PAWN_gender? зібрав: зібрала} експериментальний прототип саркофагу з викинутих запчастин. На жаль, поки [PAWN_pronoun] {PAWN_gender? шукав: шукала} останній компонент, {PAWN_gender? його: її} будинок був дощенту зруйнований вибухом бомби.</CasketBuilder52.description>
   <!-- EN: casket builder -->
   <CasketBuilder52.title>будівельник саркофагів</CasketBuilder52.title>
   <!-- EN: builder -->
   <CasketBuilder52.titleShort>будівельник</CasketBuilder52.titleShort>
   <!-- EN: [PAWN_nameDef] was a passenger on a routine interstellar transit. When [PAWN_possessive] ship was destroyed, [PAWN_pronoun] lived as a castaway on an uninhabited planet for several years. -->
-  <Castaway81.description>[PAWN_nameDef] was a passenger on a routine interstellar transit. When [PAWN_possessive] ship was destroyed, [PAWN_pronoun] lived as a castaway on an uninhabited planet for several years.</Castaway81.description>
+  <Castaway81.description>[PAWN_nameDef] {PAWN_gender? був пасажиром: була пасажиркою} звичайного міжзоряного рейсу. Коли {PAWN_gender? його: її} корабель було знищено, [PAWN_pronoun] кілька років {PAWN_gender? прожив: прожила} як {PAWN_gender? вигнанець: вигнанка} на незаселеній планеті.</Castaway81.description>
   <!-- EN: castaway -->
   <Castaway81.title>загублений</Castaway81.title>
   <!-- EN: castaway -->
   <Castaway81.titleShort>загублений</Castaway81.titleShort>
   <!-- EN: [PAWN_nameDef] was a research chemist. [PAWN_pronoun] worked with chemicals, from pharmaceuticals to explosives, to develop new substances and treatments. -->
-  <Chemist73.description>[PAWN_nameDef] was a research chemist. [PAWN_pronoun] worked with chemicals, from pharmaceuticals to explosives, to develop new substances and treatments.</Chemist73.description>
+  <Chemist73.description>[PAWN_nameDef] {PAWN_gender? був хіміком-дослідником: була хімікинею-дослідницею}. [PAWN_pronoun] {PAWN_gender? працював: працювала} з різними речовинами — від фармацевтичних препаратів до вибухівки, розробляючи нові сполуки та методи лікування.</Chemist73.description>
   <!-- EN: chemist -->
   <Chemist73.title>хімік-науковець</Chemist73.title>
   <!-- EN: chemist -->
   <Chemist73.titleShort>хімік</Chemist73.titleShort>
   <!-- EN: [PAWN_nameDef] was a renowned chemist on a thriving midworld.\n\nAfter performing inhumane experiments that turned men into beasts, [PAWN_pronoun] was arrested and banished to a far-off rimworld. -->
-  <Chemist78.description>[PAWN_nameDef] was a renowned chemist on a thriving midworld.\n\nAfter performing inhumane experiments that turned men into beasts, [PAWN_pronoun] was arrested and banished to a far-off rimworld.</Chemist78.description>
+  <Chemist78.description>[PAWN_nameDef] {PAWN_gender? був відомим хіміком: була відомою хімікинею} у квітучому середньосвіті.\n\nПісля проведення нелюдських експериментів, що перетворювали людей на звірів, {PAWN_gender? його: її} заарештували й заслали у далекий прикордонний світ.</Chemist78.description>
   <!-- EN: chemist -->
   <Chemist78.title>хімік-злочинець</Chemist78.title>
   <!-- EN: chemist -->
   <Chemist78.titleShort>хімік</Chemist78.titleShort>
   <!-- EN: As chief engineer on board a large spaceship, [PAWN_nameDef] was an expert in all things fiddly and complex.\n\n[PAWN_pronoun] relied on other members of the crew for some of the basic necessities of life. [PAWN_pronoun] and [PAWN_possessive] ship eventually disappeared into a longsleep voyage of exploration. -->
-  <ChiefEngineer62.description>As chief engineer on board a large spaceship, [PAWN_nameDef] was an expert in all things fiddly and complex.\n\n[PAWN_pronoun] relied on other members of the crew for some of the basic necessities of life. [PAWN_pronoun] and [PAWN_possessive] ship eventually disappeared into a longsleep voyage of exploration.</ChiefEngineer62.description>
+  <ChiefEngineer62.description>Як головний інженер на борту величезного космічного корабля, [PAWN_nameDef] {PAWN_gender? був експертом: була експерткою} у всьому тонкому та складному.\n\n[PAWN_pronoun] {PAWN_gender? покладався: покладалася} на інших членів екіпажу навіть у базових побутових справах. Зрештою [PAWN_pronoun] разом зі своїм кораблем {PAWN_gender? вирушив: вирушила} у далеку дослідницьку експедицію в стані тривалого сну.</ChiefEngineer62.description>
   <!-- EN: chief engineer -->
   <ChiefEngineer62.title>головний інженер</ChiefEngineer62.title>
   <!-- EN: engineer -->
   <ChiefEngineer62.titleShort>інженер</ChiefEngineer62.titleShort>
   <!-- EN: [PAWN_nameDef] was a well-known civil engineer. [PAWN_possessive] job involved designing and maintaining rock fortification structures. [PAWN_pronoun] did enough statistical analysis to keep [PAWN_possessive] mind sharp. -->
-  <CivilEngineer2.description>[PAWN_nameDef] was a well-known civil engineer. [PAWN_possessive] job involved designing and maintaining rock fortification structures. [PAWN_pronoun] did enough statistical analysis to keep [PAWN_possessive] mind sharp.</CivilEngineer2.description>
+  <CivilEngineer2.description>[PAWN_nameDef] {PAWN_gender? був відомим інженером-будівельником: була відомою інженеркою-будівельницею}. {PAWN_gender? Його: Її} робота полягала в проєктуванні та обслуговуванні скельних оборонних споруд. [PAWN_pronoun] {PAWN_gender? проводив: проводила} достатньо статистичного аналізу, щоб тримати свій розум у тонусі.</CivilEngineer2.description>
   <!-- EN: civil engineer -->
   <CivilEngineer2.title>інженер-будівельник</CivilEngineer2.title>
   <!-- EN: engineer -->
   <CivilEngineer2.titleShort>інженер</CivilEngineer2.titleShort>
   <!-- EN: [PAWN_nameDef] was bureaucrat in the civil service.\n\nAlthough [PAWN_possessive] family connections took [PAWN_objective] far, [PAWN_possessive] vocal opposition to [PAWN_possessive] bosses' plans hindered [PAWN_possessive] advancement. Called a "red prince" by some, [PAWN_nameDef] sympathized with the poor, leading ultimately to disgrace in [PAWN_possessive] career. -->
-  <CivilServant25.description>[PAWN_nameDef] was bureaucrat in the civil service.\n\nAlthough [PAWN_possessive] family connections took [PAWN_objective] far, [PAWN_possessive] vocal opposition to [PAWN_possessive] bosses' plans hindered [PAWN_possessive] advancement. Called a "red prince" by some, [PAWN_nameDef] sympathized with the poor, leading ultimately to disgrace in [PAWN_possessive] career.</CivilServant25.description>
+  <CivilServant25.description>[PAWN_nameDef] {PAWN_gender? був бюрократом: була бюрократкою} на державній службі.\n\nХоча сімейні зв'язки допомогли {PAWN_gender? йому: їй} досягти чималих успіхів, відкрита опозиція до планів керівництва завадила подальшому просуванню кар'єрними сходами. [PAWN_nameDef], якого дехто називав «червоним принцом», співчував бідним, що зрештою призвело до безславного кінця {PAWN_gender? його: її} кар'єри.</CivilServant25.description>
   <!-- EN: Civil servant -->
   <CivilServant25.title>державний службовець</CivilServant25.title>
   <!-- EN: Bureaucrat -->
   <CivilServant25.titleShort>чиновник</CivilServant25.titleShort>
   <!-- EN: [PAWN_nameDef] managed a small criminal clan on an outlying trade hub world. -->
-  <ClanChief14.description>[PAWN_nameDef] managed a small criminal clan on an outlying trade hub world.</ClanChief14.description>
+  <ClanChief14.description>[PAWN_nameDef] {PAWN_gender? керував: керувала} невеликим кримінальним кланом у віддаленому торговому хабі.</ClanChief14.description>
   <!-- EN: clan chief -->
   <ClanChief14.title>ватажок клану</ClanChief14.title>
   <!-- EN: chief -->
@@ -295,115 +296,115 @@
   <!-- EN: cloner -->
   <CloneFarmer58.titleShort>клон</CloneFarmer58.titleShort>
   <!-- EN: Applying the knowledge that [PAWN_pronoun] gained from years around fighters, [PAWN_pronoun] became a successful gladiator in the coliseum that [PAWN_pronoun] once cleaned. -->
-  <ColiseumFighter22.description>Applying the knowledge that [PAWN_pronoun] gained from years around fighters, [PAWN_pronoun] became a successful gladiator in the coliseum that [PAWN_pronoun] once cleaned.</ColiseumFighter22.description>
+  <ColiseumFighter22.description>Застосувавши знання, здобуті за роки перебування серед бійців, [PAWN_pronoun] {PAWN_gender? став успішним гладіатором: стала успішною гладіаторкою} у колізеї, який колись {PAWN_gender? прибирав: прибирала}.</ColiseumFighter22.description>
   <!-- EN: coliseum fighter -->
   <ColiseumFighter22.title>боєць колізею</ColiseumFighter22.title>
   <!-- EN: fighter -->
   <ColiseumFighter22.titleShort>гладіатор</ColiseumFighter22.titleShort>
   <!-- EN: Disillusioned by rampant government corruption, [PAWN_nameDef] ran for governor and won. However, the local gangs and their pet officials soon forced [PAWN_objective] out of power.\n\n[PAWN_pronoun] left the community to return to [PAWN_possessive] life as a marshal. -->
-  <ColonialGovernor78.description>Disillusioned by rampant government corruption, [PAWN_nameDef] ran for governor and won. However, the local gangs and their pet officials soon forced [PAWN_objective] out of power.\n\n[PAWN_pronoun] left the community to return to [PAWN_possessive] life as a marshal.</ColonialGovernor78.description>
+  <ColonialGovernor78.description>Розчарувавшись у повсюдній державній корупції, [PAWN_nameDef] {PAWN_gender? балотувався: балотувалася} у губернатори й {PAWN_gender? переміг: перемогла}. Проте місцеві банди та їхні ручні чиновники невдовзі усунули {PAWN_gender? його: її} від влади.\n\n[PAWN_pronoun] {PAWN_gender? покинув: покинула} громаду, щоб повернутися до свого життя маршала.</ColonialGovernor78.description>
   <!-- EN: colonial governor -->
   <ColonialGovernor78.title>губернатор</ColonialGovernor78.title>
   <!-- EN: governor -->
   <ColonialGovernor78.titleShort>губернатор</ColonialGovernor78.titleShort>
   <!-- EN: The children took over the facility, and they declared independence from the corporation.\n\n[PAWN_nameDef] had used the VR system to become a master engineer, and [PAWN_pronoun] worked diligently to prepare the colony for the corporation's inevitable return. -->
-  <ColonyEngineer7.description>The children took over the facility, and they declared independence from the corporation.\n\n[PAWN_nameDef] had used the VR system to become a master engineer, and [PAWN_pronoun] worked diligently to prepare the colony for the corporation's inevitable return.</ColonyEngineer7.description>
+  <ColonyEngineer7.description>Діти захопили об'єкт і проголосили незалежність від корпорації.\n\n[PAWN_nameDef] {PAWN_gender? використовував: використовувала} систему віртуальної реальності, щоб стати майстерним інженером, і старанно {PAWN_gender? працював: працювала}, готуючи колонію до неминучого повернення корпорації.</ColonyEngineer7.description>
   <!-- EN: colony engineer -->
   <ColonyEngineer7.title>інженер колонії</ColonyEngineer7.title>
   <!-- EN: engineer -->
   <ColonyEngineer7.titleShort>інженер</ColonyEngineer7.titleShort>
   <!-- EN: [PAWN_nameDef] was recruited by the military as an engineer and set to work improving the navy's space shuttles. The harsh training taught [PAWN_objective] how to build and repair military vehicles and structures.\n\nOne mission left [PAWN_nameDef] with pyrophobia and a strong desire to avoid plants. -->
-  <CombatEngineer30.description>[PAWN_nameDef] was recruited by the military as an engineer and set to work improving the navy's space shuttles. The harsh training taught [PAWN_objective] how to build and repair military vehicles and structures.\n\nOne mission left [PAWN_nameDef] with pyrophobia and a strong desire to avoid plants.</CombatEngineer30.description>
+  <CombatEngineer30.description>[PAWN_nameDef] {PAWN_gender? був призваний: була призвана} до армії як інженер і {PAWN_gender? працював: працювала} над удосконаленням космічних шатлів флоту. Суворі тренування навчили {PAWN_gender? його: її} будувати та ремонтувати військову техніку та споруди.\n\nОдна з місій залишила [PAWN_nameDef] із пірофобією та стійким бажанням триматися подалі від рослин.</CombatEngineer30.description>
   <!-- EN: combat engineer -->
   <CombatEngineer30.title>військовий інженер</CombatEngineer30.title>
   <!-- EN: engineer -->
   <CombatEngineer30.titleShort>інженер</CombatEngineer30.titleShort>
   <!-- EN: [PAWN_nameDef] became a combat engineer. [PAWN_pronoun] built bases, fixed guns, and repaired vehicles for the army - when [PAWN_pronoun] wasn't shooting at people, that is. -->
-  <CombatEngineer4.description>[PAWN_nameDef] became a combat engineer. [PAWN_pronoun] built bases, fixed guns, and repaired vehicles for the army - when [PAWN_pronoun] wasn't shooting at people, that is.</CombatEngineer4.description>
+  <CombatEngineer4.description>[PAWN_nameDef] {PAWN_gender? став військовим інженером: стала військовою інженеркою}. [PAWN_pronoun] {PAWN_gender? будував: будувала} бази, ладнав {PAWN_gender? гармати: ладнала гармати} та {PAWN_gender? ремонтував: ремонтувала} техніку для армії — звісно, коли не {PAWN_gender? відстрілював: відстрілювала} людей.</CombatEngineer4.description>
   <!-- EN: combat engineer -->
   <CombatEngineer4.title>бойовий інженер</CombatEngineer4.title>
   <!-- EN: engineer -->
   <CombatEngineer4.titleShort>інженер</CombatEngineer4.titleShort>
   <!-- EN: After [PAWN_possessive] home country entered a large-scale war, [PAWN_nameDef] was drafted into the army as a combat medic.\n\n[PAWN_possessive] few years in the trenches trying to keep [PAWN_possessive] fellow soldiers alive gave [PAWN_objective] an acute sense for first aid. Losing many friend has made [PAWN_objective] stoic and reserved. -->
-  <CombatMedic82.description>After [PAWN_possessive] home country entered a large-scale war, [PAWN_nameDef] was drafted into the army as a combat medic.\n\n[PAWN_possessive] few years in the trenches trying to keep [PAWN_possessive] fellow soldiers alive gave [PAWN_objective] an acute sense for first aid. Losing many friend has made [PAWN_objective] stoic and reserved.</CombatMedic82.description>
+  <CombatMedic82.description>Після того як {PAWN_gender? його: її} країна вступила у масштабну війну, [PAWN_nameDef] {PAWN_gender? був призваний: була призвана} до армії як бойовий медик.\n\nКілька років в окопах, проведених у спробах врятувати життя побратимів, навчили {PAWN_gender? його: її} майстерно надавати першу допомогу. Втрата багатьох друзів зробила {PAWN_gender? його: її} {PAWN_gender? стоїчним та замкнутим: стоїчною та замкнутою}.</CombatMedic82.description>
   <!-- EN: combat medic -->
   <CombatMedic82.title>бойовий медик</CombatMedic82.title>
   <!-- EN: medic -->
   <CombatMedic82.titleShort>медик</CombatMedic82.titleShort>
   <!-- EN: As a military medtech, [PAWN_nameDef]'s job was to fix and build anything [PAWN_pronoun] could get [PAWN_possessive] hands on, from living people to machines and mechs.\n\nSent into dangerous areas, [PAWN_pronoun] never had a problem saving soldiers' lives and building the technology and machines needed to win. -->
-  <CombatMedtech59.description>As a military medtech, [PAWN_nameDef]'s job was to fix and build anything [PAWN_pronoun] could get [PAWN_possessive] hands on, from living people to machines and mechs.\n\nSent into dangerous areas, [PAWN_pronoun] never had a problem saving soldiers' lives and building the technology and machines needed to win.</CombatMedtech59.description>
+  <CombatMedtech59.description>Як військовий медтехнік, [PAWN_nameDef] {PAWN_gender? мав: мала} за обов'язок ладнати й будувати все, що потрапляло під руку — від живих людей до машин і механоїдів.\n\n{PAWN_gender? Відправлений: Відправлена} у найгарячіші точки, [PAWN_pronoun] без вагань рятував життя солдатів і створював технології та машини, необхідні для перемоги.</CombatMedtech59.description>
   <!-- EN: combat medtech -->
   <CombatMedtech59.title>бойовий медтехнік</CombatMedtech59.title>
   <!-- EN: medic -->
   <CombatMedtech59.titleShort>медтехнік</CombatMedtech59.titleShort>
   <!-- EN: After escaping [PAWN_possessive] homeworld, [PAWN_nameDef] took [PAWN_possessive] skills to the stars.\n\n[PAWN_pronoun] chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. [PAWN_possessive] specialty was negotiation in combat situations. -->
-  <CombatNegotiator31.description>After escaping [PAWN_possessive] homeworld, [PAWN_nameDef] took [PAWN_possessive] skills to the stars.\n\n[PAWN_pronoun] chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. [PAWN_possessive] specialty was negotiation in combat situations.</CombatNegotiator31.description>
+  <CombatNegotiator31.description>Втікши зі своєї рідної планети, [PAWN_nameDef] {PAWN_gender? вирушив підкорювати зірки: вирушила підкорювати зірки}, застосовуючи свої навички в глибинах космосу.\n\n[PAWN_pronoun] {PAWN_gender? обрав шлях найманця: обрала шлях найманки}, працюючи на різноманітні повстанські організації, групи рабів та торгові анклави. {PAWN_gender? Його: Її} спеціалізацією було ведення переговорів у бойових умовах.</CombatNegotiator31.description>
   <!-- EN: combat negotiator -->
   <CombatNegotiator31.title>бойовий перемовник</CombatNegotiator31.title>
   <!-- EN: negotiator -->
   <CombatNegotiator31.titleShort>перемовник</CombatNegotiator31.titleShort>
   <!-- EN: After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective]. -->
-  <CommonerLord45.description>After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective].</CommonerLord45.description>
+  <CommonerLord45.description>Після років навчання бойовим мистецтвам та дипломатії, [PAWN_nameDef] зрештою {PAWN_gender? отримав: отримала} власні землі та підданих для правління.\n\nЧерез простолюдне походження [PAWN_nameDef], інші лорди ставилися до {PAWN_gender? нього: неї} з презирством. Вони підставили {PAWN_gender? його: її}, звинувативши у жахливому злочині, і в імператора не залишилося іншого вибору, окрім як вигнати {PAWN_gender? його: її}.</CommonerLord45.description>
   <!-- EN: commoner lord -->
   <CommonerLord45.title>лорд-простолюдин</CommonerLord45.title>
   <!-- EN: lord -->
   <CommonerLord45.titleShort>лорд</CommonerLord45.titleShort>
   <!-- EN: Bored of [PAWN_possessive] code-monkey office job and missing the glory days of the Academy, [PAWN_nameDef] saw a commercial about the frontier where "only the strong survive".\n\nWith [PAWN_possessive] wife Morgan, [PAWN_nameDef] undertook a journey into the unknown. -->
-  <ComputerEngineer10.description>Bored of [PAWN_possessive] code-monkey office job and missing the glory days of the Academy, [PAWN_nameDef] saw a commercial about the frontier where "only the strong survive".\n\nWith [PAWN_possessive] wife Morgan, [PAWN_nameDef] undertook a journey into the unknown.</ComputerEngineer10.description>
+  <ComputerEngineer10.description>Скучивши на офісній роботі «кодової мавпи» та сумуючи за славними днями в Академії, [PAWN_nameDef] {PAWN_gender? побачив: побачила} рекламу про фронтир, де «виживають лише найсильніші».\n\nРазом зі своєю дружиною Морган, [PAWN_nameDef] {PAWN_gender? вирушив: вирушила} у подорож у невідоме.</ComputerEngineer10.description>
   <!-- EN: computer engineer -->
   <ComputerEngineer10.title>комп'ютерний технік</ComputerEngineer10.title>
   <!-- EN: tech head -->
   <ComputerEngineer10.titleShort>технік</ComputerEngineer10.titleShort>
   <!-- EN: Leveraging [PAWN_possessive] childhood experience, [PAWN_nameDef] became a computer engineer. [PAWN_pronoun] also learned to craft delicate sculptures and random electronics for fun.\n\n[PAWN_nameDef] became fond of technology and mostly gave up on talking to people. Using computers as friends has left [PAWN_nameDef] unable to care for others. -->
-  <ComputerEngineer36.description>Leveraging [PAWN_possessive] childhood experience, [PAWN_nameDef] became a computer engineer. [PAWN_pronoun] also learned to craft delicate sculptures and random electronics for fun.\n\n[PAWN_nameDef] became fond of technology and mostly gave up on talking to people. Using computers as friends has left [PAWN_nameDef] unable to care for others.</ComputerEngineer36.description>
+  <ComputerEngineer36.description>Спираючись на досвід, здобутий у дитинстві, [PAWN_nameDef] {PAWN_gender? став інженером-програмістом: стала інженеркою-програмісткою}. Також задля забави [PAWN_pronoun] {PAWN_gender? навчився: навчилася} створювати витончені скульптури та різноманітну електроніку.\n\n[PAWN_nameDef] так {PAWN_gender? захопився: захопилася} технологіями, що майже {PAWN_gender? перестав: перестала} спілкуватися з людьми. Оскільки комп'ютери стали {PAWN_gender? його: її} єдиними друзями, [PAWN_nameDef] тепер не {PAWN_gender? здатний: здатна} піклуватися про інших.</ComputerEngineer36.description>
   <!-- EN: computer engineer -->
   <ComputerEngineer36.title>комп'ютерний інженер</ComputerEngineer36.title>
   <!-- EN: engineer -->
   <ComputerEngineer36.titleShort>інженер</ComputerEngineer36.titleShort>
   <!-- EN: After [PAWN_nameDef] had completed all of [PAWN_possessive] surgeries, [PAWN_pronoun] found that [PAWN_pronoun] had a lot of time and energy to dedicate to [PAWN_possessive] passion: trinket crafting. [PAWN_pronoun] spent years perfecting [PAWN_possessive] art as a jeweler, then left [PAWN_possessive] home world to sell [PAWN_possessive] wares across the galaxy. -->
-  <CoreworldJeweler19.description>After [PAWN_nameDef] had completed all of [PAWN_possessive] surgeries, [PAWN_pronoun] found that [PAWN_pronoun] had a lot of time and energy to dedicate to [PAWN_possessive] passion: trinket crafting. [PAWN_pronoun] spent years perfecting [PAWN_possessive] art as a jeweler, then left [PAWN_possessive] home world to sell [PAWN_possessive] wares across the galaxy.</CoreworldJeweler19.description>
+  <CoreworldJeweler19.description>Завершивши всі свої хірургічні операції, [PAWN_nameDef] {PAWN_gender? виявив: виявила}, що має багато часу та енергії, щоб присвятити їх своїй пристрасті — виготовленню дрібничок. [PAWN_pronoun] роками {PAWN_gender? вдосконалював: вдосконалювала} свою майстерність ювеліра, а згодом {PAWN_gender? покинув: покинула} рідний світ, щоб продавати свої вироби по всій галактиці.</CoreworldJeweler19.description>
   <!-- EN: coreworld jeweler -->
   <CoreworldJeweler19.title>ювелір</CoreworldJeweler19.title>
   <!-- EN: jeweler -->
   <CoreworldJeweler19.titleShort>ювелір</CoreworldJeweler19.titleShort>
   <!-- EN: Even as [PAWN_pronoun] stewed in [PAWN_possessive] own wasted potential, [PAWN_nameDef] found [PAWN_pronoun] had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.\n\nUnfortunately, the monotonous work erased [PAWN_possessive] remaining creative impulses. -->
-  <CorporateBuilder58.description>Even as [PAWN_pronoun] stewed in [PAWN_possessive] own wasted potential, [PAWN_nameDef] found [PAWN_pronoun] had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.\n\nUnfortunately, the monotonous work erased [PAWN_possessive] remaining creative impulses.</CorporateBuilder58.description>
+  <CorporateBuilder58.description>Навіть поки [PAWN_nameDef] {PAWN_gender? гриз себе: гризла себе} через змарнований потенціал, {PAWN_gender? він виявив: вона виявила} у себе хист до швидкого переміщення об'єктів. Це було саме те, чого планетарні мегакорпорації шукали для своїх будівельних підрозділів.\n\nНа жаль, монотонна робота остаточно знищила {PAWN_gender? його: її} творчі задатки.</CorporateBuilder58.description>
   <!-- EN: corporate builder -->
   <CorporateBuilder58.title>корпоративний будівельник</CorporateBuilder58.title>
   <!-- EN: builder -->
   <CorporateBuilder58.titleShort>будівельник</CorporateBuilder58.titleShort>
   <!-- EN: [PAWN_nameDef] was sold to a corporation and put to work as a corporate slave doing scientific research.\n\nUnable to adapt to the social politics of [PAWN_possessive] workplace, [PAWN_pronoun] buried [PAWN_objective]self in [PAWN_possessive] work and failed to progress up the corporate ladder. Every day, [PAWN_pronoun] yearned to be left alone. -->
-  <CorpResearcher71.description>[PAWN_nameDef] was sold to a corporation and put to work as a corporate slave doing scientific research.\n\nUnable to adapt to the social politics of [PAWN_possessive] workplace, [PAWN_pronoun] buried [PAWN_objective]self in [PAWN_possessive] work and failed to progress up the corporate ladder. Every day, [PAWN_pronoun] yearned to be left alone.</CorpResearcher71.description>
+  <CorpResearcher71.description>[PAWN_nameDef] {PAWN_gender? був проданий: була продана} корпорації та {PAWN_gender? працював: працювала} як корпоративний раб, займаючись науковими дослідженнями.\n\nНе здатний пристосуватися до соціальної політики на робочому місці, [PAWN_pronoun] з головою {PAWN_gender? занурився: занурилася} у роботу, так і не зумівши просунутися кар'єрними сходами. Щодня [PAWN_pronoun] понад усе {PAWN_gender? прагнув: прагнула}, щоб {PAWN_gender? його: її} дали спокій.</CorpResearcher71.description>
   <!-- EN: corp researcher -->
   <CorpResearcher71.title>корпоративний дослідник</CorpResearcher71.title>
   <!-- EN: researcher -->
   <CorpResearcher71.titleShort>дослідник</CorpResearcher71.titleShort>
   <!-- EN: [PAWN_nameDef] was a leading researcher for a massive space exploration corporation. -->
-  <CorpResearcher93.description>[PAWN_nameDef] was a leading researcher for a massive space exploration corporation.</CorpResearcher93.description>
+  <CorpResearcher93.description>[PAWN_nameDef] {PAWN_gender? був провідним дослідником: була провідною дослідницею} у величезній корпорації з освоєння космосу.</CorpResearcher93.description>
   <!-- EN: corp researcher -->
   <CorpResearcher93.title>головний дослідник корпорації</CorpResearcher93.title>
   <!-- EN: researcher -->
   <CorpResearcher93.titleShort>дослідник</CorpResearcher93.titleShort>
   <!-- EN: The glitterworld audience wasn't yet ready for [PAWN_nameDef]'s Vidtube series with all of its spanners and hammers and planners - that kind of work's for mechanoids, they said! Undeterred, [PAWN_pronoun] set out for the stars, in search of people who would appreciate [PAWN_possessive] skills. The wildlife out there looks scary, though... -->
-  <CosmeticReject64.description>The glitterworld audience wasn't yet ready for [PAWN_nameDef]'s Vidtube series with all of its spanners and hammers and planners - that kind of work's for mechanoids, they said! Undeterred, [PAWN_pronoun] set out for the stars, in search of people who would appreciate [PAWN_possessive] skills. The wildlife out there looks scary, though...</CosmeticReject64.description>
+  <CosmeticReject64.description>Аудиторія блискосвіту ще не була готова до серії відео [PAWN_nameDef] на Vidtube з усіма цими гайковими ключами, молотками та кресленнями — мовляв, така робота для механоїдів! Не гаючи віри, [PAWN_pronoun] {PAWN_gender? вирушив: вирушила} до зірок у пошуках людей, які б оцінили {PAWN_gender? його: її} майстерність. Щоправда, місцева дика природа виглядає лячно...</CosmeticReject64.description>
   <!-- EN: traveling handywoman -->
-  <CosmeticReject64.title>traveling handywoman</CosmeticReject64.title>
+  <CosmeticReject64.title>мандрівна майстриня на всі руки</CosmeticReject64.title>
   <!-- EN: handywoman -->
-  <CosmeticReject64.titleShort>handywoman</CosmeticReject64.titleShort>
+  <CosmeticReject64.titleShort>майстриня на всі руки</CosmeticReject64.titleShort>
   <!-- EN: [PAWN_nameDef] had a terrible bedside manner due to [PAWN_possessive] abrasiveness. [PAWN_pronoun] often bullied [PAWN_possessive] patients into getting cosmetic surgery. [PAWN_pronoun] made a lot of money this way.\n\nWhile very studious and careful in [PAWN_possessive] work, [PAWN_pronoun] never had to lift a finger doing domestic chores. -->
-  <CosmeticSurgeon36.description>[PAWN_nameDef] had a terrible bedside manner due to [PAWN_possessive] abrasiveness. [PAWN_pronoun] often bullied [PAWN_possessive] patients into getting cosmetic surgery. [PAWN_pronoun] made a lot of money this way.\n\nWhile very studious and careful in [PAWN_possessive] work, [PAWN_pronoun] never had to lift a finger doing domestic chores.</CosmeticSurgeon36.description>
+  <CosmeticSurgeon36.description>Через свою грубість [PAWN_nameDef] абсолютно не {PAWN_gender? вмів поводитися: вміла поводитися} з пацієнтами. [PAWN_pronoun] часто змушував {PAWN_gender? їх: їх} до пластичних операцій за допомогою залякувань та тиску. Таким чином [PAWN_pronoun] {PAWN_gender? заробив: заробила} чимало грошей.\n\nПопри старанність і обережність у роботі, [PAWN_pronoun] ніколи й пальцем не {PAWN_gender? вдарив: вдарила} об палець заради хатніх справ.</CosmeticSurgeon36.description>
   <!-- EN: cosmetic surgeon -->
   <CosmeticSurgeon36.title>пластичний хірург</CosmeticSurgeon36.title>
   <!-- EN: surgeon -->
   <CosmeticSurgeon36.titleShort>хірург</CosmeticSurgeon36.titleShort>
   <!-- EN: By day, [PAWN_nameDef] was an office worker on a midworld. At night, [PAWN_pronoun] designed and built elaborate monster costumes for science fiction conventions.\n\n[PAWN_pronoun] learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal. -->
-  <CostumeCrafter41.description>By day, [PAWN_nameDef] was an office worker on a midworld. At night, [PAWN_pronoun] designed and built elaborate monster costumes for science fiction conventions.\n\n[PAWN_pronoun] learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal.</CostumeCrafter41.description>
+  <CostumeCrafter41.description>Вдень [PAWN_nameDef] був офісним службовцем на середньосвіті, а вночі [PAWN_pronoun] майстрував химерні костюми монстрів для науково-фантастичних конвенцій.\n\n[PAWN_pronoun] добре освоїв шиття, але ціна була висока — кулінарні навички залишилися на рівні «залив кип’ятком і готово».</CostumeCrafter41.description>
   <!-- EN: costume crafter -->
   <CostumeCrafter41.title>костюмер</CostumeCrafter41.title>
   <!-- EN: costumer -->
   <CostumeCrafter41.titleShort>костюмер</CostumeCrafter41.titleShort>
   <!-- EN: [PAWN_nameDef] locked [PAWN_objective]self in [PAWN_possessive] studio for years, ordering delivery food to save time on cooking.\n\nEventually, [PAWN_possessive] creations brought [PAWN_objective] the highest honor on Semantic World: Permission to materialize any design in minutes using the most advanced technologies. -->
-  <CraftShaper37.description>[PAWN_nameDef] locked [PAWN_objective]self in [PAWN_possessive] studio for years, ordering delivery food to save time on cooking.\n\nEventually, [PAWN_possessive] creations brought [PAWN_objective] the highest honor on Semantic World: Permission to materialize any design in minutes using the most advanced technologies.</CraftShaper37.description>
+  <CraftShaper37.description>[PAWN_nameDef] роками зачиняв [PAWN_objective]self у своїй студії, замовляючи доставку їжі, щоб не витрачати час на кулінарні експерименти.\n\n Зрештою, [PAWN_possessive] творіння принесли [PAWN_objective] найвищу честь на Семантичному світі: дозвіл матеріалізувати будь-який дизайн за хвилини, використовуючи найсучасніші технології — бо навіщо готувати борщ, якщо можна створити космічний корабель.</CraftShaper37.description>
   <!-- EN: craft shaper -->
   <CraftShaper37.title>формувач</CraftShaper37.title>
   <!-- EN: shaper -->
@@ -469,19 +470,19 @@
   <!-- EN: dude -->
   <DreadedDude58.titleShort>чувак</DreadedDude58.titleShort>
   <!-- EN: Having caught the eye of [PAWN_possessive] people's Sand King, [PAWN_nameDef] was trained in the Sandy Boomrat fighting technique.\n\nAlways with a camel to carry [PAWN_possessive] things, [PAWN_pronoun] served [PAWN_possessive] sand people faithfully. -->
-  <DromedaryKnight37.description>Having caught the eye of [PAWN_possessive] people's Sand King, [PAWN_nameDef] was trained in the Sandy Boomrat fighting technique.\n\nAlways with a camel to carry [PAWN_possessive] things, [PAWN_pronoun] served [PAWN_possessive] sand people faithfully.</DromedaryKnight37.description>
+  <DromedaryKnight37.description>Привернувши увагу Піщаного Короля свого народу, [PAWN_nameDef] був навчений техніці бою Sandy Boomrat.\n\nЗавжди маючи верблюда для перенесення [PAWN_possessive] речей, [PAWN_pronoun] вірно служив своїм піщаним людям — бо справжня відданість вимірюється не мечем, а кількістю піску у взутті.</DromedaryKnight37.description>
   <!-- EN: dromedary knight -->
   <DromedaryKnight37.title>піщаний лицар</DromedaryKnight37.title>
   <!-- EN: knight -->
   <DromedaryKnight37.titleShort>лицар</DromedaryKnight37.titleShort>
   <!-- EN: [PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean. -->
-  <DrugLieutenant98.description>[PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean.</DrugLieutenant98.description>
+  <DrugLieutenant98.description>[PAWN_nameDef] працював у наркоторгівлі під керівництвом боса Grady Loughman. [PAWN_pronoun] змушував [PAWN_possessive] людей продавати наркотики, коли це було вигідно, і воювати з іншими картелями, коли влада починала тиснути.\n\n[PAWN_possessive] соціальні навички тримали [PAWN_objective] на вершині політичної гри, а слуги завжди готували й прибирали — бо справжня влада починається там, де ти навіть не миєш власний посуд.</DrugLieutenant98.description>
   <!-- EN: drug lieutenant -->
   <DrugLieutenant98.title>наркоторговець</DrugLieutenant98.title>
   <!-- EN: drugman -->
   <DrugLieutenant98.titleShort>наркоторговець</DrugLieutenant98.titleShort>
   <!-- EN: [PAWN_nameDef] was working on an idea for rapid communication over long distances. [PAWN_pronoun] made an error which destroyed [PAWN_possessive] lab and several nearby buildings. [PAWN_pronoun] fled the planet to escape the authorities. -->
-  <EnergyResearcher89.description>[PAWN_nameDef] was working on an idea for rapid communication over long distances. [PAWN_pronoun] made an error which destroyed [PAWN_possessive] lab and several nearby buildings. [PAWN_pronoun] fled the planet to escape the authorities.</EnergyResearcher89.description>
+  <EnergyResearcher89.description>[PAWN_nameDef] працював над ідеєю швидкого зв’язку на великі відстані. [PAWN_pronoun] допустив помилку, яка знищила [PAWN_possessive] лабораторію та кілька сусідніх будівель. [PAWN_pronoun] утік з планети, щоб уникнути переслідування владою — бо після такого вибуху навіть найкраще резюме виглядає як список доказів.</EnergyResearcher89.description>
   <!-- EN: energy researcher -->
   <EnergyResearcher89.title>дослідник комунікацій</EnergyResearcher89.title>
   <!-- EN: researcher -->
@@ -709,7 +710,7 @@
   <!-- EN: hired gun -->
   <HiredGun70.titleShort>найманець</HiredGun70.titleShort>
   <!-- EN: Knowing what life on the streets was truly like, [PAWN_nameDef] slipped into police work. However, a particularly disturbing case ended with [PAWN_objective] beating the perpetrator to death.\n\nDishonorably discharged from [PAWN_possessive] duties, [PAWN_pronoun] used [PAWN_possessive] contacts and skills to find work as a thug for hire. -->
-  <HiredMuscle5.description>Knowing what life on the streets was truly like, [PAWN_nameDef] slipped into police work. However, a particularly disturbing case ended with [PAWN_objective] beating the perpetrator to death.\n\nDishonorably discharged from [PAWN_possessive] duties, [PAWN_pronoun] used [PAWN_possessive] contacts and skills to find work as a thug for hire.</HiredMuscle5.description>
+  <HiredMuscle5.description>Знаючи справжнє життя на вулицях, [PAWN_nameDef] пішов на службу в поліцію, але особливо моторошна справа закінчилася тим, що [PAWN_objective] забив злочинця на смерть.\n\n Після ганебного звільнення зі служби [PAWN_pronoun] використав [PAWN_possessive] зв’язки та навички, щоб працювати як найманий головоріз.</HiredMuscle5.description>
   <!-- EN: hired muscle -->
   <HiredMuscle5.title>коп-найманець</HiredMuscle5.title>
   <!-- EN: hired thug -->

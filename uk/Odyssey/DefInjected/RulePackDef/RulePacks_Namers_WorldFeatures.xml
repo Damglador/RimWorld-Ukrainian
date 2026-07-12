@@ -17,18 +17,18 @@
   -->
   <NamerGlacialPlain.rulePack.rulesStrings>
     <li>r_name(p=0.2)->[glacialPlain_adjective_mas] [narrative_name_mas]</li>
-    <li>glacialPlain_adjective(p=2)->glacial</li>
-    <li>glacialPlain_adjective->frigid</li>
-    <li>glacialPlain_adjective->icy</li>
-    <li>glacialPlain_adjective_mas(p=2)->льодовиковий</li>
-    <li>glacialPlain_adjective->frozen</li>
-    <li>terrain_word->glacier</li>
-    <li>terrain_word(p=0.5)->icefield</li>
-    <li>glacialPlain_adjective_mas->морозний</li>
-    <li>terrain_word(p=0.3)->field</li>
-    <li>terrain_word(p=0.3)->glacial plain</li>
-    <li>terrain_word(p=0.3)->stretch</li>
-    <li>glacialPlain_adjective_mas->крижаний</li>
+    <li>glacialPlain_adjective(p=2)->льодовикова</li>
+    <li>glacialPlain_adjective->холодна</li>
+    <li>glacialPlain_adjective->льодова</li>
+    <li>glacialPlain_adjective->велична</li>
+    <li>glacialPlain_adjective->замерзла</li>
+    <li>terrain_word->льодовик</li>
+    <li>terrain_word(p=0.5)->крижане поле</li>
+    <li>terrain_word(p=0.5)->крижаний покрив</li>
+    <li>terrain_word(p=0.3)->поле</li>
+    <li>terrain_word(p=0.3)->крижана рівнина</li>
+    <li>terrain_word(p=0.3)->протяжна</li>
+    <li>terrain_word(p=0.3)->урочище</li>
   </NamerGlacialPlain.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.3)->[glowForest_adjective] [narrative_name]</li>
@@ -45,16 +45,16 @@
   -->
   <NamerGlowforest.rulePack.rulesStrings>
     <li>r_name(p=0.3)->[glowForest_adjective_mas] [narrative_name_mas]</li>
-    <li>glowForest_adjective(p=2)->fungal</li>
-    <li>glowForest_adjective->blooming</li>
-    <li>glowForest_adjective->dark</li>
-    <li>glowForest_adjective_mas(p=2)->грибний</li>
-    <li>glowForest_adjective->gnarled</li>
-    <li>terrain_word(p=3)->glowforest</li>
-    <li>terrain_word->mycelium bed</li>
-    <li>glowForest_adjective_mas->квітучий</li>
-    <li>terrain_word->darklands</li>
-    <li>terrain_word->dark forest</li>
+    <li>glowForest_adjective(p=2)->грибний</li>
+    <li>glowForest_adjective->квітучий</li>
+    <li>glowForest_adjective->темний</li>
+    <li>glowForest_adjective->зарослий</li>
+    <li>glowForest_adjective->кривий</li>
+    <li>terrain_word(p=3)->сяючий ліс</li>
+    <li>terrain_word->міцелієвий покрив</li>
+    <li>terrain_word->грибний ліс</li>
+    <li>terrain_word->темні землі</li>
+    <li>terrain_word->темний ліс</li>
   </NamerGlowforest.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.3)->[grasslands_adjective] [narrative_name]</li>
@@ -72,17 +72,17 @@
   -->
   <NamerGrasslands.rulePack.rulesStrings>
     <li>r_name(p=0.3)->[grasslands_adjective_mas] [narrative_name_mas]</li>
-    <li>grasslands_adjective(p=2)->flat</li>
-    <li>grasslands_adjective->dry</li>
-    <li>grasslands_adjective->windswept</li>
-    <li>grasslands_adjective_mas(p=2)->рівнинний</li>
-    <li>grasslands_adjective->endless</li>
-    <li>terrain_word(p=2)->grasslands</li>
-    <li>terrain_word(p=2)->prairie</li>
-    <li>grasslands_adjective_mas->сухий</li>
-    <li>terrain_word->savanna</li>
-    <li>terrain_word->steppe</li>
-    <li>terrain_word->flats</li>
+    <li>grasslands_adjective(p=2)->плаский</li>
+    <li>grasslands_adjective->сухий</li>
+    <li>grasslands_adjective->вивітрений</li>
+    <li>grasslands_adjective->хвилясті</li>
+    <li>grasslands_adjective->незкінченний</li>
+    <li>terrain_word(p=2)->луг</li>
+    <li>terrain_word(p=2)->прерія</li>
+    <li>terrain_word(p=2)->рівнина</li>
+    <li>terrain_word->савана</li>
+    <li>terrain_word->степ</li>
+    <li>terrain_word->рівнини</li>
   </NamerGrasslands.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.3)->[lavaField_adjective] [narrative_name]</li>
@@ -102,19 +102,19 @@
   -->
   <NamerLavaField.rulePack.rulesStrings>
     <li>r_name(p=0.3)->[lavaField_adjective_mas] [narrative_name_mas]</li>
-    <li>lavaField_adjective(p=2)->volcanic</li>
-    <li>lavaField_adjective->fiery</li>
-    <li>lavaField_adjective->infernal</li>
-    <li>lavaField_adjective_mas(p=2)->вулканічний</li>
-    <li>lavaField_adjective->blazing</li>
-    <li>terrain_word(p=3)->lava fields</li>
-    <li>terrain_word->rift</li>
-    <li>lavaField_adjective_mas->вогняний</li>
-    <li>terrain_word->magma plain</li>
-    <li>terrain_word->vent</li>
-    <li>terrain_word->furnace</li>
-    <li>lavaField_adjective_mas->пекельний</li>
-    <li>terrain_word->range</li>
+    <li>lavaField_adjective(p=2)->вулканічний</li>
+    <li>lavaField_adjective->вогняний</li>
+    <li>lavaField_adjective->пекельний</li>
+    <li>lavaField_adjective->палаючий</li>
+    <li>lavaField_adjective->горючий</li>
+    <li>terrain_word(p=3)->лавові поля</li>
+    <li>terrain_word->розлом</li>
+    <li>terrain_word->височина</li>
+    <li>terrain_word->магмова рівнина</li>
+    <li>terrain_word->жерло</li>
+    <li>terrain_word->піч</li>
+    <li>terrain_word->інферно</li>
+    <li>terrain_word->хребет</li>
   </NamerLavaField.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.2)->[ruin_adjective] [narrative_name]</li>
@@ -138,22 +138,22 @@
   -->
   <NamerScarlands.rulePack.rulesStrings>
     <li>r_name(p=0.2)->[ruin_adjective_mas] [narrative_name_mas]</li>
-    <li>r_name(p=0.2)->the [narrative_name] [terrain_word]</li>
-    <li>ruin_adjective(p=2)->ruined</li>
-    <li>ruin_adjective->ancient</li>
-    <li>ruin_adjective->old</li>
-    <li>ruin_adjective_mas(p=2)->зруйнований</li>
-    <li>ruin_adjective->blighted</li>
-    <li>ruin_adjective->ashen</li>
-    <li>terrain_word(p=6)->ruins</li>
-    <li>ruin_adjective_mas->древній</li>
-    <li>terrain_word->megastructure</li>
-    <li>terrain_word->wastelands</li>
-    <li>terrain_word->waste</li>
-    <li>ruin_adjective_mas->старий</li>
-    <li>terrain_word->vestige</li>
-    <li>terrain_word->toxlands</li>
-    <li>terrain_word->lands</li>
-    <li>ruin_adjective_mas->розбитий</li>
+    <li>r_name(p=0.2)->[narrative_name] [terrain_word]</li>
+    <li>ruin_adjective(p=2)->зруйнований</li>
+    <li>ruin_adjective->стародавній</li>
+    <li>ruin_adjective->старий</li>
+    <li>ruin_adjective->розбитий</li>
+    <li>ruin_adjective->занедбаний</li>
+    <li>ruin_adjective->згорілий</li>
+    <li>terrain_word(p=6)->руїни</li>
+    <li>terrain_word(p=3)->понівечені землі</li>
+    <li>terrain_word->мегаструктура</li>
+    <li>terrain_word->пустка</li>
+    <li>terrain_word->звалище</li>
+    <li>terrain_word->безлюддя</li>
+    <li>terrain_word->залишки</li>
+    <li>terrain_word->токсичні землі</li>
+    <li>terrain_word->землі</li>
+    <li>terrain_word->бастіон</li>
   </NamerScarlands.rulePack.rulesStrings>
 </LanguageData>

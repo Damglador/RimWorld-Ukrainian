@@ -7,25 +7,25 @@
   <!-- EN: abandoned -->
   <AbandonedChild30.titleShort>покинутий</AbandonedChild30.titleShort>
   <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-  <AbandonedOrphan61.description>Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker.</AbandonedOrphan61.description>
+  <AbandonedOrphan61.description>{PAWN_nameDef} {PAWN_gender ? був покинутий : була покинута} одразу після народження, та {PAWN_gender ? розпочав : розпочала} своє життя у притулку.\n\nБудучи {PAWN_gender ? шахраєм і негідником, він створював : шахрайкою і негідницею, вона створювала} багато проблем.</AbandonedOrphan61.description>
   <!-- EN: abandoned orphan -->
   <AbandonedOrphan61.title>покинутий сирота</AbandonedOrphan61.title>
   <!-- EN: orphan -->
   <AbandonedOrphan61.titleShort>сирота</AbandonedOrphan61.titleShort>
   <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-  <Abductee43.description>[PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship.</Abductee43.description>
+  <Abductee43.description>{PAWN_nameDef} {PAWN_gender ? був викрадений : була викрадена} у молодому віці {PAWN_gender ? та змушений : та змушена} виконувати чорну роботу на піратському кораблі.</Abductee43.description>
   <!-- EN: abductee -->
   <Abductee43.title>викрадений</Abductee43.title>
   <!-- EN: abductee -->
   <Abductee43.titleShort>викрадений</Abductee43.titleShort>
   <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
-  <Abductee7.description>[PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped.</Abductee7.description>
+  <Abductee7.description>{PAWN_nameDef} {PAWN_gender ? був викрадений : була викрадена} ксенолюдьми, коли {PAWN_pronoun} {PAWN_gender ? був : була}. Вони ставили над {PAWN_gender ? ним : нею} експерименти, щоб зрозуміти {PAWN_possessive} генетичну структуру.\n\nКоли {PAWN_pronoun} {PAWN_gender ? виріс : виросла}, {PAWN_nameDef} {PAWN_gender ? став занадто великим і сильним : стала занадто великою і сильною} для своїх викрадачів і {PAWN_gender ? втік : утекла}.</Abductee7.description>
   <!-- EN: abductee -->
   <Abductee7.title>викрадений</Abductee7.title>
   <!-- EN: abductee -->
   <Abductee7.titleShort>викрадений</Abductee7.titleShort>
   <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams. -->
-  <AcademyStudent58.description>[PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams.</AcademyStudent58.description>
+  <AcademyStudent58.description>{PAWN_nameDef} {PAWN_gender ? був хорошим космічним курсантом : була хорошою космічною курсанткою} у школі. {PAWN_pronoun} {PAWN_gender ? був дуже високим та славився : була дуже високою славилася} своєю гарною зовнішністю.\n\nХоч {PAWN_possessive} більше турбувала {PAWN_possessive} зачіска, ніж оцінки, {PAWN_pronoun} все ж якось {PAWN_gender ? склав : склала} випускні іспити.</AcademyStudent58.description>
   <!-- EN: academy student -->
   <AcademyStudent58.title>студент академії</AcademyStudent58.title>
   <!-- EN: student -->
@@ -43,7 +43,7 @@
   <!-- EN: adventurer -->
   <AdventuringChild30.titleShort>мандрівник</AdventuringChild30.titleShort>
   <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
-  <AdventurousYouth70.description>[PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies</AdventurousYouth70.description>
+  <AdventurousYouth70.description>{PAWN_nameDef} {PAWN_gender? досліджував: досліджувала} великий маєток {PAWN_possessive} сім'ї, відкриваючи маленькі природні чудеса, заховані в сусідніх катакомбах, річках і печерах.\n\nЩе у підлітковому віці, {PAWN_nameDef} {PAWN_gender? нажив: нажила} собі чимало ворогів</AdventurousYouth70.description>
   <!-- EN: adventurous youth -->
   <AdventurousYouth70.title>авантюрне дитя</AdventurousYouth70.title>
   <!-- EN: adventurer -->

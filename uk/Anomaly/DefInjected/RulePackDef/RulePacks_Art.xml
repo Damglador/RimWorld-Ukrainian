@@ -97,27 +97,27 @@
     <li>adjectiveUnsettling->otherworldly</li>
   -->
   <NamerArtVoidSculpture.rulePack.rulesStrings>
-    <li>r_art_name->[AdjectiveAngsty] Sculpture</li>
-    <li>r_art_name->[adjectiveUnsettling] Sculpture</li>
-    <li>adjectiveUnsettling->unsettling</li>
-    <li>adjectiveUnsettling->disturbing</li>
-    <li>adjectiveUnsettling->eerie</li>
-    <li>adjectiveUnsettling->creepy</li>
-    <li>adjectiveUnsettling->haunting</li>
-    <li>adjectiveUnsettling->spine-chilling</li>
-    <li>adjectiveUnsettling->sinister</li>
-    <li>adjectiveUnsettling->macabre</li>
-    <li>adjectiveUnsettling->unnerving</li>
-    <li>adjectiveUnsettling->terrifying</li>
-    <li>adjectiveUnsettling->ghastly</li>
-    <li>adjectiveUnsettling->horrifying</li>
-    <li>adjectiveUnsettling->frightening</li>
-    <li>adjectiveUnsettling->shocking</li>
-    <li>adjectiveUnsettling->bizarre</li>
-    <li>adjectiveUnsettling->abnormal</li>
-    <li>adjectiveUnsettling->weird</li>
-    <li>adjectiveUnsettling->uncanny</li>
-    <li>adjectiveUnsettling->strange</li>
-    <li>adjectiveUnsettling->otherworldly</li>
+    <li>r_art_name->[AdjectiveAngsty] скульптура</li>
+    <li>r_art_name->[adjectiveUnsettling] скульптура</li>
+    <li>adjectiveUnsettling->тривожна</li>
+    <li>adjectiveUnsettling->бентежна</li>
+    <li>adjectiveUnsettling->страшна</li>
+    <li>adjectiveUnsettling->моторошна</li>
+    <li>adjectiveUnsettling->зловісна</li>
+    <li>adjectiveUnsettling->до мурашок</li>
+    <li>adjectiveUnsettling->зловісна</li>
+    <li>adjectiveUnsettling->макабрична</li>
+    <li>adjectiveUnsettling->нервуюча</li>
+    <li>adjectiveUnsettling->лякаюча</li>
+    <li>adjectiveUnsettling->примарна</li>
+    <li>adjectiveUnsettling->жахаюча</li>
+    <li>adjectiveUnsettling->лякаюча</li>
+    <li>adjectiveUnsettling->шокуюча</li>
+    <li>adjectiveUnsettling->неймовірна</li>
+    <li>adjectiveUnsettling->аномальна</li>
+    <li>adjectiveUnsettling->незвична</li>
+    <li>adjectiveUnsettling->химерна</li>
+    <li>adjectiveUnsettling->дивна</li>
+    <li>adjectiveUnsettling->потойбічна</li>
   </NamerArtVoidSculpture.rulePack.rulesStrings>
 </LanguageData>

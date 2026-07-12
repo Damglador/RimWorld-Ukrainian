@@ -13,12 +13,12 @@
     <li>subject_gerund->constructing security doors</li>
   -->
   <SecurityDoor.generalRules.rulesStrings>
-    <li>subject->security door</li>
-    <li>subject_story->worked as a security drone in a sealed research facility</li>
-    <li>subject_story->engineered security devices for a stellar trader</li>
-    <li>subject_story->researched materials science for a mercenary firm</li>
-    <li>subject_story->worked in a Glitterworld zoo</li>
-    <li>subject_gerund->constructing security doors</li>
+    <li>subject->захисні двері</li>
+    <li>subject_story->працював як охоронний дрон у закритому дослідницькому комплексі</li>
+    <li>subject_story->розробляв охоронні девайси для зоряного торговця</li>
+    <li>subject_story->досліджував матеріали для компанії найманців</li>
+    <li>subject_story->працював у зоопарку в блискосвіті</li>
+    <li>subject_gerund->будує захисні двері</li>
   </SecurityDoor.generalRules.rulesStrings>
   <!-- EN: turret pack -->
   <TurretPack.label>ранець-турель</TurretPack.label>
@@ -33,11 +33,11 @@
     <li>subject_gerund->crafting deployable gun turrets</li>
   -->
   <TurretPack.generalRules.rulesStrings>
-    <li>subject->deployable turrets</li>
-    <li>subject_story->defended a feralworld castle from assault</li>
-    <li>subject_story->manned a tailgun on an Imperial dropship</li>
-    <li>subject_story->researched deployable military technology</li>
-    <li>subject_story->fought in the trench battles of the [worldname] War</li>
-    <li>subject_gerund->crafting deployable gun turrets</li>
+    <li>subject->розгортувані турелі</li>
+    <li>subject_story->захищав замок від нападу у дикосвіті</li>
+    <li>subject_story->керував хвостовою гарматою на імперському десантному кораблі</li>
+    <li>subject_story->досліджував розгортувані військові технології</li>
+    <li>subject_story->воював у окопних битвах [worldname] війни</li>
+    <li>subject_gerund->Створює розгортувані гарматні турелі</li>
   </TurretPack.generalRules.rulesStrings>
 </LanguageData>

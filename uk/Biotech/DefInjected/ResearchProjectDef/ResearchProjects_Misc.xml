@@ -14,7 +14,7 @@
   -->
   <Archogenetics.generalRules.rulesStrings>
     <li>subject->архогенетика</li>
-    <li>subject_story->excavated archite genes from the transcendent moon of Ix</li>
+    <li>subject_story->{PAWN_gender ? видобував : видобувала} архітні гени з трансцендетного супутника Іх</li>
     <li>subject_story->непогано заробляв на життя торгівлею архітних генів</li>
     <li>subject_story->очолив дослідницьку експедицію до стародавнього моноліту та повернувся зміненим</li>
     <li>subject_gerund->збирав архітні гени</li>
@@ -34,10 +34,10 @@
   -->
   <Deathrest.generalRules.rulesStrings>
     <li>subject->летаргія</li>
-    <li>subject_story->розбирав трупи з летаргічного храму, нарешті зрозумівши, як це працює</li>
+    <li>subject_story->розтинав трупи з летаргічного храму і зрештою зрозумів, як це працює</li>
     <li>subject_story->взяв інтерв'ю у знаменитості, яка, здавалося, ніколи не старіла, і зрештою дізнався її секрети</li>
     <li>subject_story->спробував відтворити технологію та впав у кому, прокинувшись тільки через кілька тижнів</li>
-    <li>subject_gerund->constructing deathrest facilities</li>
+    <li>subject_gerund->{PAWN_gender ? працював : працювала} на будівництві летаргічних храмів</li>
     <li>subject_gerund->покращення летаргічного сну</li>
   </Deathrest.generalRules.rulesStrings>
   <!-- EN: fertility procedures -->
@@ -120,7 +120,7 @@
   <ToxFiltration.generalRules.rulesStrings>
     <li>subject->фільтрування токсинів</li>
     <li>subject->метаболізм токсинів</li>
-    <li>subject_story->helped milworld combat survivors breathe again</li>
+    <li>subject_story->{PAWN_gender ? допоміг : допомогла} знову почати дихати постраждалим військової сутички</li>
     <li>subject_story->пропустив практичні заняття з хімії заради додаткових занять з етики</li>
     <li>subject_story->приєднався до шахтної корпорації як спеціаліст з фільтрації</li>
     <li>subject_gerund->метаболізм токсинів</li>

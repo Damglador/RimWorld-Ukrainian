@@ -96,7 +96,7 @@
     <li>adjAny->[AdjectiveFriendly]</li>
   -->
   <Hospitality_Prisoners.questNameRules.rulesStrings>
-    <li>questName->Guarding for [asker_nameDef]</li>
+    <li>questName->Перетримка в'язнів [asker_nameDef]</li>
     <li>questName(lodgersCount==1)->guarding [lodgers0_nameDef]</li>
     <li>questName(lodgersCount==1)->prisoner [lodgers0_nameDef]</li>
     <li>questName(lodgersCount==1)->the [adjAny] prisoner</li>

@@ -44,13 +44,13 @@
     <li>problems->recent difficulties</li>
   -->
   <Counsel_Success.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
-    <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
-    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] advice on overcoming negativity.</li>
-    <li>problems->[RECIPIENT_possessive] problems</li>
-    <li>problems->[RECIPIENT_possessive] troubles</li>
-    <li>problems->[RECIPIENT_possessive] painful feelings</li>
-    <li>problems->recent difficulties</li>
+    <li>r_logentry->[INITIATOR_nameDef] допомагає [RECIPIENT_nameDef] з [problemsAbl].</li>
+    <li>r_logentry->[INITIATOR_nameDef] допомагає [RECIPIENT_nameDef] обдумати [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] дає [RECIPIENT_nameDef] пораду щодо подолання негативу.</li>
+    <li>problemsAbl->[RECIPIENT_possessive] проблемами</li>
+    <li>problemsAbl->[RECIPIENT_possessive] складностями</li>
+    <li>problemsAbl->[RECIPIENT_possessive] болючими відчуттями</li>
+    <li>problemsAbl->нещодавніми труднощами</li>
   </Counsel_Success.logRulesInitiator.rulesStrings>
   <!-- EN: preached health -->
   <PreachHealth.label>проведена проповідь здоров'я</PreachHealth.label>

@@ -38,7 +38,7 @@
     <li>special->Унікальна</li>
     <li>special->Незвична</li>
     <li>trade->Торгівля</li>
-    <li>trade->Exchange</li>
+    <li>trade->Обмін</li>
     <li>trade->Угода</li>
     <li>trade->Пропозиція</li>
   </TradeRequest.questNameRules.rulesStrings>

@@ -298,8 +298,8 @@
     <li>specialFact->В деяких місцях позначки зроблено неакуратно — карту, мабуть, малювали поспіхом.</li>
     <li>specialFact->Деталізація натякає, що її замовляла заможна людина, а таємність вказує на цінність змісту.</li>
     <li>specialFact->[Quantity_adjphrase] [emotionalState_mas] намальовано [Animal_mas]. Вони виглядають, як [emotionalState_mas] [Animal_mas]</li>
-    <li>specialFact-> Простота карти вказує що її робив нашвидкуруч [PersonBadass] намагаючись залишатись на крок попереду від сил правопорядку.</li>
-    <li>specialFact->Key areas are circled, with annotations like 'avoid [Enemy]s' and 'strong like a [Animal].'</li>
+    <li>specialFact-> Простота карти вказує, що [PersonBadass] робили її нашвидкуруч, намагаючись залишатись на крок попереду від сил правопорядку.</li>
+    <li>specialFact->Ключові місця обведено колами, із примітками «уникайте [Enemy]» та «сильні як [Animal]».</li>
     <li>specialFact->[mapSubject], що підписано вишуканим каліграфічним шрифтом, але одинокий малюнок містить загадковий символ — це [mapSymbol].</li>
     <li>specialFact->На карті вміщена коротка біографія автора — це [PersonJob] із [place].</li>
     <li>specialFact->Автором карти є сумнозвісний [PersonBadass].</li>
@@ -398,7 +398,7 @@
     <li>mapSymbol->[Animal]</li>
     <li>mapText(p=10)->[questMapText]</li>
     <li>emotionalState_mas->чуттєвий</li>
-    <li>mapText->extreme danger</li>
+    <li>mapText->надзвичайна небезпека</li>
     <li>mapText->остерігайтеся [Enemy]</li>
     <li>mapType(p=4)->карта</li>
     <li>mapType->схема</li>
@@ -699,100 +699,100 @@
     <li>mapSubject->історії</li>
     <li>mapSubject->території</li>
     <li>mapSubject->масиви суходолу</li>
-    <li>CapSylE->Ал</li>
-    <li>CapSylE->Алл</li>
-    <li>CapSylE->Ан</li>
-    <li>CapSylE->Анд</li>
-    <li>CapSylE->Ар</li>
-    <li>CapSylE->Арр</li>
-    <li>CapSylE->Ас</li>
-    <li>CapSylE->Ет</li>
-    <li>CapSylE->Бан</li>
-    <li>CapSylE->Бін</li>
-    <li>CapSylE->Бон</li>
-    <li>CapSylE->Бат</li>
-    <li>CapSylE->Ка</li>
-    <li>CapSylE->Ко</li>
-    <li>CapSylE->Да</li>
-    <li>CapSylE->Дель</li>
-    <li>CapSylE->Дин</li>
-    <li>CapSylE->До</li>
-    <li>CapSylE->Еа</li>
-    <li>CapSylE->Ед</li>
-    <li>CapSylE->Ен</li>
-    <li>CapSylE->Ент</li>
-    <li>CapSylE->Ер</li>
-    <li>CapSylE->Ера</li>
-    <li>CapSylE->Ере</li>
-    <li>CapSylE->Eс</li>
-    <li>CapSylE->Ів</li>
-    <li>CapSylE->Фар</li>
-    <li>CapSylE->Фен</li>
-    <li>CapSylE->Фін</li>
-    <li>CapSylE->Фор</li>
-    <li>CapSylE->Фан</li>
-    <li>CapSylE->Га</li>
-    <li>CapSylE->Го</li>
-    <li>CapSylE->Ха</li>
-    <li>CapSylE->Хед</li>
-    <li>CapSylE->Хет</li>
-    <li>CapSylE->Хі</li>
-    <li>CapSylE->Хен</li>
-    <li>CapSylE->Хьо</li>
-    <li>CapSylE->Хай</li>
-    <li>CapSylE->Хай</li>
-    <li>CapSylE->Хін</li>
-    <li>CapSylE->Хіз</li>
-    <li>CapSylE->Ін</li>
-    <li>CapSylE->Із</li>
-    <li>CapSylE->Іт</li>
-    <li>CapSylE->Іс</li>
-    <li>CapSylE->Я</li>
-    <li>CapSylE->Ка</li>
-    <li>CapSylE->Ко</li>
-    <li>CapSylE->Ла</li>
-    <li>CapSylE->Лан</li>
-    <li>CapSylE->Льо</li>
-    <li>CapSylE->Лен</li>
-    <li>CapSylE->Лон</li>
-    <li>CapSylE->Ма</li>
-    <li>CapSylE->Ме</li>
-    <li>CapSylE->Мен</li>
-    <li>CapSylE->Мін</li>
-    <li>CapSylE->Мон</li>
-    <li>CapSylE->На</li>
-    <li>CapSylE->Не</li>
-    <li>CapSylE->Нот</li>
-    <li>CapSylE->Оме</li>
-    <li>CapSylE->Он</li>
-    <li>CapSylE->Ор</li>
-    <li>CapSylE->Оу</li>
-    <li>CapSylE->Оул</li>
-    <li>CapSylE->Оур</li>
-    <li>CapSylE->Па</li>
-    <li>CapSylE->Ква</li>
-    <li>CapSylE->Ра</li>
-    <li>CapSylE->Ре</li>
-    <li>CapSylE->Ро</li>
-    <li>CapSylE->Се</li>
-    <li>CapSylE->Шо</li>
-    <li>CapSylE->Ст</li>
-    <li>CapSylE->Те</li>
-    <li>CapSylE->Тед</li>
-    <li>CapSylE->Тер</li>
-    <li>CapSylE->Та</li>
-    <li>CapSylE->Зе</li>
-    <li>CapSylE->Зі</li>
-    <li>CapSylE->Зі</li>
-    <li>CapSylE->Ті</li>
-    <li>CapSylE->То</li>
-    <li>CapSylE->Ун</li>
-    <li>CapSylE->Ве</li>
-    <li>CapSylE->Вер</li>
-    <li>CapSylE->Ва</li>
-    <li>CapSylE->Ваз</li>
-    <li>CapSylE->Віт</li>
-    <li>CapSylE->Ю</li>
+    <li>SylECap->Ал</li>
+    <li>SylECap->Алл</li>
+    <li>SylECap->Ан</li>
+    <li>SylECap->Анд</li>
+    <li>SylECap->Ар</li>
+    <li>SylECap->Арр</li>
+    <li>SylECap->Ас</li>
+    <li>SylECap->Ет</li>
+    <li>SylECap->Бан</li>
+    <li>SylECap->Бін</li>
+    <li>SylECap->Бон</li>
+    <li>SylECap->Бат</li>
+    <li>SylECap->Ка</li>
+    <li>SylECap->Ко</li>
+    <li>SylECap->Да</li>
+    <li>SylECap->Дель</li>
+    <li>SylECap->Дин</li>
+    <li>SylECap->До</li>
+    <li>SylECap->Еа</li>
+    <li>SylECap->Ед</li>
+    <li>SylECap->Ен</li>
+    <li>SylECap->Ент</li>
+    <li>SylECap->Ер</li>
+    <li>SylECap->Ера</li>
+    <li>SylECap->Ере</li>
+    <li>SylECap->Eс</li>
+    <li>SylECap->Ів</li>
+    <li>SylECap->Фар</li>
+    <li>SylECap->Фен</li>
+    <li>SylECap->Фін</li>
+    <li>SylECap->Фор</li>
+    <li>SylECap->Фан</li>
+    <li>SylECap->Га</li>
+    <li>SylECap->Го</li>
+    <li>SylECap->Ха</li>
+    <li>SylECap->Хед</li>
+    <li>SylECap->Хет</li>
+    <li>SylECap->Хі</li>
+    <li>SylECap->Хен</li>
+    <li>SylECap->Хьо</li>
+    <li>SylECap->Хай</li>
+    <li>SylECap->Хай</li>
+    <li>SylECap->Хін</li>
+    <li>SylECap->Хіз</li>
+    <li>SylECap->Ін</li>
+    <li>SylECap->Із</li>
+    <li>SylECap->Іт</li>
+    <li>SylECap->Іс</li>
+    <li>SylECap->Я</li>
+    <li>SylECap->Ка</li>
+    <li>SylECap->Ко</li>
+    <li>SylECap->Ла</li>
+    <li>SylECap->Лан</li>
+    <li>SylECap->Льо</li>
+    <li>SylECap->Лен</li>
+    <li>SylECap->Лон</li>
+    <li>SylECap->Ма</li>
+    <li>SylECap->Ме</li>
+    <li>SylECap->Мен</li>
+    <li>SylECap->Мін</li>
+    <li>SylECap->Мон</li>
+    <li>SylECap->На</li>
+    <li>SylECap->Не</li>
+    <li>SylECap->Нот</li>
+    <li>SylECap->Оме</li>
+    <li>SylECap->Он</li>
+    <li>SylECap->Ор</li>
+    <li>SylECap->Оу</li>
+    <li>SylECap->Оул</li>
+    <li>SylECap->Оур</li>
+    <li>SylECap->Па</li>
+    <li>SylECap->Ква</li>
+    <li>SylECap->Ра</li>
+    <li>SylECap->Ре</li>
+    <li>SylECap->Ро</li>
+    <li>SylECap->Се</li>
+    <li>SylECap->Шо</li>
+    <li>SylECap->Ст</li>
+    <li>SylECap->Те</li>
+    <li>SylECap->Тед</li>
+    <li>SylECap->Тер</li>
+    <li>SylECap->Та</li>
+    <li>SylECap->Зе</li>
+    <li>SylECap->Зі</li>
+    <li>SylECap->Зі</li>
+    <li>SylECap->Ті</li>
+    <li>SylECap->То</li>
+    <li>SylECap->Ун</li>
+    <li>SylECap->Ве</li>
+    <li>SylECap->Вер</li>
+    <li>SylECap->Ва</li>
+    <li>SylECap->Ваз</li>
+    <li>SylECap->Віт</li>
+    <li>SylECap->Ю</li>
   </MapUtility.rulePack.rulesStrings>
   <!-- EN:
     <li>title(p=2)->[mapType] [mapNoun] of [subject]</li>
