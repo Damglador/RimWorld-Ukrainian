@@ -23,23 +23,23 @@
   -->
   <DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
     <li>damage_source->[source] [attacked]</li>
-    <li>source->щось з [dark]</li>
-    <li>source->щось у [dark]</li>
-    <li>source->створіння у [dark]</li>
+    <li>source->щось із глибини [dark_gen]</li>
+    <li>source->щось у [dark_loc]</li>
+    <li>source->створіння в [dark_loc]</li>
     <li>source->невидиме створіння</li>
     <li>source->тіньове створіння</li>
-    <li>source->невидимий ворог у [dark]</li>
-    <li>dark->темряві</li>
-    <li>dark->неприродній темряві</li>
-    <li>dark->чорнильній темряві</li>
-    <li>dark->тінях</li>
-    <li>attacked->атакувало</li>
-    <li>attacked->напало</li>
-    <li>attacked->вдарило</li>
-    <li>damaged_present->поранило</li>
-    <li>damaged_present->травмувало</li>
-    <li>destroyed_present->прибрало</li>
-    <li>destroyed_present->покалічило</li>
-    <li>destroyed_present->відірвало</li>
+    <li>source->невидимий ворог у [dark_loc]</li>
+    <li>dark->темрява</li>
+    <li>dark->неприродна темрява</li>
+    <li>dark->чорнильна пітьма</li>
+    <li>dark->тіні</li>
+    <li>dark_gen->темряви</li>
+    <li>dark_gen->неприродної темряви</li>
+    <li>dark_gen->чорнильної пітьми</li>
+    <li>dark_gen->тіней</li>
+    <li>dark_loc->темряві</li>
+    <li>dark_loc->неприродній темряві</li>
+    <li>dark_loc->чорнильній пітьмі</li>
+    <li>dark_loc->тінях</li>
   </DamageEvent_UnnaturalDarkness.rulePack.rulesStrings>
 </LanguageData>

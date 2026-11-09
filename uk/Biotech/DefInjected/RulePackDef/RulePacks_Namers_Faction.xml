@@ -72,8 +72,7 @@
   -->
   <NamerFactionOutlanderPig.rulePack.rulesStrings>
     <li>r_name(p=2)->[nameCore]</li>
-    <li>r_name->[PoliticalUnions_OutlanderFem] [nameCore]</li>
-    <li>r_name->[political_union_outlanderMasc] [nameCore]</li>
+    <li>r_name->[political_union_outlander] [nameCore]</li>
     <li>maybeHyphen(p=3)-></li>
     <li>maybeHyphen->-</li>
     <li>nameCore->[SylP][maybeHyphen][SylP]</li>
@@ -83,13 +82,14 @@
     <li>end->оо</li>
     <li>end->лок</li>
     <li>end->лом</li>
-    <li>end->оінк</li>
-    <li>end->ґуг</li>
+    <li>end->хрюк</li>
+    <li>end->ґуґ</li>
     <li>end->унд</li>
-    <li>end->оог</li>
-    <li>end->піг</li>
-    <li>end->пог</li>
+    <li>end->ооґ</li>
+    <li>end->порос</li>
+    <li>end->поґ</li>
     <li>end->мок</li>
+    <li>end->мм</li>
     <li>end->мм</li>
   </NamerFactionOutlanderPig.rulePack.rulesStrings>
   <!-- EN:
@@ -111,22 +111,22 @@
     <li>men->trash</li>
   -->
   <NamerFactionPirateWaster.rulePack.rulesStrings>
-    <li>r_name->[poison] [groupname]</li>
-    <li>r_name->[poison] [men]</li>
+    <li>r_name->[poison_group]</li>
+    <li>r_name->[poison_adj_pl] [men]</li>
+    <li>poison_group(p=2)->[poison_adj] [groupname_m]</li>
+    <li>poison_group(p=3)->[poison_adj_f] [groupname_f]</li>
+    <li>poison_group(p=2)->[poison_adj_n] [groupname_n]</li>
     <li>men->люди</li>
-    <li>men->екіпаж</li>
-    <li>men->банда</li>
     <li>men->душителі</li>
-    <li>men->пігульники</li>
+    <li>men->пігулкарі</li>
     <li>men->психи</li>
-    <li>men->токсери</li>
-    <li>men->негідники</li>
-    <li>men->сміттярі</li>
-    <li>men->зграйники</li>
-    <li>men->слікери</li>
-    <li>men->слікери</li>
+    <li>men->токсики</li>
+    <li>men->гнильці</li>
+    <li>men->покидьки</li>
+    <li>men->торбохвати</li>
+    <li>men->слизняки</li>
     <li>men->шкідники</li>
-    <li>men->сміттярі</li>
+    <li>men->відходи</li>
   </NamerFactionPirateWaster.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -144,15 +144,15 @@
   <NamerFactionPirateYttakin.rulePack.rulesStrings>
     <li>r_name(p=2)->[placeNameCore]</li>
     <li>r_name->[faction] [placeNameCore]</li>
-    <li>r_name->[faction] з [placeNameCore]</li>
-    <li>faction->роарклан</li>
-    <li>faction->плем'я</li>
+    <li>r_name->[faction] [placeNameCore]</li>
+    <li>faction->ревоклан</li>
+    <li>faction->плем’я</li>
     <li>faction->клан</li>
-    <li>faction->рик</li>
+    <li>faction->рев</li>
     <li>faction->зграя</li>
-    <li>faction->сім'я</li>
+    <li>faction->родина</li>
     <li>faction->хутро</li>
-    <li>faction->рід</li>
+    <li>faction->рідня</li>
   </NamerFactionPirateYttakin.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -168,12 +168,12 @@
   <NamerFactionTribalImpid.rulePack.rulesStrings>
     <li>r_name(p=2)->[placeNameCore]</li>
     <li>r_name->[faction] [placeNameCore]</li>
-    <li>r_name->[faction] з [placeNameCore]</li>
     <li>faction->клада</li>
     <li>faction->ліга</li>
-    <li>faction->бігуни</li>
-    <li>faction->спринтери</li>
-    <li>faction->дім полум'я</li>
+    <li>faction->біговий корабель</li>
+    <li>faction->швидкий корабель</li>
+    <li>faction->дім полум’я</li>
+    <li>faction->вогнище</li>
     <li>faction->дім вогню</li>
   </NamerFactionTribalImpid.rulePack.rulesStrings>
   <!-- EN:
@@ -183,7 +183,7 @@
   -->
   <NamerFactionTribalNeanderthal.rulePack.rulesStrings>
     <li>r_name(p=2)->[placeNameCore]</li>
-    <li>r_name->[political_union_tribalMasc] [placeNameCore]</li>
+    <li>r_name->[political_union_tribal] [placeNameCore]</li>
     <li>r_name->[political_union_tribalFem] [placeNameCore]</li>
   </NamerFactionTribalNeanderthal.rulePack.rulesStrings>
   <!-- EN:
@@ -285,20 +285,20 @@
     <li>townEndToxic->вор</li>
     <li>townEndToxic->сон</li>
     <li>townEndToxic->зон</li>
-    <li>townEndToxic->тотх</li>
-    <li>townEndToxic->зоун</li>
-    <li>townEndToxic->слік</li>
+    <li>townEndToxic->тот</li>
+    <li>townEndToxic->зун</li>
+    <li>townEndToxic->слиз</li>
     <li>townEndToxic->піл</li>
-    <li>townEndToxic->аш</li>
+    <li>townEndToxic->попіл</li>
     <li>townEndToxic->вен</li>
-    <li>townNameCombo->[poisonFem] [townFem]</li>
-    <li>town->місто</li>
-    <li>town->база</li>
+    <li>townNameCombo(p=3)->[poison_adj] [town_m]</li>
+    <li>townNameCombo(p=3)->[poison_adj_f] [town_f]</li>
+    <li>townNameCombo(p=2)->[poison_adj_n] [town_n]</li>
     <li>town->форт</li>
+    <li>town_m->форт</li>
     <li>town->порт</li>
-    <li>town->скотобійня</li>
-    <li>town->м’ясарня</li>
-    <li>town->діжка</li>
+    <li>town_m->порт</li>
+    <li>town->бак</li>
   </NamerSettlementPirateWaster.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->[placeNameCore]</li>
@@ -398,19 +398,19 @@
     <li>poison->задуха</li>
     <li>poison->газ</li>
     <li>poison->пігулка</li>
-    <li>poison->психічна</li>
+    <li>poison->псих</li>
     <li>poison->вірус</li>
-    <li>poison->трута</li>
+    <li>poison->яд</li>
     <li>poison->рак</li>
     <li>poison->токсоїд</li>
-    <li>poison->хвороба</li>
+    <li>poison->гниль</li>
     <li>poison->міазма</li>
     <li>poison->бруд</li>
     <li>poison->сміття</li>
     <li>poison->забруднення</li>
-    <li>poison->розпад</li>
-    <li>poison->підходи</li>
-    <li>poison->паразит</li>
+    <li>poison->тлін</li>
+    <li>poison->покидьки</li>
+    <li>poison->шкідник</li>
   </WasterUtility.rulePack.rulesStrings>
   <!-- EN:
     <li>placeNameCore->[SylY][SylY]</li>

@@ -85,16 +85,16 @@
     <li>commonPrefix->альт</li>
     <li>commonPrefix->аб</li>
     <li>commonPrefix->аут</li>
-    <li>commonPrefix->під</li>
+    <li>commonPrefix->суб</li>
     <li>commonPrefix->екзо</li>
-    <li>commonPrefix->туб</li>
+    <li>commonPrefix->тюб</li>
     <li>commonPrefix->лаб</li>
     <li>commonPrefix->под</li>
     <li>commonPrefix->ан</li>
     <li>commonPrefix->бон</li>
     <li>commonPrefix->цел</li>
     <li>commonPrefix->дел</li>
-    <li>commonPrefix->еч</li>
+    <li>commonPrefix->ех</li>
     <li>commonPrefix->філ</li>
     <li>commonPrefix->гор</li>
     <li>commonPrefix->хор</li>
@@ -115,7 +115,7 @@
     <li>commonPrefix->віс</li>
     <li>commonPrefix->ксен</li>
     <li>commonPrefix->йон</li>
-    <li>commonPrefix->яел</li>
+    <li>commonPrefix->зел</li>
     <li>commonSuffix->кінд</li>
     <li>commonSuffix->мен</li>
     <li>commonSuffix->ан</li>
@@ -132,10 +132,10 @@
     <li>commonSuffix->он</li>
     <li>commonSuffix->ол</li>
     <li>commonSuffix->окс</li>
+    <li>commonSuffix->окс</li>
     <li>commonSuffix->уб</li>
     <li>commonSuffix->ул</li>
     <li>commonSuffix->ур</li>
-    <li>commonSuffix->укс</li>
     <li>commonSuffix->укс</li>
   </NamerXenotype.rulePack.rulesStrings>
 </LanguageData>

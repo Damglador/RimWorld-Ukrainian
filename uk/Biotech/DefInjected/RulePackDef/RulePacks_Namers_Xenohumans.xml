@@ -190,7 +190,7 @@
     <li>nameEnd->вон</li>
     <li>nameEnd->возз</li>
     <li>nameEnd->іт</li>
-    <li>nameEnd->нов</li>
+    <li>nameEnd->нове</li>
     <li>nameEnd->ново</li>
     <li>nameEnd->нав</li>
     <li>nameEnd->наз</li>
@@ -234,7 +234,7 @@
     <li>firstName(p=1)->[SylP][nameEnd]</li>
     <li>firstName(p=3)->[SylP][nameEnd]</li>
     <li>lastName(p=3)->[lastGenerated]</li>
-    <li>lastName(p=3)->[lastGenerated]</li>
+    <li>nickName->[nicknamePig]</li>
     <li>lastGenerated->[SylP][nameEnd]</li>
     <li>lastGenerated->[SylP][maybeHyphen][SylP][nameEnd]</li>
     <li>nameEnd->уґ</li>

@@ -13,7 +13,7 @@
   <!-- EN: very dirty -->
   <Cleanliness.scoreStages.very_dirty.label>дуже брудно</Cleanliness.scoreStages.very_dirty.label>
   <!-- EN: slightly dirty -->
-  <Cleanliness.scoreStages.slightly_dirty.label>брудновато</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.slightly_dirty.label>трохи брудно</Cleanliness.scoreStages.slightly_dirty.label>
   <!-- EN: food poison chance -->
   <FoodPoisonChance.label>шанс харчового отруєння</FoodPoisonChance.label>
   <!-- EN: grave visiting recreation factor -->
@@ -21,9 +21,9 @@
   <!-- EN: impressiveness -->
   <Impressiveness.label>враження</Impressiveness.label>
   <!-- EN: slightly impressive -->
-  <Impressiveness.scoreStages.slightly_impressive.label>гарно</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>непогано</Impressiveness.scoreStages.slightly_impressive.label>
   <!-- EN: somewhat impressive -->
-  <Impressiveness.scoreStages.somewhat_impressive.label>миловидно</Impressiveness.scoreStages.somewhat_impressive.label>
+  <Impressiveness.scoreStages.somewhat_impressive.label>гарно</Impressiveness.scoreStages.somewhat_impressive.label>
   <!-- EN: very impressive -->
   <Impressiveness.scoreStages.very_impressive.label>вражаюче</Impressiveness.scoreStages.very_impressive.label>
   <!-- EN: extremely impressive -->
@@ -57,7 +57,7 @@
   <!-- EN: somewhat poor -->
   <Wealth.scoreStages.somewhat_poor.label>скромно</Wealth.scoreStages.somewhat_poor.label>
   <!-- EN: somewhat rich -->
-  <Wealth.scoreStages.somewhat_rich.label>файно</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.somewhat_rich.label>заможно</Wealth.scoreStages.somewhat_rich.label>
   <!-- EN: very luxurious -->
   <Wealth.scoreStages.very_luxurious.label>пишно</Wealth.scoreStages.very_luxurious.label>
   <!-- EN: extremely luxurious -->

@@ -31,28 +31,28 @@
   <Speech_AcceptRole.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->свою нову роль у спільноті</li>
-    <li>speechtopic->свою відповідальність до нової ролі</li>
-    <li>speechtopic->важливість [INITIATOR_possessive] нової ролі</li>
-    <li>speechtopic->свої хороші якості</li>
-    <li>speechtopic->свої сильні сторони та їх використання</li>
+    <li>speechtopic->відповідальність, яку накладає нова роль</li>
+    <li>speechtopic->важливість своєї нової ролі</li>
+    <li>speechtopic->свої добрі якості</li>
+    <li>speechtopic->свої сильні сторони і як ними скористатися</li>
     <li>speechtopic->свої недоліки</li>
-    <li>speechtopic->свої слабкі сторони і як їх подолати</li>
-    <li>speechtopic->своє бажання служити спільноті</li>
-    <li>speechtopic->майбутнє</li>
-    <li>speechtopic->своє бажає служити більшій меті</li>
-    <li>speechtopic->[HisPersonalCharacteristic] і зв'язок з роллю</li>
-    <li>speechtopic->те, як нова роль зробить [INITIATOR_possessive] [PersonalCharacteristic] особливо важливою перевагою</li>
-    <li>speechtopic->як [INITIATOR_pronoun] буде використовувати [HisPersonalCharacteristic] для подолання перешкод</li>
+    <li>speechtopic->свої слабкості і як їх подолати</li>
+    <li>speechtopic->своє прагнення служити спільноті</li>
+    <li>speechtopic->свою відданість власним переконанням</li>
+    <li>speechtopic->свої погляди на майбутнє</li>
+    <li>speechtopic->своє бажання служити вищій меті</li>
+    <li>speechtopic->[own_pc] і те, як це стосується нової ролі</li>
+    <li>speechtopic->те, чому з огляду на [INITIATOR_possessive] [PersonalCharacteristic_acc] ця роль пасує саме {INITIATOR_gender ? йому : їй}</li>
+    <li>speechtopic->те, як долатиме перешкоди, спираючись на [own_pc]</li>
     <li>speechtopic->вдячність</li>
-    <li>speechtopic->відображення вдячності</li>
-    <li>speechtopic->життєву мету</li>
+    <li>speechtopic->уміння дякувати</li>
+    <li>speechtopic->сенс життя</li>
     <li>speechtopic->майбутнє колонії</li>
-    <li>speechtopic->покращення колонії</li>
-    <li>speechtopic->прийняття рішень в умовах стресу</li>
-    <li>speechtopic->соціальна структура спільноти</li>
-    <li>speechtopic->відповідальність</li>
-    <li>speechtopic->те, що ставить роль вище особистих бажань</li>
-    <li>speechtopic->ставити роль вище [INITIATOR_possessive] особистих бажань</li>
+    <li>speechtopic->розвиток колонії</li>
+    <li>speechtopic->ухвалення рішень під тиском</li>
+    <li>speechtopic->соціальний устрій спільноти</li>
+    <li>speechtopic->готовність брати на себе відповідальність</li>
+    <li>speechtopic->те, як ставити роль вище за власні бажання</li>
   </Speech_AcceptRole.logRulesInitiator.rulesStrings>
   <!-- EN: blinding speech -->
   <Speech_Blinding.label>промова сліпоти</Speech_Blinding.label>
@@ -286,39 +286,39 @@
   -->
   <Speech_Leader.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
-    <li>speechtopic->пошук [VegetableGen]</li>
-    <li>speechtopic->[AdjectiveFriendly] колектив</li>
-    <li>speechtopic->те, що варто уникати [AnimalBadassPluGen]</li>
-    <li>speechtopic->те, що життя схоже на [Game]</li>
-    <li>speechtopic->розум, смертоносний як [Weapon]</li>
-    <li>speechtopic->важливість досліджень</li>
-    <li>speechtopic->те, як бути схожим на [AnimalPluGen]</li>
-    <li>speechtopic->те, що всі ми [PersonFamilyPluGen] та [PersonFamilyPluGen]</li>
-    <li>speechtopic->те, як бути добрим [PersonAllyPluGen]</li>
-    <li>speechtopic->те, що потрібно [PersonJobPluGen]</li>
-    <li>speechtopic->те, що варто уникати [PersonBadassPluGen]</li>
-    <li>speechtopic->перемогу над [EnemyPluGen] через [ConceptPositive]</li>
-    <li>speechtopic->видовище [GoreGen] під час битви</li>
-    <li>speechtopic->історії про [MechanoidPluGen]</li>
-    <li>speechtopic->значення [ConceptPositiveGen]</li>
-    <li>speechtopic->[ConceptPositive] колонії</li>
-    <li>speechtopic->те, як бути [AdjectiveBadassAbl]</li>
-    <li>speechtopic->те, які ми [AdjectiveBadassPlu]</li>
-    <li>speechtopic->потенціал, який має [AdjectiveLargeFem] колонія</li>
-    <li>speechtopic->[PersonalCharacteristic] кожного колоніста</li>
-    <li>speechtopic->[PersonalCharacteristic] ворогів колонії</li>
-    <li>speechtopic(p=0.25)->закріплення разом як група</li>
-    <li>speechtopic(p=0.25)->шлях вперед через трагедію</li>
-    <li>speechtopic(p=0.25)->спільноту та її важливість</li>
-    <li>speechtopic(p=0.25)->виживання порівняно з розкішним неробством</li>
+    <li>speechtopic->пошуки [Vegetable_pl_gen]</li>
+    <li>speechtopic->те, як бути [AdjectiveFriendly_ins]</li>
+    <li>speechtopic->те, як уникати [AnimalBadass_pl_gen]</li>
+    <li>speechtopic->те, наскільки життя схоже на [Game_acc]</li>
+    <li>speechtopic->розум як [Weapon_acc]</li>
+    <li>speechtopic->мандри крізь [TerrainFeature_pl_acc] і [TerrainFeature_pl_acc]</li>
+    <li>speechtopic->обіцянки, дані [Direction_dat] краю</li>
+    <li>speechtopic->те, як стати більше схожими на [Animal_pl_acc]</li>
+    <li>speechtopic->символізм [NaturalObject_gen] і [NaturalObject_gen]</li>
+    <li>speechtopic->те, що всі ми — [PersonFamily_pl] і [PersonFamily_pl]</li>
+    <li>speechtopic->те, як бути добрим [PersonAlly_m_ins]</li>
+    <li>speechtopic->потребу в [PersonJob_pl_loc]</li>
+    <li>speechtopic->те, як уникати [PersonBadass_pl_gen]</li>
+    <li>speechtopic->перемогу над [Enemy_pl_ins] завдяки [ConceptPositive_dat]</li>
+    <li>speechtopic->вигляд [Gore_gen] у бою</li>
+    <li>speechtopic->історію [Mechanoid_pl_gen]</li>
+    <li>speechtopic->значення [ConceptPositive_gen]</li>
+    <li>speechtopic->[ConceptPositive_acc] нашої колонії</li>
+    <li>speechtopic->те, як бути [AdjectiveBadass_ins], не будучи [AdjectiveBadass_ins]</li>
+    <li>speechtopic->те, наскільки [AdjectiveBadass_f] наша колонія</li>
+    <li>speechtopic->[AdjectiveNatural_pl_acc] [TerrainFeature_pl_acc]</li>
+    <li>speechtopic->[AdjectiveLarge_acc] потенціал колонії</li>
+    <li>speechtopic->[PersonalCharacteristic_acc] кожного колоніста</li>
+    <li>speechtopic->[terrible_pc] ворогів колонії</li>
+    <li>terrible_pc(p=4)->жахливий [PersonalCharacteristic_m_acc]</li>
+    <li>terrible_pc(p=3)->жахливу [PersonalCharacteristic_f_acc]</li>
+    <li>terrible_pc(p=2)->жахливе [PersonalCharacteristic_n_acc]</li>
+    <li>speechtopic(p=0.25)->згуртованість</li>
+    <li>speechtopic(p=0.25)->шлях уперед крізь трагедію</li>
+    <li>speechtopic(p=0.25)->громаду та її значення</li>
+    <li>speechtopic(p=0.25)->виживання на противагу розкоші</li>
     <li>speechtopic(p=0.25)->щастя через труднощі</li>
-    <li>speechtopic(p=0.25)->задовільнення через страждання</li>
-    <li>speechtopic(p=0.25)->смерть як мотиваторі</li>
-    <li>speechtopic(p=0.25)->сильні руки та серце</li>
-    <li>speechtopic(p=0.25)->право вижити</li>
-    <li>speechtopic(p=0.25)->смерті як мотиваторі</li>
-    <li>speechtopic(p=0.25)->сильних руках та серці</li>
-    <li>speechtopic(p=0.25)->праві вижити</li>
+    <li>speechtopic(p=0.25)->задоволення через страждання</li>
   </Speech_Leader.logRulesInitiator.rulesStrings>
   <!-- EN: role removal speech -->
   <Speech_RemoveRole.label>виступ про позбавлення ролі</Speech_RemoveRole.label>

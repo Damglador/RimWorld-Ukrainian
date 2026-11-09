@@ -7,7 +7,7 @@
   <!-- EN: beam -->
   <Beam.label>промінь</Beam.label>
   <!-- EN: {0} has been beamed to death. -->
-  <Beam.deathMessage>{0} {0_gender ? був спалений : була спалена} до смерті.</Beam.deathMessage>
+  <Beam.deathMessage>{0} {0_gender ? загинув : загинула} від променя.</Beam.deathMessage>
   <!-- EN: bomb -->
   <Bomb.label>вибух</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
@@ -19,19 +19,19 @@
   <!-- EN: decayed organ -->
   <Decayed.label>деградація органу</Decayed.label>
   <!-- EN: {0} died from metabolic disruptions caused by organ decay. -->
-  <Decayed.deathMessage>{0} помирає від метаболічних порушень, спричинених деградацією органу.</Decayed.deathMessage>
+  <Decayed.deathMessage>{0} {0_gender ? помер : померла} від порушень обміну речовин через деградацію органу.</Decayed.deathMessage>
   <!-- EN: deterioration -->
   <Deterioration.label>псування</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>{0} {0_gender ? був убитий : була убита : було убито}.</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} {0_gender ? загинув : загинула}.</Deterioration.deathMessage>
   <!-- EN: extinguish -->
   <Extinguish.label>гасіння</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>{0} {0_gender ? був убитий : була убита : було убито}.</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} {0_gender ? загинув : загинула}.</Extinguish.deathMessage>
   <!-- EN: mining -->
   <Mining.label>гірництво</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>{0} {0_gender ? убитий : убита : убито}.</Mining.deathMessage>
+  <Mining.deathMessage>{0} {0_gender ? загинув : загинула}.</Mining.deathMessage>
   <!-- EN: nerve -->
   <Nerve.label>нерви</Nerve.label>
   <!-- EN: {0} has been killed by nerve shock. -->
@@ -39,21 +39,21 @@
   <!-- EN: nerve stun -->
   <NerveStun.label>нервовий шок</NerveStun.label>
   <!-- EN: {0} has been killed. -->
-  <NerveStun.deathMessage>{0} {0_gender ? був убитий : була убита}.</NerveStun.deathMessage>
+  <NerveStun.deathMessage>{0} {0_gender ? загинув : загинула}.</NerveStun.deathMessage>
   <!-- EN: rotting -->
   <Rotting.label>гниття</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>{0} {0_gender ? був убитий : була убита : було убито}.</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} {0_gender ? загинув : загинула}.</Rotting.deathMessage>
   <!-- EN: smoke -->
   <Smoke.label>дим</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>{0} {0_gender ? убитий : убита : убито}.</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} {0_gender ? загинув : загинула}.</Smoke.deathMessage>
   <!-- EN: thump -->
   <Thump.label>удар</Thump.label>
   <!-- EN: {0} has been shot to death. -->
-  <Thump.deathMessage>{0} {0_gender ? застрелений : застрелена : застрелено}.</Thump.deathMessage>
+  <Thump.deathMessage>{0} {0_gender ? застрелений : застрелена}.</Thump.deathMessage>
   <!-- EN: vaporize -->
   <Vaporize.label>випаровування</Vaporize.label>
   <!-- EN: {0} has been vaporized by extreme heat. -->
-  <Vaporize.deathMessage>{0} {0_gender? випарувався : випарувалася : випарувалось} від екстремальних температур.</Vaporize.deathMessage>
+  <Vaporize.deathMessage>{0} {0_gender ? випарувався : випарувалася} від надзвичайного жару.</Vaporize.deathMessage>
 </LanguageData>

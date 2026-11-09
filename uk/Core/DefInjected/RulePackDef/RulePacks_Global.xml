@@ -50,53 +50,53 @@
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
   <GlobalUtility.rulePack.rulesStrings>
-    <li>Trans->of</li>
-    <li>Trans->for</li>
-    <li>Trans->by</li>
-    <li>Trans->with</li>
+    <li>Trans->для</li>
+    <li>Trans->від</li>
+    <li>Trans->без</li>
+    <li>Trans->заради</li>
+    <li>Trans_acc->про</li>
+    <li>Trans_acc->за</li>
+    <li>Trans_ins->з</li>
+    <li>Trans_ins->над</li>
+    <li>Trans_ins->під</li>
+    <li>Trans_ins->перед</li>
     <li>Character(p=6)->[PersonJob]</li>
     <li>Character(p=4)->[Animal]</li>
     <li>Character(p=3)->[Enemy]</li>
     <li>Character->[Mechanoid]</li>
-    <li>Quantity_adjphrase->два</li>
-    <li>Quantity_adjphrase->три</li>
-    <li>Quantity_adjphrase->чотири</li>
-    <li>Quantity_adjphrase->п'ять</li>
+    <li>Character_m(p=6)->[PersonJob_m]</li>
+    <li>Character_m(p=4)->[Animal_m]</li>
+    <li>Character_m(p=3)->[Enemy_m]</li>
+    <li>Character_m->[Mechanoid_m]</li>
+    <li>Character_f(p=6)->[PersonJob_f]</li>
+    <li>Character_f(p=4)->[Animal_f]</li>
+    <li>Character_f(p=3)->[Enemy_f]</li>
+    <li>Character_f->[Mechanoid_f]</li>
+    <li>Character_n(p=4)->[Animal_n]</li>
+    <li>Character_n(p=3)->[Enemy_n]</li>
+    <li>Character_n->[Mechanoid_n]</li>
+    <li>Quantity_adjphrase->кілька</li>
+    <li>Quantity_adjphrase->декілька</li>
+    <li>Quantity_adjphrase->п’ять</li>
     <li>Quantity_adjphrase->шість</li>
     <li>Quantity_adjphrase->сім</li>
     <li>Quantity_adjphrase->вісім</li>
-    <li>Quantity_adjphrase->дев'ять</li>
+    <li>Quantity_adjphrase->дев’ять</li>
     <li>Quantity_adjphrase->десять</li>
-    <li>Quantity_adjphrase->кілька</li>
-    <li>Quantity_adjphrase->група</li>
-    <li>Quantity_adjphrase->велика група</li>
     <li>Quantity_adjphrase->десятки</li>
     <li>Quantity_adjphrase->сотні</li>
-    <li>Quantity_adjphrase->тисяча</li>
     <li>Quantity_adjphrase->тисячі</li>
-    <li>Shape->трикутник</li>
-    <li>Shape->квадрат</li>
-    <li>Shape->прямокутник</li>
-    <li>Shape->конус</li>
-    <li>Shape->лінія</li>
-    <li>Shape->серце</li>
-    <li>Shape->зірка</li>
-    <li>Shape->коло</li>
-    <li>Shape->еліпс</li>
-    <li>AdjectiveAny->[AdjectiveBadass]</li>
-    <li>AdjectiveAny->[AdjectiveAngsty]</li>
-    <li>AdjectiveAny->[AdjectiveFriendly]</li>
-    <li>AdjectiveAny->[AdjectiveNatural]</li>
-    <li>ConceptAny->[ConceptPositive]</li>
-    <li>ConceptAny->[ConceptBadass]</li>
-    <li>ConceptAny->[ConceptAngsty]</li>
-    <li>PersonalCharacteristic(p=0.15)->genitals</li>
-    <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
-    <li>PersonalCharacteristic(p=0.15)->body hair</li>
-    <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
-    <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
-    <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
-    <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
+    <li>Shape_m->трикутник</li>
+    <li>Shape_m->квадрат</li>
+    <li>Shape_m->прямокутник</li>
+    <li>Shape_m->конус</li>
+    <li>Shape_m->ромб</li>
+    <li>Shape_m->овал</li>
+    <li>Shape_f->лінія</li>
+    <li>Shape_f->зірка</li>
+    <li>Shape_f->спіраль</li>
+    <li>Shape_f->піраміда</li>
+    <li>Shape_n->серце</li>
   </GlobalUtility.rulePack.rulesStrings>
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>

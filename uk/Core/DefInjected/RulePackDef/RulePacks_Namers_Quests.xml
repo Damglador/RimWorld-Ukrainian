@@ -4,6 +4,6 @@
     <li>defaultQuestName->[adjectiveCurious] [quest]</li>
   -->
   <NamerQuestDefault.rulePack.rulesStrings>
-    <li>defaultQuestName->[adjectiveCurious] [quest]</li>
+    <li>defaultQuestName(p=1)->[adjectiveCurious] [quest_m]</li>
   </NamerQuestDefault.rulePack.rulesStrings>
 </LanguageData>

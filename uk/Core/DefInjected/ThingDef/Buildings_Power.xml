@@ -39,9 +39,9 @@
   <!-- EN: wind turbine -->
   <WindTurbine.label>вітрова турбіна</WindTurbine.label>
   <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
-  <WindTurbine.description>Вітровий електричний генератор. Потребує відкритого простору для оптимального потоку повітря.</WindTurbine.description>
+  <WindTurbine.description>Вітровий електрогенератор. Для найкращого потоку повітря потребує великого вільного простору спереду й позаду.</WindTurbine.description>
   <!-- EN: wood-fired generator -->
   <WoodFiredGenerator.label>генератор на дровах</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <WoodFiredGenerator.description>Виробляє електроенергію, спалюючи деревину. Періодично треба заправляти вручну.</WoodFiredGenerator.description>
+  <WoodFiredGenerator.description>Виробляє електроенергію, спалюючи деревину. Дрова треба періодично підкладати вручну.</WoodFiredGenerator.description>
 </LanguageData>

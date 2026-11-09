@@ -3,7 +3,7 @@
   <!-- EN: kills (entities) -->
   <KillsEntities.label>вбивств (істоти)</KillsEntities.label>
   <!-- EN: The number of entities I have killed. -->
-  <KillsEntities.description>Кількість вбитих мною істот.</KillsEntities.description>
+  <KillsEntities.description>Кількість убитих мною сутностей.</KillsEntities.description>
   <!-- EN: enemies downed (entities) -->
   <PawnsDownedEntities.label>знерухомлено (істот)</PawnsDownedEntities.label>
   <!-- EN: The number of entities I have downed. -->

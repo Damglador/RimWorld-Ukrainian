@@ -13,16 +13,16 @@
     <li>terrain_word->chain</li>
   -->
   <NamerArchipelago.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->isle [narrative_name]</li>
-    <li>terrain_word(p=4)->islands</li>
-    <li>terrain_word(p=3)->isles</li>
-    <li>terrain_word(p=3)->archipelago</li>
-    <li>terrain_word->reef</li>
-    <li>terrain_word->atoll</li>
-    <li>terrain_word->rocks</li>
-    <li>terrain_word->islets</li>
-    <li>terrain_word->points</li>
-    <li>terrain_word->chain</li>
+    <li>r_name(p=0.2)->острів [narrative_name]</li>
+    <li>terrain_word(p=4)->острови</li>
+    <li>terrain_word_pl(p=4)->острови</li>
+    <li>terrain_word(p=3)->острівці</li>
+    <li>terrain_word_pl(p=3)->острівці</li>
+    <li>terrain_word(p=3)->архіпелаг</li>
+    <li>terrain_word_m(p=3)->архіпелаг</li>
+    <li>terrain_word->риф</li>
+    <li>terrain_word_m->риф</li>
+    <li>terrain_word->атол</li>
   </NamerArchipelago.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word(p=4)->shrubland</li>
@@ -35,14 +35,14 @@
     <li>terrain_word->barrens</li>
   -->
   <NamerAridShrubland.rulePack.rulesStrings>
-    <li>terrain_word(p=4)->shrubland</li>
-    <li>terrain_word(p=4)->scrubland</li>
-    <li>terrain_word(p=2)->plateau</li>
-    <li>terrain_word(p=2)->scrub</li>
-    <li>terrain_word->desert</li>
-    <li>terrain_word->bush</li>
-    <li>terrain_word->brush</li>
-    <li>terrain_word->barrens</li>
+    <li>terrain_word(p=4)->чагарники</li>
+    <li>terrain_word_pl(p=4)->чагарники</li>
+    <li>terrain_word(p=4)->зарості</li>
+    <li>terrain_word_pl(p=4)->зарості</li>
+    <li>terrain_word(p=2)->плато</li>
+    <li>terrain_word_n(p=2)->плато</li>
+    <li>terrain_word(p=2)->хащі</li>
+    <li>terrain_word_pl(p=2)->хащі</li>
   </NamerAridShrubland.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.2)->gulf of [narrative_name]</li>
@@ -54,11 +54,11 @@
   -->
   <NamerBay.rulePack.rulesStrings>
     <li>r_name(p=0.2)->затока [narrative_name]</li>
-    <li>terrain_word(p=6)->bay</li>
-    <li>terrain_word->bight</li>
-    <li>terrain_word->gulf</li>
-    <li>terrain_word->якірна ярість</li>
-    <li>terrain_word->cove</li>
+    <li>terrain_word(p=6)->затока</li>
+    <li>terrain_word_f(p=6)->затока</li>
+    <li>terrain_word->бухта</li>
+    <li>terrain_word_f->бухта</li>
+    <li>terrain_word->лиман</li>
   </NamerBay.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -70,13 +70,13 @@
     <li>terrain_word->thicket</li>
   -->
   <NamerBorealForest.rulePack.rulesStrings>
-    <li>terrain_word(p=6)->forest</li>
-    <li>terrain_word(p=3)->taiga</li>
-    <li>terrain_word->grove</li>
-    <li>terrain_word->woodland</li>
-    <li>terrain_word->woods</li>
-    <li>terrain_word->tangle</li>
-    <li>terrain_word->thicket</li>
+    <li>terrain_word(p=6)->ліс</li>
+    <li>terrain_word_m(p=6)->ліс</li>
+    <li>terrain_word(p=3)->тайга</li>
+    <li>terrain_word_f(p=3)->тайга</li>
+    <li>terrain_word->гай</li>
+    <li>terrain_word_m->гай</li>
+    <li>terrain_word->пуща</li>
   </NamerBorealForest.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
@@ -103,28 +103,28 @@
     <li>terrain_word->barrens</li>
   -->
   <NamerDesert.rulePack.rulesStrings>
-    <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
-    <li>desert_adjective->flat</li>
-    <li>desert_adjective->white</li>
-    <li>desert_adjective->endless</li>
-    <li>desert_adjective->heartless</li>
-    <li>desert_adjective->parched</li>
-    <li>desert_adjective->dry</li>
-    <li>desert_adjective->long</li>
-    <li>desert_adjective->sunburned</li>
-    <li>desert_adjective->sunny</li>
-    <li>desert_adjective->dazzling</li>
-    <li>desert_adjective->hot</li>
-    <li>desert_adjective->sweaty</li>
-    <li>desert_adjective->sandy</li>
-    <li>desert_adjective->rocky</li>
-    <li>terrain_word(p=6)->desert</li>
-    <li>terrain_word->plateau</li>
-    <li>terrain_word->flats</li>
-    <li>terrain_word->basin</li>
-    <li>terrain_word->wastes</li>
-    <li>terrain_word->wasteland</li>
-    <li>terrain_word->barrens</li>
+    <li>r_name(p=0.4)->[desert_adjective_np] [narrative_name]</li>
+    <li>desert_adjective_np->[desert_adjective] [terrain_word_m]</li>
+    <li>desert_adjective_np->[desert_adjective_f] [terrain_word_f]</li>
+    <li>desert_adjective_np->[desert_adjective_n] [terrain_word_n]</li>
+    <li>desert_adjective_np->[desert_adjective_pl] [terrain_word_pl]</li>
+    <li>desert_adjective(p=2)->рівний</li>
+    <li>desert_adjective_f(p=2)->рівна</li>
+    <li>desert_adjective_n(p=2)->рівне</li>
+    <li>desert_adjective_pl(p=2)->рівні</li>
+    <li>desert_adjective->білий</li>
+    <li>desert_adjective_f->біла</li>
+    <li>desert_adjective_n->біле</li>
+    <li>desert_adjective_pl->білі</li>
+    <li>desert_adjective->безкраїй</li>
+    <li>desert_adjective_f->безкрая</li>
+    <li>desert_adjective_n->безкрає</li>
+    <li>desert_adjective_pl->безкраї</li>
+    <li>desert_adjective->безжальний</li>
+    <li>desert_adjective_f->безжальна</li>
+    <li>desert_adjective_n->безжальне</li>
+    <li>desert_adjective_pl->безжальні</li>
+    <li>desert_adjective->спраглий</li>
   </NamerDesert.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -133,10 +133,10 @@
     <li>terrain_word->thicket</li>
   -->
   <NamerForest.rulePack.rulesStrings>
-    <li>terrain_word(p=6)->forest</li>
-    <li>terrain_word->grove</li>
-    <li>terrain_word->woodland</li>
-    <li>terrain_word->thicket</li>
+    <li>terrain_word(p=6)->ліс</li>
+    <li>terrain_word_m(p=6)->ліс</li>
+    <li>terrain_word->гай</li>
+    <li>terrain_word_m->гай</li>
   </NamerForest.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word->sheet</li>
@@ -149,14 +149,14 @@
     <li>terrain_word(p=0.3)->tract</li>
   -->
   <NamerIceSheet.rulePack.rulesStrings>
-    <li>terrain_word->sheet</li>
-    <li>terrain_word->expanse</li>
-    <li>terrain_word(p=0.5)->reach</li>
-    <li>terrain_word(p=0.3)->field</li>
-    <li>terrain_word(p=0.3)->span</li>
-    <li>terrain_word(p=0.3)->field</li>
-    <li>terrain_word(p=0.3)->stretch</li>
-    <li>terrain_word(p=0.3)->tract</li>
+    <li>terrain_word->крига</li>
+    <li>terrain_word_f->крига</li>
+    <li>terrain_word(p=0.5)->простір</li>
+    <li>terrain_word_m(p=0.5)->простір</li>
+    <li>terrain_word(p=0.5)->обшир</li>
+    <li>terrain_word_m(p=0.5)->обшир</li>
+    <li>terrain_word(p=0.3)->поле</li>
+    <li>terrain_word_n(p=0.3)->поле</li>
   </NamerIceSheet.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
@@ -169,14 +169,14 @@
     <li>terrain_word->point</li>
   -->
   <NamerIsland.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->isle [narrative_name]</li>
-    <li>terrain_word(p=4)->island</li>
-    <li>terrain_word(p=2)->isle</li>
-    <li>terrain_word->reef</li>
-    <li>terrain_word->atoll</li>
-    <li>terrain_word->rock</li>
-    <li>terrain_word->islet</li>
-    <li>terrain_word->point</li>
+    <li>r_name(p=0.2)->острів [narrative_name]</li>
+    <li>terrain_word(p=4)->острів</li>
+    <li>terrain_word_m(p=4)->острів</li>
+    <li>terrain_word(p=2)->острівець</li>
+    <li>terrain_word_m(p=2)->острівець</li>
+    <li>terrain_word->риф</li>
+    <li>terrain_word_m->риф</li>
+    <li>terrain_word->атол</li>
   </NamerIsland.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
@@ -188,13 +188,13 @@
     <li>terrain_word(p=0.3)->loch</li>
   -->
   <NamerLake.rulePack.rulesStrings>
-    <li>r_name->lake [narrative_name]</li>
-    <li>terrain_word(p=6)->lake</li>
-    <li>terrain_word->pond</li>
-    <li>terrain_word->basin</li>
-    <li>terrain_word->reservoir</li>
-    <li>terrain_word(p=0.3)->puddle</li>
-    <li>terrain_word(p=0.3)->loch</li>
+    <li>r_name->озеро [narrative_name]</li>
+    <li>terrain_word(p=6)->озеро</li>
+    <li>terrain_word_n(p=6)->озеро</li>
+    <li>terrain_word->ставок</li>
+    <li>terrain_word_m->ставок</li>
+    <li>terrain_word->улоговина</li>
+    <li>terrain_word_f->улоговина</li>
   </NamerLake.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.2)->mount [narrative_name]</li>
@@ -205,12 +205,12 @@
     <li>terrain_word->cliffs</li>
   -->
   <NamerMountainRange.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->mount [narrative_name]</li>
-    <li>terrain_word(p=5)->mountains</li>
-    <li>terrain_word(p=2)->range</li>
-    <li>terrain_word->peaks</li>
-    <li>terrain_word->hills</li>
-    <li>terrain_word->cliffs</li>
+    <li>r_name(p=0.2)->гора [narrative_name]</li>
+    <li>terrain_word(p=5)->гори</li>
+    <li>terrain_word_pl(p=5)->гори</li>
+    <li>terrain_word(p=2)->хребет</li>
+    <li>terrain_word_m(p=2)->хребет</li>
+    <li>terrain_word->кряж</li>
   </NamerMountainRange.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
@@ -232,23 +232,23 @@
     <li>terrain_word->expanse</li>
   -->
   <NamerOcean.rulePack.rulesStrings>
-    <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
-    <li>ocean_adjective->blue</li>
-    <li>ocean_adjective->white</li>
-    <li>ocean_adjective->gray</li>
-    <li>ocean_adjective->clear</li>
-    <li>ocean_adjective->windy</li>
-    <li>ocean_adjective->stormy</li>
-    <li>ocean_adjective->calm</li>
-    <li>ocean_adjective->broad</li>
-    <li>ocean_adjective->endless</li>
-    <li>ocean_adjective->flat</li>
-    <li>ocean_adjective->still</li>
-    <li>ocean_adjective->wavy</li>
-    <li>ocean_adjective->gentle</li>
-    <li>terrain_word(p=6)->ocean</li>
-    <li>terrain_word(p=3)->sea</li>
-    <li>terrain_word->expanse</li>
+    <li>r_name(p=0.4)->[ocean_adjective_np] [narrative_name]</li>
+    <li>ocean_adjective_np->[ocean_adjective] [terrain_word_m]</li>
+    <li>ocean_adjective_np->[ocean_adjective_f] [terrain_word_f]</li>
+    <li>ocean_adjective_np->[ocean_adjective_n] [terrain_word_n]</li>
+    <li>ocean_adjective_np->[ocean_adjective_pl] [terrain_word_pl]</li>
+    <li>ocean_adjective(p=2)->синій</li>
+    <li>ocean_adjective_f(p=2)->синя</li>
+    <li>ocean_adjective_n(p=2)->синє</li>
+    <li>ocean_adjective_pl(p=2)->сині</li>
+    <li>ocean_adjective->білий</li>
+    <li>ocean_adjective_f->біла</li>
+    <li>ocean_adjective_n->біле</li>
+    <li>ocean_adjective_pl->білі</li>
+    <li>ocean_adjective->сірий</li>
+    <li>ocean_adjective_f->сіра</li>
+    <li>ocean_adjective_n->сіре</li>
+    <li>ocean_adjective_pl->сірі</li>
   </NamerOcean.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
@@ -260,13 +260,13 @@
     <li>terrain_word->horn</li>
   -->
   <NamerPeninsula.rulePack.rulesStrings>
-    <li>r_name->[maybe_terrain_prefixMasc][terrain_wordMasc][maybe_terrain_suffix]</li>
-    <li>r_name->[terrain_wordMasc][maybe_terrain_suffix]</li>
-    <li>r_name->[maybe_terrain_prefixMasc][terrain_wordMasc]</li>
+    <li>r_name(p=0.2)->мис [narrative_name]</li>
     <li>terrain_word(p=5)->півострів</li>
-    <li>terrain_word->мис</li>
-    <li>terrain_word->виступ</li>
+    <li>terrain_word_m(p=5)->півострів</li>
+    <li>terrain_word(p=2)->мис</li>
+    <li>terrain_word_m(p=2)->мис</li>
     <li>terrain_word->ріг</li>
+    <li>terrain_word_m->ріг</li>
   </NamerPeninsula.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word(p=6)->sea</li>
@@ -274,9 +274,9 @@
     <li>terrain_word->ocean</li>
   -->
   <NamerSea.rulePack.rulesStrings>
-    <li>terrain_word(p=6)->sea</li>
-    <li>terrain_word->lagoon</li>
-    <li>terrain_word->ocean</li>
+    <li>terrain_word(p=6)->море</li>
+    <li>terrain_word_n(p=6)->море</li>
+    <li>terrain_word->лагуна</li>
   </NamerSea.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.1)->fen [narrative_name]</li>
@@ -299,24 +299,24 @@
     <li>terrain_word->fen</li>
   -->
   <NamerSwamp.rulePack.rulesStrings>
-    <li>r_name(p=0.1)->fen [narrative_name]</li>
-    <li>r_name(p=0.3)->[swamp_adjective] [narrative_name]</li>
-    <li>swamp_adjective->wet</li>
-    <li>swamp_adjective->steamy</li>
-    <li>swamp_adjective->choking</li>
-    <li>swamp_adjective->rotten</li>
-    <li>swamp_adjective->rotting</li>
-    <li>swamp_adjective->overgrown</li>
-    <li>swamp_adjective->tangled</li>
-    <li>swamp_adjective->viny</li>
-    <li>swamp_adjective->thorny</li>
-    <li>terrain_word(p=6)->swamp</li>
-    <li>terrain_word->basin</li>
-    <li>terrain_word->wetlands</li>
-    <li>terrain_word->bayou</li>
-    <li>terrain_word->bog</li>
-    <li>terrain_word->marsh</li>
-    <li>terrain_word->fen</li>
+    <li>r_name(p=0.1)->трясовина [narrative_name]</li>
+    <li>r_name(p=0.3)->[swamp_adjective_np] [narrative_name]</li>
+    <li>swamp_adjective_np->[swamp_adjective] [terrain_word_m]</li>
+    <li>swamp_adjective_np->[swamp_adjective_f] [terrain_word_f]</li>
+    <li>swamp_adjective_np->[swamp_adjective_n] [terrain_word_n]</li>
+    <li>swamp_adjective_np->[swamp_adjective_pl] [terrain_word_pl]</li>
+    <li>swamp_adjective(p=2)->мокрий</li>
+    <li>swamp_adjective_f(p=2)->мокра</li>
+    <li>swamp_adjective_n(p=2)->мокре</li>
+    <li>swamp_adjective_pl(p=2)->мокрі</li>
+    <li>swamp_adjective->парний</li>
+    <li>swamp_adjective_f->парна</li>
+    <li>swamp_adjective_n->парне</li>
+    <li>swamp_adjective_pl->парні</li>
+    <li>swamp_adjective->задушливий</li>
+    <li>swamp_adjective_f->задушлива</li>
+    <li>swamp_adjective_n->задушливе</li>
+    <li>swamp_adjective_pl->задушливі</li>
   </NamerSwamp.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
@@ -335,20 +335,20 @@
     <li>terrain_word->tangle</li>
   -->
   <NamerTropicalRainforest.rulePack.rulesStrings>
-    <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
-    <li>rainforest_adjective->wet</li>
-    <li>rainforest_adjective->steamy</li>
-    <li>rainforest_adjective->choking</li>
-    <li>rainforest_adjective->overgrown</li>
-    <li>rainforest_adjective->tangled</li>
-    <li>rainforest_adjective->viny</li>
-    <li>rainforest_adjective->thorny</li>
-    <li>terrain_word(p=6)->rainforest</li>
-    <li>terrain_word(p=3)->jungle</li>
-    <li>terrain_word->forest</li>
-    <li>terrain_word->grove</li>
-    <li>terrain_word->woodland</li>
-    <li>terrain_word->tangle</li>
+    <li>r_name(p=0.3)->[rainforest_adjective_np] [narrative_name]</li>
+    <li>rainforest_adjective_np->[rainforest_adjective] [terrain_word_m]</li>
+    <li>rainforest_adjective_np->[rainforest_adjective_f] [terrain_word_f]</li>
+    <li>rainforest_adjective_np->[rainforest_adjective_n] [terrain_word_n]</li>
+    <li>rainforest_adjective_np->[rainforest_adjective_pl] [terrain_word_pl]</li>
+    <li>rainforest_adjective(p=2)->мокрий</li>
+    <li>rainforest_adjective_f(p=2)->мокра</li>
+    <li>rainforest_adjective_n(p=2)->мокре</li>
+    <li>rainforest_adjective_pl(p=2)->мокрі</li>
+    <li>rainforest_adjective->парний</li>
+    <li>rainforest_adjective_f->парна</li>
+    <li>rainforest_adjective_n->парне</li>
+    <li>rainforest_adjective_pl->парні</li>
+    <li>rainforest_adjective->задушливий</li>
   </NamerTropicalRainforest.rulePack.rulesStrings>
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>
@@ -365,18 +365,18 @@
     <li>terrain_word->flats</li>
   -->
   <NamerTundra.rulePack.rulesStrings>
-    <li>terrain_word(p=4)->plateau</li>
-    <li>terrain_word(p=4)->barrens</li>
-    <li>terrain_word(p=2)->taiga</li>
-    <li>terrain_word->scrub</li>
-    <li>terrain_word->shrubland</li>
-    <li>terrain_word->scrubland</li>
-    <li>terrain_word->bush</li>
-    <li>terrain_word->brush</li>
-    <li>terrain_word->barrens</li>
-    <li>terrain_word->expanse</li>
-    <li>terrain_word->prairie</li>
-    <li>terrain_word->flats</li>
+    <li>terrain_word(p=4)->плато</li>
+    <li>terrain_word_n(p=4)->плато</li>
+    <li>terrain_word(p=4)->пустки</li>
+    <li>terrain_word_pl(p=4)->пустки</li>
+    <li>terrain_word(p=2)->тайга</li>
+    <li>terrain_word_f(p=2)->тайга</li>
+    <li>terrain_word->чагарники</li>
+    <li>terrain_word_pl->чагарники</li>
+    <li>terrain_word->зарості</li>
+    <li>terrain_word_pl->зарості</li>
+    <li>terrain_word->кущі</li>
+    <li>terrain_word_pl->кущі</li>
   </NamerTundra.rulePack.rulesStrings>
   <!-- EN:
     <li>r_name->[narrative_name] [terrain_word]</li>
@@ -440,64 +440,64 @@
     <li>story_result->fraud</li>
   -->
   <WorldFeatureNamerCommon.rulePack.rulesStrings>
-    <li>r_name->[narrative_name] [terrain_word]</li>
-    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>r_name(p=10)->[terrain_word] [narrative_name]</li>
+    <li>r_name(p=1.5)->[terrain_adj_np]</li>
+    <li>r_name(p=0.05)->[terrain_word] [storyname]</li>
     <li>narrative_name(p=12)->[WordTribal]</li>
     <li>narrative_name(p=12)->[PlaceOutlander]</li>
-    <li>narrative_name->[Color][NaturalObject]</li>
-    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
-    <li>narrative_name->[Animal]</li>
-    <li>narrative_name->[Color]</li>
-    <li>narrative_name->[Color][Animal]</li>
-    <li>narrative_name->[AdjectiveNatural][Animal]</li>
-    <li>narrative_name->[Animal][BodyPart]</li>
-    <li>narrative_name->[Color] [Animal]</li>
-    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
-    <li>narrative_name->[Animal] [BodyPart]</li>
-    <li>storyname(p=50)->[subject]'s [story_result]</li>
-    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
-    <li>storyname->[subject]'s [Gore]</li>
+    <li>narrative_name->[Color_gen] [NaturalObject_m_gen]</li>
+    <li>narrative_name->[Color_f_gen] [NaturalObject_f_gen]</li>
+    <li>narrative_name->[AdjectiveNatural_gen] [BodyPart_m_gen]</li>
+    <li>narrative_name->[AdjectiveNatural_f_gen] [BodyPart_f_gen]</li>
+    <li>narrative_name(p=2)->[Animal_gen]</li>
+    <li>narrative_name->[Color_gen] [Animal_m_gen]</li>
+    <li>narrative_name->[Color_f_gen] [Animal_f_gen]</li>
+    <li>narrative_name->[AdjectiveNatural_gen] [Animal_m_gen]</li>
+    <li>narrative_name->[AdjectiveNatural_f_gen] [Animal_f_gen]</li>
+    <li>narrative_name(p=2)->[BodyPart_gen] [Animal_gen]</li>
+    <li>terrain_adj_np->[narrative_adj] [terrain_word_m]</li>
+    <li>terrain_adj_np->[narrative_adj_f] [terrain_word_f]</li>
+    <li>terrain_adj_np->[narrative_adj_n] [terrain_word_n]</li>
+    <li>terrain_adj_np->[narrative_adj_pl] [terrain_word_pl]</li>
+    <li>narrative_adj->[Color]</li>
+    <li>narrative_adj->[AdjectiveNatural]</li>
+    <li>narrative_adj_f->[Color_f]</li>
+    <li>narrative_adj_f->[AdjectiveNatural_f]</li>
+    <li>narrative_adj_n->[Color_n]</li>
+    <li>narrative_adj_n->[AdjectiveNatural_n]</li>
+    <li>narrative_adj_pl->[Color_pl]</li>
+    <li>narrative_adj_pl->[AdjectiveNatural_pl]</li>
+    <li>storyname(p=30)->[story_result_gen] [subject_gen]</li>
+    <li>storyname(p=20)->[story_result_gen]</li>
+    <li>storyname(p=2)->[BodyPart_gen] [subject_gen]</li>
+    <li>storyname->[Gore_gen] [subject_gen]</li>
     <li>subject(p=5)->[NamePerson]</li>
     <li>subject->[Animal]</li>
     <li>subject->[WordTribal]</li>
     <li>subject->[PlaceOutlander]</li>
-    <li>story_result->folly</li>
-    <li>story_result->vice</li>
-    <li>story_result->lunacy</li>
-    <li>story_result->mistake</li>
-    <li>story_result->fault</li>
-    <li>story_result->misstep</li>
-    <li>story_result->delusion</li>
-    <li>story_result->joy</li>
-    <li>story_result->delight</li>
-    <li>story_result->wonder</li>
-    <li>story_result->pride</li>
-    <li>story_result->jewel</li>
-    <li>story_result->prize</li>
-    <li>story_result->bounty</li>
-    <li>story_result->honor</li>
-    <li>story_result->jackpot</li>
-    <li>story_result->trophy</li>
-    <li>story_result->conceit</li>
-    <li>story_result->arrogance</li>
-    <li>story_result->stand</li>
-    <li>story_result->loss</li>
-    <li>story_result->debt</li>
-    <li>story_result->collapse</li>
-    <li>story_result->destruction</li>
-    <li>story_result->cataclysm</li>
-    <li>story_result->ruin</li>
-    <li>story_result->ruination</li>
-    <li>story_result->undoing</li>
-    <li>story_result->downfall</li>
-    <li>story_result->end</li>
-    <li>story_result->retirement</li>
-    <li>story_result->achievement</li>
-    <li>story_result->finale</li>
-    <li>story_result->bluff</li>
-    <li>story_result->ruse</li>
-    <li>story_result->deception</li>
-    <li>story_result->facade</li>
-    <li>story_result->fraud</li>
+    <li>subject_gen->[Animal_gen]</li>
+    <li>subject_gen->[Character_gen]</li>
+    <li>story_result->безумство</li>
+    <li>story_result->вада</li>
+    <li>story_result->божевілля</li>
+    <li>story_result->помилка</li>
+    <li>story_result->провина</li>
+    <li>story_result->хибний крок</li>
+    <li>story_result->омана</li>
+    <li>story_result->радість</li>
+    <li>story_result->втіха</li>
+    <li>story_result->диво</li>
+    <li>story_result->гордість</li>
+    <li>story_result->скарб</li>
+    <li>story_result->нагорода</li>
+    <li>story_result->щедрість</li>
+    <li>story_result->честь</li>
+    <li>story_result->удача</li>
+    <li>story_result->трофей</li>
+    <li>story_result->пиха</li>
+    <li>story_result->зарозумілість</li>
+    <li>story_result->звитяга</li>
+    <li>story_result->втрата</li>
+    <li>story_result->борг</li>
   </WorldFeatureNamerCommon.rulePack.rulesStrings>
 </LanguageData>

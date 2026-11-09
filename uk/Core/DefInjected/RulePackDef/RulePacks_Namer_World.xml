@@ -24,7 +24,8 @@
   -->
   <NamerWorld.rulePack.rulesStrings>
     <li>r_name->[celestial_name]</li>
-    <li>r_name->[celestial_prefix] [celestial_name]</li>
+    <li>r_name(p=0.7)->[celestial_prefix] [celestial_name_m]</li>
+    <li>r_name(p=0.3)->[celestial_prefix_f] [celestial_name_f]</li>
     <li>r_name->[celestial_name] [celestial_suffix]</li>
     <li>r_name->[world_name_numeric]</li>
     <li>r_name->[world_name_numeric] [celestial_suffix]</li>
@@ -32,7 +33,7 @@
     <li>r_name(p=0.5)->[celestial_name]-[RomanNumeral]</li>
     <li>r_name(p=0.5)->[celestial_name]-[numbers]</li>
     <li>r_name->[celestial_name] [celestial_name]</li>
-    <li>r_name->[NamePerson]'s [planet]</li>
+    <li>r_name->[planet] «[NamePerson]»</li>
     <li>world_name_numeric->[letters]-[numbers]</li>
     <li>world_name_numeric->[letters] [numbers]</li>
     <li>letters->[Letter]</li>
@@ -41,7 +42,6 @@
     <li>numbers->[Digit]</li>
     <li>numbers->[Digit][Digit]</li>
     <li>numbers->[Digit][Digit][Digit]</li>
-    <li>planet->World</li>
-    <li>planet->Планета</li>
+    <li>planet->Світ</li>
   </NamerWorld.rulePack.rulesStrings>
 </LanguageData>

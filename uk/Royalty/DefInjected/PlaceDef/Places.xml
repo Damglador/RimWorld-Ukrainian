@@ -21,21 +21,21 @@
   -->
   <Sophiamunda.placeRules.rulesStrings>
     <li>place_name->Софіамунда</li>
-    <li>place_adjective_masc->Софіанcький</li>
-    <li>plac_summary->Техно-феодальний світ</li>
+    <li>place_adjective->софіанський</li>
+    <li>place_summary->техно-феодальний світ</li>
+    <li>place_summary_acc->техно-феодальний світ</li>
+    <li>place_in->у техно-феодальному світі Софіамунда</li>
+    <li>place_to->у техно-феодальний світ Софіамунда</li>
+    <li>place_of->техно-феодального світу Софіамунда</li>
     <li>place_community->замок</li>
     <li>place_community->палац</li>
-    <li>place_job->лицар</li>
-    <li>place_job->зброєносець</li>
-    <li>place_job->герцог</li>
-    <li>place_job->покоївка</li>
-    <li>place_job->зброяр</li>
-    <li>place_personalWeapon->персона плазмомеч</li>
-    <li>place_personalWeapon->бойовий молот</li>
-    <li>place_massWeapon->орбітальний мех кластерний навідник</li>
-    <li>place_massWeapon->біоінженерна чума</li>
-    <li>place_massWeapon->армія полеглих лицарів</li>
-    <li>place_foeLeader->революціонер</li>
-    <li>place_foeSoldiers->повстанці</li>
+    <li>place_community_gen->замку</li>
+    <li>place_community_gen->палацу</li>
+    <li>place_community_acc->замок</li>
+    <li>place_community_acc->палац</li>
+    <li>place_powerCenter->тронна зала</li>
+    <li>place_powerCenter_gen->тронної зали</li>
+    <li>place_powerCenter_acc->тронну залу</li>
+    <li>place_powerCenter_ins->тронною залою</li>
   </Sophiamunda.placeRules.rulesStrings>
 </LanguageData>

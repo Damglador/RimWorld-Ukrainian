@@ -8,10 +8,10 @@
     <li>terrain_word->moon</li>
   -->
   <NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
-    <li>terrain_word_mas(p=4)->астероїд</li>
-    <li>terrain_word_mas->камінь</li>
-    <li>terrain_word_mas->супутник</li>
-    <li>terrain_word_mas->планетоїд</li>
-    <li>terrain_word_mas->місяць</li>
+    <li>terrain_word(p=4)->астероїд</li>
+    <li>terrain_word_m(p=4)->астероїд</li>
+    <li>terrain_word->камінь</li>
+    <li>terrain_word_m->камінь</li>
+    <li>terrain_word->супутник</li>
   </NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
 </LanguageData>
